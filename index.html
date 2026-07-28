@@ -8,124 +8,56 @@
   @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
 
   :root {
-    --bg:        #0d0f12;
-    --surface:   #13161b;
-    --border:    #1f2530;
-    --border-hi: #2e3748;
-    --text:      #c8d0dc;
-    --muted:     #5a6475;
-    --accent1:   #3b82f6;
-    --accent2:   #22d3a0;
-    --accent3:   #a78bfa;
-    --accent4:   #f59e0b;
-    --accent5:   #f87171;
+    --bg:      #0d0f12;
+    --surf:    #13161b;
+    --bdr:     #1f2530;
+    --bdr2:    #2e3748;
+    --txt:     #c8d0dc;
+    --muted:   #5a6475;
+    --blue:    #3b82f6;
+    --teal:    #22d3a0;
+    --violet:  #a78bfa;
+    --amber:   #f59e0b;
+    --red:     #f87171;
     --mono: 'IBM Plex Mono', monospace;
     --sans: 'IBM Plex Sans', sans-serif;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 14px;
-    line-height: 1.6;
-    min-height: 100vh;
-  }
+  body { background: var(--bg); color: var(--txt); font-family: var(--sans); font-size: 14px; line-height: 1.6; min-height: 100vh; }
 
   /* HEADER */
   header {
-    border-bottom: 1px solid var(--border);
-    padding: 16px 28px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: rgba(13,15,18,0.95);
-    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--bdr);
+    padding: 15px 28px;
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(13,15,18,.95); backdrop-filter: blur(12px);
   }
-  .logo {
-    font-family: var(--mono);
-    font-size: 12px;
-    font-weight: 600;
-    color: var(--accent1);
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    white-space: nowrap;
-  }
+  .logo { font-family: var(--mono); font-size: 12px; font-weight: 600; color: var(--blue); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
   .logo span { color: var(--muted); font-weight: 400; }
-  .header-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-  #status {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-  }
-  #status.loading { color: var(--accent1); }
-  #status.done    { color: var(--accent2); }
-  #status.error   { color: var(--accent5); }
-  #refresh-btn {
-    font-family: var(--mono);
-    font-size: 11px;
-    background: none;
-    border: 1px solid var(--border-hi);
-    color: var(--muted);
-    padding: 5px 12px;
-    border-radius: 4px;
-    cursor: pointer;
-    letter-spacing: 0.06em;
-    transition: border-color .2s, color .2s;
-  }
-  #refresh-btn:hover { border-color: var(--accent1); color: var(--accent1); }
-  #refresh-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .hdr-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  #status { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+  #status.ok  { color: var(--teal); }
+  #status.err { color: var(--red);  }
 
   /* TABS */
-  nav {
-    display: flex;
-    gap: 0;
-    padding: 0 28px;
-    border-bottom: 1px solid var(--border);
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
+  nav { display: flex; padding: 0 28px; border-bottom: 1px solid var(--bdr); overflow-x: auto; scrollbar-width: none; }
   nav::-webkit-scrollbar { display: none; }
   .tab {
-    font-family: var(--mono);
-    font-size: 11px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    padding: 12px 18px 13px;
-    border: none;
-    background: none;
-    color: var(--muted);
-    cursor: pointer;
-    border-bottom: 2px solid transparent;
-    white-space: nowrap;
-    transition: color .15s, border-color .15s;
-    position: relative;
-    bottom: -1px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+    padding: 12px 18px 13px; border: none; background: none; color: var(--muted);
+    cursor: pointer; border-bottom: 2px solid transparent; white-space: nowrap;
+    transition: color .15s, border-color .15s; position: relative; bottom: -1px;
   }
-  .tab:hover { color: var(--text); }
-  .tab.active { color: var(--text); border-bottom-color: var(--ta, var(--accent1)); }
-  .tab[data-cat="all"]         { --ta: var(--text); }
-  .tab[data-cat="automotive"]  { --ta: var(--accent1); }
-  .tab[data-cat="space"]       { --ta: var(--accent2); }
-  .tab[data-cat="gaming"]      { --ta: var(--accent3); }
-  .tab[data-cat="engineering"] { --ta: var(--accent4); }
-  .count-badge {
-    display: inline-block;
-    background: var(--border);
-    color: var(--muted);
-    font-size: 9px;
-    padding: 1px 5px;
-    border-radius: 8px;
-    margin-left: 5px;
-    vertical-align: middle;
-    min-width: 20px;
-    text-align: center;
-  }
+  .tab:hover { color: var(--txt); }
+  .tab.active { color: var(--txt); border-bottom-color: var(--ta); }
+  .tab[data-cat="all"]         { --ta: var(--txt);    }
+  .tab[data-cat="automotive"]  { --ta: var(--blue);   }
+  .tab[data-cat="space"]       { --ta: var(--teal);   }
+  .tab[data-cat="gaming"]      { --ta: var(--violet); }
+  .tab[data-cat="engineering"] { --ta: var(--amber);  }
+  .badge { display: inline-block; background: var(--bdr); color: var(--muted); font-size: 9px; padding: 1px 5px; border-radius: 8px; margin-left: 5px; vertical-align: middle; min-width: 20px; text-align: center; }
 
   /* MAIN */
   main { padding: 24px 28px; max-width: 1440px; margin: 0 auto; }
@@ -133,188 +65,56 @@
   .panel.active { display: block; }
 
   /* CARD GRID */
-  .panel-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
-    gap: 18px;
-  }
+  .panel-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 18px; }
 
   /* FEED CARD */
-  .feed-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    transition: border-color .2s;
-  }
-  .feed-card:hover { border-color: var(--border-hi); }
-  .feed-card-header {
-    padding: 11px 14px;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    gap: 9px;
-  }
-  .feed-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-  .feed-name {
-    font-family: var(--mono);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.06em;
-    color: var(--text);
-    flex: 1;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .feed-ext {
-    font-size: 11px;
-    color: var(--muted);
-    text-decoration: none;
-    flex-shrink: 0;
-    transition: color .15s;
-  }
-  .feed-ext:hover { color: var(--text); }
-
-  .feed-body {
-    flex: 1;
-    overflow-y: auto;
-    max-height: 300px;
-    scrollbar-width: thin;
-    scrollbar-color: var(--border) transparent;
-  }
-  .feed-body::-webkit-scrollbar { width: 3px; }
-  .feed-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
-
-  .feed-item {
-    display: block;
-    padding: 9px 14px;
-    border-bottom: 1px solid var(--border);
-    text-decoration: none;
-    color: inherit;
-    transition: background .1s;
-  }
+  .feed-card { background: var(--surf); border: 1px solid var(--bdr); border-radius: 8px; overflow: hidden; display: flex; flex-direction: column; transition: border-color .2s; }
+  .feed-card:hover { border-color: var(--bdr2); }
+  .card-hdr { padding: 11px 14px; border-bottom: 1px solid var(--bdr); display: flex; align-items: center; gap: 9px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .card-name { font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .06em; color: var(--txt); flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .card-ext { font-size: 11px; color: var(--muted); text-decoration: none; flex-shrink: 0; transition: color .15s; }
+  .card-ext:hover { color: var(--txt); }
+  .card-body { flex: 1; overflow-y: auto; max-height: 300px; scrollbar-width: thin; scrollbar-color: var(--bdr) transparent; }
+  .card-body::-webkit-scrollbar { width: 3px; }
+  .card-body::-webkit-scrollbar-thumb { background: var(--bdr); border-radius: 2px; }
+  .feed-item { display: block; padding: 9px 14px; border-bottom: 1px solid var(--bdr); text-decoration: none; color: inherit; transition: background .1s; }
   .feed-item:last-child { border-bottom: none; }
-  .feed-item:hover { background: rgba(255,255,255,0.025); }
-  .item-title {
-    font-size: 13px;
-    font-weight: 400;
-    color: var(--text);
-    line-height: 1.4;
-    margin-bottom: 3px;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .item-meta {
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--muted);
-  }
-
-  .feed-state {
-    padding: 22px 14px;
-    text-align: center;
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-  }
-  .feed-state.err { color: var(--accent5); }
+  .feed-item:hover { background: rgba(255,255,255,.025); }
+  .item-title { font-size: 13px; color: var(--txt); line-height: 1.4; margin-bottom: 3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .item-meta  { font-family: var(--mono); font-size: 10px; color: var(--muted); }
+  .card-msg { padding: 22px 14px; text-align: center; font-family: var(--mono); font-size: 11px; color: var(--muted); }
+  .card-msg.err { color: var(--red); }
 
   /* ALL PANEL */
-  .all-toolbar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 14px;
-    gap: 10px;
-    flex-wrap: wrap;
-  }
-  .all-meta {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-  }
-  #search-input {
-    font-family: var(--mono);
-    font-size: 11px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    color: var(--text);
-    padding: 6px 12px;
-    border-radius: 4px;
-    outline: none;
-    width: 220px;
-    transition: border-color .2s;
-  }
-  #search-input:focus { border-color: var(--accent1); }
-  #search-input::placeholder { color: var(--muted); }
-
+  .all-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; gap: 10px; flex-wrap: wrap; }
+  .all-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+  #q { font-family: var(--mono); font-size: 11px; background: var(--surf); border: 1px solid var(--bdr); color: var(--txt); padding: 6px 12px; border-radius: 4px; outline: none; width: 220px; transition: border-color .2s; }
+  #q:focus { border-color: var(--blue); }
+  #q::placeholder { color: var(--muted); }
   .all-list { display: flex; flex-direction: column; gap: 1px; }
-  .all-item {
-    display: grid;
-    grid-template-columns: 8px 140px 1fr 64px;
-    align-items: center;
-    gap: 12px;
-    padding: 8px 12px;
-    border-radius: 5px;
-    text-decoration: none;
-    color: inherit;
-    border: 1px solid transparent;
-    transition: background .1s, border-color .1s;
+  .all-row {
+    display: grid; grid-template-columns: 8px 140px 1fr 64px; align-items: center; gap: 12px;
+    padding: 8px 12px; border-radius: 5px; text-decoration: none; color: inherit;
+    border: 1px solid transparent; transition: background .1s, border-color .1s;
   }
-  .all-item:hover { background: var(--surface); border-color: var(--border); }
-  .all-dot { width: 7px; height: 7px; border-radius: 50%; justify-self: center; }
-  .all-source {
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--muted);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .all-title {
-    font-size: 13px;
-    color: var(--text);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .all-date {
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--muted);
-    text-align: right;
-    white-space: nowrap;
-  }
-  .all-placeholder {
-    padding: 48px;
-    text-align: center;
-    font-family: var(--mono);
-    font-size: 12px;
-    color: var(--muted);
-  }
+  .all-row:hover { background: var(--surf); border-color: var(--bdr); }
+  .all-dot    { width: 7px; height: 7px; border-radius: 50%; justify-self: center; }
+  .all-src    { font-family: var(--mono); font-size: 10px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .all-title  { font-size: 13px; color: var(--txt); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .all-date   { font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: right; white-space: nowrap; }
+  .placeholder { padding: 48px; text-align: center; font-family: var(--mono); font-size: 12px; color: var(--muted); }
 
   /* FOOTER */
-  footer {
-    border-top: 1px solid var(--border);
-    padding: 14px 28px;
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--muted);
-    text-align: center;
-  }
+  footer { border-top: 1px solid var(--bdr); padding: 14px 28px; font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center; }
 
   @media (max-width: 640px) {
-    header { padding: 12px 14px; }
-    nav, main { padding-left: 14px; padding-right: 14px; }
+    header, main { padding-left: 14px; padding-right: 14px; }
+    nav { padding-left: 14px; padding-right: 14px; }
     .panel-grid { grid-template-columns: 1fr; }
-    .all-item { grid-template-columns: 8px 1fr 56px; }
-    .all-source { display: none; }
-    #search-input { width: 160px; }
+    .all-row { grid-template-columns: 8px 1fr 56px; }
+    .all-src { display: none; }
+    #q { width: 160px; }
   }
 </style>
 </head>
@@ -322,291 +122,197 @@
 
 <header>
   <div class="logo">Engineering<span> // </span>Intelligence Hub</div>
-  <div class="header-right">
-    <span id="status" class="loading">Initialising…</span>
-    <button id="refresh-btn" onclick="bootLoad()" disabled>↺ Refresh</button>
+  <div class="hdr-right">
+    <span id="status">Loading…</span>
   </div>
 </header>
 
 <nav>
-  <button class="tab active" data-cat="all"         onclick="switchTab(this)">All <span class="count-badge" id="cnt-all">—</span></button>
-  <button class="tab"        data-cat="automotive"  onclick="switchTab(this)">Automotive <span class="count-badge" id="cnt-automotive">—</span></button>
-  <button class="tab"        data-cat="space"       onclick="switchTab(this)">Space &amp; Physics <span class="count-badge" id="cnt-space">—</span></button>
-  <button class="tab"        data-cat="gaming"      onclick="switchTab(this)">Gaming <span class="count-badge" id="cnt-gaming">—</span></button>
-  <button class="tab"        data-cat="engineering" onclick="switchTab(this)">Engineering <span class="count-badge" id="cnt-engineering">—</span></button>
+  <button class="tab active" data-cat="all"         onclick="switchTab(this)">All <span class="badge" id="b-all">—</span></button>
+  <button class="tab"        data-cat="automotive"  onclick="switchTab(this)">Automotive <span class="badge" id="b-automotive">—</span></button>
+  <button class="tab"        data-cat="space"       onclick="switchTab(this)">Space &amp; Physics <span class="badge" id="b-space">—</span></button>
+  <button class="tab"        data-cat="gaming"      onclick="switchTab(this)">Gaming <span class="badge" id="b-gaming">—</span></button>
+  <button class="tab"        data-cat="engineering" onclick="switchTab(this)">Engineering <span class="badge" id="b-engineering">—</span></button>
 </nav>
 
 <main>
-  <!-- ALL -->
   <div class="panel active" id="panel-all">
     <div class="all-toolbar">
-      <span class="all-meta" id="all-meta">Loading…</span>
-      <input id="search-input" type="search" placeholder="Search articles…" oninput="filterAll(this.value)" autocomplete="off"/>
+      <span class="all-meta" id="all-meta">—</span>
+      <input id="q" type="search" placeholder="Search articles…" oninput="renderAll()" autocomplete="off"/>
     </div>
-    <div class="all-list" id="all-list">
-      <div class="all-placeholder">Fetching feeds, please wait…</div>
-    </div>
+    <div class="all-list" id="all-list"><div class="placeholder">Loading feeds.json…</div></div>
   </div>
-
-  <!-- AUTOMOTIVE -->
-  <div class="panel" id="panel-automotive">
-    <div class="panel-grid" id="grid-automotive"></div>
-  </div>
-
-  <!-- SPACE -->
-  <div class="panel" id="panel-space">
-    <div class="panel-grid" id="grid-space"></div>
-  </div>
-
-  <!-- GAMING -->
-  <div class="panel" id="panel-gaming">
-    <div class="panel-grid" id="grid-gaming"></div>
-  </div>
-
-  <!-- ENGINEERING -->
-  <div class="panel" id="panel-engineering">
-    <div class="panel-grid" id="grid-engineering"></div>
-  </div>
+  <div class="panel" id="panel-automotive"><div class="panel-grid" id="grid-automotive"></div></div>
+  <div class="panel" id="panel-space"><div class="panel-grid" id="grid-space"></div></div>
+  <div class="panel" id="panel-gaming"><div class="panel-grid" id="grid-gaming"></div></div>
+  <div class="panel" id="panel-engineering"><div class="panel-grid" id="grid-engineering"></div></div>
 </main>
 
-<footer id="footer-bar">Engineering Intelligence Hub &nbsp;·&nbsp; <span id="footer-time"></span></footer>
+<footer id="foot">Engineering Intelligence Hub &nbsp;·&nbsp; <span id="foot-time"></span></footer>
 
 <script>
-// ─────────────────────────────────────────────────────────────────
-// FEED CATALOGUE
-// ─────────────────────────────────────────────────────────────────
-const FEEDS = [
-  // AUTOMOTIVE
-  { cat:'automotive', color:'#3b82f6', name:'BMW Group PressClub',      url:'https://www.press.bmwgroup.com/global/rss',                      home:'https://www.press.bmwgroup.com/global' },
-  { cat:'automotive', color:'#3b82f6', name:'Porsche Newsroom',         url:'https://newsroom.porsche.com/rss/en/index.rss',                  home:'https://newsroom.porsche.com/en.html' },
-  { cat:'automotive', color:'#3b82f6', name:'Automotive World',         url:'https://www.automotiveworld.com/feed/',                          home:'https://www.automotiveworld.com' },
-  { cat:'automotive', color:'#3b82f6', name:'Automotive News Europe',   url:'https://www.autonews.com/arc/outboundfeeds/rss/?outputType=xml', home:'https://www.autonews.com/europe' },
-  { cat:'automotive', color:'#3b82f6', name:'InsideEVs',                url:'https://insideevs.com/rss/news/all',                             home:'https://insideevs.com' },
-  { cat:'automotive', color:'#3b82f6', name:'Plastics Technology',      url:'https://www.ptonline.com/rss/blog',                              home:'https://www.ptonline.com' },
-  { cat:'automotive', color:'#3b82f6', name:'Composites World',         url:'https://www.compositesworld.com/rss',                            home:'https://www.compositesworld.com' },
-  { cat:'automotive', color:'#3b82f6', name:'All3DP',                   url:'https://all3dp.com/feed/',                                       home:'https://all3dp.com' },
-  { cat:'automotive', color:'#3b82f6', name:'3D Printing Industry',     url:'https://3dprintingindustry.com/feed',                            home:'https://3dprintingindustry.com' },
-  { cat:'automotive', color:'#3b82f6', name:'Dassault 3DS Blog',        url:'https://blog.3ds.com/feed/',                                     home:'https://blog.3ds.com' },
-  { cat:'automotive', color:'#3b82f6', name:'CATI 3DEXPERIENCE',        url:'https://cati.com/feed',                                          home:'https://cati.com/blog' },
+const CAT_COLOR = {
+  automotive:  '#3b82f6',
+  space:       '#22d3a0',
+  gaming:      '#a78bfa',
+  engineering: '#f59e0b',
+};
 
-  // SPACE & PHYSICS
-  { cat:'space', color:'#22d3a0', name:'NASA News',           url:'https://www.nasa.gov/news-release/feed/',               home:'https://www.nasa.gov/news/' },
-  { cat:'space', color:'#22d3a0', name:'NASA JPL',            url:'https://www.nasa.gov/centers-and-facilities/jpl/feed/', home:'https://www.nasa.gov/centers-and-facilities/jpl/' },
-  { cat:'space', color:'#22d3a0', name:'NASA Aeronautics',    url:'https://www.nasa.gov/aeronautics/feed/',                home:'https://www.nasa.gov/aeronautics/' },
-  { cat:'space', color:'#22d3a0', name:'ESA Top News',        url:'https://www.esa.int/rssfeed/TopNews',                   home:'https://www.esa.int/Newsroom' },
-  { cat:'space', color:'#22d3a0', name:'Space.com',           url:'https://www.space.com/home/feed/site.xml',              home:'https://www.space.com' },
-  { cat:'space', color:'#22d3a0', name:'SpaceNews',           url:'https://spacenews.com/feed/',                           home:'https://spacenews.com' },
-  { cat:'space', color:'#22d3a0', name:'Spaceflight Now',     url:'https://spaceflightnow.com/feed/',                      home:'https://spaceflightnow.com' },
-  { cat:'space', color:'#22d3a0', name:'Sky & Telescope',     url:'https://www.skyandtelescope.com/astronomy-news/feed/',  home:'https://www.skyandtelescope.com' },
-  { cat:'space', color:'#22d3a0', name:'Universe Today',      url:'https://www.universetoday.com/feed/',                   home:'https://www.universetoday.com' },
-  { cat:'space', color:'#22d3a0', name:'Quanta — Physics',    url:'https://www.quantamagazine.org/physics/feed',           home:'https://www.quantamagazine.org/physics/' },
-  { cat:'space', color:'#22d3a0', name:'Physics World',       url:'https://physicsworld.com/feed',                         home:'https://physicsworld.com' },
-  { cat:'space', color:'#22d3a0', name:'Phys.org Space',      url:'https://phys.org/rss-feed/space-news',                 home:'https://phys.org/space-news/' },
+// Home URLs per feed name (for the ↗ link)
+const HOME = {
+  'BMW Group PressClub':    'https://www.press.bmwgroup.com/global',
+  'Porsche Newsroom':       'https://newsroom.porsche.com/en.html',
+  'Automotive World':       'https://www.automotiveworld.com',
+  'Automotive News Europe': 'https://www.autonews.com/europe',
+  'InsideEVs':              'https://insideevs.com',
+  'Plastics Technology':    'https://www.ptonline.com',
+  'Composites World':       'https://www.compositesworld.com',
+  'All3DP':                 'https://all3dp.com',
+  '3D Printing Industry':   'https://3dprintingindustry.com',
+  'Dassault 3DS Blog':      'https://blog.3ds.com',
+  'CATI 3DEXPERIENCE':      'https://cati.com/blog',
+  'NASA News':              'https://www.nasa.gov/news/',
+  'NASA JPL':               'https://www.nasa.gov/centers-and-facilities/jpl/',
+  'NASA Aeronautics':       'https://www.nasa.gov/aeronautics/',
+  'ESA Top News':           'https://www.esa.int/Newsroom',
+  'Space.com':              'https://www.space.com',
+  'SpaceNews':              'https://spacenews.com',
+  'Spaceflight Now':        'https://spaceflightnow.com',
+  'Sky & Telescope':        'https://www.skyandtelescope.com',
+  'Universe Today':         'https://www.universetoday.com',
+  'Quanta — Physics':       'https://www.quantamagazine.org/physics/',
+  'Physics World':          'https://physicsworld.com',
+  'Phys.org Space':         'https://phys.org/space-news/',
+  'IGN':                    'https://www.ign.com',
+  'GameSpot':               'https://www.gamespot.com/news',
+  'Polygon':                'https://www.polygon.com',
+  'Eurogamer':              'https://www.eurogamer.net',
+  'Kotaku':                 'https://kotaku.com',
+  'Rock Paper Shotgun':     'https://www.rockpapershotgun.com',
+  'PC Gamer':               'https://www.pcgamer.com',
+  'PlayStation Blog':       'https://blog.playstation.com',
+  'Xbox Wire':              'https://news.xbox.com/en-us/',
+  'GamesIndustry.biz':      'https://www.gamesindustry.biz',
+  'Game Developer':         'https://www.gamedeveloper.com',
+  'IEEE Spectrum':          'https://spectrum.ieee.org',
+  'Interesting Engineering':'https://interestingengineering.com',
+  'The Engineer (UK)':      'https://www.theengineer.co.uk',
+  'ScienceDaily Eng.':      'https://www.sciencedaily.com/news/matter_energy/engineering/',
+  'Design News':            'https://www.designnews.com',
+  'MIT Technology Review':  'https://www.technologyreview.com',
+  'Ars Technica':           'https://arstechnica.com',
+  'Quanta — Technology':    'https://www.quantamagazine.org/technology/',
+  'Electronic Design':      'https://www.electronicdesign.com',
+  'ENR':                    'https://www.enr.com',
+};
 
-  // GAMING
-  { cat:'gaming', color:'#a78bfa', name:'IGN',                url:'https://www.ign.com/rss',                       home:'https://www.ign.com' },
-  { cat:'gaming', color:'#a78bfa', name:'GameSpot',           url:'https://www.gamespot.com/feeds/news',           home:'https://www.gamespot.com/news' },
-  { cat:'gaming', color:'#a78bfa', name:'Polygon',            url:'https://www.polygon.com/rss/index.xml',         home:'https://www.polygon.com' },
-  { cat:'gaming', color:'#a78bfa', name:'Eurogamer',          url:'https://www.eurogamer.net/feed',                home:'https://www.eurogamer.net' },
-  { cat:'gaming', color:'#a78bfa', name:'Kotaku',             url:'https://kotaku.com/rss',                        home:'https://kotaku.com' },
-  { cat:'gaming', color:'#a78bfa', name:'Rock Paper Shotgun', url:'https://www.rockpapershotgun.com/feed',         home:'https://www.rockpapershotgun.com' },
-  { cat:'gaming', color:'#a78bfa', name:'PC Gamer',           url:'https://www.pcgamer.com/rss/',                  home:'https://www.pcgamer.com' },
-  { cat:'gaming', color:'#a78bfa', name:'PlayStation Blog',   url:'https://blog.playstation.com/feed',             home:'https://blog.playstation.com' },
-  { cat:'gaming', color:'#a78bfa', name:'Xbox Wire',          url:'https://news.xbox.com/en-us/feed/',             home:'https://news.xbox.com/en-us/' },
-  { cat:'gaming', color:'#a78bfa', name:'GamesIndustry.biz',  url:'https://www.gamesindustry.biz/feed',            home:'https://www.gamesindustry.biz' },
-  { cat:'gaming', color:'#a78bfa', name:'Game Developer',     url:'https://www.gamedeveloper.com/rss.xml',         home:'https://www.gamedeveloper.com' },
-
-  // GENERAL ENGINEERING
-  { cat:'engineering', color:'#f59e0b', name:'IEEE Spectrum',           url:'https://spectrum.ieee.org/feeds/feed.rss',                        home:'https://spectrum.ieee.org' },
-  { cat:'engineering', color:'#f59e0b', name:'Interesting Engineering', url:'https://interestingengineering.com/feed',                          home:'https://interestingengineering.com' },
-  { cat:'engineering', color:'#f59e0b', name:'The Engineer (UK)',       url:'https://www.theengineer.co.uk/feed',                               home:'https://www.theengineer.co.uk' },
-  { cat:'engineering', color:'#f59e0b', name:'ScienceDaily Eng.',       url:'https://www.sciencedaily.com/rss/matter_energy/engineering.xml',   home:'https://www.sciencedaily.com/news/matter_energy/engineering/' },
-  { cat:'engineering', color:'#f59e0b', name:'Design News',             url:'https://www.designnews.com/rss',                                   home:'https://www.designnews.com' },
-  { cat:'engineering', color:'#f59e0b', name:'MIT Technology Review',   url:'https://www.technologyreview.com/feed/',                           home:'https://www.technologyreview.com' },
-  { cat:'engineering', color:'#f59e0b', name:'Ars Technica',            url:'https://feeds.arstechnica.com/arstechnica/index',                  home:'https://arstechnica.com' },
-  { cat:'engineering', color:'#f59e0b', name:'Quanta — Technology',     url:'https://www.quantamagazine.org/technology/feed',                   home:'https://www.quantamagazine.org/technology/' },
-  { cat:'engineering', color:'#f59e0b', name:'Electronic Design',       url:'https://www.electronicdesign.com/rss',                             home:'https://www.electronicdesign.com' },
-  { cat:'engineering', color:'#f59e0b', name:'ENR',                     url:'https://www.enr.com/rss/articles',                                 home:'https://www.enr.com' },
-];
-
-// ─────────────────────────────────────────────────────────────────
-// STATE
-// ─────────────────────────────────────────────────────────────────
 let allArticles = [];
-let cardMap = {};  // url -> card element
+let feedData    = [];
 
-// ─────────────────────────────────────────────────────────────────
-// FETCH via rss2json (primary) → corsproxy.io + DOMParser (fallback)
-// ─────────────────────────────────────────────────────────────────
-async function fetchViaRss2Json(feedUrl) {
-  const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}&count=10`;
-  const r = await fetch(api, { cache: 'no-store' });
-  if (!r.ok) throw new Error(`rss2json HTTP ${r.status}`);
-  const d = await r.json();
-  if (d.status !== 'ok') throw new Error(`rss2json: ${d.message || 'bad status'}`);
-  return d.items.map(it => ({
-    title: (it.title || '').replace(/<[^>]+>/g,'').trim(),
-    link:  it.link || it.guid || '',
-    date:  it.pubDate ? new Date(it.pubDate) : new Date(0),
-  })).filter(a => a.title && a.link);
-}
-
-async function fetchViaCorsproxy(feedUrl) {
-  const proxy = `https://corsproxy.io/?${encodeURIComponent(feedUrl)}`;
-  const r = await fetch(proxy, { cache: 'no-store' });
-  if (!r.ok) throw new Error(`corsproxy HTTP ${r.status}`);
-  const text = await r.text();
-  const xml = new DOMParser().parseFromString(text, 'text/xml');
-  const isAtom = !!xml.querySelector('feed');
-  const items  = Array.from(xml.querySelectorAll(isAtom ? 'entry' : 'item')).slice(0, 10);
-  return items.map(it => {
-    const title   = cdata(it.querySelector('title')?.textContent);
-    const link    = isAtom
-      ? (it.querySelector('link')?.getAttribute('href') || it.querySelector('link')?.textContent || '')
-      : (it.querySelector('link')?.textContent || '');
-    const dateStr = isAtom
-      ? it.querySelector('updated,published')?.textContent
-      : it.querySelector('pubDate')?.textContent;
-    return { title, link: link.trim(), date: dateStr ? new Date(dateStr) : new Date(0) };
-  }).filter(a => a.title && a.link);
-}
-
-async function fetchFeed(feed) {
+// ── LOAD ──
+async function load() {
   try {
-    return await fetchViaRss2Json(feed.url);
-  } catch {
-    // fallback
-    return await fetchViaCorsproxy(feed.url);
+    const r = await fetch('feeds.json?_=' + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+
+    feedData = data.feeds || [];
+    allArticles = [];
+
+    // Build cards
+    ['automotive','space','gaming','engineering'].forEach(cat => {
+      document.getElementById(`grid-${cat}`).innerHTML = '';
+    });
+
+    feedData.forEach(feed => {
+      const color = CAT_COLOR[feed.cat] || '#888';
+      const home  = HOME[feed.name] || '#';
+      const grid  = document.getElementById(`grid-${feed.cat}`);
+      if (!grid) return;
+
+      const card = document.createElement('div');
+      card.className = 'feed-card';
+
+      const hdr = `<div class="card-hdr">
+        <span class="dot" style="background:${color}"></span>
+        <span class="card-name">${esc(feed.name)}</span>
+        <a class="card-ext" href="${home}" target="_blank" rel="noopener">↗</a>
+      </div>`;
+
+      const body = document.createElement('div');
+      body.className = 'card-body';
+
+      if (!feed.ok || feed.items.length === 0) {
+        body.innerHTML = `<div class="card-msg ${feed.ok ? '' : 'err'}">${feed.ok ? 'No items' : 'Feed unavailable'}</div>`;
+      } else {
+        feed.items.forEach(it => {
+          const a = document.createElement('a');
+          a.className = 'feed-item';
+          a.href = it.link;
+          a.target = '_blank';
+          a.rel = 'noopener';
+          a.innerHTML = `<div class="item-title">${esc(it.title)}</div>
+                         <div class="item-meta">${ago(it.date)}</div>`;
+          body.appendChild(a);
+          allArticles.push({ title: it.title, link: it.link, date: it.date, source: feed.name, color, cat: feed.cat });
+        });
+      }
+
+      card.innerHTML = hdr;
+      card.appendChild(body);
+      grid.appendChild(card);
+    });
+
+    // Sort all articles
+    allArticles.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+
+    renderAll();
+    updateBadges();
+
+    const upd = new Date(data.updated);
+    document.getElementById('status').textContent = `Updated ${upd.toLocaleString('en-GB')}`;
+    document.getElementById('status').className = 'ok';
+    document.getElementById('foot-time').textContent = `Feeds last fetched: ${upd.toLocaleString('en-GB')}`;
+
+  } catch (e) {
+    document.getElementById('status').textContent = `Error: ${e.message}`;
+    document.getElementById('status').className = 'err';
+    document.getElementById('all-list').innerHTML =
+      `<div class="placeholder">⚠ Could not load feeds.json.<br><br>
+       Make sure the GitHub Actions workflow has run at least once.<br>
+       Go to your repo → Actions → "Fetch RSS Feeds" → Run workflow.</div>`;
   }
 }
 
-function cdata(s) {
-  return (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g,'').trim();
-}
-
-// ─────────────────────────────────────────────────────────────────
-// RENDER CARD
-// ─────────────────────────────────────────────────────────────────
-function makeCard(feed) {
-  const card = document.createElement('div');
-  card.className = 'feed-card';
-  card.innerHTML = `
-    <div class="feed-card-header">
-      <span class="feed-dot" style="background:${feed.color}"></span>
-      <span class="feed-name">${esc(feed.name)}</span>
-      <a class="feed-ext" href="${feed.home}" target="_blank" rel="noopener" title="Open source">↗</a>
-    </div>
-    <div class="feed-body"><div class="feed-state">Fetching…</div></div>
-  `;
-  return card;
-}
-
-function fillCard(card, items, errMsg) {
-  const body = card.querySelector('.feed-body');
-  body.innerHTML = '';
-  if (errMsg) {
-    body.innerHTML = `<div class="feed-state err">⚠ ${esc(errMsg)}</div>`;
-    return;
-  }
-  if (!items || items.length === 0) {
-    body.innerHTML = `<div class="feed-state">No items</div>`;
-    return;
-  }
-  items.forEach(it => {
-    const a = document.createElement('a');
-    a.className = 'feed-item';
-    a.href = it.link;
-    a.target = '_blank';
-    a.rel = 'noopener';
-    a.innerHTML = `
-      <div class="item-title">${esc(it.title)}</div>
-      <div class="item-meta">${ago(it.date)}</div>
-    `;
-    body.appendChild(a);
-  });
-}
-
-// ─────────────────────────────────────────────────────────────────
-// BOOT / LOAD
-// ─────────────────────────────────────────────────────────────────
-async function bootLoad() {
-  const btn = document.getElementById('refresh-btn');
-  btn.disabled = true;
-  allArticles = [];
-  cardMap = {};
-
-  // Reset grids
-  ['automotive','space','gaming','engineering'].forEach(cat => {
-    document.getElementById(`grid-${cat}`).innerHTML = '';
-  });
-  document.getElementById('all-list').innerHTML = '<div class="all-placeholder">Fetching feeds…</div>';
-  document.getElementById('all-meta').textContent = 'Loading…';
-  setStatus('loading', `Loading 0 / ${FEEDS.length}…`);
-
-  // Create skeleton cards
-  FEEDS.forEach(feed => {
-    const card = makeCard(feed);
-    document.getElementById(`grid-${feed.cat}`).appendChild(card);
-    cardMap[feed.url] = card;
-  });
-
-  // Fetch all in parallel, update as each resolves
-  let done = 0;
-  const promises = FEEDS.map(async feed => {
-    try {
-      const items = await fetchFeed(feed);
-      fillCard(cardMap[feed.url], items, null);
-      items.forEach(a => allArticles.push({ ...a, source: feed.name, color: feed.color, cat: feed.cat }));
-    } catch (e) {
-      fillCard(cardMap[feed.url], null, 'Could not load feed');
-    }
-    done++;
-    setStatus('loading', `Loading ${done} / ${FEEDS.length}…`);
-    // Re-render all list progressively
-    renderAll(document.getElementById('search-input').value);
-    updateCounts();
-  });
-
-  await Promise.allSettled(promises);
-
-  // Final sort + render
-  allArticles.sort((a,b) => b.date - a.date);
-  renderAll(document.getElementById('search-input').value);
-  updateCounts();
-
-  const t = new Date();
-  setStatus('done', `${FEEDS.length} feeds · Updated ${fmt(t)}`);
-  document.getElementById('footer-time').textContent = `Last updated: ${t.toLocaleString('en-GB')}`;
-  btn.disabled = false;
-}
-
-// ─────────────────────────────────────────────────────────────────
-// ALL LIST
-// ─────────────────────────────────────────────────────────────────
-function renderAll(query) {
+// ── ALL LIST ──
+function renderAll() {
+  const q    = (document.getElementById('q').value || '').toLowerCase().trim();
   const list = document.getElementById('all-list');
-  const q = (query || '').toLowerCase().trim();
+  const meta = document.getElementById('all-meta');
+
   const filtered = q
     ? allArticles.filter(a => a.title.toLowerCase().includes(q) || a.source.toLowerCase().includes(q))
     : allArticles;
 
-  document.getElementById('all-meta').textContent =
-    q ? `${filtered.length} results for "${q}"` : `${allArticles.length} articles across ${FEEDS.length} feeds`;
+  meta.textContent = q
+    ? `${filtered.length} results for "${q}"`
+    : `${allArticles.length} articles · ${feedData.filter(f=>f.ok).length} / ${feedData.length} feeds OK`;
 
   list.innerHTML = '';
   if (filtered.length === 0) {
-    list.innerHTML = '<div class="all-placeholder">No articles found.</div>';
+    list.innerHTML = '<div class="placeholder">No articles found.</div>';
     return;
   }
   filtered.forEach(a => {
     const el = document.createElement('a');
-    el.className = 'all-item';
+    el.className = 'all-row';
     el.href = a.link;
     el.target = '_blank';
     el.rel = 'noopener';
     el.innerHTML = `
       <span class="all-dot" style="background:${a.color}"></span>
-      <span class="all-source">${esc(a.source)}</span>
+      <span class="all-src">${esc(a.source)}</span>
       <span class="all-title">${esc(a.title)}</span>
       <span class="all-date">${ago(a.date)}</span>
     `;
@@ -614,28 +320,18 @@ function renderAll(query) {
   });
 }
 
-function filterAll(q) {
-  renderAll(q);
-}
-
-// ─────────────────────────────────────────────────────────────────
-// COUNTS
-// ─────────────────────────────────────────────────────────────────
-function updateCounts() {
-  const cats = ['automotive','space','gaming','engineering'];
-  let total = allArticles.length;
-  cats.forEach(cat => {
+// ── BADGES ──
+function updateBadges() {
+  ['automotive','space','gaming','engineering'].forEach(cat => {
     const n = allArticles.filter(a => a.cat === cat).length;
-    const el = document.getElementById(`cnt-${cat}`);
-    if (el) el.textContent = n || '—';
+    const el = document.getElementById(`b-${cat}`);
+    if (el) el.textContent = n;
   });
-  const el = document.getElementById('cnt-all');
-  if (el) el.textContent = total || '—';
+  const el = document.getElementById('b-all');
+  if (el) el.textContent = allArticles.length;
 }
 
-// ─────────────────────────────────────────────────────────────────
-// TABS
-// ─────────────────────────────────────────────────────────────────
+// ── TABS ──
 function switchTab(btn) {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
@@ -643,19 +339,12 @@ function switchTab(btn) {
   document.getElementById(`panel-${btn.dataset.cat}`).classList.add('active');
 }
 
-// ─────────────────────────────────────────────────────────────────
-// UTILS
-// ─────────────────────────────────────────────────────────────────
-function setStatus(cls, msg) {
-  const el = document.getElementById('status');
-  el.className = cls;
-  el.textContent = msg;
-}
-
-function ago(date) {
-  if (!(date instanceof Date) || isNaN(date)) return '—';
-  const d = Date.now() - date.getTime();
-  if (d < 0) return 'just now';
+// ── UTILS ──
+function ago(iso) {
+  if (!iso) return '—';
+  const d = Date.now() - new Date(iso).getTime();
+  if (isNaN(d)) return '—';
+  if (d < 0)       return 'just now';
   const m = Math.floor(d/60000);
   if (m < 1)  return 'just now';
   if (m < 60) return `${m}m ago`;
@@ -663,21 +352,15 @@ function ago(date) {
   if (h < 24) return `${h}h ago`;
   const dy = Math.floor(h/24);
   if (dy < 7) return `${dy}d ago`;
-  return date.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
-}
-
-function fmt(d) {
-  return d.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+  const dt = new Date(iso);
+  return dt.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
 }
 
 function esc(s) {
   return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-// ─────────────────────────────────────────────────────────────────
-// START
-// ─────────────────────────────────────────────────────────────────
-bootLoad();
+load();
 </script>
 </body>
 </html>
