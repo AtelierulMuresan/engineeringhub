@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T20:16:57.315994+00:00",
+  "updated": "2026-07-28T22:06:04.784214+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -241,6 +241,20 @@
       "feed_img": null,
       "items": [
         {
+          "title": "How post-Stellantis independence positions Comau for expansion beyond automotive assembly lines",
+          "link": "https://www.autonews.com/technology/ane-interview-comau-ceo-pietro-gorlier-0728/",
+          "date": "2026-07-28T21:13:32+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/fiPe8sIcWMyLnqsAj3zJvZm6usw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/GHIA4ZBOO5GK5CAFNQJEMONENY.png",
+          "summary": "Comau, the former Stellantis automation unit, now pursues growth in battery storage, renewable energy and warehouse logistics. CEO Pietro Gorlier discussed AI's real impact and…"
+        },
+        {
+          "title": "Nissan and Honda revive software partnership after merger collapse",
+          "link": "https://www.autonews.com/nissan/an-nissan-honda-software-defined-vehicle-sdv-partnership-0728/",
+          "date": "2026-07-28T20:31:34+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/SHdu6nLhPFqWdTBPUSKpiYpouTs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/UYQGYENIVVA3FAWLYOSVLLSTM4.jpeg",
+          "summary": "By jointly developing an operating system for software-defined vehicles, the two Japanese automakers aim to help Japan compete with Tesla and China."
+        },
+        {
           "title": "Ford swings to $1.3 billion Q2 net loss on more EV charges but raises guidance again",
           "link": "https://www.autonews.com/ford/an-ford-q2-earnings-f150-recovery-0728/",
           "date": "2026-07-28T20:05:00+00:00",
@@ -295,20 +309,6 @@
           "date": "2026-07-28T15:45:47+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/z-csL3OJ6QyP7ncBO5rslbMSytU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MREW432DENGY3NHHJLDPZDJI2M.jpg",
           "summary": "China’s CATL replaced Magna. There was no change in the top two spots with Bosch retaining the lead and Denso in second."
-        },
-        {
-          "title": "U.S. to set new car door safety rules after deaths in Tesla EVs",
-          "link": "https://www.autonews.com/regulation-safety/an-nhtsa-door-safety-rules-0728/",
-          "date": "2026-07-28T14:51:10+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/xc7lyugQcdRSgpWej-LeHJfpT2A=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/XZP636KSRJCBREM666466XT3NM.jpg",
-          "summary": "The move adds to growing fallout over the incidents tied to electric door handles."
-        },
-        {
-          "title": "2027 Kia Seltos reviews: Smarter, bolder and roomier",
-          "link": "https://www.autonews.com/car-concepts/an-2027-kia-seltos-reviews-critics-corner-0728/",
-          "date": "2026-07-28T14:30:30+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/fswjp77voKBsq84Hz4BDvjiighw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NND5VZPTUJE5XIXFYCMOOOXJHM.jpg",
-          "summary": "With consumers squeezed by high new-vehicle pricing, along with the end of the long-running Soul subcompact, the refashioned Seltos is primed to take on an even bigger role in…"
         }
       ],
       "ok": true
@@ -318,6 +318,13 @@
       "cat": "automotive",
       "feed_img": "https://insideevs.com/favicon.ico",
       "items": [
+        {
+          "title": "We Finally Know More About The Cheap Mitsubishi Eclipse EV Coming This Fall",
+          "link": "https://insideevs.com/news/803019/mitsubishi-eclipse-sportback-battery-specs/",
+          "date": "2026-07-28T20:39:35+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/y2l877/s3/dsc07733-2.jpg",
+          "summary": "When it finally gets here, the Eclipse EV will have dual charging ports and NACS accessibility."
+        },
         {
           "title": "BMW Has Already Made 50,000 iX3s. Demand Is Nearly Double",
           "link": "https://insideevs.com/news/802993/bmw-ix3-50k-production-milestone/",
@@ -380,13 +387,6 @@
           "date": "2026-07-27T10:38:49+00:00",
           "image": "https://cdn.motor1.com/images/mgl/W8G8w3/s3/vw-tiguan-2024.jpg",
           "summary": "The Volkswagen Tiguan plug-in hybrid once ruled the charts. Now, it’s not even on the podium."
-        },
-        {
-          "title": "Something Doesn’t Add Up About The Rivian R2’s EPA Efficiency Rating",
-          "link": "https://insideevs.com/news/802795/rivian-r2-model-y-efficiency/",
-          "date": "2026-07-27T09:07:59+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/7ZE7K1/s3/r2-vs-my.jpg",
-          "summary": "The Rivian R2 and Tesla Model Y have the same official EPA efficiency rating, but the former uses more energy in real-world testing."
         }
       ],
       "ok": true
@@ -957,11 +957,25 @@
       "feed_img": null,
       "items": [
         {
+          "title": "DJI Lito 1 drone review",
+          "link": "https://www.space.com/technology/dji-lito-1-drone-review",
+          "date": "2026-07-28T22:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ozDcPXsKj2cuyhMBQ2HEpn-1280-80.jpg",
+          "summary": "The DJI Lito 1 is an impressive entry-level drone thanks to features including omnidirectional obstacle sensing and respectable image quality."
+        },
+        {
+          "title": "NASA fuels its next-gen Roman Space Telescope for August launch",
+          "link": "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch",
+          "date": "2026-07-28T21:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/aoHABT2USmdHLUoiQkKLHg-1280-80.jpg",
+          "summary": "Looks like everything is on track so far for an Aug. 30 launch."
+        },
+        {
           "title": "Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?",
           "link": "https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why",
           "date": "2026-07-28T19:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/PXVRVWDmfMzjqCHxgqH3YG-1280-80.jpg",
-          "summary": "An artist's impression of the collision between the Milky Way and the Gaia-Sausage-Enceladus dwarf galaxy. The arrows indicate the motion of stars from the dwarf."
+          "summary": "A slowly rotating stellar halo was the clue to a major and unknown event in the Milky Way's history that saw the spiral disc flip over by more than 90 degrees."
         },
         {
           "title": "'Silo' season 3's Ashley Zuckerman and Jessica Henwick share the secret to their on-screen chemistry (interview)",
@@ -978,18 +992,18 @@
           "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026."
         },
         {
+          "title": "On this day in space! July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026",
+          "date": "2026-07-28T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/MuqUcXY2btGwqmmEBMEM8U-1280-80.png",
+          "summary": "On July 28, 1851, the first-ever photo of a total solar eclipse was recorded by a Prussian daguerreotypist named Johann Julius Friedrich Berkowski. It changed solar astronomy."
+        },
+        {
           "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
           "link": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
           "date": "2026-07-28T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ox7cxa7sE4N3TKrfzYEo25-1280-80.jpg",
           "summary": "An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky."
-        },
-        {
-          "title": "On this day in space!  July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026",
-          "date": "2026-07-28T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/MuqUcXY2btGwqmmEBMEM8U-1280-80.png",
-          "summary": "On July 28, 1851, the first-ever photo of a total solar eclipse was recorded by a Prussian daguerreotypist named Johann Julius Friedrich Berkowski. It changed solar astronomy."
         },
         {
           "title": "BALLS on the moon: China set to launch Africa's 1st lunar science mission in 2029",
@@ -1011,20 +1025,6 @@
           "date": "2026-07-28T10:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/d9oRbUsietqnmJYJSmRzGQ-1280-80.jpg",
           "summary": "\"That's the first time that's ever been done.\""
-        },
-        {
-          "title": "The unique DJI Lito X1 drone is packed full of functionality and you can't buy it in the USA",
-          "link": "https://www.space.com/technology/dji-lito-x1-drone-review",
-          "date": "2026-07-28T09:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/fjG9ybkC2J4MVT93jzmcHP-1280-80.jpg",
-          "summary": "The DJI Lito X1 delivers impressive features and functionality, including omnidirectional obstacle sensing in a beginner-friendly package."
-        },
-        {
-          "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video",
-          "date": "2026-07-27T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Z5sRcMEVPouUb4LeG6qia8-1280-80.jpg",
-          "summary": "The 13th test flight of SpaceX's Starship megarocket went pretty well —and provided some amazing visuals, too. See the highlights here."
         }
       ],
       "ok": true
@@ -1034,6 +1034,13 @@
       "cat": "space",
       "feed_img": "https://spacenews.com/wp-content/uploads/2024/05/cropped-SN_forza_star-32x32.png",
       "items": [
+        {
+          "title": "ESA opens call to repurpose Gateway communications module",
+          "link": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+          "date": "2026-07-28T20:38:20+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/gateway-full-configuration-hero-image-121123-scaled.png?fit=1024%2C576&amp;ssl=1",
+          "summary": "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused…"
+        },
         {
           "title": "NASA selects successor to CAPSTONE lunar mission",
           "link": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
@@ -1096,13 +1103,6 @@
           "date": "2026-07-27T10:48:31+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Launch-Complex-4-Render-lowres-1-v2.jpg.webp?fit=1024%2C683&amp;ssl=1",
           "summary": "New Kodiak facility will support up to 18 suborbital missions for military testing The post Rocket Lab to open Alaska launch site under $266 million Space Force deal appeared…"
-        },
-        {
-          "title": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
-          "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
-          "date": "2026-07-27T10:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&amp;ssl=1",
-          "summary": "When we talk about stopping an arms race in space, people usually say that we need treaties that every state must follow or agreements that states can choose to follow. [&#8230;]…"
         }
       ],
       "ok": true
@@ -1553,6 +1553,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "A Chance To Get Behind The Wheel Of Crazy Taxi: World Tour Is Coming Soon",
+          "link": "https://www.gamespot.com/articles/a-chance-to-get-behind-the-wheel-of-crazy-taxi-world-tour-is-coming-soon/",
+          "date": "2026-07-28T20:11:46+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Crazy-Taxi-World-Tour-Network-Test-Announced.jpg?w=300",
+          "summary": "Those itching to take Crazy Taxi: World Tour for a test drive can now sign up for their chance, as developer Sega has announced a multiplayer closed network test. Crazy Taxi:…"
+        },
+        {
           "title": "GTA Online Players In Australia Can No Longer Gamble With Fake Money",
           "link": "https://www.gamespot.com/articles/gta-online-players-in-australia-can-no-longer-gamble-with-fake-money/",
           "date": "2026-07-28T18:14:47+00:00",
@@ -1614,13 +1621,6 @@
           "date": "2026-07-28T13:00:00+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/07/NMRIH2-Extraction-–-3840x2160_300dpi-1.jpg?w=300",
           "summary": "Though No More Room In Hell 2 has been playable via Steam and Epic's early-access programs for a while now, the 1.0 build is finally on the way, and it'll coincide with the game's…"
-        },
-        {
-          "title": "Microsoft’s Chaotic Server Outage Was Down To A Single Service Failure",
-          "link": "https://www.gamespot.com/articles/microsofts-chaotic-server-outage-was-down-to-a-single-service-failure/",
-          "date": "2026-07-28T11:32:22+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.jpg?w=300",
-          "summary": "This week got off to a rocky start for Xbox, as a server outage saw players across the world unable to sign in, make purchases, or access their games for several hours. Those…"
         }
       ],
       "ok": true
@@ -1630,6 +1630,20 @@
       "cat": "gaming",
       "feed_img": null,
       "items": [
+        {
+          "title": "How to get a Dawntrail (Phantom) relic weapon in FFXIV",
+          "link": "https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements/",
+          "date": "2026-07-28T20:58:05+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/jlee_260728_1001_ffxiv_relic2.jpg",
+          "summary": "If you want to make Dawntrail’s Phantom relic weapon, you don’t necessary have to participate in the Occult Crescent. We explain how to make the weapon here."
+        },
+        {
+          "title": "Double Fine lays off 23 after leaving Xbox Game Studios",
+          "link": "https://www.polygon.com/double-fine-layoffs-xbox/",
+          "date": "2026-07-28T20:44:51+00:00",
+          "image": null,
+          "summary": "Psychonauts 2 and Keeper developer Double Fine has laid off developers following its split from Xbox, founder Tim Schafer confirms."
+        },
         {
           "title": "Xbox reveals Gamescom lineup including Fable, Alien Isolation 2",
           "link": "https://www.polygon.com/xbox-gamescom-alien-isolation-2-fable-strange-than-heaven/",
@@ -1685,20 +1699,6 @@
           "date": "2026-07-28T18:01:44+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/below_n_s1_e1_00_06_58_21.JPG",
           "summary": "Josh Hartnett, Mackenzie Davis, and Stranger Things star Charlie Heaton lead Below, a new twisty thriller coming to Netflix in October."
-        },
-        {
-          "title": "Cyberpunk: Edgerunners was reportedly in development from CD Projekt Red, but its future is uncertain",
-          "link": "https://www.polygon.com/cyberpunk-edgerunners-brawler-in-development-from-river-city-girls-developer-rumor/",
-          "date": "2026-07-28T18:00:05+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23622862/3b4dabd875a796b3c7363b59a47fe493.jpg",
-          "summary": "Cyberpunk 2077's hit anime was allegedly getting a 2.5D brawler from River City Girls developer"
-        },
-        {
-          "title": "Brandon Sanderson has officially finished writing his Mistborn movie script",
-          "link": "https://www.polygon.com/brandon-sanderson-mistborn-script-finished/",
-          "date": "2026-07-28T17:56:57+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mistborn-deckbuilding-game.webp",
-          "summary": "The author kept to his July deadline, bringing the adaptation one step closer just in time for the book's 20th anniversary."
         }
       ],
       "ok": true
@@ -1790,7 +1790,7 @@
           "title": "Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It",
           "link": "https://kotaku.com/final-fantasy-14-evercold-final-fantasy-7-remake-crossover-raid-2000719881",
           "date": "2026-07-28T20:14:23+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/07/FFXIV__1-2-1280x719.jpg",
+          "image": "https://kotaku.com/app/uploads/2026/07/image-2-1280x720.jpg",
           "summary": "Am I tired of FF7 ? Yes. Am I still gonna try raiding for the first time just to see this content? Also yes."
         },
         {
@@ -1865,6 +1865,20 @@
       "feed_img": null,
       "items": [
         {
+          "title": "\"I genuinely think there's awesome potential\": Mike Bithell on his \"im-slim\" Vampirium: 1997 and the power of quick verbs",
+          "link": "https://www.rockpapershotgun.com/i-genuinely-think-theres-awesome-potential-mike-bithell-on-his-im-slim-vampirium-1997-and-the-power-of-quick-verbs",
+          "date": "2026-07-28T21:55:54+00:00",
+          "image": "https://assetsio.gnwcdn.com/vampirium-1997_GuFCu4b.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "When you start to think about verbs in games, you start to realise how few of them are really at your disposal in most releases. There's only so many features a game can have…"
+        },
+        {
+          "title": "After gaining independence from Xbox, Double Fine are laying off a quarter of their staff",
+          "link": "https://www.rockpapershotgun.com/after-gaining-independence-from-xbox-double-fine-are-laying-off-a-quarter-of-their-staff",
+          "date": "2026-07-28T20:24:44+00:00",
+          "image": "https://assetsio.gnwcdn.com/psychonauts-2-raz-new-skill.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "It's another one of those days, as Double Fine have announced that they are laying off 23 members of staff. This comes weeks after their split from Xbox that left them independent…"
+        },
+        {
           "title": "Inviting beaches and delightful physics await you in literal sandbox game, Sandcastle",
           "link": "https://www.rockpapershotgun.com/inviting-beaches-and-delightful-physics-await-you-in-literal-sandbox-game-sandcastle",
           "date": "2026-07-28T18:02:35+00:00",
@@ -1919,20 +1933,6 @@
           "date": "2026-07-28T10:33:29+00:00",
           "image": "https://assetsio.gnwcdn.com/civ-7-update-peace-deals-01.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Civ 7 's July update drops today, July 28th, delivering a handful of useful tweaks as devs Firaxis continue to build on their substantial revamp of the strategy game via its Test…"
-        },
-        {
-          "title": "Overthrow the Kaiser in Red Echoes: Berlin, a Weimar-era turn-based strategy game in the style of Suzerain",
-          "link": "https://www.rockpapershotgun.com/overthrow-the-kaiser-in-red-echoes-berlin-a-weimar-era-turn-based-strategy-game-in-the-style-of-suzerain",
-          "date": "2026-07-27T17:32:50+00:00",
-          "image": "https://assetsio.gnwcdn.com/Red-Echoes-Berlin.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Red Echoes: Berlin is a narrative-driven turn-based strategy game in which you join the German \"November Revolution\" across 1918 and 1919, during the final days of World War 1.…"
-        },
-        {
-          "title": "That evil Car Park Capital tycoon game is only getting more evil with MicroProse as publisher, but it still looks gorgeous",
-          "link": "https://www.rockpapershotgun.com/that-evil-car-park-capital-tycoon-game-is-only-getting-more-evil-with-microprose-as-publisher-but-it-still-looks-gorgeous",
-          "date": "2026-07-27T16:37:25+00:00",
-          "image": "https://assetsio.gnwcdn.com/Car-Park-Capital.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Car Park Capital is a triumphantly unwholesome tycoon game in which you try to make an entire society utterly dependent on cars. You start with a relatively green-ish map, and do…"
         }
       ],
       "ok": true
@@ -1942,6 +1942,27 @@
       "cat": "gaming",
       "feed_img": null,
       "items": [
+        {
+          "title": "AI companies are anonymously buying and destroying millions of books through middleman services to avoid headlines about AI companies buying and destroying millions of books",
+          "link": "https://www.pcgamer.com/software/ai/ai-companies-are-anonymously-buying-and-destroying-millions-of-books-through-middleman-services-to-avoid-headlines-about-ai-companies-buying-and-destroying-millions-of-books/",
+          "date": "2026-07-28T21:42:49+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/8hfqaZRx4qSq9BP2Nvuuob-1280-80.jpg",
+          "summary": "Booksellers say they're facing a sudden surge of orders for seemingly random rare books—and fear they might be profiting from their destruction."
+        },
+        {
+          "title": "Don't let this beautifully-drawn action RPG starring two girls trained in Sekiro-style combat get lost in the sea of new games on Steam",
+          "link": "https://www.pcgamer.com/games/rpg/dont-let-this-beautifully-drawn-action-rpg-starring-two-girls-trained-in-sekiro-style-combat-get-lost-in-the-sea-of-new-games-on-steam/",
+          "date": "2026-07-28T20:27:39+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/vYk8G2doT5S7wYicawkdK4-1280-80.jpg",
+          "summary": "Lunarium has the atmosphere of Nier with the satisfying action of a soulslike."
+        },
+        {
+          "title": "As Destiny 2 is laid to rest, Warframe is experiencing 'massive growth,' studio boss says",
+          "link": "https://www.pcgamer.com/games/third-person-shooter/as-destiny-2-is-laid-to-rest-warframe-is-experiencing-massive-growth-studio-boss-says/",
+          "date": "2026-07-28T20:19:58+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ndcZmFH5SqQLwkuNaLGzYE-1280-80.jpg",
+          "summary": "Digital Extremes president Sheldon Carter says the studio was worried that Warframe had peaked, but these days it's doing better than ever."
+        },
         {
           "title": "'Only the survival of our studio would make us consider such a painful action': Tim Schafer announces Double Fine layoffs just 3 weeks after Xbox cut it loose",
           "link": "https://www.pcgamer.com/gaming-industry/only-the-survival-of-our-studio-would-make-us-consider-such-a-painful-action-tim-schafer-announces-double-fine-layoffs-just-3-weeks-after-xbox-cut-it-loose/",
@@ -1990,27 +2011,6 @@
           "date": "2026-07-28T15:33:31+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/4FvUCv5vKcHJbczux4HyZf-1280-80.jpg",
           "summary": "The company itself has not been accused of any wrongdoing."
-        },
-        {
-          "title": "Corsair Cove review",
-          "link": "https://www.pcgamer.com/games/city-builder/corsair-cove-review/",
-          "date": "2026-07-28T15:11:42+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ARsUuo6sUMMyDEevm4pcZQ-1280-80.jpg",
-          "summary": "Build a grog-soaked paradise for some surprisingly chill pirates."
-        },
-        {
-          "title": "Yoshi-P says he 'upgraded' his mindset when it comes to relaxing his views on keeping Final Fantasy 14's catgirls lore accurate",
-          "link": "https://www.pcgamer.com/games/final-fantasy/yoshi-p-says-he-upgraded-his-mindset-when-it-comes-to-relaxing-his-views-on-keeping-final-fantasy-14s-catgirls-lore-accurate/",
-          "date": "2026-07-28T14:38:16+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/gNadZN5u36TKfxLKxxfEBn-1280-80.jpg",
-          "summary": "Evercold is giving players greater freedom over character customisation."
-        },
-        {
-          "title": "All Halo: Campaign Evolved Skull locations and where to find each",
-          "link": "https://www.pcgamer.com/games/halo/campaign-evolved-skull-locations/",
-          "date": "2026-07-28T14:30:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/P72Vc33anabxj3gDt2WXj8-1280-80.jpg",
-          "summary": "Track down these collectible modifiers to remix missions."
         }
       ],
       "ok": true
@@ -2411,6 +2411,20 @@
       "feed_img": null,
       "items": [
         {
+          "title": "Tesla to buy entire output of 140 MW Texas solar project to meet rising energy needs",
+          "link": "https://interestingengineering.com/energy/zelestra-tesla-140-mw-solar-power-purchase-agreement-texas",
+          "date": "2026-07-28T21:40:50+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-29T030935.734.jpg",
+          "summary": "Tesla has signed a 140 MWac power purchase agreement (PPA) with Spanish renewable energy company..."
+        },
+        {
+          "title": "US builds $50M hypersonic payload hub ahead of schedule to speed Mach 5+ flight testing",
+          "link": "https://interestingengineering.com/military/kratos-defense-us-hypersonic-flight-testing-hub",
+          "date": "2026-07-28T21:09:50+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-29T022234.130.jpg",
+          "summary": "Kratos Defense &amp; Security Solutions has completed construction of a new hypersonic payload integration facility..."
+        },
+        {
           "title": "NASA’s Swift rescue spacecraft spins out of control after losing two reaction wheels",
           "link": "https://interestingengineering.com/space/katalyst-link-spacecraft-attitude-control-failure-nasa-swift",
           "date": "2026-07-28T19:53:33+00:00",
@@ -2465,20 +2479,6 @@
           "date": "2026-07-28T14:11:58+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/unnamed-file-66.jpg",
           "summary": "Rare earth elements are non-negotiable for the clean energy transition. Already the world&#8217;s largest rare..."
-        },
-        {
-          "title": "Kratos delivers advanced ramjet engine technology for future US Army missiles",
-          "link": "https://interestingengineering.com/innovation/kratos-advanced-ramjet-engine-technology",
-          "date": "2026-07-28T13:50:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/IE-Photo-164.jpg",
-          "summary": "Kratos Defense &amp; Security Solutions announced on Monday that it has developed, tested, and delivered..."
-        },
-        {
-          "title": "Russia’s latest 13,800-ton nuclear submarine to carry hypersonic cruise missiles",
-          "link": "https://interestingengineering.com/military/russias-first-zircon-submarine-will-enter-service",
-          "date": "2026-07-28T13:47:32+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Thumbnails-for-IE-Russian-Perm-Submarine.jpg",
-          "summary": "Russia has confirmed that the Perm, the first Yasen-M-class nuclear-powered attack submarine designed from the..."
         }
       ],
       "ok": true
@@ -2659,6 +2659,20 @@
       "feed_img": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
       "items": [
         {
+          "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+          "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+          "date": "2026-07-28T18:43:36+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A350-1000ULR-MSN707-Qantas-First-flight-landing_AI-PHO-0383-08-04-500x500.jpg",
+          "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027."
+        },
+        {
+          "title": "Judge blocks first state law that would have banned prediction markets",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+          "date": "2026-07-28T18:31:13+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-500x500.jpg",
+          "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them."
+        },
+        {
           "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
           "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
           "date": "2026-07-28T16:16:25+00:00",
@@ -2713,20 +2727,6 @@
           "date": "2026-07-27T20:12:42+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-500x500.jpg",
           "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says."
-        },
-        {
-          "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-          "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-          "date": "2026-07-27T19:18:02+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-500x500-1785178675.jpg",
-          "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find."
-        },
-        {
-          "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-          "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-          "date": "2026-07-27T18:48:41+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-500x500.jpg",
-          "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers."
         }
       ],
       "ok": true
@@ -2751,6 +2751,27 @@
       "feed_img": null,
       "items": [
         {
+          "title": "Magnitude 6.8 Earthquake Rattles Southern Japan",
+          "link": "https://www.enr.com/articles/63387-magnitude-68-earthquake-rattles-southern-japan-casualties-reported",
+          "date": "2026-07-28T21:53:14+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/07/28/Kumamoto_Japan_Earthquake_ENRwebready.webp?t=1785273130",
+          "summary": "Cracked highways and a report of fatalities at a partially collapsed shopping mall in Japan's Kumamoto prefecture following a magnitude 6.8 earthquake."
+        },
+        {
+          "title": "Workers Trapped in Storm Sewer in Chicago Suburb; One Still Missing",
+          "link": "https://www.enr.com/articles/63386-workers-trapped-in-storm-sewer-in-chicago-suburb-one-still-missing",
+          "date": "2026-07-28T21:21:43+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/07/28/1Contractors-trapped-Downers-Grove-Storm-Sewer3.webp?t=1785274593",
+          "summary": "One worker is still missing after being apparently swept away in a storm sewer during a heavy rain in the Chicago area on July 27."
+        },
+        {
+          "title": "Florida Set to Accelerate Everglades Reservoir Project to Complete by 2029",
+          "link": "https://www.enr.com/articles/63385-florida-set-to-accelerate-everglades-reservoir-project-to-complete-by-2029",
+          "date": "2026-07-28T20:25:06+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/07/28/WEBEverglades_k.webp?t=1785267882",
+          "summary": "Officials signed an agreement with the Corps of Engineers to expedite Everglades restoration, enabling a key component to reach construction completion five years ahead of…"
+        },
+        {
           "title": "Connecticut Breaks Ground on $1.6B Project to Modernize New Haven Line",
           "link": "https://www.enr.com/articles/63382-connecticut-breaks-ground-on-16b-project-to-modernize-new-haven-line",
           "date": "2026-07-28T18:00:00+00:00",
@@ -2765,11 +2786,11 @@
           "summary": "Private companies are hustling to invest in vertiports and charging facilities. Advanced air mobility is anticipated to help ease traffic for the 2028 Olympic and Paralympic Games."
         },
         {
-          "title": "Asheville Airport Races To Accommodate Growth With $361M New Terminal",
+          "title": "Asheville Airport Races To Accommodate Growth With New $361M Terminal",
           "link": "https://www.enr.com/articles/63383-asheville-airport-races-to-accommodate-growth-with-361m-new-terminal",
           "date": "2026-07-28T13:40:26+00:00",
           "image": "https://www.enr.com/ext/resources/2026/07/28/asheville.webp?t=1785256560",
-          "summary": "Re-routing construction helps preserve the facility’s planned on-time arrival."
+          "summary": "Re-routing construction has helped preserve the facility’s planned on-time arrival."
         },
         {
           "title": "USDOT Scraps Approved Washington Union Station Expansion Plan",
@@ -2798,27 +2819,6 @@
           "date": "2026-07-27T14:56:47+00:00",
           "image": "https://www.enr.com/ext/resources/2026/07/27/Gordie-Howe-Bridge-Opening.webp?t=1785164325",
           "summary": "North America's longest cable-stayed bridge begins carrying traffic after years of construction and a diplomatic impasse gave way to cross-border cooperation and trade flows on…"
-        },
-        {
-          "title": "Manhattan Greenway Set to Strengthen With $163 Million Renovation",
-          "link": "https://www.enr.com/articles/63373-manhattan-greenway-set-to-strengthen-with-163-million-renovation",
-          "date": "2026-07-27T12:24:19+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/WEB-NY-Bike-Map.webp?t=1785236878",
-          "summary": "A recently awarded design-build contract for the East Side Greenway 14th Street Connector will target a chokepoint for cyclists and pedestrians along the New York City waterfront."
-        },
-        {
-          "title": "Amtrak Set to Upgrade Key Philadelphia Power Converter Station",
-          "link": "https://www.enr.com/articles/63372-amtrak-power-converter-station-begins-major-upgrade-process",
-          "date": "2026-07-27T10:53:35+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/07/27/New-Haven-Hartford_Springfield-Line_Courtesy-of-STV-copy.webp?t=1785174238",
-          "summary": "STV has been selected for preliminary design work on a replacement for Amtrak’s largest traction power converter station and one of the largest railway converter stations in the…"
-        },
-        {
-          "title": "Data Center Building Boom Brings New Spotlight to Safety",
-          "link": "https://www.enr.com/articles/63370-data-center-building-boom-brings-new-spotlight-to-safety",
-          "date": "2026-07-24T20:35:08+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/07/24/Data_Center_Construction_ENRwebready.webp?t=1785143225",
-          "summary": "Contractors on hyperscale data center projects can struggle to maintain a safety culture across dozens of subcontractors and thousands of workers, pushing safety consultants to…"
         }
       ],
       "ok": true
