@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
 Fetches all RSS feeds and writes feeds.json.
+Extracts images from every available source in the feed entry.
 Runs via GitHub Actions — no CORS issues server-side.
 """
 
-import json
-import time
+import json, time, re
 import feedparser
 import requests
 from datetime import datetime, timezone
@@ -61,9 +61,78 @@ FEEDS = [
     {"cat": "engineering", "name": "ENR",                      "url": "https://www.enr.com/rss/articles"},
 ]
 
-HEADERS = {"User-Agent": "EngineeringHub/1.0 (RSS reader; github-actions)"}
-TIMEOUT  = 12
+HEADERS   = {"User-Agent": "EngineeringHub/1.0 (RSS reader; github-actions)"}
+TIMEOUT   = 12
 MAX_ITEMS = 10
+IMG_RE    = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
+BAD_IMG   = re.compile(r'(pixel|tracker|1x1|spacer|logo|icon|avatar|gravatar|stat\.wp\.com|feeds\.feedburner)', re.IGNORECASE)
+
+
+def extract_image(entry):
+    """Try every known location an image might live in a feed entry."""
+    candidates = []
+
+    # 1. media:thumbnail (most reliable — YouTube, Reuters, BBC, etc.)
+    mt = entry.get("media_thumbnail")
+    if mt and isinstance(mt, list):
+        candidates.append(mt[0].get("url", ""))
+
+    # 2. media:content with medium=image or type=image/*
+    mc = entry.get("media_content")
+    if mc and isinstance(mc, list):
+        for m in mc:
+            t = m.get("type", "")
+            med = m.get("medium", "")
+            if "image" in t or med == "image":
+                candidates.append(m.get("url", ""))
+
+    # 3. enclosures (podcasts also use this, so filter by type)
+    for enc in entry.get("enclosures", []):
+        if "image" in enc.get("type", ""):
+            candidates.append(enc.get("href", "") or enc.get("url", ""))
+
+    # 4. links with rel=enclosure and image type
+    for lnk in entry.get("links", []):
+        if lnk.get("rel") == "enclosure" and "image" in lnk.get("type", ""):
+            candidates.append(lnk.get("href", ""))
+
+    # 5. Pull first <img> from content or summary HTML
+    for field in ("content", "summary", "description"):
+        val = entry.get(field)
+        if isinstance(val, list):
+            val = val[0].get("value", "") if val else ""
+        if val:
+            imgs = IMG_RE.findall(val)
+            candidates.extend(imgs)
+            break  # only parse the richest field
+
+    # 6. itunes:image
+    ii = entry.get("itunes_image")
+    if ii:
+        candidates.append(ii.get("href", ""))
+
+    # Filter: must start with http, not a tracker/pixel, and look like an image
+    for c in candidates:
+        c = c.strip()
+        if (c.startswith("http")
+                and not BAD_IMG.search(c)
+                and len(c) > 12):
+            return c
+
+    return None
+
+
+def extract_summary(entry):
+    """Plain-text snippet, max 180 chars."""
+    for field in ("summary", "description"):
+        val = entry.get(field, "")
+        if val:
+            text = re.sub(r'<[^>]+>', ' ', val)
+            text = re.sub(r'\s+', ' ', text).strip()
+            if len(text) > 15:
+                return text[:180].rsplit(' ', 1)[0] + '…' if len(text) > 180 else text
+    return ""
+
 
 def parse_date(entry):
     t = entry.get("published_parsed") or entry.get("updated_parsed")
@@ -71,35 +140,59 @@ def parse_date(entry):
         return datetime(*t[:6], tzinfo=timezone.utc).isoformat()
     return None
 
+
 def fetch(feed_meta):
     try:
         r = requests.get(feed_meta["url"], headers=HEADERS, timeout=TIMEOUT)
         r.raise_for_status()
         d = feedparser.parse(r.text)
+
+        # Feed-level image (channel logo / itunes image)
+        feed_img = None
+        fi = d.feed.get("image", {})
+        if fi.get("url"):
+            feed_img = fi["url"]
+        elif d.feed.get("itunes_image"):
+            feed_img = d.feed["itunes_image"].get("href")
+
         items = []
         for e in d.entries[:MAX_ITEMS]:
             title = e.get("title", "").strip()
-            link  = e.get("link", "").strip()
+            link  = e.get("link",  "").strip()
             if not title or not link:
                 continue
             items.append({
-                "title": title,
-                "link":  link,
-                "date":  parse_date(e),
+                "title":   title,
+                "link":    link,
+                "date":    parse_date(e),
+                "image":   extract_image(e),
+                "summary": extract_summary(e),
             })
-        return {"name": feed_meta["name"], "cat": feed_meta["cat"],
-                "items": items, "ok": True}
+
+        return {
+            "name":      feed_meta["name"],
+            "cat":       feed_meta["cat"],
+            "feed_img":  feed_img,
+            "items":     items,
+            "ok":        True,
+        }
     except Exception as ex:
         print(f"  FAIL {feed_meta['name']}: {ex}")
-        return {"name": feed_meta["name"], "cat": feed_meta["cat"],
-                "items": [], "ok": False, "error": str(ex)}
+        return {
+            "name":  feed_meta["name"],
+            "cat":   feed_meta["cat"],
+            "items": [],
+            "ok":    False,
+            "error": str(ex),
+        }
+
 
 print(f"Fetching {len(FEEDS)} feeds…")
 results = []
 for i, f in enumerate(FEEDS, 1):
     print(f"  [{i}/{len(FEEDS)}] {f['name']}")
     results.append(fetch(f))
-    time.sleep(0.3)   # polite delay
+    time.sleep(0.3)
 
 output = {
     "updated": datetime.now(timezone.utc).isoformat(),
@@ -111,4 +204,8 @@ with open("feeds.json", "w", encoding="utf-8") as fh:
 
 ok  = sum(1 for r in results if r["ok"])
 bad = len(results) - ok
-print(f"\nDone — {ok} OK, {bad} failed. Written to feeds.json")
+imgs = sum(
+    sum(1 for it in r["items"] if it.get("image"))
+    for r in results
+)
+print(f"\nDone — {ok} OK, {bad} failed, {imgs} images found. Written to feeds.json")

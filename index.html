@@ -5,126 +5,263 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Engineering Intelligence Hub</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
 
-  :root {
-    --bg:      #0d0f12;
-    --surf:    #13161b;
-    --bdr:     #1f2530;
-    --bdr2:    #2e3748;
-    --txt:     #c8d0dc;
-    --muted:   #5a6475;
-    --blue:    #3b82f6;
-    --teal:    #22d3a0;
-    --violet:  #a78bfa;
-    --amber:   #f59e0b;
-    --red:     #f87171;
-    --mono: 'IBM Plex Mono', monospace;
-    --sans: 'IBM Plex Sans', sans-serif;
-  }
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  html { scroll-behavior: smooth; }
-  body { background: var(--bg); color: var(--txt); font-family: var(--sans); font-size: 14px; line-height: 1.6; min-height: 100vh; }
+:root {
+  --bg:     #0d0f12;
+  --surf:   #13161b;
+  --surf2:  #181c23;
+  --bdr:    #1f2530;
+  --bdr2:   #2e3748;
+  --txt:    #c8d0dc;
+  --muted:  #5a6475;
+  --blue:   #3b82f6;
+  --teal:   #22d3a0;
+  --violet: #a78bfa;
+  --amber:  #f59e0b;
+  --red:    #f87171;
+  --mono: 'IBM Plex Mono', monospace;
+  --sans: 'IBM Plex Sans', sans-serif;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { background: var(--bg); color: var(--txt); font-family: var(--sans); font-size: 14px; line-height: 1.6; min-height: 100vh; }
 
-  /* HEADER */
-  header {
-    border-bottom: 1px solid var(--bdr);
-    padding: 15px 28px;
-    display: flex; align-items: center; justify-content: space-between; gap: 16px;
-    position: sticky; top: 0; z-index: 100;
-    background: rgba(13,15,18,.95); backdrop-filter: blur(12px);
-  }
-  .logo { font-family: var(--mono); font-size: 12px; font-weight: 600; color: var(--blue); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
-  .logo span { color: var(--muted); font-weight: 400; }
-  .hdr-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-  #status { font-family: var(--mono); font-size: 11px; color: var(--muted); }
-  #status.ok  { color: var(--teal); }
-  #status.err { color: var(--red);  }
+/* ── HEADER ── */
+header {
+  border-bottom: 1px solid var(--bdr);
+  padding: 14px 28px;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(13,15,18,.96); backdrop-filter: blur(14px);
+}
+.logo { font-family: var(--mono); font-size: 12px; font-weight: 600; color: var(--blue); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
+.logo span { color: var(--muted); font-weight: 400; }
+.hdr-r { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+#status { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+#status.ok  { color: var(--teal); }
+#status.err { color: var(--red);  }
 
-  /* TABS */
-  nav { display: flex; padding: 0 28px; border-bottom: 1px solid var(--bdr); overflow-x: auto; scrollbar-width: none; }
-  nav::-webkit-scrollbar { display: none; }
-  .tab {
-    font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
-    padding: 12px 18px 13px; border: none; background: none; color: var(--muted);
-    cursor: pointer; border-bottom: 2px solid transparent; white-space: nowrap;
-    transition: color .15s, border-color .15s; position: relative; bottom: -1px;
-  }
-  .tab:hover { color: var(--txt); }
-  .tab.active { color: var(--txt); border-bottom-color: var(--ta); }
-  .tab[data-cat="all"]         { --ta: var(--txt);    }
-  .tab[data-cat="automotive"]  { --ta: var(--blue);   }
-  .tab[data-cat="space"]       { --ta: var(--teal);   }
-  .tab[data-cat="gaming"]      { --ta: var(--violet); }
-  .tab[data-cat="engineering"] { --ta: var(--amber);  }
-  .badge { display: inline-block; background: var(--bdr); color: var(--muted); font-size: 9px; padding: 1px 5px; border-radius: 8px; margin-left: 5px; vertical-align: middle; min-width: 20px; text-align: center; }
+/* ── TABS ── */
+nav {
+  display: flex; padding: 0 28px; border-bottom: 1px solid var(--bdr);
+  overflow-x: auto; scrollbar-width: none;
+}
+nav::-webkit-scrollbar { display: none; }
+.tab {
+  font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+  padding: 12px 18px 13px; border: none; background: none; color: var(--muted);
+  cursor: pointer; border-bottom: 2px solid transparent; white-space: nowrap;
+  transition: color .15s, border-color .15s; position: relative; bottom: -1px;
+}
+.tab:hover { color: var(--txt); }
+.tab.active { color: var(--txt); border-bottom-color: var(--ta); }
+.tab[data-cat="all"]         { --ta: var(--txt);    }
+.tab[data-cat="automotive"]  { --ta: var(--blue);   }
+.tab[data-cat="space"]       { --ta: var(--teal);   }
+.tab[data-cat="gaming"]      { --ta: var(--violet); }
+.tab[data-cat="engineering"] { --ta: var(--amber);  }
+.badge {
+  display: inline-block; background: var(--bdr); color: var(--muted);
+  font-size: 9px; padding: 1px 5px; border-radius: 8px;
+  margin-left: 5px; vertical-align: middle; min-width: 20px; text-align: center;
+}
 
-  /* MAIN */
-  main { padding: 24px 28px; max-width: 1440px; margin: 0 auto; }
-  .panel { display: none; }
-  .panel.active { display: block; }
+/* ── MAIN ── */
+main { padding: 24px 28px; max-width: 1440px; margin: 0 auto; }
+.panel { display: none; }
+.panel.active { display: block; }
 
-  /* CARD GRID */
-  .panel-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 18px; }
+/* ── CARD GRID ── */
+.panel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 20px;
+}
 
-  /* FEED CARD */
-  .feed-card { background: var(--surf); border: 1px solid var(--bdr); border-radius: 8px; overflow: hidden; display: flex; flex-direction: column; transition: border-color .2s; }
-  .feed-card:hover { border-color: var(--bdr2); }
-  .card-hdr { padding: 11px 14px; border-bottom: 1px solid var(--bdr); display: flex; align-items: center; gap: 9px; }
-  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-  .card-name { font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .06em; color: var(--txt); flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .card-ext { font-size: 11px; color: var(--muted); text-decoration: none; flex-shrink: 0; transition: color .15s; }
-  .card-ext:hover { color: var(--txt); }
-  .card-body { flex: 1; overflow-y: auto; max-height: 300px; scrollbar-width: thin; scrollbar-color: var(--bdr) transparent; }
-  .card-body::-webkit-scrollbar { width: 3px; }
-  .card-body::-webkit-scrollbar-thumb { background: var(--bdr); border-radius: 2px; }
-  .feed-item { display: block; padding: 9px 14px; border-bottom: 1px solid var(--bdr); text-decoration: none; color: inherit; transition: background .1s; }
-  .feed-item:last-child { border-bottom: none; }
-  .feed-item:hover { background: rgba(255,255,255,.025); }
-  .item-title { font-size: 13px; color: var(--txt); line-height: 1.4; margin-bottom: 3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .item-meta  { font-family: var(--mono); font-size: 10px; color: var(--muted); }
-  .card-msg { padding: 22px 14px; text-align: center; font-family: var(--mono); font-size: 11px; color: var(--muted); }
-  .card-msg.err { color: var(--red); }
+/* ── FEED CARD ── */
+.feed-card {
+  background: var(--surf);
+  border: 1px solid var(--bdr);
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex; flex-direction: column;
+  transition: border-color .2s, transform .2s;
+}
+.feed-card:hover { border-color: var(--bdr2); transform: translateY(-1px); }
 
-  /* ALL PANEL */
-  .all-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; gap: 10px; flex-wrap: wrap; }
-  .all-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); }
-  #q { font-family: var(--mono); font-size: 11px; background: var(--surf); border: 1px solid var(--bdr); color: var(--txt); padding: 6px 12px; border-radius: 4px; outline: none; width: 220px; transition: border-color .2s; }
-  #q:focus { border-color: var(--blue); }
-  #q::placeholder { color: var(--muted); }
-  .all-list { display: flex; flex-direction: column; gap: 1px; }
-  .all-row {
-    display: grid; grid-template-columns: 8px 140px 1fr 64px; align-items: center; gap: 12px;
-    padding: 8px 12px; border-radius: 5px; text-decoration: none; color: inherit;
-    border: 1px solid transparent; transition: background .1s, border-color .1s;
-  }
-  .all-row:hover { background: var(--surf); border-color: var(--bdr); }
-  .all-dot    { width: 7px; height: 7px; border-radius: 50%; justify-self: center; }
-  .all-src    { font-family: var(--mono); font-size: 10px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .all-title  { font-size: 13px; color: var(--txt); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .all-date   { font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: right; white-space: nowrap; }
-  .placeholder { padding: 48px; text-align: center; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+/* card header bar */
+.card-hdr {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--bdr);
+  display: flex; align-items: center; gap: 8px;
+  flex-shrink: 0;
+}
+.dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.card-name {
+  font-family: var(--mono); font-size: 11px; font-weight: 600;
+  letter-spacing: .06em; color: var(--txt); flex: 1;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.card-ext {
+  font-size: 11px; color: var(--muted); text-decoration: none;
+  flex-shrink: 0; transition: color .15s;
+}
+.card-ext:hover { color: var(--txt); }
 
-  /* FOOTER */
-  footer { border-top: 1px solid var(--bdr); padding: 14px 28px; font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center; }
+/* ── HERO ITEM (first article with image) ── */
+.hero-item {
+  display: block; text-decoration: none; color: inherit;
+  position: relative; flex-shrink: 0;
+  transition: opacity .15s;
+}
+.hero-item:hover { opacity: .92; }
+.hero-img {
+  width: 100%; height: 190px;
+  object-fit: cover; display: block;
+  background: var(--surf2);
+}
+.hero-img-placeholder {
+  width: 100%; height: 190px;
+  background: linear-gradient(135deg, var(--surf2) 0%, var(--bdr) 100%);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.hero-img-placeholder svg { opacity: .18; }
+.hero-caption {
+  padding: 10px 14px 12px;
+  border-bottom: 1px solid var(--bdr);
+}
+.hero-label {
+  font-family: var(--mono); font-size: 9px; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--accent, var(--blue));
+  margin-bottom: 4px;
+}
+.hero-title {
+  font-size: 14px; font-weight: 500; line-height: 1.4; color: var(--txt);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.hero-meta {
+  font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 4px;
+}
+.hero-summary {
+  font-size: 12px; color: var(--muted); line-height: 1.5; margin-top: 5px;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
 
-  @media (max-width: 640px) {
-    header, main { padding-left: 14px; padding-right: 14px; }
-    nav { padding-left: 14px; padding-right: 14px; }
-    .panel-grid { grid-template-columns: 1fr; }
-    .all-row { grid-template-columns: 8px 1fr 56px; }
-    .all-src { display: none; }
-    #q { width: 160px; }
-  }
+/* ── LIST ITEMS (remaining articles) ── */
+.card-body { flex: 1; overflow-y: auto; max-height: 260px; scrollbar-width: thin; scrollbar-color: var(--bdr) transparent; }
+.card-body::-webkit-scrollbar { width: 3px; }
+.card-body::-webkit-scrollbar-thumb { background: var(--bdr); border-radius: 2px; }
+
+.list-item {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 0;
+  border-bottom: 1px solid var(--bdr);
+  text-decoration: none; color: inherit;
+  transition: background .1s;
+  min-height: 56px;
+}
+.list-item:last-child { border-bottom: none; }
+.list-item:hover { background: rgba(255,255,255,.025); }
+
+.list-thumb {
+  width: 64px; height: 56px;
+  object-fit: cover; display: block;
+  background: var(--surf2); flex-shrink: 0;
+}
+.list-thumb-empty {
+  width: 64px; min-height: 56px;
+  background: var(--surf2);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.list-thumb-empty svg { opacity: .12; }
+.list-text { padding: 7px 12px; display: flex; flex-direction: column; justify-content: center; min-width: 0; }
+.list-title {
+  font-size: 12px; font-weight: 400; color: var(--txt); line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.list-meta { font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 2px; }
+
+.card-msg { padding: 22px 14px; text-align: center; font-family: var(--mono); font-size: 11px; color: var(--muted); }
+.card-msg.err { color: var(--red); }
+
+/* ── ALL PANEL ── */
+.all-toolbar {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 16px; gap: 10px; flex-wrap: wrap;
+}
+.all-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+#q {
+  font-family: var(--mono); font-size: 11px; background: var(--surf);
+  border: 1px solid var(--bdr); color: var(--txt); padding: 6px 12px;
+  border-radius: 4px; outline: none; width: 220px; transition: border-color .2s;
+}
+#q:focus { border-color: var(--blue); }
+#q::placeholder { color: var(--muted); }
+
+/* All panel — card-style grid */
+.all-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+.all-card {
+  display: block; text-decoration: none; color: inherit;
+  background: var(--surf); border: 1px solid var(--bdr); border-radius: 8px;
+  overflow: hidden; transition: border-color .2s, transform .15s;
+}
+.all-card:hover { border-color: var(--bdr2); transform: translateY(-1px); }
+.all-card-img {
+  width: 100%; height: 140px; object-fit: cover; display: block;
+  background: var(--surf2);
+}
+.all-card-nopic {
+  width: 100%; height: 140px;
+  background: linear-gradient(135deg, var(--surf2) 0%, var(--bdr) 100%);
+  display: flex; align-items: center; justify-content: center;
+}
+.all-card-nopic svg { opacity: .14; }
+.all-card-body { padding: 10px 12px 12px; }
+.all-card-src {
+  font-family: var(--mono); font-size: 9px; letter-spacing: .08em;
+  text-transform: uppercase; margin-bottom: 4px;
+}
+.all-card-title {
+  font-size: 13px; font-weight: 500; color: var(--txt); line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.all-card-date {
+  font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 5px;
+}
+
+.placeholder {
+  padding: 60px; text-align: center;
+  font-family: var(--mono); font-size: 12px; color: var(--muted);
+  line-height: 2;
+}
+
+/* ── FOOTER ── */
+footer {
+  border-top: 1px solid var(--bdr); padding: 14px 28px;
+  font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center;
+}
+
+@media (max-width: 640px) {
+  header, main { padding-left: 14px; padding-right: 14px; }
+  nav { padding-left: 14px; padding-right: 14px; }
+  .panel-grid, .all-grid { grid-template-columns: 1fr; }
+  #q { width: 160px; }
+}
 </style>
 </head>
 <body>
 
 <header>
   <div class="logo">Engineering<span> // </span>Intelligence Hub</div>
-  <div class="hdr-right">
-    <span id="status">Loading…</span>
-  </div>
+  <div class="hdr-r"><span id="status">Loading…</span></div>
 </header>
 
 <nav>
@@ -136,159 +273,147 @@
 </nav>
 
 <main>
+  <!-- ALL -->
   <div class="panel active" id="panel-all">
     <div class="all-toolbar">
       <span class="all-meta" id="all-meta">—</span>
       <input id="q" type="search" placeholder="Search articles…" oninput="renderAll()" autocomplete="off"/>
     </div>
-    <div class="all-list" id="all-list"><div class="placeholder">Loading feeds.json…</div></div>
+    <div class="all-grid" id="all-grid"><div class="placeholder">Loading feeds.json…</div></div>
   </div>
+  <!-- CATEGORY PANELS -->
   <div class="panel" id="panel-automotive"><div class="panel-grid" id="grid-automotive"></div></div>
   <div class="panel" id="panel-space"><div class="panel-grid" id="grid-space"></div></div>
   <div class="panel" id="panel-gaming"><div class="panel-grid" id="grid-gaming"></div></div>
   <div class="panel" id="panel-engineering"><div class="panel-grid" id="grid-engineering"></div></div>
 </main>
 
-<footer id="foot">Engineering Intelligence Hub &nbsp;·&nbsp; <span id="foot-time"></span></footer>
+<footer>Engineering Intelligence Hub &nbsp;·&nbsp; <span id="foot-time"></span></footer>
 
 <script>
-const CAT_COLOR = {
-  automotive:  '#3b82f6',
-  space:       '#22d3a0',
-  gaming:      '#a78bfa',
-  engineering: '#f59e0b',
+const CAT_COLOR = { automotive:'#3b82f6', space:'#22d3a0', gaming:'#a78bfa', engineering:'#f59e0b' };
+const HOME = {
+  'BMW Group PressClub':'https://www.press.bmwgroup.com/global','Porsche Newsroom':'https://newsroom.porsche.com/en.html',
+  'Automotive World':'https://www.automotiveworld.com','Automotive News Europe':'https://www.autonews.com/europe',
+  'InsideEVs':'https://insideevs.com','Plastics Technology':'https://www.ptonline.com',
+  'Composites World':'https://www.compositesworld.com','All3DP':'https://all3dp.com',
+  '3D Printing Industry':'https://3dprintingindustry.com','Dassault 3DS Blog':'https://blog.3ds.com',
+  'CATI 3DEXPERIENCE':'https://cati.com/blog','NASA News':'https://www.nasa.gov/news/',
+  'NASA JPL':'https://www.nasa.gov/centers-and-facilities/jpl/','NASA Aeronautics':'https://www.nasa.gov/aeronautics/',
+  'ESA Top News':'https://www.esa.int/Newsroom','Space.com':'https://www.space.com',
+  'SpaceNews':'https://spacenews.com','Spaceflight Now':'https://spaceflightnow.com',
+  'Sky & Telescope':'https://www.skyandtelescope.com','Universe Today':'https://www.universetoday.com',
+  'Quanta — Physics':'https://www.quantamagazine.org/physics/','Physics World':'https://physicsworld.com',
+  'Phys.org Space':'https://phys.org/space-news/','IGN':'https://www.ign.com',
+  'GameSpot':'https://www.gamespot.com/news','Polygon':'https://www.polygon.com',
+  'Eurogamer':'https://www.eurogamer.net','Kotaku':'https://kotaku.com',
+  'Rock Paper Shotgun':'https://www.rockpapershotgun.com','PC Gamer':'https://www.pcgamer.com',
+  'PlayStation Blog':'https://blog.playstation.com','Xbox Wire':'https://news.xbox.com/en-us/',
+  'GamesIndustry.biz':'https://www.gamesindustry.biz','Game Developer':'https://www.gamedeveloper.com',
+  'IEEE Spectrum':'https://spectrum.ieee.org','Interesting Engineering':'https://interestingengineering.com',
+  'The Engineer (UK)':'https://www.theengineer.co.uk','ScienceDaily Eng.':'https://www.sciencedaily.com/news/matter_energy/engineering/',
+  'Design News':'https://www.designnews.com','MIT Technology Review':'https://www.technologyreview.com',
+  'Ars Technica':'https://arstechnica.com','Quanta — Technology':'https://www.quantamagazine.org/technology/',
+  'Electronic Design':'https://www.electronicdesign.com','ENR':'https://www.enr.com',
 };
 
-// Home URLs per feed name (for the ↗ link)
-const HOME = {
-  'BMW Group PressClub':    'https://www.press.bmwgroup.com/global',
-  'Porsche Newsroom':       'https://newsroom.porsche.com/en.html',
-  'Automotive World':       'https://www.automotiveworld.com',
-  'Automotive News Europe': 'https://www.autonews.com/europe',
-  'InsideEVs':              'https://insideevs.com',
-  'Plastics Technology':    'https://www.ptonline.com',
-  'Composites World':       'https://www.compositesworld.com',
-  'All3DP':                 'https://all3dp.com',
-  '3D Printing Industry':   'https://3dprintingindustry.com',
-  'Dassault 3DS Blog':      'https://blog.3ds.com',
-  'CATI 3DEXPERIENCE':      'https://cati.com/blog',
-  'NASA News':              'https://www.nasa.gov/news/',
-  'NASA JPL':               'https://www.nasa.gov/centers-and-facilities/jpl/',
-  'NASA Aeronautics':       'https://www.nasa.gov/aeronautics/',
-  'ESA Top News':           'https://www.esa.int/Newsroom',
-  'Space.com':              'https://www.space.com',
-  'SpaceNews':              'https://spacenews.com',
-  'Spaceflight Now':        'https://spaceflightnow.com',
-  'Sky & Telescope':        'https://www.skyandtelescope.com',
-  'Universe Today':         'https://www.universetoday.com',
-  'Quanta — Physics':       'https://www.quantamagazine.org/physics/',
-  'Physics World':          'https://physicsworld.com',
-  'Phys.org Space':         'https://phys.org/space-news/',
-  'IGN':                    'https://www.ign.com',
-  'GameSpot':               'https://www.gamespot.com/news',
-  'Polygon':                'https://www.polygon.com',
-  'Eurogamer':              'https://www.eurogamer.net',
-  'Kotaku':                 'https://kotaku.com',
-  'Rock Paper Shotgun':     'https://www.rockpapershotgun.com',
-  'PC Gamer':               'https://www.pcgamer.com',
-  'PlayStation Blog':       'https://blog.playstation.com',
-  'Xbox Wire':              'https://news.xbox.com/en-us/',
-  'GamesIndustry.biz':      'https://www.gamesindustry.biz',
-  'Game Developer':         'https://www.gamedeveloper.com',
-  'IEEE Spectrum':          'https://spectrum.ieee.org',
-  'Interesting Engineering':'https://interestingengineering.com',
-  'The Engineer (UK)':      'https://www.theengineer.co.uk',
-  'ScienceDaily Eng.':      'https://www.sciencedaily.com/news/matter_energy/engineering/',
-  'Design News':            'https://www.designnews.com',
-  'MIT Technology Review':  'https://www.technologyreview.com',
-  'Ars Technica':           'https://arstechnica.com',
-  'Quanta — Technology':    'https://www.quantamagazine.org/technology/',
-  'Electronic Design':      'https://www.electronicdesign.com',
-  'ENR':                    'https://www.enr.com',
-};
+// SVG placeholder icon
+const ICON_SVG = `<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2">
+  <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+  <polyline points="21 15 16 10 5 21"/>
+</svg>`;
 
 let allArticles = [];
 let feedData    = [];
 
-// ── LOAD ──
-async function load() {
-  try {
-    const r = await fetch('feeds.json?_=' + Date.now());
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    const data = await r.json();
-
-    feedData = data.feeds || [];
-    allArticles = [];
-
-    // Build cards
-    ['automotive','space','gaming','engineering'].forEach(cat => {
-      document.getElementById(`grid-${cat}`).innerHTML = '';
-    });
-
-    feedData.forEach(feed => {
-      const color = CAT_COLOR[feed.cat] || '#888';
-      const home  = HOME[feed.name] || '#';
-      const grid  = document.getElementById(`grid-${feed.cat}`);
-      if (!grid) return;
-
-      const card = document.createElement('div');
-      card.className = 'feed-card';
-
-      const hdr = `<div class="card-hdr">
-        <span class="dot" style="background:${color}"></span>
-        <span class="card-name">${esc(feed.name)}</span>
-        <a class="card-ext" href="${home}" target="_blank" rel="noopener">↗</a>
-      </div>`;
-
-      const body = document.createElement('div');
-      body.className = 'card-body';
-
-      if (!feed.ok || feed.items.length === 0) {
-        body.innerHTML = `<div class="card-msg ${feed.ok ? '' : 'err'}">${feed.ok ? 'No items' : 'Feed unavailable'}</div>`;
-      } else {
-        feed.items.forEach(it => {
-          const a = document.createElement('a');
-          a.className = 'feed-item';
-          a.href = it.link;
-          a.target = '_blank';
-          a.rel = 'noopener';
-          a.innerHTML = `<div class="item-title">${esc(it.title)}</div>
-                         <div class="item-meta">${ago(it.date)}</div>`;
-          body.appendChild(a);
-          allArticles.push({ title: it.title, link: it.link, date: it.date, source: feed.name, color, cat: feed.cat });
-        });
-      }
-
-      card.innerHTML = hdr;
-      card.appendChild(body);
-      grid.appendChild(card);
-    });
-
-    // Sort all articles
-    allArticles.sort((a,b) => (b.date||'').localeCompare(a.date||''));
-
-    renderAll();
-    updateBadges();
-
-    const upd = new Date(data.updated);
-    document.getElementById('status').textContent = `Updated ${upd.toLocaleString('en-GB')}`;
-    document.getElementById('status').className = 'ok';
-    document.getElementById('foot-time').textContent = `Feeds last fetched: ${upd.toLocaleString('en-GB')}`;
-
-  } catch (e) {
-    document.getElementById('status').textContent = `Error: ${e.message}`;
-    document.getElementById('status').className = 'err';
-    document.getElementById('all-list').innerHTML =
-      `<div class="placeholder">⚠ Could not load feeds.json.<br><br>
-       Make sure the GitHub Actions workflow has run at least once.<br>
-       Go to your repo → Actions → "Fetch RSS Feeds" → Run workflow.</div>`;
-  }
+// ── IMG with fallback ──
+function imgEl(src, cls, alt) {
+  if (!src) return `<div class="${cls}-empty">${cls.includes('hero') || cls.includes('all') ? `<div class="${cls}-nopic">${ICON_SVG}</div>` : `<div class="list-thumb-empty">${ICON_SVG}</div>`}</div>`;
+  const tag = cls.includes('hero') ? 'hero-img' : cls.includes('all') ? 'all-card-img' : 'list-thumb';
+  return `<img class="${tag}" src="${esc(src)}" alt="${esc(alt)}" loading="lazy" onerror="this.parentNode.innerHTML='${cls.includes('list') ? `<div class=\\'list-thumb-empty\\'>${ICON_SVG}</div>` : `<div class=\\'hero-img-placeholder\\'>${ICON_SVG}</div>`}'"/>`;
 }
 
-// ── ALL LIST ──
+// ── BUILD FEED CARD ──
+function buildCard(feed) {
+  const color = CAT_COLOR[feed.cat] || '#888';
+  const home  = HOME[feed.name] || '#';
+
+  const card = document.createElement('div');
+  card.className = 'feed-card';
+  card.style.setProperty('--accent', color);
+
+  // Header bar
+  card.innerHTML = `<div class="card-hdr">
+    <span class="dot" style="background:${color}"></span>
+    <span class="card-name">${esc(feed.name)}</span>
+    <a class="card-ext" href="${esc(home)}" target="_blank" rel="noopener">↗</a>
+  </div>`;
+
+  if (!feed.ok || !feed.items.length) {
+    card.innerHTML += `<div class="card-msg ${feed.ok ? '' : 'err'}">${feed.ok ? 'No items available' : '⚠ Feed unavailable'}</div>`;
+    return card;
+  }
+
+  const [hero, ...rest] = feed.items;
+
+  // Hero item
+  const heroEl = document.createElement('a');
+  heroEl.className = 'hero-item';
+  heroEl.href = hero.link;
+  heroEl.target = '_blank';
+  heroEl.rel = 'noopener';
+
+  if (hero.image) {
+    heroEl.innerHTML = `<img class="hero-img" src="${esc(hero.image)}" alt="${esc(hero.title)}" loading="lazy"
+      onerror="this.outerHTML='<div class=\\'hero-img-placeholder\\'>${ICON_SVG}</div>'"/>`;
+  } else {
+    heroEl.innerHTML = `<div class="hero-img-placeholder">${ICON_SVG}</div>`;
+  }
+
+  heroEl.innerHTML += `<div class="hero-caption">
+    <div class="hero-label">Latest</div>
+    <div class="hero-title">${esc(hero.title)}</div>
+    ${hero.summary ? `<div class="hero-summary">${esc(hero.summary)}</div>` : ''}
+    <div class="hero-meta">${ago(hero.date)}</div>
+  </div>`;
+  card.appendChild(heroEl);
+
+  // List body for remaining items
+  if (rest.length) {
+    const body = document.createElement('div');
+    body.className = 'card-body';
+
+    rest.forEach(it => {
+      const a = document.createElement('a');
+      a.className = 'list-item';
+      a.href = it.link;
+      a.target = '_blank';
+      a.rel = 'noopener';
+
+      if (it.image) {
+        a.innerHTML = `<img class="list-thumb" src="${esc(it.image)}" alt="" loading="lazy"
+          onerror="this.outerHTML='<div class=\\'list-thumb-empty\\'>${ICON_SVG}</div>'"/>`;
+      } else {
+        a.innerHTML = `<div class="list-thumb-empty">${ICON_SVG}</div>`;
+      }
+
+      a.innerHTML += `<div class="list-text">
+        <div class="list-title">${esc(it.title)}</div>
+        <div class="list-meta">${ago(it.date)}</div>
+      </div>`;
+      body.appendChild(a);
+    });
+
+    card.appendChild(body);
+  }
+
+  return card;
+}
+
+// ── ALL GRID ──
 function renderAll() {
   const q    = (document.getElementById('q').value || '').toLowerCase().trim();
-  const list = document.getElementById('all-list');
+  const grid = document.getElementById('all-grid');
   const meta = document.getElementById('all-meta');
 
   const filtered = q
@@ -299,36 +424,89 @@ function renderAll() {
     ? `${filtered.length} results for "${q}"`
     : `${allArticles.length} articles · ${feedData.filter(f=>f.ok).length} / ${feedData.length} feeds OK`;
 
-  list.innerHTML = '';
-  if (filtered.length === 0) {
-    list.innerHTML = '<div class="placeholder">No articles found.</div>';
+  grid.innerHTML = '';
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="placeholder">No articles found.</div>';
     return;
   }
+
   filtered.forEach(a => {
     const el = document.createElement('a');
-    el.className = 'all-row';
+    el.className = 'all-card';
     el.href = a.link;
     el.target = '_blank';
     el.rel = 'noopener';
-    el.innerHTML = `
-      <span class="all-dot" style="background:${a.color}"></span>
-      <span class="all-src">${esc(a.source)}</span>
-      <span class="all-title">${esc(a.title)}</span>
-      <span class="all-date">${ago(a.date)}</span>
-    `;
-    list.appendChild(el);
+
+    if (a.image) {
+      el.innerHTML = `<img class="all-card-img" src="${esc(a.image)}" alt="" loading="lazy"
+        onerror="this.outerHTML='<div class=\\'all-card-nopic\\'>${ICON_SVG}</div>'"/>`;
+    } else {
+      el.innerHTML = `<div class="all-card-nopic">${ICON_SVG}</div>`;
+    }
+
+    el.innerHTML += `<div class="all-card-body">
+      <div class="all-card-src" style="color:${a.color}">${esc(a.source)}</div>
+      <div class="all-card-title">${esc(a.title)}</div>
+      <div class="all-card-date">${ago(a.date)}</div>
+    </div>`;
+    grid.appendChild(el);
   });
 }
 
-// ── BADGES ──
-function updateBadges() {
-  ['automotive','space','gaming','engineering'].forEach(cat => {
-    const n = allArticles.filter(a => a.cat === cat).length;
-    const el = document.getElementById(`b-${cat}`);
-    if (el) el.textContent = n;
-  });
-  const el = document.getElementById('b-all');
-  if (el) el.textContent = allArticles.length;
+// ── LOAD ──
+async function load() {
+  try {
+    const r = await fetch('feeds.json?_=' + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status} — feeds.json not found`);
+    const data = await r.json();
+
+    feedData    = data.feeds || [];
+    allArticles = [];
+
+    ['automotive','space','gaming','engineering'].forEach(cat => {
+      document.getElementById(`grid-${cat}`).innerHTML = '';
+    });
+
+    feedData.forEach(feed => {
+      const color = CAT_COLOR[feed.cat] || '#888';
+      const grid  = document.getElementById(`grid-${feed.cat}`);
+      if (!grid) return;
+      grid.appendChild(buildCard(feed));
+      feed.items.forEach(it => allArticles.push({
+        title: it.title, link: it.link, date: it.date,
+        image: it.image || null, source: feed.name, color, cat: feed.cat,
+      }));
+    });
+
+    allArticles.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+    renderAll();
+
+    ['all','automotive','space','gaming','engineering'].forEach(cat => {
+      const el = document.getElementById(`b-${cat}`);
+      if (!el) return;
+      el.textContent = cat === 'all'
+        ? allArticles.length
+        : allArticles.filter(a => a.cat === cat).length;
+    });
+
+    const upd = new Date(data.updated);
+    const fmtd = upd.toLocaleString('en-GB');
+    document.getElementById('status').textContent  = `Updated ${fmtd}`;
+    document.getElementById('status').className    = 'ok';
+    document.getElementById('foot-time').textContent = `Feeds last fetched: ${fmtd}`;
+
+  } catch(e) {
+    document.getElementById('status').textContent = `Error: ${e.message}`;
+    document.getElementById('status').className   = 'err';
+    document.getElementById('all-grid').innerHTML =
+      `<div class="placeholder">
+        ⚠ Could not load feeds.json<br><br>
+        <strong>First-time setup:</strong><br>
+        Go to your GitHub repo → Actions tab →<br>
+        "Fetch RSS Feeds" → Run workflow<br><br>
+        Wait ~30 seconds, then refresh this page.
+      </div>`;
+  }
 }
 
 // ── TABS ──
@@ -343,22 +521,14 @@ function switchTab(btn) {
 function ago(iso) {
   if (!iso) return '—';
   const d = Date.now() - new Date(iso).getTime();
-  if (isNaN(d)) return '—';
-  if (d < 0)       return 'just now';
-  const m = Math.floor(d/60000);
-  if (m < 1)  return 'just now';
-  if (m < 60) return `${m}m ago`;
-  const h = Math.floor(m/60);
-  if (h < 24) return `${h}h ago`;
-  const dy = Math.floor(h/24);
-  if (dy < 7) return `${dy}d ago`;
-  const dt = new Date(iso);
-  return dt.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
+  if (isNaN(d)||d<0) return 'just now';
+  const m=Math.floor(d/60000); if(m<1) return 'just now';
+  if(m<60) return `${m}m ago`;
+  const h=Math.floor(m/60); if(h<24) return `${h}h ago`;
+  const dy=Math.floor(h/24); if(dy<7) return `${dy}d ago`;
+  return new Date(iso).toLocaleDateString('en-GB',{day:'numeric',month:'short'});
 }
-
-function esc(s) {
-  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
+function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 
 load();
 </script>
