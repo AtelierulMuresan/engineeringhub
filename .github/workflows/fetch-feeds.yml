@@ -32,4 +32,3 @@ jobs:
           git add feeds.json
           git diff --cached --quiet || git commit -m "chore: update feeds $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
-
