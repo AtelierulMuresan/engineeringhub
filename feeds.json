@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:59:28.012229+00:00",
+  "updated": "2026-07-29T03:29:14.692790+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -241,6 +241,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "Audi courts affluent U.S. households with Q9, the brand’s largest vehicle yet",
+          "link": "https://www.autonews.com/volkswagen/audi/an-2027-audi-q9-0728/",
+          "date": "2026-07-29T01:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/MI1U_WAJwjj_nTOvO1I5amlXJFs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/K3GBBR34VBDYNAN3BG3A6NZX24.jpg",
+          "summary": "The all-new Audi Q9, priced from $89,095, and $119,395 for a high-performance variant, is significantly larger than the redesigned Q7 and tops rivals in wheelbase, length and…"
+        },
+        {
           "title": "How post-Stellantis independence positions Comau for expansion beyond automotive assembly lines",
           "link": "https://www.autonews.com/technology/ane-interview-comau-ceo-pietro-gorlier-0728/",
           "date": "2026-07-28T21:13:32+00:00",
@@ -302,13 +309,6 @@
           "date": "2026-07-28T16:41:34+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0BAjJuzyQzbpcNjGpIAgT5a5fiI=/0x800/d3qtc8km8dvw1x.cloudfront.net/07-28-2026/t_0124837f720341f08b778b8e2d1e133f_name_file_960x540_1600_v4_.jpg",
           "summary": "Gordie Howe bridge opens to traffic | Honda eyes lifted Accord | Slate’s budget EV truck faces stiff competition"
-        },
-        {
-          "title": "Magna, Martinrea slip, Linamar rises in Automotive News Top 100 Suppliers list",
-          "link": "https://www.autonews.com/manufacturing/anc-magna-martinrea-linamar-top-suppliers-list-0728/",
-          "date": "2026-07-28T15:45:47+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/z-csL3OJ6QyP7ncBO5rslbMSytU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MREW432DENGY3NHHJLDPZDJI2M.jpg",
-          "summary": "China’s CATL replaced Magna. There was no change in the top two spots with Bosch retaining the lead and Denso in second."
         }
       ],
       "ok": true
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "feed_img": null,
+      "items": [
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        },
+        {
+          "title": "NASA Study Points to Smoother Air Taxi Rides",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+          "date": "2026-07-13T21:46:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
+        },
+        {
+          "title": "NASA Photographer Captures Images from F-18 Over Washington",
+          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+          "date": "2026-07-10T16:36:14+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
+        },
+        {
+          "title": "A Day of Flight Testing at NASA Armstrong",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+          "date": "2026-06-30T19:27:13+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
+        },
+        {
+          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+          "date": "2026-06-29T20:38:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lrc-2026-ocio-p-01883-image-1.jpg",
+          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving…"
+        },
+        {
+          "title": "This is How NASA Flight Tests New Technology",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
+          "date": "2026-06-23T16:00:00+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0095-04/AFRC2026-0095-04~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+          "summary": "Flight tests are a big part of how NASA turns breakthrough ideas into reality. From flying humans faster than the speed of sound to proving designs that helped shape the space…"
+        }
+      ],
+      "ok": true
     },
     {
       "name": "ESA Top News",
@@ -964,6 +1035,20 @@
       "feed_img": "https://spacenews.com/wp-content/uploads/2024/05/cropped-SN_forza_star-32x32.png",
       "items": [
         {
+          "title": "Boeing still working with NASA to schedule next Starliner flight",
+          "link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+          "date": "2026-07-29T01:24:07+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&amp;ssl=1",
+          "summary": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station. The post Boeing…"
+        },
+        {
+          "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+          "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+          "date": "2026-07-29T01:18:28+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&amp;ssl=1",
+          "summary": "SINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.&#160;…"
+        },
+        {
           "title": "Swift reboost mission encounters attitude control problems",
           "link": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
           "date": "2026-07-28T23:04:29+00:00",
@@ -1018,20 +1103,6 @@
           "date": "2026-07-27T12:00:00+00:00",
           "image": null,
           "summary": "SpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company&#8217;s sales, business development and product…"
-        },
-        {
-          "title": "Amazon files application for direct-to-device satellite constellation",
-          "link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
-          "date": "2026-07-27T11:59:34+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Amazon-Leo-D2D-scaled.jpeg?fit=1024%2C576&amp;ssl=1",
-          "summary": "Amazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-device (D2D) services using…"
-        },
-        {
-          "title": "Blue Origin to test New Glenn upper stages at Stennis",
-          "link": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
-          "date": "2026-07-27T10:48:56+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/stennis-bteststand.jpeg?fit=1024%2C682&amp;ssl=1",
-          "summary": "Blue Origin will use NASA’s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex. The post Blue Origin to test New Glenn upper…"
         }
       ],
       "ok": true
@@ -1198,6 +1269,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "A Wandering Black Hole Meets a Wandering Star",
+          "link": "https://www.universetoday.com/articles/a-wandering-black-hole-meets-a-wandering-star",
+          "date": "2026-07-29T01:13:25+00:00",
+          "image": "https://www.universetoday.com/article_images/UNC-Chapel-Hill-Astronomers-Detect-One-of-the-Universes-Rarest-Black_20260729_010606.jpg",
+          "summary": "What happens when a black hole and a star meet in the middle of nowhere in a galaxy? It sounds like it could be a dramatic science fiction backdrop, with some hapless starship…"
+        },
+        {
           "title": "Samples of Lunar Rock Are Leading Scientists to Rethink the Moon's History",
           "link": "https://www.universetoday.com/articles/samples-of-lunar-rock-are-leading-scientists-to-rethink-the-moons-history",
           "date": "2026-07-28T23:44:14+00:00",
@@ -1259,13 +1337,6 @@
           "date": "2026-07-27T20:07:50+00:00",
           "image": "https://www.universetoday.com/article_images/LRD-and-Cluster-1024x768_20260724_180849.jpg",
           "summary": "Little Red Dots are one of the mysteries uncovered by the JWST. Astronomers have been trying to figure out what they are, and have come up with multiple possibilities. New…"
-        },
-        {
-          "title": "How NASA Plans to Build the Habitable Worlds Observatory",
-          "link": "https://www.universetoday.com/articles/how-nasa-plans-to-build-the-habitable-worlds-observatory",
-          "date": "2026-07-27T16:22:04+00:00",
-          "image": "https://www.universetoday.com/article_images/HWO_Glamour_1_20260727_162135.jpg",
-          "summary": "We’ve been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how…"
         }
       ],
       "ok": true
@@ -1560,6 +1631,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "BG3 third-person camera mod completely changes how you play Baldur's Gate 3",
+          "link": "https://www.polygon.com/baldurs-gate-3-camera-mod-bg3/",
+          "date": "2026-07-29T00:03:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bg3-true-third-person-camera-mod.jpg",
+          "summary": "Modder Relysia has released a new way to explore Faerûn. A true over-the-shoulder camera angle means it's time to play Baldur's Gate 3 again!"
+        },
+        {
           "title": "How to get a Dawntrail (Phantom) relic weapon in FFXIV",
           "link": "https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements/",
           "date": "2026-07-28T20:58:05+00:00",
@@ -1621,13 +1699,6 @@
           "date": "2026-07-28T18:25:09+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-343-guilty-spark-skulls-terminals-locations-header.jpg",
           "summary": "A guide detailing where to find the three skulls and one terminal on the \"343 Guilty Spark\" mission in Halo: Campaign Evolved."
-        },
-        {
-          "title": "Netflix reveals 6-part thriller limited series Below with Josh Hartnett",
-          "link": "https://www.polygon.com/netflix-thriller-below-josh-hartnett/",
-          "date": "2026-07-28T18:01:44+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/below_n_s1_e1_00_06_58_21.JPG",
-          "summary": "Josh Hartnett, Mackenzie Davis, and Stranger Things star Charlie Heaton lead Below, a new twisty thriller coming to Netflix in October."
         }
       ],
       "ok": true
@@ -1872,6 +1943,20 @@
       "feed_img": null,
       "items": [
         {
+          "title": "Henry Cavill's Warhammer 40,000 project at Amazon announces involvement of popular horror director, reminding everyone it still exists",
+          "link": "https://www.pcgamer.com/movies-tv/henry-cavills-warhammer-40-000-project-at-amazon-announces-involvement-of-popular-horror-director-reminding-everyone-it-still-exists/",
+          "date": "2026-07-29T02:38:48+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/GFitxhHJBLCuD4ZQrRgyRW-1280-80.jpg",
+          "summary": "Mike Flanagan \"should soon be moving on to script.\""
+        },
+        {
+          "title": "GTA Online in-game gambling is now blocked in Australia",
+          "link": "https://www.pcgamer.com/gaming-industry/gta-online-in-game-gambling-is-now-blocked-in-australia/",
+          "date": "2026-07-29T00:36:04+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/2pJjZvWpQUqwCMgyYHAc7n-1280-80.jpg",
+          "summary": "The sudden ban has Australia join a list of over 50 countries where most Diamond Casino features are unavailable."
+        },
+        {
           "title": "Speaking of Matt Damon, there's a new survival game out this week on Steam where you're stranded on Mars and have to grow potatoes to survive",
           "link": "https://www.pcgamer.com/games/survival-crafting/speaking-of-matt-damon-theres-a-new-survival-game-out-this-week-on-steam-where-youre-stranded-on-mars-and-have-to-grow-potatoes-to-survive/",
           "date": "2026-07-28T22:11:25+00:00",
@@ -1926,20 +2011,6 @@
           "date": "2026-07-28T16:12:26+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/EuhkLmk53rtD6iWRWCtvee-1280-80.jpg",
           "summary": "It's good to see that at least someone's doing well."
-        },
-        {
-          "title": "You can now play Morrowind entirely in your browser: 'Honestly just wanted to see if it could be done'",
-          "link": "https://www.pcgamer.com/games/the-elder-scrolls/you-can-now-play-morrowind-entirely-in-your-browser-honestly-just-wanted-to-see-if-it-could-be-done/",
-          "date": "2026-07-28T16:03:09+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/JmF4o6RuMPxHWWr64cRf5N-1280-80.jpg",
-          "summary": "Good if you've got some downtime at work. On your lunch break, of course."
-        },
-        {
-          "title": "OpenAI CEO thinks the AI singularity is already upon us and that cracking down on it wouldn't be good for humanity, because of course he does",
-          "link": "https://www.pcgamer.com/software/ai/openai-ceo-thinks-the-ai-singularity-is-already-upon-us-and-that-cracking-down-on-it-wouldnt-be-good-for-humanity-because-of-course-he-does/",
-          "date": "2026-07-28T15:36:18+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NZnFNXaxKppYC46BxGjkDG-1280-80.jpg",
-          "summary": "It makes sense that the OpenAI CEO wants you to think that AI is very, very intelligent."
         }
       ],
       "ok": true
@@ -2340,6 +2411,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "Pentagon launches race for cheap 600-mile strike weapon with rapid testing plan",
+          "link": "https://interestingengineering.com/military/pentagon-launches-race-for-cheap-600-mile-strike-weapon-with-rapid-testing-plan",
+          "date": "2026-07-29T01:15:54+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/lbmmleblmuc.jpg",
+          "summary": "The Pentagon has just launched an effort to build a new generation of low-cost, long-range..."
+        },
+        {
           "title": "US and UAE launch first-ever bilateral defense tech task force for cyber operations",
           "link": "https://interestingengineering.com/ai-robotics/us-uae-first-defense-tech-task-force",
           "date": "2026-07-28T23:29:56+00:00",
@@ -2401,13 +2479,6 @@
           "date": "2026-07-28T16:40:49+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/jghybtmj7xc_d0f555.jpg",
           "summary": "A US marine energy company has begun preparing to test a new modular tidal turbine..."
-        },
-        {
-          "title": "Meta hands BlackRock 80% stake in $14B Texas data center, keeps full campus control",
-          "link": "https://interestingengineering.com/ai-robotics/meta-blackrock-texas-el-paso-data-center",
-          "date": "2026-07-28T16:21:36+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-28T214551.836.jpg",
-          "summary": "Meta Platforms and BlackRock have formed a joint venture to develop and own a massive..."
         }
       ],
       "ok": true
@@ -2588,6 +2659,13 @@
       "feed_img": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
       "items": [
         {
+          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+          "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+          "date": "2026-07-29T01:00:36+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-500x500.jpg",
+          "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4."
+        },
+        {
           "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
           "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
           "date": "2026-07-28T22:09:00+00:00",
@@ -2649,13 +2727,6 @@
           "date": "2026-07-28T18:31:13+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-500x500.jpg",
           "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them."
-        },
-        {
-          "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-          "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-          "date": "2026-07-28T16:16:25+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg",
-          "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism."
         }
       ],
       "ok": true
@@ -2680,11 +2751,18 @@
       "feed_img": null,
       "items": [
         {
-          "title": "Age Bias Claims Place Magnifying Glass On Recent AECOM, HNTB and Gehry Partners Suits",
+          "title": "Arcadis Snaps Up Spanish Engineer as It Weighs WSP’s $5.4B Takeover Proposal",
+          "link": "https://www.enr.com/articles/63388-arcadis-snaps-up-spanish-engineering-firm-as-it-weighs-wsps-54b-takeover-proposal",
+          "date": "2026-07-29T00:17:04+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/07/28/Transmission_Lines_Europe_ENRwebready.webp?t=1785283997",
+          "summary": "The Dutch firm says latest acquisition will advance its power and data center expertise as it looks to “accelerate growth, improve margins and enhance cash generation.”"
+        },
+        {
+          "title": "Age Bias Claims Place Magnifying Glass on Recent AECOM, HNTB and Gehry Partners Suits",
           "link": "https://www.enr.com/articles/63371-age-bias-claims-place-magnifying-glass-on-recent-aecom-hntb-and-gehry-partners-suits",
           "date": "2026-07-28T22:09:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/07/24/layoffs-of-older-workers-prompt-lawsuits.webp?t=1785273570",
-          "summary": "AECOM is arbitrating a claim by a former unit president. court records show."
+          "image": "https://www.enr.com/ext/resources/2026/07/24/layoffs-of-older-workers-prompt-lawsuits.webp?t=1785287410",
+          "summary": "AECOM is arbitrating a claim by a former unit president, court records show."
         },
         {
           "title": "Magnitude 6.8 Earthquake Rattles Southern Japan",
@@ -2694,7 +2772,7 @@
           "summary": "Cracked highways and a report of fatalities at a partially collapsed shopping mall in Japan's Kumamoto prefecture followed the July 28 quake."
         },
         {
-          "title": "Workers Trapped in Storm Sewer in Chicago Suburb; One Still Missing",
+          "title": "Two Workers Trapped in Storm Sewer in Chicago Suburb; One Dies",
           "link": "https://www.enr.com/articles/63386-workers-trapped-in-storm-sewer-in-chicago-suburb-one-still-missing",
           "date": "2026-07-28T21:21:43+00:00",
           "image": "https://www.enr.com/ext/resources/2026/07/28/1Contractors-trapped-Downers-Grove-Storm-Sewer3.webp?t=1785274593",
@@ -2741,13 +2819,6 @@
           "date": "2026-07-28T11:08:52+00:00",
           "image": "https://www.enr.com/ext/resources/2026/07/27/U-of-A-Andrew-Weil-Center-for-Integrative-Medicine.webp?t=1785244553",
           "summary": "Now in its 30th year, the annual competition highlights design and construction excellence across projects built in Arizona, Nevada and New Mexico over the past year."
-        },
-        {
-          "title": "NYC Halts Second Office-to-Residential Conversion as Scrutiny Widens",
-          "link": "https://www.enr.com/articles/63379-nyc-halts-second-office-to-residential-conversion-as-scrutiny-widens",
-          "date": "2026-07-28T03:12:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/07/27/222-Broadway.webp?t=1785265033",
-          "summary": "New city buildings department records reveal inspectors escalated enforcement at Manhattan's 222 Broadway after earlier stop-work actions and alleged reporting failures involving…"
         }
       ],
       "ok": true
