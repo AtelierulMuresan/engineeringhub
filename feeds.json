@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T03:29:14.692790+00:00",
+  "updated": "2026-07-29T04:39:49.386014+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -486,79 +486,8 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "feed_img": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-      "items": [
-        {
-          "title": "Safran Aero Boosters and BMT Aerospace to 3D Print Large-Scale Titanium Components for the F135 Engine",
-          "link": "https://3dprintingindustry.com/news/safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine-253366/?utm_source=rss&utm_medium=rss&utm_campaign=safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine",
-          "date": "2026-07-28T13:34:22+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/d8a23395-49d9-4a2c-9eb1-fb3731ffac78-150x100.jpeg",
-          "summary": "Belgium-based Safran Aero Boosters has signed an agreement with Pratt &#38; Whitney to qualify and deliver large-scale, highly complex components for the F135 engine that powers…"
-        },
-        {
-          "title": "Lyten’s 3D Graphene Filament Becomes Standard Material for Modovolo’s BFP Platform",
-          "link": "https://3dprintingindustry.com/news/lytens-3d-graphene-filament-becomes-standard-material-for-modovolos-bfp-platform-253374/?utm_source=rss&utm_medium=rss&utm_campaign=lytens-3d-graphene-filament-becomes-standard-material-for-modovolos-bfp-platform",
-          "date": "2026-07-28T08:31:28+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/pr-lyten-modovolo2-150x100.jpg",
-          "summary": "Supermaterial applications company Lyten has been named the primary filament supplier for American aerospace and defense company Modovolo&#8217;s BFP platform, a transportable 3D…"
-        },
-        {
-          "title": "AI System Learns Each 3D Printer’s “Personality” to Cut Manufacturing Defects",
-          "link": "https://3dprintingindustry.com/news/ai-system-learns-each-3d-printers-personality-to-cut-manufacturing-defects-253371/?utm_source=rss&utm_medium=rss&utm_campaign=ai-system-learns-each-3d-printers-personality-to-cut-manufacturing-defects",
-          "date": "2026-07-28T08:23:40+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/1-s2.0-S147403462600652X-ga1_lrg-150x100.jpg",
-          "summary": "Researchers at IMDEA Materials Institute in Madrid, working with Lawrence Berkeley National Laboratory in the US, have developed an algorithm that detects hidden behavioral…"
-        },
-        {
-          "title": "GKN Aerospace Provides ‘Innovative Support’ to GTF Repairs with DED",
-          "link": "https://3dprintingindustry.com/news/gkn-aerospace-provides-innovative-support-to-gtf-repairs-with-ded-253384/?utm_source=rss&utm_medium=rss&utm_campaign=gkn-aerospace-provides-innovative-support-to-gtf-repairs-with-ded",
-          "date": "2026-07-28T08:23:10+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Directed-Energy-Deposition-DED-150x100.jpg",
-          "summary": "GKN Aerospace has won a series of multi-year repair contracts from Pratt &#38; Whitney covering more than 20 component types across the geared turbofan (GTF) engine family.&#160;…"
-        },
-        {
-          "title": "Nano Dimension’s $890 Million AI Healthcare Pivot Now Hangs in the Balance",
-          "link": "https://3dprintingindustry.com/news/nano-dimensions-890-million-ai-healthcare-pivot-now-hangs-in-the-balance-253378/?utm_source=rss&utm_medium=rss&utm_campaign=nano-dimensions-890-million-ai-healthcare-pivot-now-hangs-in-the-balance",
-          "date": "2026-07-27T14:43:34+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2023/07/Nano-Dimension-offices-in-Munich.-Photo-by-Michael-Petch-150x100.jpg",
-          "summary": "Last month, Israeli 3D printer manufacturer Nano Dimension signed a non-binding term sheet to merge with Infinite Epigenetics, an AI-powered preventive health and diagnostics…"
-        },
-        {
-          "title": "Addidex Connect Draws 170 Robotic LFAM Practitioners to 3D Printing Event",
-          "link": "https://3dprintingindustry.com/news/addidex-connect-draws-170-robotic-lfam-practitioners-to-3d-printing-event-253339/?utm_source=rss&utm_medium=rss&utm_campaign=addidex-connect-draws-170-robotic-lfam-practitioners-to-3d-printing-event",
-          "date": "2026-07-27T13:14:25+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Addidex-13-150x100.jpg",
-          "summary": "Roughly 170 practitioners in robotic large-format additive manufacturing (LFAM) attended the inaugural Addidex Connect event, held on June 30 and July 1, 2026 at 3D Makers Zone in…"
-        },
-        {
-          "title": "Researchers Find a Way to Stop 3D Printed Parts From Overheating Mid-Print",
-          "link": "https://3dprintingindustry.com/news/researchers-find-a-way-to-stop-3d-printed-parts-from-overheating-mid-print-253343/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-find-a-way-to-stop-3d-printed-parts-from-overheating-mid-print",
-          "date": "2026-07-27T13:14:11+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/volumetric-printer-image-10072026.x5f185fdf-150x100.jpg",
-          "summary": "A technique that 3D prints an entire object at once, instead of building it up layer by layer, has a heat problem. Researchers at the University of Nottingham, working with the…"
-        },
-        {
-          "title": "3D Printed Garment Is Built From Skin Data, Not a Size Chart",
-          "link": "https://3dprintingindustry.com/news/3d-printed-garment-is-built-from-skin-data-not-a-size-chart-253357/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-garment-is-built-from-skin-data-not-a-size-chart",
-          "date": "2026-07-27T13:13:46+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Diagram_Tavola-disegno-1-copia-2-150x100.png",
-          "summary": "Designer Laura Civetti wants clothing to stop being something the body simply wears and start being something it collaborates with. Her latest project, Adaptive System, is a…"
-        },
-        {
-          "title": "Polymaker’s HT-PLA Pro Doubles Impact Strength Without Losing Heat Resistance",
-          "link": "https://3dprintingindustry.com/news/polymakers-ht-pla-pro-doubles-impact-strength-without-losing-heat-resistance-253349/?utm_source=rss&utm_medium=rss&utm_campaign=polymakers-ht-pla-pro-doubles-impact-strength-without-losing-heat-resistance",
-          "date": "2026-07-27T10:01:51+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Instagram-02-150x100.jpg",
-          "summary": "The Utrecht-based filament maker Polymaker has launched HT-PLA Pro, a tougher version of its heat-stable HT-PLA filament aimed squarely at the two complaints that have followed…"
-        },
-        {
-          "title": "Skyroot’s Vikram-1 Reaches Orbit on India’s First Fully 3D Printed Rocket Engine",
-          "link": "https://3dprintingindustry.com/news/skyroots-vikram-1-reaches-orbit-on-indias-first-fully-3d-printed-rocket-engine-253353/?utm_source=rss&utm_medium=rss&utm_campaign=skyroots-vikram-1-reaches-orbit-on-indias-first-fully-3d-printed-rocket-engine",
-          "date": "2026-07-27T10:00:48+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/1782973105066-150x100.jpeg",
-          "summary": "Indian private rocket company Skyroot Aerospace&#8216;s Vikram-1 reached orbit on July 18 powered in part by a cluster of 3D printed engines, a detail that turns India&#8217;s…"
-        }
-      ],
+      "feed_img": null,
+      "items": [],
       "ok": true
     },
     {
@@ -652,6 +581,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "Sizing Up the Sargassum Belt",
+          "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+          "date": "2026-07-29T04:00:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&#038;h=1090&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs."
+        },
+        {
           "title": "Smoke Blankets Oregon",
           "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
           "date": "2026-07-28T04:01:00+00:00",
@@ -713,13 +649,6 @@
           "date": "2026-07-24T17:47:06+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
           "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal…"
-        },
-        {
-          "title": "New Crew Members Welcomed to International Space Station",
-          "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-          "date": "2026-07-24T16:43:02+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg?w=2048",
-          "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their…"
         }
       ],
       "ok": true
@@ -992,18 +921,18 @@
           "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026."
         },
         {
-          "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
-          "link": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
-          "date": "2026-07-28T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ox7cxa7sE4N3TKrfzYEo25-1280-80.jpg",
-          "summary": "An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky."
-        },
-        {
           "title": "On this day in space! July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist",
           "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026",
           "date": "2026-07-28T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/MuqUcXY2btGwqmmEBMEM8U-1280-80.png",
           "summary": "On July 28, 1851, the first-ever photo of a total solar eclipse was recorded by a Prussian daguerreotypist named Johann Julius Friedrich Berkowski. It changed solar astronomy."
+        },
+        {
+          "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
+          "link": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
+          "date": "2026-07-28T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ox7cxa7sE4N3TKrfzYEo25-1280-80.jpg",
+          "summary": "An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky."
         },
         {
           "title": "BALLS on the moon: China set to launch Africa's 1st lunar science mission in 2029",
@@ -1631,6 +1560,13 @@
       "feed_img": null,
       "items": [
         {
+          "title": "The Devil’s Mouth review: Prime Video’s killer-shark movie goes deeper than expected",
+          "link": "https://www.polygon.com/devils-mouth-movie-review-amazon-shark-horror/",
+          "date": "2026-07-29T04:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tdm_3.jpg",
+          "summary": "Lana Condor and Kathryn Newton star as codependent best friends whose Thailand vacation takes a deadly turn."
+        },
+        {
           "title": "BG3 third-person camera mod completely changes how you play Baldur's Gate 3",
           "link": "https://www.polygon.com/baldurs-gate-3-camera-mod-bg3/",
           "date": "2026-07-29T00:03:14+00:00",
@@ -1692,13 +1628,6 @@
           "date": "2026-07-28T18:40:40+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/caped-crusader-joker.jpg",
           "summary": "The spiritual successor to Batman: The Animated series delivers a few standout episodes, but doesn't live up to its ambitions"
-        },
-        {
-          "title": "'343 Guilty Spark' skulls and terminal locations in Halo Campaign Evolved",
-          "link": "https://www.polygon.com/halo-campaign-evolved-343-guilty-spark-skulls-terminals-locations-where-to-find/",
-          "date": "2026-07-28T18:25:09+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-343-guilty-spark-skulls-terminals-locations-header.jpg",
-          "summary": "A guide detailing where to find the three skulls and one terminal on the \"343 Guilty Spark\" mission in Halo: Campaign Evolved."
         }
       ],
       "ok": true
