@@ -7,6 +7,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
 
+/* ── THEME ── */
 :root {
   --bg:     #0d0f12;
   --surf:   #13161b;
@@ -20,36 +21,81 @@
   --violet: #a78bfa;
   --amber:  #f59e0b;
   --red:    #f87171;
+  --green:  #4ade80;
+  --new:    #fb923c;
   --mono: 'IBM Plex Mono', monospace;
   --sans: 'IBM Plex Sans', sans-serif;
+  --transition: .18s ease;
 }
+[data-theme="light"] {
+  --bg:    #f4f5f7;
+  --surf:  #ffffff;
+  --surf2: #eef0f3;
+  --bdr:   #dde0e6;
+  --bdr2:  #c4c9d4;
+  --txt:   #1a1f2e;
+  --muted: #7a8499;
+}
+
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
-body { background: var(--bg); color: var(--txt); font-family: var(--sans); font-size: 14px; line-height: 1.6; min-height: 100vh; }
+body { background: var(--bg); color: var(--txt); font-family: var(--sans); font-size: 14px; line-height: 1.6; min-height: 100vh; transition: background var(--transition), color var(--transition); }
+
+/* ── SKELETON SHIMMER ── */
+@keyframes shimmer {
+  0%   { background-position: -600px 0; }
+  100% { background-position:  600px 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, var(--surf2) 25%, var(--bdr) 50%, var(--surf2) 75%);
+  background-size: 600px 100%;
+  animation: shimmer 1.4s infinite linear;
+  border-radius: 4px;
+}
+.skel-img  { width: 100%; height: 195px; }
+.skel-line { height: 12px; margin: 8px 14px; border-radius: 3px; }
+.skel-line.short { width: 40%; }
+.skel-line.med   { width: 70%; }
+.skel-line.long  { width: 90%; }
 
 /* ── HEADER ── */
 header {
   border-bottom: 1px solid var(--bdr);
-  padding: 14px 28px;
-  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  padding: 13px 28px;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
   position: sticky; top: 0; z-index: 100;
   background: rgba(13,15,18,.96); backdrop-filter: blur(14px);
+  transition: background var(--transition);
 }
+[data-theme="light"] header { background: rgba(244,245,247,.96); }
 .logo { font-family: var(--mono); font-size: 12px; font-weight: 600; color: var(--blue); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
 .logo span { color: var(--muted); font-weight: 400; }
-.hdr-r { display: flex; align-items: center; gap: 10px; }
+
+.hdr-r { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 #status { font-family: var(--mono); font-size: 11px; color: var(--muted); }
-#status.ok  { color: var(--teal); }
-#status.err { color: var(--red);  }
+#status.ok    { color: var(--teal); }
+#status.err   { color: var(--red);  }
+#status.stale { color: var(--amber); }
+
+.hdr-btn {
+  font-family: var(--mono); font-size: 11px; background: none;
+  border: 1px solid var(--bdr2); color: var(--muted);
+  padding: 4px 11px; border-radius: 4px; cursor: pointer;
+  transition: border-color var(--transition), color var(--transition);
+  white-space: nowrap;
+}
+.hdr-btn:hover { border-color: var(--blue); color: var(--blue); }
+.hdr-btn.active { border-color: var(--amber); color: var(--amber); }
 
 /* ── TABS ── */
 nav { display: flex; padding: 0 28px; border-bottom: 1px solid var(--bdr); overflow-x: auto; scrollbar-width: none; }
 nav::-webkit-scrollbar { display: none; }
 .tab {
   font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
-  padding: 12px 18px 13px; border: none; background: none; color: var(--muted);
+  padding: 12px 16px 13px; border: none; background: none; color: var(--muted);
   cursor: pointer; border-bottom: 2px solid transparent; white-space: nowrap;
-  transition: color .15s, border-color .15s; position: relative; bottom: -1px;
+  transition: color var(--transition), border-color var(--transition);
+  position: relative; bottom: -1px;
 }
 .tab:hover { color: var(--txt); }
 .tab.active { color: var(--txt); border-bottom-color: var(--ta); }
@@ -58,10 +104,12 @@ nav::-webkit-scrollbar { display: none; }
 .tab[data-cat="space"]       { --ta: var(--teal);   }
 .tab[data-cat="gaming"]      { --ta: var(--violet); }
 .tab[data-cat="engineering"] { --ta: var(--amber);  }
-.badge { display: inline-block; background: var(--bdr); color: var(--muted); font-size: 9px; padding: 1px 5px; border-radius: 8px; margin-left: 5px; vertical-align: middle; min-width: 20px; text-align: center; }
+.tab[data-cat="saved"]       { --ta: var(--green);  }
+.badge { display: inline-block; background: var(--bdr); color: var(--muted); font-size: 9px; padding: 1px 5px; border-radius: 8px; margin-left: 4px; vertical-align: middle; min-width: 18px; text-align: center; transition: background var(--transition); }
+.tab.active .badge { background: var(--bdr2); }
 
 /* ── MAIN ── */
-main { padding: 24px 28px; max-width: 1440px; margin: 0 auto; }
+main { padding: 22px 28px; max-width: 1440px; margin: 0 auto; }
 .panel { display: none; }
 .panel.active { display: block; }
 
@@ -72,83 +120,118 @@ main { padding: 24px 28px; max-width: 1440px; margin: 0 auto; }
 .feed-card {
   background: var(--surf); border: 1px solid var(--bdr); border-radius: 10px;
   overflow: hidden; display: flex; flex-direction: column;
-  transition: border-color .2s, transform .15s;
+  transition: border-color var(--transition), transform var(--transition), opacity var(--transition);
 }
-.feed-card:hover { border-color: var(--bdr2); transform: translateY(-1px); }
+.feed-card:hover { border-color: var(--bdr2); transform: translateY(-2px); }
+.feed-card.collapsed .card-body,
+.feed-card.collapsed .hero-link { display: none; }
+.feed-card.hidden-feed { display: none; }
 
 .card-hdr {
-  padding: 10px 14px; border-bottom: 1px solid var(--bdr);
+  padding: 9px 12px; border-bottom: 1px solid var(--bdr);
   display: flex; align-items: center; gap: 8px; flex-shrink: 0;
 }
 .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
 .card-name { font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .06em; color: var(--txt); flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.card-ext { font-size: 11px; color: var(--muted); text-decoration: none; flex-shrink: 0; transition: color .15s; }
+.card-count { font-family: var(--mono); font-size: 9px; color: var(--muted); flex-shrink: 0; }
+.card-ext { font-size: 11px; color: var(--muted); text-decoration: none; flex-shrink: 0; transition: color var(--transition); }
 .card-ext:hover { color: var(--txt); }
+.collapse-btn { font-size: 13px; color: var(--muted); background: none; border: none; cursor: pointer; padding: 0 2px; line-height: 1; flex-shrink: 0; transition: color var(--transition); }
+.collapse-btn:hover { color: var(--txt); }
 
 /* ── HERO ── */
-.hero-link { display: block; text-decoration: none; color: inherit; flex-shrink: 0; transition: opacity .15s; }
-.hero-link:hover { opacity: .9; }
+.hero-link { display: block; text-decoration: none; color: inherit; flex-shrink: 0; transition: opacity var(--transition); }
+.hero-link:hover { opacity: .88; }
 .hero-img-wrap { width: 100%; height: 195px; overflow: hidden; background: var(--surf2); position: relative; }
 .hero-img-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .hero-placeholder { width: 100%; height: 195px; background: var(--surf2); display: flex; align-items: center; justify-content: center; }
-.hero-caption { padding: 11px 14px 13px; border-bottom: 1px solid var(--bdr); }
-.hero-label { font-family: var(--mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent-col); margin-bottom: 5px; }
+
+.hero-caption { padding: 11px 14px 12px; border-bottom: 1px solid var(--bdr); }
+.hero-top { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+.hero-label { font-family: var(--mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent-col); }
+.new-pill { font-family: var(--mono); font-size: 8px; letter-spacing: .08em; text-transform: uppercase; background: var(--new); color: #fff; padding: 1px 6px; border-radius: 10px; }
 .hero-title { font-size: 14px; font-weight: 500; color: var(--txt); line-height: 1.45; }
 .hero-summary { font-size: 12px; color: var(--muted); margin-top: 5px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.hero-meta { font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 6px; }
+.hero-meta { font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 6px; display: flex; align-items: center; gap: 10px; }
+.save-btn { background: none; border: none; cursor: pointer; font-size: 13px; color: var(--muted); padding: 0; line-height: 1; transition: color var(--transition), transform .1s; }
+.save-btn:hover { transform: scale(1.2); }
+.save-btn.saved { color: var(--amber); }
 
 /* ── LIST ITEMS ── */
 .card-body { flex: 1; overflow-y: auto; scrollbar-width: thin; scrollbar-color: var(--bdr) transparent; }
 .card-body::-webkit-scrollbar { width: 3px; }
 .card-body::-webkit-scrollbar-thumb { background: var(--bdr); border-radius: 2px; }
 
-.list-item { display: flex; align-items: stretch; border-bottom: 1px solid var(--bdr); text-decoration: none; color: inherit; transition: background .1s; min-height: 72px; }
+.list-item { display: flex; align-items: stretch; border-bottom: 1px solid var(--bdr); text-decoration: none; color: inherit; transition: background var(--transition); min-height: 72px; position: relative; }
 .list-item:last-child { border-bottom: none; }
-.list-item:hover { background: rgba(255,255,255,.025); }
+.list-item:hover { background: rgba(255,255,255,.03); }
+[data-theme="light"] .list-item:hover { background: rgba(0,0,0,.03); }
 
 .list-thumb-wrap { width: 90px; min-height: 72px; flex-shrink: 0; overflow: hidden; background: var(--surf2); }
 .list-thumb-wrap img { width: 90px; height: 100%; object-fit: cover; display: block; min-height: 72px; }
 .list-placeholder { width: 90px; min-height: 72px; display: flex; align-items: center; justify-content: center; background: var(--surf2); }
 
-.list-text { padding: 10px 13px; display: flex; flex-direction: column; justify-content: center; flex: 1; min-width: 0; }
-.list-title { font-size: 13px; font-weight: 400; color: var(--txt); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.list-meta { font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 3px; }
+.list-text { padding: 9px 10px 9px 12px; display: flex; flex-direction: column; justify-content: center; flex: 1; min-width: 0; }
+.list-title { font-size: 12px; color: var(--txt); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.list-meta-row { display: flex; align-items: center; gap: 8px; margin-top: 3px; }
+.list-meta { font-family: var(--mono); font-size: 10px; color: var(--muted); flex: 1; }
+.list-new { font-family: var(--mono); font-size: 8px; background: var(--new); color: #fff; padding: 1px 5px; border-radius: 8px; }
+.list-save { background: none; border: none; cursor: pointer; font-size: 12px; color: var(--muted); padding: 0; transition: color var(--transition); }
+.list-save:hover { color: var(--amber); }
+.list-save.saved { color: var(--amber); }
 
 .card-msg { padding: 28px 14px; text-align: center; font-family: var(--mono); font-size: 11px; color: var(--muted); }
 .card-msg.err { color: var(--red); }
 
-/* ── ALL PANEL ── */
-.all-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; gap: 10px; flex-wrap: wrap; }
-.all-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+/* ── ALL + SAVED PANELS ── */
+.panel-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; gap: 10px; flex-wrap: wrap; }
+.panel-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); }
 #q {
   font-family: var(--mono); font-size: 11px; background: var(--surf);
   border: 1px solid var(--bdr); color: var(--txt); padding: 6px 12px;
-  border-radius: 4px; outline: none; width: 220px; transition: border-color .2s;
+  border-radius: 4px; outline: none; width: 220px; transition: border-color var(--transition);
 }
 #q:focus { border-color: var(--blue); }
 #q::placeholder { color: var(--muted); }
 
 .all-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
-.all-card { display: block; text-decoration: none; color: inherit; background: var(--surf); border: 1px solid var(--bdr); border-radius: 8px; overflow: hidden; transition: border-color .2s, transform .15s; }
-.all-card:hover { border-color: var(--bdr2); transform: translateY(-1px); }
+.all-card { display: block; text-decoration: none; color: inherit; background: var(--surf); border: 1px solid var(--bdr); border-radius: 8px; overflow: hidden; transition: border-color var(--transition), transform var(--transition); position: relative; }
+.all-card:hover { border-color: var(--bdr2); transform: translateY(-2px); }
 .all-img-wrap { width: 100%; height: 148px; overflow: hidden; background: var(--surf2); }
 .all-img-wrap img { width: 100%; height: 148px; object-fit: cover; display: block; }
 .all-placeholder-img { width: 100%; height: 148px; display: flex; align-items: center; justify-content: center; background: var(--surf2); }
-.all-body { padding: 10px 12px 13px; }
-.all-src { font-family: var(--mono); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 4px; }
+.all-body { padding: 10px 12px 12px; }
+.all-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 3px; }
+.all-src { font-family: var(--mono); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; }
+.all-new { font-family: var(--mono); font-size: 8px; background: var(--new); color: #fff; padding: 1px 5px; border-radius: 8px; }
 .all-title { font-size: 13px; font-weight: 500; color: var(--txt); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-.all-date { font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 5px; }
+.all-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 6px; }
+.all-date { font-family: var(--mono); font-size: 10px; color: var(--muted); }
+.all-save { background: none; border: none; cursor: pointer; font-size: 13px; color: var(--muted); padding: 0; transition: color var(--transition); }
+.all-save:hover { color: var(--amber); }
+.all-save.saved { color: var(--amber); }
 
-.placeholder { padding: 60px; text-align: center; font-family: var(--mono); font-size: 12px; color: var(--muted); line-height: 2.2; }
+/* ── STALE WARNING ── */
+#stale-banner {
+  display: none; background: rgba(245,158,11,.12); border: 1px solid rgba(245,158,11,.3);
+  border-radius: 6px; padding: 8px 16px; margin-bottom: 16px;
+  font-family: var(--mono); font-size: 11px; color: var(--amber);
+}
+
+.placeholder { padding: 60px; text-align: center; font-family: var(--mono); font-size: 12px; color: var(--muted); line-height: 2.4; }
 
 /* ── FOOTER ── */
-footer { border-top: 1px solid var(--bdr); padding: 14px 28px; font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center; }
+footer { border-top: 1px solid var(--bdr); padding: 13px 28px; font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center; }
+
+/* ── KEYBOARD HINT ── */
+#kb-hint { position: fixed; bottom: 14px; right: 18px; font-family: var(--mono); font-size: 10px; color: var(--muted); background: var(--surf); border: 1px solid var(--bdr); border-radius: 6px; padding: 6px 10px; line-height: 1.8; pointer-events: none; opacity: 0; transition: opacity .3s; }
+#kb-hint.show { opacity: 1; }
 
 @media (max-width: 640px) {
   header, main { padding-left: 14px; padding-right: 14px; }
   nav { padding-left: 14px; }
   .panel-grid, .all-grid { grid-template-columns: 1fr; }
-  #q { width: 150px; }
+  #q { width: 140px; }
 }
 </style>
 </head>
@@ -156,7 +239,11 @@ footer { border-top: 1px solid var(--bdr); padding: 14px 28px; font-family: var(
 
 <header>
   <div class="logo">Engineering<span> // </span>Intelligence Hub</div>
-  <div class="hdr-r"><span id="status">Loading…</span></div>
+  <div class="hdr-r">
+    <span id="status">Loading…</span>
+    <button class="hdr-btn" id="theme-btn" onclick="toggleTheme()" title="Toggle light/dark (T)">☀ Light</button>
+    <button class="hdr-btn" id="kb-btn"    onclick="toggleKbHint()" title="Keyboard shortcuts">⌨ Keys</button>
+  </div>
 </header>
 
 <nav>
@@ -165,25 +252,42 @@ footer { border-top: 1px solid var(--bdr); padding: 14px 28px; font-family: var(
   <button class="tab"        data-cat="space"       onclick="switchTab(this)">Space &amp; Physics <span class="badge" id="b-space">—</span></button>
   <button class="tab"        data-cat="gaming"      onclick="switchTab(this)">Gaming <span class="badge" id="b-gaming">—</span></button>
   <button class="tab"        data-cat="engineering" onclick="switchTab(this)">Engineering <span class="badge" id="b-engineering">—</span></button>
+  <button class="tab"        data-cat="saved"       onclick="switchTab(this)">★ Saved <span class="badge" id="b-saved">0</span></button>
 </nav>
 
 <main>
+  <!-- ALL -->
   <div class="panel active" id="panel-all">
-    <div class="all-toolbar">
-      <span class="all-meta" id="all-meta">—</span>
-      <input id="q" type="search" placeholder="Search articles…" oninput="renderAll()" autocomplete="off"/>
+    <div id="stale-banner">⚠ Feeds data is more than 3 hours old — the GitHub Action may have failed. Check your repo's Actions tab.</div>
+    <div class="panel-toolbar">
+      <span class="panel-meta" id="all-meta">—</span>
+      <input id="q" type="search" placeholder="Search… (press /)" oninput="renderAll()" autocomplete="off"/>
     </div>
     <div class="all-grid" id="all-grid"><div class="placeholder">Loading feeds.json…</div></div>
   </div>
+  <!-- CATEGORY PANELS -->
   <div class="panel" id="panel-automotive"><div class="panel-grid" id="grid-automotive"></div></div>
   <div class="panel" id="panel-space"><div class="panel-grid" id="grid-space"></div></div>
   <div class="panel" id="panel-gaming"><div class="panel-grid" id="grid-gaming"></div></div>
   <div class="panel" id="panel-engineering"><div class="panel-grid" id="grid-engineering"></div></div>
+  <!-- SAVED -->
+  <div class="panel" id="panel-saved">
+    <div class="panel-toolbar"><span class="panel-meta" id="saved-meta">—</span></div>
+    <div class="all-grid" id="saved-grid"><div class="placeholder">No saved articles yet.<br>Click ☆ on any article to save it.</div></div>
+  </div>
 </main>
 
 <footer>Engineering Intelligence Hub &nbsp;·&nbsp; <span id="foot-time"></span></footer>
+<div id="kb-hint">
+  1–5 &nbsp; switch tabs<br>
+  6 &nbsp;&nbsp;&nbsp; saved tab<br>
+  / &nbsp;&nbsp;&nbsp;&nbsp; search<br>
+  T &nbsp;&nbsp;&nbsp; light/dark<br>
+  Esc &nbsp; clear search
+</div>
 
 <script>
+// ── CONSTANTS ───────────────────────────────────────────────────────────────
 const CAT_COLOR = { automotive:'#3b82f6', space:'#22d3a0', gaming:'#a78bfa', engineering:'#f59e0b' };
 const HOME = {
   'BMW Group PressClub':'https://www.press.bmwgroup.com/global',
@@ -231,70 +335,149 @@ const HOME = {
   'Electronic Design':'https://www.electronicdesign.com',
   'ENR':'https://www.enr.com',
 };
+const TABS = ['all','automotive','space','gaming','engineering','saved'];
+const NEW_THRESHOLD_H = 6; // hours
 
-let allArticles = [];
-let feedData    = [];
+// ── STATE ───────────────────────────────────────────────────────────────────
+let allArticles  = [];
+let feedData     = [];
+let saved        = new Set(JSON.parse(localStorage.getItem('hub_saved') || '[]'));
+let hiddenFeeds  = new Set(JSON.parse(localStorage.getItem('hub_hidden') || '[]'));
+let kbHintShown  = false;
 
-// ── Safe image element — built via DOM, no innerHTML escaping nightmares ──
-function makeImg(src, className, alt) {
-  const img = document.createElement('img');
-  img.src = src;
-  img.alt = alt || '';
-  img.className = className;
-  img.loading = 'lazy';
-  return img;
+// ── PERSIST ─────────────────────────────────────────────────────────────────
+function persistSaved()  { localStorage.setItem('hub_saved',  JSON.stringify([...saved])); }
+function persistHidden() { localStorage.setItem('hub_hidden', JSON.stringify([...hiddenFeeds])); }
+
+// ── THEME ───────────────────────────────────────────────────────────────────
+function applyTheme(t) {
+  document.documentElement.setAttribute('data-theme', t);
+  document.getElementById('theme-btn').textContent = t === 'light' ? '🌙 Dark' : '☀ Light';
+  localStorage.setItem('hub_theme', t);
+}
+function toggleTheme() {
+  applyTheme(document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light');
+}
+// Apply saved theme immediately
+applyTheme(localStorage.getItem('hub_theme') || 'dark');
+
+// ── KEYBOARD HINT ───────────────────────────────────────────────────────────
+function toggleKbHint() {
+  kbHintShown = !kbHintShown;
+  document.getElementById('kb-hint').classList.toggle('show', kbHintShown);
+  document.getElementById('kb-btn').classList.toggle('active', kbHintShown);
 }
 
-// ── Placeholder div when no image ──
-function makePlaceholder(className) {
-  const d = document.createElement('div');
-  d.className = className;
-  d.innerHTML = `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" style="opacity:.15;color:var(--muted)">
-    <rect x="3" y="3" width="18" height="18" rx="2"/>
-    <circle cx="8.5" cy="8.5" r="1.5"/>
-    <polyline points="21 15 16 10 5 21"/>
-  </svg>`;
-  return d;
+// ── HELPERS ─────────────────────────────────────────────────────────────────
+const ICON_SVG = `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" style="opacity:.15;color:var(--muted)">
+  <rect x="3" y="3" width="18" height="18" rx="2"/>
+  <circle cx="8.5" cy="8.5" r="1.5"/>
+  <polyline points="21 15 16 10 5 21"/>
+</svg>`;
+
+function isNew(iso) {
+  if (!iso) return false;
+  return (Date.now() - new Date(iso).getTime()) < NEW_THRESHOLD_H * 3600000;
 }
 
-// ── Image wrapper that swaps to placeholder on error ──
-function makeImgWrap(src, wrapClass, imgClass, placeholderClass, alt) {
+function makeImgWrap(src, wrapCls, placeholderCls, alt) {
   const wrap = document.createElement('div');
-  wrap.className = wrapClass;
+  wrap.className = wrapCls;
   if (src) {
-    const img = makeImg(src, imgClass, alt);
-    img.onerror = function() {
-      wrap.innerHTML = '';
-      wrap.appendChild(makePlaceholder(placeholderClass));
-    };
+    const img = document.createElement('img');
+    img.src = src; img.alt = alt || ''; img.loading = 'lazy';
+    img.onerror = () => { wrap.innerHTML = ''; const p = document.createElement('div'); p.className = placeholderCls; p.innerHTML = ICON_SVG; wrap.appendChild(p); };
     wrap.appendChild(img);
   } else {
-    wrap.appendChild(makePlaceholder(placeholderClass));
+    const p = document.createElement('div'); p.className = placeholderCls; p.innerHTML = ICON_SVG; wrap.appendChild(p);
   }
   return wrap;
 }
 
-// ── Build one feed card ──
+function makeSaveBtn(article, cls) {
+  const btn = document.createElement('button');
+  btn.className = cls + (saved.has(article.link) ? ' saved' : '');
+  btn.textContent = saved.has(article.link) ? '★' : '☆';
+  btn.title = 'Save article';
+  btn.onclick = e => {
+    e.preventDefault(); e.stopPropagation();
+    if (saved.has(article.link)) {
+      saved.delete(article.link);
+      btn.textContent = '☆'; btn.classList.remove('saved');
+    } else {
+      saved.add(article.link);
+      btn.textContent = '★'; btn.classList.add('saved');
+    }
+    persistSaved();
+    updateSavedBadge();
+    if (document.querySelector('.tab[data-cat="saved"]').classList.contains('active')) renderSaved();
+    // sync all other save buttons for same article
+    document.querySelectorAll(`[data-link="${CSS.escape(article.link)}"]`).forEach(b => {
+      const isSaved = saved.has(article.link);
+      b.textContent = isSaved ? '★' : '☆';
+      b.classList.toggle('saved', isSaved);
+    });
+  };
+  btn.dataset.link = article.link;
+  return btn;
+}
+
+// ── SKELETON CARDS ──────────────────────────────────────────────────────────
+function makeSkeletonCard() {
+  const card = document.createElement('div');
+  card.className = 'feed-card';
+  card.innerHTML = `
+    <div class="card-hdr" style="gap:8px">
+      <div class="skeleton" style="width:8px;height:8px;border-radius:50%;flex-shrink:0"></div>
+      <div class="skeleton" style="height:10px;flex:1;border-radius:3px"></div>
+    </div>
+    <div class="skeleton skel-img"></div>
+    <div style="padding:4px 0">
+      <div class="skeleton skel-line short"></div>
+      <div class="skeleton skel-line long"></div>
+      <div class="skeleton skel-line med"></div>
+      <div class="skeleton skel-line short"></div>
+    </div>`;
+  return card;
+}
+
+// ── BUILD FEED CARD ──────────────────────────────────────────────────────────
 function buildCard(feed) {
   const color = CAT_COLOR[feed.cat] || '#888';
   const home  = HOME[feed.name] || '#';
+  const feedKey = btoa(encodeURIComponent(feed.name));
 
   const card = document.createElement('div');
-  card.className = 'feed-card';
+  card.className = 'feed-card' + (hiddenFeeds.has(feed.name) ? ' hidden-feed' : '');
   card.style.setProperty('--accent-col', color);
+  card.dataset.feedName = feed.name;
 
-  // Header
+  // ── Header ──
   const hdr = document.createElement('div');
   hdr.className = 'card-hdr';
-  hdr.innerHTML = `<span class="dot" style="background:${color}"></span>
-    <span class="card-name">${esc(feed.name)}</span>`;
+
+  const dot = document.createElement('span');
+  dot.className = 'dot'; dot.style.background = color;
+
+  const name = document.createElement('span');
+  name.className = 'card-name'; name.textContent = feed.name;
+
+  const count = document.createElement('span');
+  count.className = 'card-count';
+  count.textContent = feed.items.length ? `${feed.items.length}` : '';
+
+  const colBtn = document.createElement('button');
+  colBtn.className = 'collapse-btn'; colBtn.textContent = '−'; colBtn.title = 'Collapse';
+  colBtn.onclick = () => {
+    const collapsed = card.classList.toggle('collapsed');
+    colBtn.textContent = collapsed ? '+' : '−';
+    colBtn.title = collapsed ? 'Expand' : 'Collapse';
+  };
+
   const ext = document.createElement('a');
-  ext.className = 'card-ext';
-  ext.href = home;
-  ext.target = '_blank';
-  ext.rel = 'noopener';
-  ext.textContent = '↗';
-  hdr.appendChild(ext);
+  ext.className = 'card-ext'; ext.href = home; ext.target = '_blank'; ext.rel = 'noopener'; ext.textContent = '↗';
+
+  hdr.append(dot, name, count, colBtn, ext);
   card.appendChild(hdr);
 
   if (!feed.ok || !feed.items.length) {
@@ -307,151 +490,167 @@ function buildCard(feed) {
 
   const [hero, ...rest] = feed.items;
 
-  // ── Hero item ──
+  // ── Hero ──
   const heroLink = document.createElement('a');
-  heroLink.className = 'hero-link';
-  heroLink.href = hero.link;
-  heroLink.target = '_blank';
-  heroLink.rel = 'noopener';
+  heroLink.className = 'hero-link'; heroLink.href = hero.link; heroLink.target = '_blank'; heroLink.rel = 'noopener';
+  heroLink.appendChild(makeImgWrap(hero.image, 'hero-img-wrap', 'hero-placeholder', hero.title));
 
-  heroLink.appendChild(
-    makeImgWrap(hero.image, 'hero-img-wrap', '', 'hero-placeholder', hero.title)
-  );
+  const cap = document.createElement('div'); cap.className = 'hero-caption';
 
-  const caption = document.createElement('div');
-  caption.className = 'hero-caption';
+  const heroTop = document.createElement('div'); heroTop.className = 'hero-top';
+  const lbl = document.createElement('div'); lbl.className = 'hero-label'; lbl.textContent = 'Latest';
+  heroTop.appendChild(lbl);
+  if (isNew(hero.date)) { const pill = document.createElement('span'); pill.className = 'new-pill'; pill.textContent = 'NEW'; heroTop.appendChild(pill); }
+  cap.appendChild(heroTop);
 
-  const label = document.createElement('div');
-  label.className = 'hero-label';
-  label.textContent = 'Latest';
-  caption.appendChild(label);
+  const ttl = document.createElement('div'); ttl.className = 'hero-title'; ttl.textContent = hero.title; cap.appendChild(ttl);
+  if (hero.summary) { const s = document.createElement('div'); s.className = 'hero-summary'; s.textContent = hero.summary; cap.appendChild(s); }
 
-  const title = document.createElement('div');
-  title.className = 'hero-title';
-  title.textContent = hero.title;
-  caption.appendChild(title);
+  const heroMeta = document.createElement('div'); heroMeta.className = 'hero-meta';
+  const heroTime = document.createElement('span'); heroTime.textContent = ago(hero.date); heroMeta.appendChild(heroTime);
+  const heroSave = makeSaveBtn({title:hero.title, link:hero.link, image:hero.image, source:feed.name, color, cat:feed.cat, date:hero.date}, 'save-btn');
+  heroMeta.appendChild(heroSave);
+  cap.appendChild(heroMeta);
 
-  if (hero.summary) {
-    const sum = document.createElement('div');
-    sum.className = 'hero-summary';
-    sum.textContent = hero.summary;
-    caption.appendChild(sum);
-  }
-
-  const meta = document.createElement('div');
-  meta.className = 'hero-meta';
-  meta.textContent = ago(hero.date);
-  caption.appendChild(meta);
-
-  heroLink.appendChild(caption);
+  heroLink.appendChild(cap);
   card.appendChild(heroLink);
 
-  // ── List items ──
+  // ── List ──
   if (rest.length) {
-    const body = document.createElement('div');
-    body.className = 'card-body';
-
+    const body = document.createElement('div'); body.className = 'card-body';
     rest.forEach(it => {
       const row = document.createElement('a');
-      row.className = 'list-item';
-      row.href = it.link;
-      row.target = '_blank';
-      row.rel = 'noopener';
+      row.className = 'list-item'; row.href = it.link; row.target = '_blank'; row.rel = 'noopener';
+      row.appendChild(makeImgWrap(it.image, 'list-thumb-wrap', 'list-placeholder', ''));
 
-      row.appendChild(
-        makeImgWrap(it.image, 'list-thumb-wrap', '', 'list-placeholder', '')
-      );
+      const txt = document.createElement('div'); txt.className = 'list-text';
+      const t = document.createElement('div'); t.className = 'list-title'; t.textContent = it.title; txt.appendChild(t);
 
-      const txt = document.createElement('div');
-      txt.className = 'list-text';
-
-      const t = document.createElement('div');
-      t.className = 'list-title';
-      t.textContent = it.title;
-      txt.appendChild(t);
-
-      const m = document.createElement('div');
-      m.className = 'list-meta';
-      m.textContent = ago(it.date);
-      txt.appendChild(m);
-
-      row.appendChild(txt);
-      body.appendChild(row);
+      const mr = document.createElement('div'); mr.className = 'list-meta-row';
+      const m = document.createElement('div'); m.className = 'list-meta'; m.textContent = ago(it.date); mr.appendChild(m);
+      if (isNew(it.date)) { const n = document.createElement('span'); n.className = 'list-new'; n.textContent = 'NEW'; mr.appendChild(n); }
+      const ls = makeSaveBtn({title:it.title, link:it.link, image:it.image, source:feed.name, color, cat:feed.cat, date:it.date}, 'list-save');
+      mr.appendChild(ls);
+      txt.appendChild(mr); row.appendChild(txt); body.appendChild(row);
     });
-
     card.appendChild(body);
   }
-
   return card;
 }
 
-// ── All panel — card grid ──
+// ── ALL GRID ─────────────────────────────────────────────────────────────────
 function renderAll() {
   const q    = (document.getElementById('q').value || '').toLowerCase().trim();
   const grid = document.getElementById('all-grid');
   const meta = document.getElementById('all-meta');
 
   const filtered = q
-    ? allArticles.filter(a =>
-        a.title.toLowerCase().includes(q) ||
-        a.source.toLowerCase().includes(q))
+    ? allArticles.filter(a => a.title.toLowerCase().includes(q) || a.source.toLowerCase().includes(q))
     : allArticles;
 
   meta.textContent = q
     ? `${filtered.length} results for "${q}"`
-    : `${allArticles.length} articles · ${feedData.filter(f => f.ok).length} / ${feedData.length} feeds OK`;
+    : `${allArticles.length} articles · ${feedData.filter(f=>f.ok).length}/${feedData.length} feeds OK`;
 
   grid.innerHTML = '';
-  if (!filtered.length) {
-    grid.innerHTML = '<div class="placeholder">No articles found.</div>';
-    return;
-  }
+  if (!filtered.length) { grid.innerHTML = '<div class="placeholder">No articles found.</div>'; return; }
 
   filtered.forEach(a => {
     const card = document.createElement('a');
-    card.className = 'all-card';
-    card.href = a.link;
-    card.target = '_blank';
-    card.rel = 'noopener';
+    card.className = 'all-card'; card.href = a.link; card.target = '_blank'; card.rel = 'noopener';
+    card.appendChild(makeImgWrap(a.image, 'all-img-wrap', 'all-placeholder-img', ''));
 
-    card.appendChild(
-      makeImgWrap(a.image, 'all-img-wrap', '', 'all-placeholder-img', '')
-    );
+    const body = document.createElement('div'); body.className = 'all-body';
 
-    const body = document.createElement('div');
-    body.className = 'all-body';
+    const top = document.createElement('div'); top.className = 'all-top';
+    const src = document.createElement('div'); src.className = 'all-src'; src.style.color = a.color; src.textContent = a.source; top.appendChild(src);
+    if (isNew(a.date)) { const n = document.createElement('span'); n.className = 'all-new'; n.textContent = 'NEW'; top.appendChild(n); }
+    body.appendChild(top);
 
-    const src = document.createElement('div');
-    src.className = 'all-src';
-    src.style.color = a.color;
-    src.textContent = a.source;
-    body.appendChild(src);
+    const ttl = document.createElement('div'); ttl.className = 'all-title'; ttl.textContent = a.title; body.appendChild(ttl);
 
-    const ttl = document.createElement('div');
-    ttl.className = 'all-title';
-    ttl.textContent = a.title;
-    body.appendChild(ttl);
+    const footer = document.createElement('div'); footer.className = 'all-footer';
+    const dt = document.createElement('div'); dt.className = 'all-date'; dt.textContent = ago(a.date); footer.appendChild(dt);
+    const sv = makeSaveBtn(a, 'all-save'); footer.appendChild(sv);
+    body.appendChild(footer);
 
-    const dt = document.createElement('div');
-    dt.className = 'all-date';
-    dt.textContent = ago(a.date);
-    body.appendChild(dt);
-
-    card.appendChild(body);
-    grid.appendChild(card);
+    card.appendChild(body); grid.appendChild(card);
   });
 }
 
-// ── LOAD ──
+// ── SAVED PANEL ──────────────────────────────────────────────────────────────
+function renderSaved() {
+  const grid = document.getElementById('saved-grid');
+  const meta = document.getElementById('saved-meta');
+  const savedArticles = allArticles.filter(a => saved.has(a.link));
+  meta.textContent = `${savedArticles.length} saved article${savedArticles.length !== 1 ? 's' : ''}`;
+
+  grid.innerHTML = '';
+  if (!savedArticles.length) { grid.innerHTML = '<div class="placeholder">No saved articles yet.<br>Click ☆ on any article to save it.</div>'; return; }
+
+  savedArticles.forEach(a => {
+    const card = document.createElement('a');
+    card.className = 'all-card'; card.href = a.link; card.target = '_blank'; card.rel = 'noopener';
+    card.appendChild(makeImgWrap(a.image, 'all-img-wrap', 'all-placeholder-img', ''));
+
+    const body = document.createElement('div'); body.className = 'all-body';
+    const top = document.createElement('div'); top.className = 'all-top';
+    const src = document.createElement('div'); src.className = 'all-src'; src.style.color = a.color; src.textContent = a.source; top.appendChild(src);
+    body.appendChild(top);
+    const ttl = document.createElement('div'); ttl.className = 'all-title'; ttl.textContent = a.title; body.appendChild(ttl);
+    const footer = document.createElement('div'); footer.className = 'all-footer';
+    const dt = document.createElement('div'); dt.className = 'all-date'; dt.textContent = ago(a.date); footer.appendChild(dt);
+    const sv = makeSaveBtn(a, 'all-save'); footer.appendChild(sv);
+    body.appendChild(footer); card.appendChild(body); grid.appendChild(card);
+  });
+}
+
+function updateSavedBadge() {
+  const el = document.getElementById('b-saved');
+  if (el) el.textContent = saved.size;
+}
+
+// ── TABS ─────────────────────────────────────────────────────────────────────
+function switchTab(btn) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  const cat = btn.dataset.cat;
+  document.getElementById(`panel-${cat}`).classList.add('active');
+  if (cat === 'saved') renderSaved();
+}
+
+function switchTabByIndex(i) {
+  const tabs = document.querySelectorAll('.tab');
+  if (tabs[i]) switchTab(tabs[i]);
+}
+
+// ── LOAD ─────────────────────────────────────────────────────────────────────
 async function load() {
+  // Show skeleton cards first
+  ['automotive','space','gaming','engineering'].forEach(cat => {
+    const grid = document.getElementById(`grid-${cat}`);
+    grid.innerHTML = '';
+    for (let i = 0; i < 6; i++) grid.appendChild(makeSkeletonCard());
+  });
+
   try {
     const r = await fetch('feeds.json?_=' + Date.now());
     if (!r.ok) throw new Error(`HTTP ${r.status} — feeds.json not found`);
     const data = await r.json();
 
-    feedData    = data.feeds || [];
+    feedData = data.feeds || [];
     allArticles = [];
 
+    // Check staleness (> 3 hours)
+    const updatedAt = new Date(data.updated);
+    const ageH = (Date.now() - updatedAt.getTime()) / 3600000;
+    if (ageH > 3) {
+      document.getElementById('stale-banner').style.display = 'block';
+      document.getElementById('status').className = 'stale';
+    }
+
+    // Clear skeleton grids
     ['automotive','space','gaming','engineering'].forEach(cat =>
       document.getElementById(`grid-${cat}`).innerHTML = ''
     );
@@ -462,57 +661,74 @@ async function load() {
       if (grid) grid.appendChild(buildCard(feed));
       feed.items.forEach(it => allArticles.push({
         title: it.title, link: it.link, date: it.date,
-        image: it.image || null, source: feed.name, color, cat: feed.cat,
+        image: it.image || null, summary: it.summary || '',
+        source: feed.name, color, cat: feed.cat,
       }));
     });
 
     allArticles.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
     renderAll();
 
-    ['all','automotive','space','gaming','engineering'].forEach(cat => {
+    // Update badges
+    const cats = ['automotive','space','gaming','engineering'];
+    cats.forEach(cat => {
       const el = document.getElementById(`b-${cat}`);
-      if (el) el.textContent = cat === 'all'
-        ? allArticles.length
-        : allArticles.filter(a => a.cat === cat).length;
+      if (el) el.textContent = allArticles.filter(a => a.cat === cat).length;
+    });
+    const allEl = document.getElementById('b-all');
+    if (allEl) allEl.textContent = allArticles.length;
+    updateSavedBadge();
+
+    // Apply hidden feeds
+    hiddenFeeds.forEach(name => {
+      document.querySelectorAll(`.feed-card[data-feed-name="${CSS.escape(name)}"]`).forEach(c => c.classList.add('hidden-feed'));
     });
 
-    const upd = new Date(data.updated);
-    const fmt = upd.toLocaleString('en-GB');
-    document.getElementById('status').textContent = `Updated ${fmt}`;
-    document.getElementById('status').className   = 'ok';
+    const fmt = updatedAt.toLocaleString('en-GB');
+    if (ageH <= 3) {
+      document.getElementById('status').textContent = `Updated ${fmt}`;
+      document.getElementById('status').className   = 'ok';
+    } else {
+      document.getElementById('status').textContent = `⚠ Updated ${fmt} (stale)`;
+    }
     document.getElementById('foot-time').textContent = `Feeds last fetched: ${fmt}`;
 
   } catch(e) {
     document.getElementById('status').textContent = `Error: ${e.message}`;
     document.getElementById('status').className   = 'err';
+    ['automotive','space','gaming','engineering'].forEach(cat =>
+      document.getElementById(`grid-${cat}`).innerHTML = ''
+    );
     document.getElementById('all-grid').innerHTML =
       `<div class="placeholder">⚠ Could not load feeds.json<br><br>
        Go to your GitHub repo → Actions → "Fetch RSS Feeds" → Run workflow<br>
-       Wait ~30 seconds, then refresh this page.</div>`;
+       Wait ~30 seconds, then refresh.</div>`;
   }
 }
 
-// ── TABS ──
-function switchTab(btn) {
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-  btn.classList.add('active');
-  document.getElementById(`panel-${btn.dataset.cat}`).classList.add('active');
-}
+// ── KEYBOARD SHORTCUTS ────────────────────────────────────────────────────────
+document.addEventListener('keydown', e => {
+  const tag = document.activeElement.tagName;
+  if (tag === 'INPUT' || tag === 'TEXTAREA') {
+    if (e.key === 'Escape') { document.getElementById('q').value = ''; renderAll(); document.getElementById('q').blur(); }
+    return;
+  }
+  if (e.key === '/') { e.preventDefault(); document.getElementById('q').focus(); return; }
+  if (e.key === 't' || e.key === 'T') { toggleTheme(); return; }
+  const n = parseInt(e.key);
+  if (n >= 1 && n <= 6) switchTabByIndex(n - 1);
+});
 
-// ── UTILS ──
+// ── UTILS ─────────────────────────────────────────────────────────────────────
 function ago(iso) {
   if (!iso) return '—';
   const d = Date.now() - new Date(iso).getTime();
   if (isNaN(d) || d < 0) return 'just now';
-  const m = Math.floor(d / 60000);  if (m < 1) return 'just now';
+  const m = Math.floor(d/60000);  if (m < 1)  return 'just now';
   if (m < 60)  return `${m}m ago`;
-  const h = Math.floor(m / 60);     if (h < 24) return `${h}h ago`;
-  const dy = Math.floor(h / 24);    if (dy < 7) return `${dy}d ago`;
-  return new Date(iso).toLocaleDateString('en-GB', { day:'numeric', month:'short' });
-}
-function esc(s) {
-  return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const h = Math.floor(m/60);     if (h < 24) return `${h}h ago`;
+  const dy = Math.floor(h/24);    if (dy < 7) return `${dy}d ago`;
+  return new Date(iso).toLocaleDateString('en-GB', {day:'numeric', month:'short'});
 }
 
 load();
