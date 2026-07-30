@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T00:01:40.909101+00:00",
+  "updated": "2026-07-30T03:58:12.554357+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Carvana’s new-vehicle push generates profit as Q2 used-vehicle sales, net income reach records",
+          "link": "https://www.autonews.com/retail/an-carvana-q2-2026-new-car-update-0729/",
+          "date": "2026-07-30T01:17:17+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/06wFGQLTtUTKiXMWSYxEDEtQg3c=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/YLLXZVQUPZCUPINZMNIMMLFMP4.png",
+          "summary": "Carvana's CEO said new car sales are profitable for the comapny, without offering further details. His comments came after the company reported robust net income and revenue gains…"
+        },
+        {
           "title": "U.S. loyalty rates by make, as of May 2026",
           "link": "https://www.autonews.com/data-center/sales-data/loyalty-rates/an-us-loyalty-rates-by-make-as-of-may-2026/",
           "date": "2026-07-29T22:37:48+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-07-29T17:40:05+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/einNxZGvLwDHbjLgIwS4Kq23akI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5WKM7LLQFZG7ZHX3PD2JUOBXEA.jpg",
           "summary": "Ford posts a $1.3 billion second-quarter net loss on charges tied to scrapped electric vehicle programs but raises its full-year guidance. The earthquake damage in Japan keeps…"
-        },
-        {
-          "title": "Major creditors challenge Grupo Antolin’s US restructuring case",
-          "link": "https://www.autonews.com/manufacturing/suppliers/pn-creditors-challenge-antolin-restructuring/",
-          "date": "2026-07-29T16:10:37+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0-HpQMWjCt9fsgDatWXmLizwSaM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/B46FXWWR3NFTRFY7VN46Q3ARWM.jpg",
-          "summary": "Major bondholders are challenging Grupo Antolin's U.S. restructuring as the automotive supplier seeks to reorganize more than $1.17 billion in debt amid continuing pressure on the…"
         }
       ],
       "ok": true,
@@ -998,18 +998,18 @@
           "summary": "\"We went wildly over budget and just made the biggest craziest season we could possible imagine.\""
         },
         {
-          "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
-          "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
-          "date": "2026-07-29T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/pg6ZJpcUgzGEsA3e4UyTHH-1280-80.jpg",
-          "summary": "Holy Stone HS900 Pro offers great features and flight performance but a few elements would benefit from refinement via a firmware update."
-        },
-        {
           "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
           "date": "2026-07-29T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/Y5UawxztiJtneCM7vgSYkY-1280-80.jpg",
           "summary": "SpaceX continues to collect imagery of the vehicle as it floats in the Indian Ocean five days after its most recent flight test."
+        },
+        {
+          "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
+          "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
+          "date": "2026-07-29T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/pg6ZJpcUgzGEsA3e4UyTHH-1280-80.jpg",
+          "summary": "Holy Stone HS900 Pro offers great features and flight performance but a few elements would benefit from refinement via a firmware update."
         },
         {
           "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
@@ -1268,6 +1268,34 @@
       "cat": "space",
       "items": [
         {
+          "title": "Quantum Physics Could Help Us Find Earth 2.0",
+          "link": "https://www.universetoday.com/articles/quantum-physics-could-help-us-find-earth-20",
+          "date": "2026-07-30T02:56:05+00:00",
+          "image": "https://www.universetoday.com/article_images/Artists_Impression_of_Exoplanet_K2-18b_2019-50-4569_20260730_025525.png",
+          "summary": "When astronomers talk about directly imaging an exoplanet that is orbiting a far away star, the analogy they most commonly go with is trying to spot a fireflight next to a massive…"
+        },
+        {
+          "title": "Astronomers Use \"Blind Stacking\" to Uncover Invisible Space Junk Threatening Geosynchronous Orbit",
+          "link": "https://www.universetoday.com/articles/astronomers-use-blind-stacking-to-uncover-invisible-space-junk-threatening-geosynchronous-orbit",
+          "date": "2026-07-30T02:00:46+00:00",
+          "image": "https://www.universetoday.com/article_images/Geostationary_orbit_ESA375612_20260730_020044.jpg",
+          "summary": "Geostationary orbit (GEO) is arguably one of the most important orbital spaces we have. So it's critical that we keep it clear of debris that could destroy the valuable GPS,…"
+        },
+        {
+          "title": "Scientists Map Moon Regolith to Aid Lunar Bases",
+          "link": "https://www.universetoday.com/articles/scientists-map-moon-regolith-to-aid-lunar-bases",
+          "date": "2026-07-30T01:52:50+00:00",
+          "image": "https://www.universetoday.com/article_images/Low-Res_rego2_20260730_014740.jpg",
+          "summary": "A strong foundation is key for any building construction, and this doesn’t just apply to construction on Earth. As humanity slowly expands throughout the many worlds of our solar…"
+        },
+        {
+          "title": "Tracking Satellites and Space Debris Using Radio Antennae",
+          "link": "https://www.universetoday.com/articles/tracking-satellites-and-space-debris-using-radio-antennae",
+          "date": "2026-07-30T00:08:41+00:00",
+          "image": "https://www.universetoday.com/article_images/1920_lovelltelescope-anthonyholloway-695535_20260729_230741.jpg",
+          "summary": "Every year, thousands and thousands of satellites get launched into orbit around our planet. The result is an increasingly congested \"space\" above Earth populated by equipment…"
+        },
+        {
           "title": "The Risks of Debris Between the Earth and the Moon for Future Exploration",
           "link": "https://www.universetoday.com/articles/the-risks-of-debris-between-the-earth-and-the-moon-for-future-exploration",
           "date": "2026-07-29T22:38:47+00:00",
@@ -1308,34 +1336,6 @@
           "date": "2026-07-29T01:13:25+00:00",
           "image": "https://www.universetoday.com/article_images/UNC-Chapel-Hill-Astronomers-Detect-One-of-the-Universes-Rarest-Black_20260729_010606.jpg",
           "summary": "What happens when a black hole and a star meet in the middle of nowhere in a galaxy? It sounds like it could be a dramatic science fiction backdrop, with some hapless starship…"
-        },
-        {
-          "title": "Samples of Lunar Rock Are Leading Scientists to Rethink the Moon's History",
-          "link": "https://www.universetoday.com/articles/samples-of-lunar-rock-are-leading-scientists-to-rethink-the-moons-history",
-          "date": "2026-07-28T23:44:14+00:00",
-          "image": "https://www.universetoday.com/article_images/lro-full-moon-2009_20260728_225757.jpg",
-          "summary": "Based on a new analysis of the Chang'e-6 lunar samples, scientists are again questioning the timing and intensity of the Late Heavy Bombardment period."
-        },
-        {
-          "title": "Astrobiology Offers Crucial Window Onto Earth’s Distant Past And Future",
-          "link": "https://www.universetoday.com/articles/astrobiology-offers-crucial-window-onto-earths-distant-past-and-future",
-          "date": "2026-07-28T22:48:00+00:00",
-          "image": "https://www.universetoday.com/article_images/PIA22093-NASA-1_20260728_221910.jpg",
-          "summary": "The search for extrasolar rocky planets circling other stars is more than mere science. It offers researchers a chance to gain crucial insight into how our own planet functions."
-        },
-        {
-          "title": "Galaxy Mergers May Not Stifle Star Formation After All, According to Illustris TNG",
-          "link": "https://www.universetoday.com/articles/galaxy-mergers-may-not-stifle-star-formation-after-all-according-to-illustris-tng",
-          "date": "2026-07-28T18:16:16+00:00",
-          "image": "https://www.universetoday.com/article_images/webb-arp-107-social_20260728_173849.jpg",
-          "summary": "In recent years, the idea that galaxy mergers are responsible for quenching galaxies has grown in importance. This paradigm says that galaxies merge, their black holes form a…"
-        },
-        {
-          "title": "A Distant Primordial Object May Be a Newborn Little Red Dot",
-          "link": "https://www.universetoday.com/articles/a-distant-primordial-object-may-be-a-newborn-little-red-dot",
-          "date": "2026-07-28T17:23:58+00:00",
-          "image": "https://www.universetoday.com/article_images/PLRD-NOM_20260728_014435.png",
-          "summary": "Little Red Dots are among the most intriguing discoveries made to date by the infrared-sensitive James Webb Space Telescope (JWST). They are distant, small objects that appear red…"
         }
       ],
       "ok": true,
@@ -1467,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Machine learning LDL-C equation comparable to original Martin-Hopkins",
+          "link": "https://phys.org/news/2026-07-machine-ldl-equation-martin-hopkins.html",
+          "date": "2026-07-30T00:40:03+00:00",
+          "image": null,
+          "summary": "A simplified machine learning-based low-density lipoprotein cholesterol (LDL-C) equation provides results that are comparable to the original Martin-Hopkins equation, according to…"
+        },
+        {
           "title": "Little red dots may mark temporary black hole phase",
           "link": "https://phys.org/news/2026-07-red-dots-temporary-black-hole.html",
           "date": "2026-07-29T19:10:01+00:00",
@@ -1528,13 +1535,6 @@
           "date": "2026-07-28T17:40:11+00:00",
           "image": null,
           "summary": "Scientists have reacted with alarm to news that the British government will cut funding to the world-famous radio telescope at the Jodrell Bank Observatory, a UNESCO World…"
-        },
-        {
-          "title": "Evidence of giant rings in Venus's atmosphere uncovered in archived observations",
-          "link": "https://phys.org/news/2026-07-evidence-giant-venus-atmosphere-uncovered.html",
-          "date": "2026-07-28T15:40:03+00:00",
-          "image": null,
-          "summary": "In 2010, scientists waiting to use the William Herschel Telescope in the Canary Islands captured a brief 36 minutes of images of Venus. They were waiting for the sun to set so…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Studio Ghibli's worst movie returns to theaters for its 20th anniversary next month",
+          "link": "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/",
+          "date": "2026-07-30T01:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tales-from-earthsea-4.jpg",
+          "summary": "Tales of Earthsea might not be Ghibli's most prized feature films, but it's still an ambitious project helmed by the son of Hayao Miyazaki."
+        },
+        {
+          "title": "Stylish action RPG Stupid Never Dies gets release date, new trailer",
+          "link": "https://www.polygon.com/stupid-never-dies-game-release-date-hiroyuki-kobayashi/",
+          "date": "2026-07-30T00:30:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/snd_teaser_001a_2k-1.png",
+          "summary": "Former Capcom developer Hiroyuki Kobayashi's studio GPTRACK50 announces release date for wildly stylish action-RPG Stupid Never Dies."
+        },
+        {
           "title": "The action epic fantasy that Paramount tried it kill is a officially a global streaming smash hit",
           "link": "https://www.polygon.com/avatar-aang-the-last-airbender-paramount-plus-number-1-streaming-movie/",
           "date": "2026-07-30T00:00:12+00:00",
@@ -1684,20 +1698,6 @@
           "date": "2026-07-29T18:49:23+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/keynote-8.jpg",
           "summary": "Naoki Yoshida teases free expansion skips for the MMORPG ahead of the FF14 Evercold Expansion"
-        },
-        {
-          "title": "4 wild details from The Mad King that completely change Game of Thrones canon",
-          "link": "https://www.polygon.com/game-of-thrones-the-mad-king-play-theories-price-who-was-promised-lore/",
-          "date": "2026-07-29T18:42:02+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3725400/Screen_Shot_2015-05-25_at_9.00.32_AM.0.png",
-          "summary": "The Mad King complicates popular fan theories about The Prince Who Was Promised, Daenerys, and Jon Snow. The production also settles many debates."
-        },
-        {
-          "title": "Pokémon Pokopia expansion pass DLC gets deep dive on Bubbly Basin",
-          "link": "https://www.polygon.com/pokemon-pokopia-bubbly-basin-dlc-new-details/",
-          "date": "2026-07-29T17:05:45+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/pokemon_pokopia_screenshot_6.jpg",
-          "summary": "Switch 2 game Pokémon Pokopia is getting its first DLC on Aug.5, sending Ditto to Bubbly Basin with a new Dive ability to meet Pokémon water types."
         }
       ],
       "ok": true,
@@ -1786,7 +1786,7 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Microsoft CEO Says Xbox Will ‘Return To Growth’ This Fiscal Year",
+          "title": "Here’s How Microsoft’s CEO Spoke About Xbox A Year Ago Vs. Now",
           "link": "https://kotaku.com/microsoft-ceo-says-xbox-will-return-to-growth-this-fiscal-year-2000720333",
           "date": "2026-07-29T22:47:22+00:00",
           "image": "https://kotaku.com/app/uploads/2025/09/xbox-logo2-1280x720.jpg",
@@ -1942,6 +1942,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "BeamNG.drive just had a graphics overhaul so we can finally watch a family hatchback navigate a speedbump at 100mph with dynamic ambient lighting",
+          "link": "https://www.pcgamer.com/games/racing/beamng-drive-just-had-a-graphics-overhaul-so-we-can-finally-watch-a-family-hatchback-navigate-a-speedbump-at-100mph-with-dynamic-ambient-lighting/",
+          "date": "2026-07-30T03:12:14+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/MJEiuUyaEbdRTw5ZCq6HA4-1280-80.jpg",
+          "summary": "The UI's had a refresh too."
+        },
+        {
+          "title": "Proving Doom can actually run on anything, one programmer has made a working build for Commodore 64",
+          "link": "https://www.pcgamer.com/games/fps/proving-doom-can-actually-run-on-anything-one-programmer-has-made-a-working-build-for-commodore-64/",
+          "date": "2026-07-30T00:09:07+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZT4o3L3V5Pz2eKqUeCSceG-1280-80.png",
+          "summary": "It doesn't necessarily look fun, but it does look like Doom running on a Commodore 64."
+        },
+        {
           "title": "An innocent man spent 18 months in prison because police misread his Skyrim user name",
           "link": "https://www.pcgamer.com/games/an-innocent-man-spent-18-months-in-prison-because-police-misread-his-skyrim-user-name/",
           "date": "2026-07-29T23:10:12+00:00",
@@ -1996,20 +2010,6 @@
           "date": "2026-07-29T16:39:12+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/JMNXhCu7j9opENarG47uJb-1280-80.jpg",
           "summary": "The Stonetalon Mountains are up to their old tricks again."
-        },
-        {
-          "title": "Silent Hill: Townfall takes place in 'the perfect storm'—a remote Scottish town that stands on the edge of the age of the internet",
-          "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-takes-place-in-the-perfect-storm-a-remote-scottish-town-that-stands-on-the-edge-of-the-age-of-the-internet/",
-          "date": "2026-07-29T16:38:19+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/8HWKzcqmZHyed3DDVcBJza-1280-80.jpg",
-          "summary": "The internet has been a pretty scary experience for me."
-        },
-        {
-          "title": "The next game on GOG's preservation list would be your favourite ARPG if it hadn't released the same year as Diablo 2, and it's on sale now",
-          "link": "https://www.pcgamer.com/games/rpg/the-next-game-on-gogs-preservation-list-would-be-your-favourite-arpg-if-it-hadnt-released-the-same-year-as-diablo-2-and-its-on-sale-now/",
-          "date": "2026-07-29T16:12:53+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/dkreADX78Xxx6huFcAqR5o-1280-80.jpg",
-          "summary": "Opportunity NOX twice."
         }
       ],
       "ok": true,
