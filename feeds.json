@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:07:30.474465+00:00",
+  "updated": "2026-07-31T00:03:44.078785+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -651,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Students Take on Airborne Field Research with NASA",
+          "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+          "date": "2026-07-30T20:36:56+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/balloon%20inflating%206.jpeg?w=3024&#038;h=4032&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere…"
+        },
+        {
           "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
           "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
           "date": "2026-07-30T16:11:41+00:00",
@@ -673,7 +680,7 @@
         },
         {
           "title": "APOD: 2026 July 30 – Red Sun trough Wildfire Smoke",
-          "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+          "link": "https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/",
           "date": "2026-07-30T04:05:00+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
@@ -712,13 +719,6 @@
           "date": "2026-07-29T16:06:39+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png?w=29240&#038;h=8040&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and…"
-        },
-        {
-          "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-          "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
-          "date": "2026-07-29T15:30:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.jpg?w=2048",
-          "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists:…"
         }
       ],
       "ok": true,
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
+          "date": "2026-07-28T15:30:58+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LoopVolcanos_Laserna_5815.jpg?w=5815&#038;h=4976&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 July 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        },
+        {
+          "title": "NASA Study Points to Smoother Air Taxi Rides",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+          "date": "2026-07-13T21:46:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
+        },
+        {
+          "title": "NASA Photographer Captures Images from F-18 Over Washington",
+          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+          "date": "2026-07-10T16:36:14+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
+        },
+        {
+          "title": "A Day of Flight Testing at NASA Armstrong",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+          "date": "2026-06-30T19:27:13+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
+        },
+        {
+          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+          "date": "2026-06-29T20:38:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lrc-2026-ocio-p-01883-image-1.jpg",
+          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -963,6 +1034,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Rules of the road needed for orbital data center constellations",
+          "link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
+          "date": "2026-07-31T00:00:37+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&amp;ssl=1",
+          "summary": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the…"
+        },
+        {
           "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
           "link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
           "date": "2026-07-30T18:42:21+00:00",
@@ -1024,13 +1102,6 @@
           "date": "2026-07-29T19:45:17+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&amp;ssl=1",
           "summary": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for…"
-        },
-        {
-          "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-          "link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
-          "date": "2026-07-29T14:38:53+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&amp;ssl=1",
-          "summary": "PERTH, Western Australia — LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring core technology development…"
         }
       ],
       "ok": true,
@@ -1396,6 +1467,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Risks of debris between the Earth and the moon for future exploration",
+          "link": "https://phys.org/news/2026-07-debris-earth-moon-future-exploration.html",
+          "date": "2026-07-31T00:00:01+00:00",
+          "image": null,
+          "summary": "Cislunar space has become the focal point of considerable interest and strategic planning because of the many proposed missions to send crews to the moon in the next decade. These…"
+        },
+        {
+          "title": "A thermal camera trick could let LIGO see twice as far",
+          "link": "https://phys.org/news/2026-07-thermal-camera-ligo.html",
+          "date": "2026-07-30T23:20:01+00:00",
+          "image": null,
+          "summary": "There's a nice kind of irony buried in this story: One of the most sensitive instruments ever built, capable of measuring distortions smaller than the width of a proton, has been…"
+        },
+        {
           "title": "Black hole feeding frenzy ends in lingering cosmic indigestion",
           "link": "https://phys.org/news/2026-07-black-hole-frenzy-lingering-cosmic.html",
           "date": "2026-07-30T19:40:05+00:00",
@@ -1450,20 +1535,6 @@
           "date": "2026-07-30T08:30:01+00:00",
           "image": null,
           "summary": "Amina Helmi's passion for the Milky Way is clear as soon as one steps into her small office at the University of Groningen, in the north of the Netherlands."
-        },
-        {
-          "title": "Little red dots may mark temporary black hole phase",
-          "link": "https://phys.org/news/2026-07-red-dots-temporary-black-hole.html",
-          "date": "2026-07-29T19:10:01+00:00",
-          "image": null,
-          "summary": "Since their discovery by NASA's James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of…"
-        },
-        {
-          "title": "Curiosity Mars rover discovers field of honeycomb textures",
-          "link": "https://phys.org/news/2026-07-curiosity-mars-rover-field-honeycomb.html",
-          "date": "2026-07-29T17:30:01+00:00",
-          "image": null,
-          "summary": "As NASA's Curiosity rover recently began climbing a Martian valley nicknamed \"Valle Grande,\" it sent back images that were a familiar sight to mission scientists: honeycomb-like…"
         }
       ],
       "ok": true,
@@ -1488,7 +1559,7 @@
           "summary": "Electronic Arts will become a private company again very soon, with the gaming giant set to be acquired by an investors' group led by the Saudi Arabian government. As revealed in…"
         },
         {
-          "title": "Exclusive: Disney Insists That Cursed Kingdom Hearts Art Was Not AI-Generated",
+          "title": "Square Enix Insists That Cursed Kingdom Hearts Art Was Not AI-Generated",
           "link": "https://www.gamespot.com/articles/exclusive-disney-insists-that-cursed-kingdom-hearts-art-was-not-ai-generated/",
           "date": "2026-07-30T19:14:36+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Fixed-KH-art.png?w=300",
@@ -1559,6 +1630,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "9 biggest D&D announcements from Gen Con 2026",
+          "link": "https://www.polygon.com/dnd-gen-con-2026-biggest-announcements/",
+          "date": "2026-07-30T23:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dnd-wow_343702-1.jpg",
+          "summary": "Dungeons & Dragons revealed its ambitious future at Gen Con 2026, including World of Warcraft, Dark Sun, Greyhawk, and major D&amp;D Beyond updates."
+        },
+        {
+          "title": "D&D is getting MTG-style Universes Beyond crossovers starting with World of Warcraft",
+          "link": "https://www.polygon.com/dnd-dungeons-dragons-world-of-warcraft-universes-beyond-crossover/",
+          "date": "2026-07-30T23:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dnd-wow_343706.jpg",
+          "summary": "The company is adopting Magic's Universes Beyond strategy as it rolls out a rulebook, miniatures, and map pack for playing in Azeroth"
+        },
+        {
+          "title": "D&D Icons brings back legendary creators for Dragonlance, Greyhawk, and Drizzt adventures",
+          "link": "https://www.polygon.com/dnd-icons-legendary-creators-dungeons-dragons/",
+          "date": "2026-07-30T23:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dragonlance-final.jpg",
+          "summary": "Iconic creators like Margaret Weis, Tracy Hickman, and R.A. Salvatore will work with current designers on new products."
+        },
+        {
+          "title": "D&D finally goes back to its most hardcore setting with new 'mature' product line",
+          "link": "https://www.polygon.com/dnd-dark-sun-dungeons-dragons-return/",
+          "date": "2026-07-30T23:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/d-d-dark-sun-header.jpg",
+          "summary": "D&amp;D will return to Dark Sun in 2027 as part of a new line of products aimed at mature players."
+        },
+        {
           "title": "Warhammer 40K: Rogue Trader on Switch 2 is finally working after months of chaos",
           "link": "https://www.polygon.com/warhammer-40k-rogue-trader-switch-2-update/",
           "date": "2026-07-30T21:33:48+00:00",
@@ -1599,34 +1698,6 @@
           "date": "2026-07-30T19:38:15+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/magik-web-shooters_fn.jpg",
           "summary": "Spider-Man's web shooters have returned in Fortnite Chapter 7 Season 3. Here's how to get them."
-        },
-        {
-          "title": "Spider-Man: Brand New Day’s ending explained: What happens to Peter Parker, Punisher, and [spoilers]?",
-          "link": "https://www.polygon.com/spider-man-brand-new-day-ending-explained/",
-          "date": "2026-07-30T19:30:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdspma_sp132.jpg",
-          "summary": "Spider-Man: Brand New Day has a tight ending, but there are still questions about where a certain new character is headed."
-        },
-        {
-          "title": "Spider-Man: Brand New Day post-credits scene explained: How [spoilers] sets up Avengers: Secret Wars",
-          "link": "https://www.polygon.com/spider-man-brand-new-day-post-credits-scene-explained/",
-          "date": "2026-07-30T19:30:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdspma_sp140_h.JPG",
-          "summary": "The post-credits scene for Spider-Man: Brand New Day shows Ned's Spidey Tracker and suggests Spider-Man has been spotted off-world. How? Why?"
-        },
-        {
-          "title": "Wonder Man season 2 canceled by Marvel, report says",
-          "link": "https://www.polygon.com/marvel-wonder-man-season-2-canceled-disney-plus/",
-          "date": "2026-07-30T19:26:50+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/wonder_man.jpg",
-          "summary": "Four months after confirming Wonder Man season 2, Marvel Studio has reportedly canceled the series starring Yahya Abdul-Mateen II and Ben Kingsley"
-        },
-        {
-          "title": "Spider-Man: Brand New Day's most surprising character rewrites 46 years of Marvel canon",
-          "link": "https://www.polygon.com/spider-man-brand-new-day-spoilers-sarah-sister/",
-          "date": "2026-07-30T19:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/screen-shot-2026-07-29-at-12-22-45-pm.jpg",
-          "summary": "Sadie Sink plays Jean Grey in Spider-Man: No Way Home and she is trying to save her sister Sara. Here is a guide on Sara Grey."
         }
       ],
       "ok": true,
@@ -1715,6 +1786,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year",
+          "link": "https://kotaku.com/xbox-ceo-lays-out-post-layoff-priorities-for-ambitious-growth-after-a-terrible-year-2000720600",
+          "date": "2026-07-30T23:23:41+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/04/ashaxbox-1280x720.jpg",
+          "summary": "Asha Sharma wants to be halfway to a billion daily users in just four years"
+        },
+        {
+          "title": "Microsoft Adds ‘Seems Like AI Slop’ Button To LinkedIn After Just Spending $41 Billion On AI",
+          "link": "https://kotaku.com/microsoft-adds-seems-like-ai-slop-button-to-linkedin-after-just-spending-41-billion-on-ai-2000720593",
+          "date": "2026-07-30T22:30:06+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/07/slops-1280x853.jpg",
+          "summary": "We're all trying to find the guy who did this"
+        },
+        {
           "title": "EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week",
           "link": "https://kotaku.com/ea-says-sale-saudi-arabia-go-through-next-week-2000720596",
           "date": "2026-07-30T21:40:11+00:00",
@@ -1769,20 +1854,6 @@
           "date": "2026-07-30T18:00:16+00:00",
           "image": "https://kotaku.com/app/uploads/2026/07/wicker.jpg",
           "summary": "Wicker is the monsterfucker movie for folks who want a more wholesome, but still hot, alternative to Nosferatu"
-        },
-        {
-          "title": "Author Behind Fantasy Best-Seller Tries To Distance Herself From The Movie: ‘This Film Is The Worst Thing I’ve Ever Had To Live Through’",
-          "link": "https://kotaku.com/children-blood-bone-tomi-adeyemi-author-amandla-stenberg-2000720524",
-          "date": "2026-07-30T17:45:52+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/07/blood-and-bone.jpg",
-          "summary": "Tomi Adeyemi has posted a video claiming that she has been ‘antagonized behind the scenes’ of the Children of Blood and Bone film"
-        },
-        {
-          "title": "Paralives Babies Are Kinda Ugly So The Devs Are Changing Them",
-          "link": "https://kotaku.com/paralives-babies-are-kinda-ugly-so-the-devs-are-changing-them-2000720479",
-          "date": "2026-07-30T17:30:37+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/07/Paralives-babies-1280x720.jpg",
-          "summary": "The life sim's babies are stretching the limits on how ugly a baby can be"
         }
       ],
       "ok": true,
@@ -1871,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Saudi Arabia's $55 billion takeover of Electronic Arts will happen next week",
+          "link": "https://www.pcgamer.com/gaming-industry/saudi-arabias-usd55-billion-takeover-of-electronic-arts-will-happen-next-week/",
+          "date": "2026-07-30T22:08:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/o9tP4wjvnzfaShCeWxMMZH-1280-80.jpg",
+          "summary": "EA says all regulatory hurdles are cleared, so all that's left to do is to do it."
+        },
+        {
           "title": "Xbox revenues dipped $1.7 billion last year, but Asha Sharma predicts a 'return to growth' by mid-2027",
           "link": "https://www.pcgamer.com/gaming-industry/xbox-revenues-dipped-usd1-7-billion-last-year-but-asha-sharma-predicts-a-return-to-growth-by-mid-2027/",
           "date": "2026-07-30T22:01:21+00:00",
@@ -1885,7 +1963,7 @@
           "summary": "Things could always be worse."
         },
         {
-          "title": "Godot supports coding in Sumero-Akkadian Cuneiform, if you needed another reason to switch game engines",
+          "title": "Godot natively supports coding in Sumero-Akkadian Cuneiform, if you needed another reason to switch game engines",
           "link": "https://www.pcgamer.com/gaming-industry/godot-supports-coding-in-sumero-akkadian-cuneiform-if-you-needed-another-reason-to-switch-game-engines/",
           "date": "2026-07-30T21:56:34+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/h7bLHYbmHSFxJTLzULxAdH-1280-80.jpg",
@@ -1932,13 +2010,6 @@
           "date": "2026-07-30T18:20:22+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/HPD33iXrMH5ZCLz3KhtTij-1280-80.jpg",
           "summary": "But, of course, there's a catch."
-        },
-        {
-          "title": "'We are not looking to just maintain' Elder Scrolls Online, new ZeniMax boss says, but a bunch of updates have been delayed into 2027 and possibly beyond",
-          "link": "https://www.pcgamer.com/games/the-elder-scrolls/we-are-not-looking-to-just-maintain-elder-scrolls-online-new-zenimax-boss-says-but-a-bunch-of-updates-have-been-delayed-into-2027-and-possibly-beyond/",
-          "date": "2026-07-30T17:02:43+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/MLDTCsjG9MTRC6dRuq4rKm-1280-80.jpg",
-          "summary": "New studio co-chief Nick Giacomini says teams will have \"the runway they need to do things right.\""
         }
       ],
       "ok": true,
@@ -2339,6 +2410,41 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Mission-ready Moon excavation system targets 2028 for NASA’s lunar base construction",
+          "link": "https://interestingengineering.com/innovation/interlune-vermeer-lunar-construction-autonomous-equipment",
+          "date": "2026-07-30T23:58:45+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Interlune-Exacavator.jpg?w=150&h=150&crop=1",
+          "summary": "Before permanent lunar bases become possible, someone has to level the ground. Preparing the Moon..."
+        },
+        {
+          "title": "IBM cuts quantum error rates 10x as computer completes hard task in 15 minutes",
+          "link": "https://interestingengineering.com/science/ibm-quantum-computing-error-correction-advantage",
+          "date": "2026-07-30T23:32:56+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-31T050129.336.jpg",
+          "summary": "IBM and University of Chicago researchers have demonstrated a quantum computing system that they say..."
+        },
+        {
+          "title": "US neighbor’s hydrogen reactor tech could enter German-led submarine production",
+          "link": "https://interestingengineering.com/military/gh-power-tkms-submarine-hydrogen-reactor",
+          "date": "2026-07-30T23:00:52+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-31T040617.453.jpg",
+          "summary": "Canada&#8217;s next-generation submarine program could also become a launchpad for clean manufacturing technology. GH Power..."
+        },
+        {
+          "title": "New edge-computing platform gives small military drones 4x more processing power",
+          "link": "https://interestingengineering.com/military/lantronix-swarmer-drone-compute-platform",
+          "date": "2026-07-30T22:46:58+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-31T041325.701.jpg",
+          "summary": "U.S. defense technology companies Lantronix and Swarmer are developing a compact computing platform designed to..."
+        },
+        {
+          "title": "US ramps up turbine engine production with flight-quality superalloy castings",
+          "link": "https://interestingengineering.com/military/kratos-rangeview-superalloy-castings",
+          "date": "2026-07-30T22:12:28+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-31T025721.126.jpg",
+          "summary": "Rangeview Inc. has secured a development contract from Kratos Defense &amp; Security Solutions to produce..."
+        },
+        {
           "title": "Humanoid robots master full-body movement, multi-step reasoning via Gemini Robotics 2",
           "link": "https://interestingengineering.com/ai-robotics/google-gemini-robotics-2-humanoid-control",
           "date": "2026-07-30T20:41:05+00:00",
@@ -2372,41 +2478,6 @@
           "date": "2026-07-30T19:16:14+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-31T004046.524-1.jpg",
           "summary": "A major AI data center campus in Ohio will generate all of its electricity through..."
-        },
-        {
-          "title": "US-made world’s first ‘microwave brain’ chip learns language to slash satellite data by 8x",
-          "link": "https://interestingengineering.com/science/us-microwave-brain-chip-faster-satellites",
-          "date": "2026-07-30T19:10:49+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/g8qav3viv9s_ca7737.jpg",
-          "summary": "A first-of-its-kind &#8216;microwave brain&#8217; microchip capable of computing on ultrafast data and wireless signals while..."
-        },
-        {
-          "title": "US Navy confirms nuclear power for proposed Trump-class battleship program",
-          "link": "https://interestingengineering.com/military/us-navy-revives-nuclear-power",
-          "date": "2026-07-30T18:16:20+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/qhstqu0ang4.jpg",
-          "summary": "The U.S. Navy is bringing back the battleship. And this time, it wants nuclear power...."
-        },
-        {
-          "title": "US lab to test nuclear fusion reactor components for extreme environments under new deal",
-          "link": "https://interestingengineering.com/energy/us-test-nuclear-fusion-reactor-components",
-          "date": "2026-07-30T17:53:16+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Nuclear-fusion.jpg",
-          "summary": "Oak Ridge National Laboratory and Rutherford Energy Ventures LP are joining forces to build a..."
-        },
-        {
-          "title": "World’s largest tokamak ITER installs 1,100-ton core module to confine fusion plasma",
-          "link": "https://interestingengineering.com/energy/largest-tokamak-iter-installs-core-module",
-          "date": "2026-07-30T17:32:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/ITER_877b6c.jpg",
-          "summary": "Assembly crews at the ITER facility successfully lowered the sixth tokamak sector module into the..."
-        },
-        {
-          "title": "Amazon’s steering wheel-free Zoox robotaxi wins first federal approval for paid rides",
-          "link": "https://interestingengineering.com/transportation/amazon-zoox-first-federal-robotaxi-approval",
-          "date": "2026-07-30T17:32:27+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-30T224759.124.jpg",
-          "summary": "Amazon-owned Zoox has received the first federal commercial exemption allowing a purpose-built autonomous robotaxi without..."
         }
       ],
       "ok": true,
