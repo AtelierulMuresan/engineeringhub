@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:03:16.738961+00:00",
+  "updated": "2026-08-01T14:27:30.427422+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
+          "date": "2026-07-28T15:30:58+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LoopVolcanos_Laserna_5815.jpg?w=5815&#038;h=4976&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 July 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        },
+        {
+          "title": "NASA Study Points to Smoother Air Taxi Rides",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+          "date": "2026-07-13T21:46:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
+        },
+        {
+          "title": "NASA Photographer Captures Images from F-18 Over Washington",
+          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+          "date": "2026-07-10T16:36:14+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
+        },
+        {
+          "title": "A Day of Flight Testing at NASA Armstrong",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+          "date": "2026-06-30T19:27:13+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -885,6 +956,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "This Week In Space podcast: Episode 221 — Starship Can Float?",
+          "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float",
+          "date": "2026-08-01T14:16:28+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/B2qupiDndpakYVUezsXb4H-1280-80.jpg",
+          "summary": "On Episode 221 of This Week In Space, Tariq Malik and guest host Rick Jenet of the National Space Society talk about SpaceX's Starship Flight 13, which survived reentry intact…"
+        },
+        {
+          "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
+          "link": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans",
+          "date": "2026-08-01T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/7dmce2wt2v3uHHCYqZoi8E-1280-80.jpg",
+          "summary": "The dinosaurs may not have starved through a years-long winter. New evidence suggests a blanket of ultrafine impact dust set the planet on fire within hours."
+        },
+        {
+          "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
+          "date": "2026-08-01T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/foAxUi8bhVQpbGxCr7HiNT-1280-80.jpg",
+          "summary": "On Aug. 1, 1968, NASA canceled the production of its Saturn V moon rocket, one year before the historic Apollo 11 moon landing, spelling the end of the Apollo program due to…"
+        },
+        {
           "title": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
           "link": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
           "date": "2026-08-01T12:00:00+00:00",
@@ -932,27 +1024,6 @@
           "date": "2026-07-31T18:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ExahSbCsB5YWkF6VN3DChg-1280-80.png",
           "summary": "The script is flipped in Prime Video's upcoming \"Blade Runner 2099\" series where replicants have rebelled and seized power from human beings in a massive uprising."
-        },
-        {
-          "title": "NASA is sending 2 probes to the moon to test complex 'three-body orbits'",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
-          "date": "2026-07-31T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/cY23TEv4F9TZCPnYL3uyx3-1280-80.jpg",
-          "summary": "NASA is planning to send two maneuverable probes to lunar orbit in order to learn how spacecraft are affected by the complex gravity environment near the moon."
-        },
-        {
-          "title": "Watch SpaceX's Starship land at sea in these stunning new videos",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos",
-          "date": "2026-07-31T14:30:26+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/6Y2Us9ZLtEiEHUXmZpvjtX-1280-80.jpg",
-          "summary": "SpaceX used drones and a special 'buoy cam' to capture incredible footage of its Starship upper stage making a soft ocean landing after its 13th test flight on July 24."
-        },
-        {
-          "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
-          "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
-          "date": "2026-07-31T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/eJovqebp7fQYfQtwEePWiK-1280-80.jpg",
-          "summary": "NASA is using its Neutral Buoyancy Laboratory to develop the training programs it will use to prepare its astronauts to explore the lunar surface."
         }
       ],
       "ok": true,
@@ -962,6 +1033,13 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+          "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+          "date": "2026-08-01T13:38:42+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/TJS27A-B_CZ6A_TSLC-30july2026-OS.jpg?fit=1024%2C679&amp;ssl=1",
+          "summary": "HELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long…"
+        },
         {
           "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
           "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
@@ -1024,13 +1102,6 @@
           "date": "2026-07-30T17:51:10+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/roman-preps.jpeg?fit=1024%2C683&amp;ssl=1",
           "summary": "NASA’s next flagship space telescope is set to launch in late August, nine months ahead of schedule. The post Roman Space Telescope on track for late August launch appeared first…"
-        },
-        {
-          "title": "Jim Bridenstine on his new role at Quantum Space",
-          "link": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/",
-          "date": "2026-07-30T17:47:51+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-bridenstine-quantum-space-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-          "summary": "In this episode, David Ariosto speaks with former NASA Administrator Jim Bridenstine, who is now the CEO of Quantum Space. Bridenstine talks about the strategic shift to…"
         }
       ],
       "ok": true,
@@ -1559,6 +1630,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The most important character in Christopher Nolan's The Odyssey isn't even in the original poem",
+          "link": "https://www.polygon.com/christopher-nolan-the-odyssey-sinon-character-explained/",
+          "date": "2026-08-01T14:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/sinon-grave.jpg",
+          "summary": "Christopher Nolan used a minor Aeneid character to give his movie a human cost"
+        },
+        {
+          "title": "Vampire: The Masquerade 6th Edition's controversial changes aren't being well-received",
+          "link": "https://www.polygon.com/vampire-the-masquerade-6th-edition-backlash/",
+          "date": "2026-08-01T13:55:28+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/bloodlines-2_key-art_final_12k.jpg",
+          "summary": "Fans think that White Wolf's Vampire: The Masquerade 6th Edition, also known as V6, is too similar to Dungeons & Dragons in its current form"
+        },
+        {
+          "title": "Clair Obscur Switch 2 status reveals the reality of Nintendo's console",
+          "link": "https://www.polygon.com/switchboard-clair-obscur-expedition-33-switch-2/",
+          "date": "2026-08-01T13:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/clair-obscur-eiffel-tower.jpg",
+          "summary": "Despite the Nintendo Switch 2 getting some miracle ports of huge games, some developers are still struggling to get their games on the console."
+        },
+        {
+          "title": "Will there be a Spider-Man 5? Everything we know about Peter Parker’s MCU future",
+          "link": "https://www.polygon.com/spider-man-5-plot-release-date-plot-teaser-story-tom-holland/",
+          "date": "2026-08-01T12:30:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdspma_sp138_h.JPG",
+          "summary": "Tom Holland's interview and a Spider-Man: Brand New Day post-credits hint at the webslingers's future in the MCU."
+        },
+        {
           "title": "XCOM and Gloomhaven's creators say video game and tabletop collabs can save the industry",
           "link": "https://www.polygon.com/gloomhaven-xcom-creator-interview/",
           "date": "2026-08-01T12:00:12+00:00",
@@ -1599,34 +1698,6 @@
           "date": "2026-07-31T22:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mortal-shell-2-scythe.jpg",
           "summary": "Xbox Series X is getting a bunch of promising third-party games this August to cap off a rough summer for the console."
-        },
-        {
-          "title": "DC's Booster Gold TV series 'won't be moving forward' writer says",
-          "link": "https://www.polygon.com/booster-gold-tv-show-dcu-david-jenkins/",
-          "date": "2026-07-31T21:18:44+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/booster-gold-and-blue-beetle.jpg",
-          "summary": "Booster Gold's HBO television series has been MIA for months, and now the writer behind it says it may be canceled."
-        },
-        {
-          "title": "New Palworld card game already ruined by scalpers",
-          "link": "https://www.polygon.com/palworld-tcg-card-prices-sold-out-ebay-pocketpair-packs/",
-          "date": "2026-07-31T20:06:39+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/cattiva-my-first-pal-td02-td02-023-td02-023-cattiva-my-first-pal.jpg",
-          "summary": "The Palworld TCG's release is sold out in many places as scalpers squeeze fans for thousands of dollars, just like Pokémon cards"
-        },
-        {
-          "title": "Dragon's Dogma 2: Dark Arisen is getting a fan-requested hard mode",
-          "link": "https://www.polygon.com/dragons-dogma-2-dark-arisen-hard-mode/",
-          "date": "2026-07-31T18:42:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25358499/Dragon_s_Dogma_2_Tension_of_the_High_Road.png",
-          "summary": "Dragon's Dogma 2: Dark Arisen will add hard mode to Capcom's expanded edition of the 2024 action RPG"
-        },
-        {
-          "title": "Disney Lorcana just revealed its answer to Magic’s Commander format",
-          "link": "https://www.polygon.com/disney-lorcana-format-coconut-rules-cards-mtg-commander-magic-the-gathering/",
-          "date": "2026-07-31T18:30:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/morana-art.jpg",
-          "summary": "At Gen Con 2026, Ravensburger is soft-launching a version of Lorcana that's remarkably similar to Magic: The Gathering's Commander format."
         }
       ],
       "ok": true,
@@ -1715,6 +1786,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Netflix Hit With $105 Million Lawsuit After Losing Master Copy Of Unreleased Nicolas Cage Movie: ‘Someone Stole A Good Amount Of Drives’",
+          "link": "https://kotaku.com/netflix-hit-with-105-million-lawsuit-after-losing-master-copy-of-unreleased-nicolas-cage-movie-someone-stole-a-good-amount-of-drives-2000720992",
+          "date": "2026-08-01T13:30:43+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/Official-promo-image-of-Fortitude-Op-Fortitude-1280x720.jpg",
+          "summary": "Netflix's Head of Film Acquisitions confirmed in an email that the film went missing when stuff was taken from the LA office"
+        },
+        {
           "title": "The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game",
           "link": "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867",
           "date": "2026-07-31T21:00:53+00:00",
@@ -1776,13 +1854,6 @@
           "date": "2026-07-31T16:15:08+00:00",
           "image": "https://kotaku.com/app/uploads/2026/07/10gamestoplaybond-1280x720.jpg",
           "summary": "So you want to punch, shoot, use gadgets, and sneak some more? Well, we can help with that"
-        },
-        {
-          "title": "Game Devs Put Together An Itch.io Bundle Of Over 100 Games With Proceeds Going To Help Laid-Off Colleagues",
-          "link": "https://kotaku.com/itchio-game-developer-hardship-bundle-necrosoft-games-layoffs-unionization-2000720782",
-          "date": "2026-07-31T16:04:03+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/07/arranger_keyart_widescreen_without_logo-1280x720.jpg",
-          "summary": "The Game Industry Hardship Fund bundle contains over 100 games and will be on sale for the next two weeks"
         }
       ],
       "ok": true,
@@ -1792,6 +1863,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the \"massive undertaking\" of reverse engineering an always-online game",
+          "link": "https://www.rockpapershotgun.com/what-if-stop-killing-games-win-anthem-spacecraft-and-warframe-devs-on-the-massive-undertaking-of-reverse-engineering-an-always-online-game",
+          "date": "2026-08-01T13:04:59+00:00",
+          "image": "https://assetsio.gnwcdn.com/warframe_2eTkI9Z.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sci-fantasy shooter Warframe is the sexy cyborg fruit of 13 years of updates and expansions, encompassing scores upon scores of quests, areas, plotlines, systems and characters,…"
+        },
         {
           "title": "What are we all playing this weekend?",
           "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-393",
@@ -1854,13 +1932,6 @@
           "date": "2026-07-30T20:30:52+00:00",
           "image": "https://assetsio.gnwcdn.com/rideshare-stimulator.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Warhammer 40,000: Space Marine 2 developer Saber Interactive clearly like to keep themselves busy, as today they've announced the next game that they're publishing. It's called…"
-        },
-        {
-          "title": "Machine Party, out now, is masochistic Mario Party from the dev that brought you Buckshot Roulette",
-          "link": "https://www.rockpapershotgun.com/machine-party-out-now-is-masochistic-mario-party-from-the-dev-that-brought-you-buckshot-roulette",
-          "date": "2026-07-30T19:01:10+00:00",
-          "image": "https://assetsio.gnwcdn.com/machine-party.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "There is an obvious humour to be found in the contrast between the visual presentation of Mario Party and the agita and unbridled rage it brings out in people. This is not a game…"
         }
       ],
       "ok": true,
@@ -1870,6 +1941,20 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The games industry's 'fear of risk is currently the largest risk it faces' according to Nuclear Throne's producer",
+          "link": "https://www.pcgamer.com/gaming-industry/the-games-industrys-fear-of-risk-is-currently-the-largest-risk-it-faces-according-to-nuclear-thrones-producer/",
+          "date": "2026-08-01T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zn2V57WDCoMZaUdX9YGNZU-1280-80.jpg",
+          "summary": "\"Courage is a consistent factor of most hit titles.\""
+        },
+        {
+          "title": "Dragon Age's former producer had envisioned a 'Champions Edition' equivalent to Mass Effect's Legendary Edition, but he doesn't think it will happen anymore: 'There are basically no companies that could help you'",
+          "link": "https://www.pcgamer.com/games/rpg/dragon-ages-former-producer-had-envisioned-a-champions-edition-equivalent-to-mass-effects-legendary-edition-but-he-doesnt-think-it-will-happen-anymore-there-are-basically-no-companies-that-could-help-you/",
+          "date": "2026-08-01T13:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/w5GSZVsoQAdxvKR6dh8haP-1280-80.jpg",
+          "summary": "\"There's basically no one outside of BioWare anymore that understands the Aurora engine.\""
+        },
         {
           "title": "We haven't needed motion blur in games for a long time, so I wish it would stop being the default",
           "link": "https://www.pcgamer.com/games/we-havent-needed-motion-blur-in-games-for-a-long-time-so-i-wish-it-would-stop-being-the-default/",
@@ -1925,20 +2010,6 @@
           "date": "2026-07-31T20:35:26+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/2kuLE4A5KTnTVvBsM5qnz8-1280-80.jpg",
           "summary": "The Game Industry Hardship Fund bundle is live now on Itch.io."
-        },
-        {
-          "title": "Bulletstorm is the stupidest game ever made, and also one of the cleverest shooters ever",
-          "link": "https://www.pcgamer.com/games/fps/bulletstorm-is-the-stupidest-game-ever-made-and-also-one-of-the-cleverest-shooters-ever/",
-          "date": "2026-07-31T20:00:25+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Zc9LiHdfWiTGh65Y6NhJ4P-1280-80.jpg",
-          "summary": "Enjoying the high-kicks and low-brows of a timeless FPS."
-        },
-        {
-          "title": "Anthropic sees OpenAI cybersecurity disaster and says 'hold my beer,' reveals it accidentally hacked 3 companies in as many months without noticing",
-          "link": "https://www.pcgamer.com/software/ai/anthropic-sees-openai-cybersecurity-disaster-and-says-hold-my-beer-reveals-it-accidentally-hacked-3-companies-in-as-many-months-without-noticing/",
-          "date": "2026-07-31T19:45:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/8NaUUUYSKGJEUWdEkRLAoD-1280-80.jpg",
-          "summary": "I'm sure this is fine."
         }
       ],
       "ok": true,
@@ -2339,6 +2410,34 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Chinese firm targets 8000 megatransfer per second memory speeds with new chip controller",
+          "link": "https://interestingengineering.com/innovation/cxl-3-2-memory-controller-chip",
+          "date": "2026-08-01T13:47:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/CXL-3.2-controller-chip.jpg",
+          "summary": "As artificial intelligence models become larger and cloud platforms process ever-growing amounts of data, one..."
+        },
+        {
+          "title": "US: Onboard neural network guides satellite, reduces ground control need",
+          "link": "https://interestingengineering.com/space/usaf-onboard-neural-network-guides-satellite-reduces-ground-control-need",
+          "date": "2026-08-01T13:40:28+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design262.jpg",
+          "summary": "The US has demonstrated a level of artificial intelligence in orbit after a neural network..."
+        },
+        {
+          "title": "US modular reactor platform cuts synthetic jet fuel plant costs by over 50%",
+          "link": "https://interestingengineering.com/innovation/us-modular-reactor-platform-cuts-synthetic-jet-fuel-plant-costs-by-over-50",
+          "date": "2026-08-01T13:00:03+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Lydian-manufacturing-plant-in-Boston.jpg",
+          "summary": "Boston-based Lydian, a US clean-fuel developer, has raised $43 million to commercialize a modular production..."
+        },
+        {
+          "title": "Convertus secures $135M to build its planned next-gen waste-to-fuel plant",
+          "link": "https://interestingengineering.com/energy/convertus-funding-food-to-biofuel-plant",
+          "date": "2026-08-01T12:52:42+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/sk_dynpz0is.jpg",
+          "summary": "Convertus Group (Convertus) has announced it has now secured $135 million CAD in funding for..."
+        },
+        {
           "title": "US ally plans to commission ‘world’s largest’ 14,000-ton destroyer to counter China",
           "link": "https://interestingengineering.com/military/world-largest-destroyer-japan-counter-china",
           "date": "2026-08-01T08:15:46+00:00",
@@ -2379,34 +2478,6 @@
           "date": "2026-07-31T22:09:57+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-08-01T030804.143.jpg",
           "summary": "Pratt &amp; Whitney has landed a contract worth nearly $1.3 billion to supply spare parts..."
-        },
-        {
-          "title": "US natural hydrogen firm deploys geoscience computing for faster underground analysis",
-          "link": "https://interestingengineering.com/innovation/koloma-riva-natural-hydrogen-exploration-private-cloud",
-          "date": "2026-07-31T20:20:56+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Copy-of-Micron-LPDRAM-3.jpg",
-          "summary": "A U.S. natural hydrogen explorer is turning to cloud computing to speed up the search..."
-        },
-        {
-          "title": "F-35B stealth fighter jet crashes near San Diego’s Miramar air base; pilot ejects safely",
-          "link": "https://interestingengineering.com/military/marine-corps-f35b-crash-miramar-san-diego-pilot-ejects",
-          "date": "2026-07-31T19:46:26+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-08-01T011312.153.jpg",
-          "summary": "A U.S. Marine Corps F-35B Lightning II stealth fighter jet crashed at Marine Corps Air..."
-        },
-        {
-          "title": "US’ first sixth-gen fighter jet to fly in 2028, prototype development underway",
-          "link": "https://interestingengineering.com/military/us-first-sixth-gen-fighter-jet-flight",
-          "date": "2026-07-31T18:57:32+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/fighter-jet-test.jpg",
-          "summary": "The United States&#8217; next-generation fighter aircraft program has reached a significant milestone. Boeing has begun..."
-        },
-        {
-          "title": "US quantum simulator mimics real-world temperatures with two independent controls",
-          "link": "https://interestingengineering.com/science/rice-two-knob-quantum-simulator",
-          "date": "2026-07-31T18:53:40+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/gktp7oulwb4.jpg",
-          "summary": "Scientists in the US have developed a novel way to control temperature inside a trapped-ion..."
         }
       ],
       "ok": true,
@@ -2423,6 +2494,20 @@
       "name": "ScienceDaily Eng.",
       "cat": "engineering",
       "items": [
+        {
+          "title": "World-first photonic time crystal opens a new era of light control",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
+          "date": "2026-07-31T09:13:30+00:00",
+          "image": "https://www.sciencedaily.com/images/scidaily-logo-rss.png",
+          "summary": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open…"
+        },
+        {
+          "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+          "date": "2026-07-31T03:55:22+00:00",
+          "image": "https://www.sciencedaily.com/images/scidaily-logo-rss.png",
+          "summary": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking. Their nanoscale…"
+        },
         {
           "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
           "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
@@ -2478,20 +2563,6 @@
           "date": "2026-06-23T04:45:34+00:00",
           "image": "https://www.sciencedaily.com/images/scidaily-logo-rss.png",
           "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The…"
-        },
-        {
-          "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
-          "date": "2026-07-07T09:22:35+00:00",
-          "image": "https://www.sciencedaily.com/images/scidaily-logo-rss.png",
-          "summary": "Scientists have taken an important step toward building quantum detectors that could reveal some of the universe’s biggest secrets. Using a prototype device with two clouds of…"
-        },
-        {
-          "title": "This strange material can become strong or fall apart in seconds",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
-          "date": "2026-06-15T11:54:43+00:00",
-          "image": "https://www.sciencedaily.com/images/scidaily-logo-rss.png",
-          "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be…"
         }
       ],
       "ok": true,
@@ -2587,6 +2658,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "date": "2026-08-01T12:30:36+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-500x500.jpg",
+          "summary": "Reddit may still be considering ending its licensing deal with Google."
+        },
+        {
+          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+          "date": "2026-08-01T11:30:54+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1061811620-scaled-500x500-1785531717.jpg",
+          "summary": "Autonomous vehicle giant disturbs residents' sleep."
+        },
+        {
           "title": "Defcon's new badge is a security key you can see inside",
           "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
           "date": "2026-08-01T10:05:21+00:00",
@@ -2641,20 +2726,6 @@
           "date": "2026-07-31T20:21:05+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-500x500.png",
           "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool."
-        },
-        {
-          "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-          "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-          "date": "2026-07-31T19:04:56+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-500x500.jpg",
-          "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick."
-        },
-        {
-          "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-          "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-          "date": "2026-07-31T18:11:55+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-500x500.jpg",
-          "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
         }
       ],
       "ok": true,
