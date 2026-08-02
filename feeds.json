@@ -1,10 +1,17 @@
 {
-  "updated": "2026-08-02T22:00:21.038067+00:00",
+  "updated": "2026-08-02T23:59:33.326627+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "IMSA Road America: Strong performance by the BMW M Hybrid V8 goes unrewarded.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0459835EN?language=en",
+          "date": "2026-08-02T23:07:38+00:00",
+          "image": null,
+          "summary": "+++ BMW M Hybrid V8 shows strong pace at Road America and leads the race before technical issues stop both cars +++ Brake issues force the #24 BMW M Hybrid V8 to retire, while a…"
+        },
         {
           "title": "GT World Challenge Europe: Team WRT’s Silver Cup car sensationally claims overall podium at Magny-Cours.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0459833EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-07-28T13:06:00+00:00",
           "image": null,
           "summary": "+++ All 20 BMW Art Cars gathered in one place for the first time +++ Free exhibition from 29 July to 31 August 2026 at BMW Welt +++ Highlight: Olafur Eliasson‘s „BMW H2R Project“…"
-        },
-        {
-          "title": "Ramp-up in record time: BMW Group Plant Debrecen produces 50,000th BMW iX3",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0459620EN?language=en",
-          "date": "2026-07-28T08:00:00+00:00",
-          "image": null,
-          "summary": "- Major milestone for BMW Group Plant Debrecen - Fastest ramp-up of a new BMW Group plant. - Strong demand for the BMW iX3, the first model of the Neue Klasse - Intensive…"
         }
       ],
       "ok": true,
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Bonus Episode: Top supplier execs on China’s rise",
+          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-sun-bonus-top-suppliers-china/",
+          "date": "2026-08-02T22:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/V3nqirBbXpC0NMNrz7DaVa9glvg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/RKFV2OHBKNEGVC7CCT2QMIJKMI.jpg",
+          "summary": "China now ties the U.S. with 16 companies each on the Automotive News Top Suppliers list. In this bonus episode, four North American supplier executives from Aumovio, ZF, Denso…"
+        },
+        {
           "title": "VW’s controlling families face leadership decision as Porsche-Piech patriarchs near exit",
           "link": "https://www.autonews.com/volkswagen/ane-vw-porsche-piech-succession-0802/",
           "date": "2026-08-02T11:17:24+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-07-31T19:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/eXb3W7WEGdby6B87kbjQTu86E8Y=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/WSWDLSNQDZGTHDUCQPHDB4YEAE.jpg",
           "summary": "President Donald Trump imposed new tariffs at the same time talks continue about the fate of the USMCA and free trade in North America."
-        },
-        {
-          "title": "Automotive News Video | Akio Toyoda AI avatar Interview",
-          "link": "https://www.autonews.com/video/automotive-news-video-akio-toyoda-ai-avatar-interview/",
-          "date": "2026-07-31T18:43:12+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/RVcMFHvUuHGr30deH1paPMGd_FE=/0x800/d3qtc8km8dvw1x.cloudfront.net/07-31-2026/t_11131745a262429f8f9ff1b2c93bf4e9_name_file_960x540_1600_v4_.jpg",
-          "summary": "Automotive News interviews an AI version of Toyota Chairman Akio Toyoda that teaches management philosophy to employees."
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "3DEO Enters Insolvency, Puts Patents and Machinery Up for Auction",
+          "link": "https://3dprintingindustry.com/news/3deo-enters-insolvency-puts-patents-and-machinery-up-for-auction-253432/?utm_source=rss&utm_medium=rss&utm_campaign=3deo-enters-insolvency-puts-patents-and-machinery-up-for-auction",
+          "date": "2026-08-01T07:31:08+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3DEO, the Torrance, California metal 3D printing company behind the patented Intelligent Layering process, has filed for insolvency and put its entire intellectual property (IP)…"
+        },
+        {
+          "title": "Actble and Something Added 3D Print a Pointe Shoe Built to Last Five Times Longer",
+          "link": "https://3dprintingindustry.com/news/actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer-253442/?utm_source=rss&utm_medium=rss&utm_campaign=actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer",
+          "date": "2026-08-01T06:55:28+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Actble, a German dancewear company founded by former ballet dancer Sophia Lindner, has built a modular pointe shoe with 3D printed inner soles that can be individually swapped out…"
+        },
+        {
+          "title": "3iD Printing Bets on Automated Post-Processing to Scale Production Volumes",
+          "link": "https://3dprintingindustry.com/news/3id-printing-bets-on-automated-post-processing-to-scale-production-volumes-253451/?utm_source=rss&utm_medium=rss&utm_campaign=3id-printing-bets-on-automated-post-processing-to-scale-production-volumes",
+          "date": "2026-08-01T06:38:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3iD Printing, a Belgian industrial 3D printing service provider, is installing an automated post-processing line supplied by Netherlands-based AM-Flow, integrating three systems,…"
+        },
+        {
+          "title": "Fortastra taps Hadrian’s automated factories to speed up satellite production",
+          "link": "https://3dprintingindustry.com/news/fortastra-taps-hadrians-automated-factories-to-speed-up-satellite-production-253424/?utm_source=rss&utm_medium=rss&utm_campaign=fortastra-taps-hadrians-automated-factories-to-speed-up-satellite-production",
+          "date": "2026-07-31T12:42:29+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Rendering-of-Hadrians-F3-Facility-in-Mesa-AZ-150x100.avif",
+          "summary": "Spacecraft developer Fortastra is turning to automated manufacturer Hadrian to help it build satellites faster. The two companies signed a memorandum of understanding (MOU) this…"
+        },
+        {
+          "title": "New Operando X-Ray Method Could Give Metal 3D Printing a Real-Time Control Lever",
+          "link": "https://3dprintingindustry.com/news/new-operando-x-ray-method-could-give-metal-3d-printing-a-real-time-control-lever-253428/?utm_source=rss&utm_medium=rss&utm_campaign=new-operando-x-ray-method-could-give-metal-3d-printing-a-real-time-control-lever",
+          "date": "2026-07-31T12:21:22+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Northwestern University&#8216;s associate professor of mechanical engineering Tao Sun and collaborators have published new research showing that the atomic-level arrangement of…"
+        },
+        {
+          "title": "Marine Corps X-FAB Saves Coast Guard Patrol Boats",
+          "link": "https://3dprintingindustry.com/news/marine-corps-x-fab-saves-coast-guard-patrol-boats-253447/?utm_source=rss&utm_medium=rss&utm_campaign=marine-corps-x-fab-saves-coast-guard-patrol-boats",
+          "date": "2026-07-31T11:47:23+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "U.S. Marines with 3rd Marine Logistics Group 3D printed a replacement part for a U.S. Coast Guard boat in South Korea on July 11, 2026 during the Combined Joint Logistics…"
+        },
+        {
+          "title": "RWTH Aachen releases open-source geometry library to reduce AM CAM memory requirements",
+          "link": "https://3dprintingindustry.com/news/rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements-253474/?utm_source=rss&utm_medium=rss&utm_campaign=rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements",
+          "date": "2026-07-31T11:28:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Institute Digital Additive Production (DAP) at RWTH Aachen University has released an open-source computational geometry library for developing and optimizing additive…"
+        },
+        {
+          "title": "Researchers 3D print photo-responsive components for dynamic light modulation",
+          "link": "https://3dprintingindustry.com/news/researchers-3d-print-photo-responsive-components-for-dynamic-light-modulation-253492/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-3d-print-photo-responsive-components-for-dynamic-light-modulation",
+          "date": "2026-07-31T06:53:18+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers in Poland and Italy have developed photo-responsive materials for vat photopolymerization that allow 3D printed components to dynamically alter the intensity and…"
+        },
+        {
+          "title": "ZCZH selects Xaar Nitrox printheads for industrial wax-jetting 3D printing system",
+          "link": "https://3dprintingindustry.com/news/zczh-selects-xaar-nitrox-printheads-for-industrial-wax-jetting-3d-printing-system-253488/?utm_source=rss&utm_medium=rss&utm_campaign=zczh-selects-xaar-nitrox-printheads-for-industrial-wax-jetting-3d-printing-system",
+          "date": "2026-07-31T06:37:45+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "ZCZH, a China-based industrial 3D printing company, has selected Xaar Nitrox printheads for a wax-jetting system designed to produce patterns for precision investment casting. The…"
+        },
+        {
+          "title": "Makr3D launches ungated instant quoting for UK 3D print fulfillment",
+          "link": "https://3dprintingindustry.com/news/makr3d-launches-ungated-instant-quoting-for-uk-3d-print-fulfillment-253484/?utm_source=rss&utm_medium=rss&utm_campaign=makr3d-launches-ungated-instant-quoting-for-uk-3d-print-fulfillment",
+          "date": "2026-07-31T06:13:45+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Makr3D, the fulfillment platform built on Yorkshire3D&#8216;s Bambu print farm in Huddersfield, has opened an instant quoting tool that does not require an account. Creators…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1559,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "10 best games like Halo: Campaign Evolved",
+          "link": "https://www.polygon.com/best-games-like-halo-campaign-evolved/",
+          "date": "2026-08-02T23:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-the-most-dangerous-game-skulls-terminal-locations-header.jpg",
+          "summary": "There are numerous games on a variety of platforms through the years that offer experiences similar to Halo: Campaign Evolved, including these 10."
+        },
+        {
           "title": "48 years later, anime’s most beautiful sci-fi space epic is officially making a comeback",
           "link": "https://www.polygon.com/galaxy-express-999-movie-sci-fi-anime/",
           "date": "2026-08-02T22:00:12+00:00",
@@ -1620,13 +1698,6 @@
           "date": "2026-08-02T15:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdretu_ec055.jpg",
           "summary": "After experiencing Nolan's hair-raising adaptation of The Odyssey, check out the movie that grounds the same story in a gritty return tale."
-        },
-        {
-          "title": "The best multiplayer Steam games under $10",
-          "link": "https://www.polygon.com/best-cheap-steam-multiplayer-games/",
-          "date": "2026-08-02T14:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/06/meccha-chameleon-screenshot-1.jpg",
-          "summary": "Meccha Chameleon, Lethal Company, and Bokura are just a few excellent affordable multiplayer games on Steam."
         }
       ],
       "ok": true,
@@ -1871,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Owlcat co-founder says the studio won't turn its back on hardcore RPGs as it hits 600 employees and preps its own Mass Effect killer",
+          "link": "https://www.pcgamer.com/games/rpg/owlcat-co-founder-says-the-studio-wont-turn-its-back-on-hardcore-rpgs-as-it-hits-600-employees-and-preps-its-own-mass-effect-killer/",
+          "date": "2026-08-02T22:13:33+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/odxFePruai9kQYAKPmNxgj-1280-80.jpg",
+          "summary": "At this point, I think I trust the process."
+        },
+        {
           "title": "One day Owlcat will make an RPG that's perfect out of the box, but 3 years after launch, it's time to get disgustingly into Warhammer 40K: Rogue Trader",
           "link": "https://www.pcgamer.com/games/rpg/one-day-owlcat-will-make-an-rpg-thats-perfect-out-of-the-box-but-3-years-after-launch-its-time-to-get-disgustingly-into-warhammer-40k-rogue-trader/",
           "date": "2026-08-02T20:26:02+00:00",
@@ -1932,13 +2010,6 @@
           "date": "2026-08-02T11:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/38FTABZd6KyaN4J5dchKmP-1280-80.png",
           "summary": "Bethesda takes a different approach to marketing its Switch 2 launch."
-        },
-        {
-          "title": "The maker of the Baldur's Gate 3 over-the-shoulder camera mod has gone to great lengths to demonstrate it's not like other third-person viewpoint solutions",
-          "link": "https://www.pcgamer.com/games/baldurs-gate/the-maker-of-the-baldurs-gate-3-over-the-shoulder-camera-mod-has-gone-to-great-lengths-to-demonstrate-its-not-like-other-third-person-viewpoint-solutions/",
-          "date": "2026-08-02T06:32:05+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/kTCPnyRzD8FxJ6eUEyurF9-1280-80.jpg",
-          "summary": "I'm not like all the other gith."
         }
       ],
       "ok": true,
