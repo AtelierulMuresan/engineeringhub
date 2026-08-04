@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T02:40:18.276804+00:00",
+  "updated": "2026-08-04T05:48:37.835724+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -1034,6 +1034,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+          "link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+          "date": "2026-08-04T04:01:00+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_kreios-sede.jpg?fit=879%2C495&amp;ssl=1",
+          "summary": "SAN FRANCISCO – Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP)…"
+        },
+        {
           "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
           "link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
           "date": "2026-08-04T02:03:57+00:00",
@@ -1095,13 +1102,6 @@
           "date": "2026-07-31T15:57:52+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/IRIS2-image.jpg?fit=1024%2C819&amp;ssl=1",
           "summary": "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite…"
-        },
-        {
-          "title": "Inside the effort to show Congress what war in space looks like",
-          "link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
-          "date": "2026-07-31T13:30:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/National-Spacepower-Center-Pilot-Demo-July-21-2026-46-1-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-          "summary": "The Space Force Association’s National Spacepower Center is building an unclassified environment for demonstrating threats to satellites and their consequences on Earth The post…"
         }
       ],
       "ok": true,
@@ -1942,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "If you hate parrying, projectiles in Beast of Reincarnation are ridiculously overpowered if you focus on leveling them up",
+          "link": "https://www.pcgamer.com/games/action/if-you-hate-parrying-projectiles-in-beast-of-reincarnation-are-ridiculously-overpowered-if-you-focus-on-leveling-them-up/",
+          "date": "2026-08-04T03:46:52+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZhJXrnt2Bz2wjZoVVPjGmC-1280-80.jpg",
+          "summary": "Take fewer risks by taking some slightly cowardly shots from a distance."
+        },
+        {
           "title": "Beast of Reincarnation review",
           "link": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/",
           "date": "2026-08-04T00:00:00+00:00",
@@ -2003,13 +2010,6 @@
           "date": "2026-08-03T16:24:56+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/QDjbLfMYN9FEaKgA8VWDmb-1280-80.jpg",
           "summary": "Affordable AND performant."
-        },
-        {
-          "title": "Razer Blade 16 (2026) review",
-          "link": "https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-16-2026-review/",
-          "date": "2026-08-03T14:44:57+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/SngjBKNEj6gkELFRH4Vdp5-1280-80.jpg",
-          "summary": "It's still one of the best gaming laptops money can buy, but the massive price tag throws me for a loop."
         }
       ],
       "ok": true,
@@ -2252,9 +2252,80 @@
     {
       "name": "Game Developer",
       "cat": "gaming",
-      "items": [],
-      "ok": false,
-      "error": "404 Client Error: Not Found for url: https://www.gamedeveloper.com/rss.xml"
+      "items": [
+        {
+          "title": "How Silent Hill: Townfall gets deep into its protagonist's headspace",
+          "link": "https://www.gamedeveloper.com/design/how-silent-hill-townfall-gets-deep-into-its-protagonist-s-headspace",
+          "date": "2026-08-03T18:07:30+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf0583bf7177bd217/6a70d9ef1e06a59770d6250c/SH_Trailer_3_-_Screenshot_1.jpg?width=720&quality=80&disable=upscale",
+          "summary": "We spoke with Silent Hill series producer Motoi Okamoto and game director Jon McKellan about embracing analog horror and fully immersing players in a new perspective."
+        },
+        {
+          "title": "Report: FIFA World Cup developer Refactor Games shuttered by Delphi Interactive",
+          "link": "https://www.gamedeveloper.com/production/report-refactor-games-shuttered-by-delphi-interactive",
+          "date": "2026-08-03T16:01:21+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt772ebbe1eaba3689/6a70bced6bee5ba2aec276cb/Fifa_world_cup.png?width=720&quality=80&disable=upscale",
+          "summary": "The international soccer simulator only launched onto Netflix in June."
+        },
+        {
+          "title": "Xbox hardware now costs a lot more in the UK and Europe",
+          "link": "https://www.gamedeveloper.com/business/xbox-hardware-now-costs-a-lot-more-in-the-uk-and-europe",
+          "date": "2026-08-03T14:55:23+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1075c9b10f4ca54b/6a70adf2337d3710d3ce60f4/Xbox_Header.png?width=720&quality=80&disable=upscale",
+          "summary": "Consumers will be expected to pay up to 50 percent more for some console hardware."
+        },
+        {
+          "title": "PlayStation 5 sales have topped 95 million units worldwide",
+          "link": "https://www.gamedeveloper.com/business/playstation-5-sales-have-topped-95-million-units-worldwide",
+          "date": "2026-08-03T11:39:02+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4738a8d3efbee34c/6a70807f10fdd17f76f45ddb/Sony_Header.png?width=720&quality=80&disable=upscale",
+          "summary": "Sony has also secured over $510 million in U.S. tariff refunds."
+        },
+        {
+          "title": "EA clears US regulatory approvals in take-private deal",
+          "link": "https://www.gamedeveloper.com/business/ea-says-all-regulatory-approvals-have-been-cleared-for-its-take-private-deal",
+          "date": "2026-07-31T19:06:37+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltedd14b10217740c6/690a188d6baa66072d412387/EA_Header.png?width=720&quality=80&disable=upscale",
+          "summary": "Saudi Arabia's divisive EA buyout looks set to go through next week."
+        },
+        {
+          "title": "Xbox CEO declares priorities after 'reset'",
+          "link": "https://www.gamedeveloper.com/business/xbox-ceo-declares-priorities-after-reset-",
+          "date": "2026-07-31T15:45:42+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt741634c1e062b2ec/6a3d65ea81f8283d9a6219dd/xboxseriesxspriceincreasefeatured.jpg?width=720&quality=80&disable=upscale",
+          "summary": "Xbox CEO Asha Sharma lays out a plan to get Xbox back on track after the latest round of layoffs."
+        },
+        {
+          "title": "GDC Side Quest - A Sit-Down With The Indomitable Sam Beart",
+          "link": "https://www.gamedeveloper.com/audio/gdc-side-quest-a-sit-down-with-the-indomitable-sam-beart",
+          "date": "2026-07-31T14:15:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt32c4efd01e49be88/6a6ce88646e6526dc37b7a8c/Untitled_-_July_28_2026_at_13.25.20-1-GDC-GD_Side_Quest_Youtube.jpeg?width=720&quality=80&disable=upscale",
+          "summary": "Acclaimed actor Samantha Beart joins us for this month's edition of GDC Side Quest on the Game Developer Podcast."
+        },
+        {
+          "title": "Double Fine cuts staff, Xbox's revenue decline, and Leon Kennedy pays off - Patch Notes #63",
+          "link": "https://www.gamedeveloper.com/business/xbox-perpetual-hardware-revenue-decline-leon-kennedy-pays-off-and-double-fine-cuts-staff-patch-notes-63",
+          "date": "2026-07-31T13:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte12492373294a020/6a6b71482e005189547025ce/Patch_Notes_Template_White(2).png?width=720&quality=80&disable=upscale",
+          "summary": "Plus: The developer of Buckshot Roulette launches a horror subversion of Mario Party."
+        },
+        {
+          "title": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
+          "link": "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-music-video-vibes-can-t-be-beat",
+          "date": "2026-07-30T15:29:57+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2c34c4c8c8c480ac/6a63ae97d69290a3a2aaa8af/unbeatablefeatured.png?width=720&quality=80&disable=upscale",
+          "summary": "'Music doesn't make us feel things. Music IS feeling. Art IS feeling.'"
+        },
+        {
+          "title": "The truth behind the resurrection of Poinpy",
+          "link": "https://www.gamedeveloper.com/business/the-truth-behind-the-resurrection-of-poinpy",
+          "date": "2026-07-30T13:46:41+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4e07619c2bc544d2/6a6b5628a674373c72a5952e/Poinpy.png?width=720&quality=80&disable=upscale",
+          "summary": "Back from the dead and better than ever."
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "IEEE Spectrum",
