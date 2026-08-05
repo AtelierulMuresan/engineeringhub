@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:36:51.317363+00:00",
+  "updated": "2026-08-05T21:11:17.434291+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Chinese brands poach Hyundai, Kia drivers as they gain ground in Germany",
+          "link": "https://www.autonews.com/retail/ane-where-chinese-brands-poach-customers-germany-0805/",
+          "date": "2026-08-05T20:24:03+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3yeunxAnwCNOP-YJlEWnjMniBhM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4FYMK5XHUNAYNIPE4VDNFPXNS4.png",
+          "summary": "MG and BYD are winning over Hyundai and Kia owners in Germany, according to data showing the psychology of brand switching."
+        },
+        {
           "title": "Daily 5 for Aug. 5: Honda expects $3 billion more in EV-related write-downs this year",
           "link": "https://www.autonews.com/honda/an-daily-5-0805/",
           "date": "2026-08-05T19:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-05T13:06:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ggCjSiBE0GITZ6B-UsJGgrlVFWQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/N56AGQUCRJFS7FN4A3MWWJU6MA.jpg",
           "summary": "Subaru will launch a captive finance arm in 2030 to offer consumer vehicle loans and dealer floorplan financing across its 640-retailer U.S. network."
-        },
-        {
-          "title": "License plate readers are key for repossessions. Does their use constitute a privacy violation?",
-          "link": "https://www.autonews.com/retail/an-repossessions-lpr-technology-0805/",
-          "date": "2026-08-05T12:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/nW8Vxka4BOv8wFFmd_ycyzW5M2A=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3YJXBWVR2ZBFDPIWO2BQH53JOE.JPG",
-          "summary": "California courts are now split on privacy violations involving license-plate readers used for repossessions."
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Zoox's Autonomous Pod Without A Steering Wheel Wants Your Money Now",
+          "link": "https://insideevs.com/news/803923/zoox-allowed-charge-robotaxi-rides/",
+          "date": "2026-08-05T20:28:16+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/JONPXM/s3/zoox-robotaxi-las-vegas.jpg",
+          "summary": "Zoox said on Wednesday that it will start charging for rides on August 10, in a milestone for the company and broader industry."
+        },
+        {
+          "title": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat",
+          "link": "https://insideevs.com/news/803866/tesla-autopilot-computer-fsd-overheating/",
+          "date": "2026-08-05T19:56:24+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/xqnLvP/s3/2022-tesla-model-3-side-profile.jpg",
+          "summary": "Some Tesla owners running FSD V14 Lite claim the update is causing issues."
+        },
         {
           "title": "Here’s What Autobahn Speeds Do To EV Range",
           "link": "https://insideevs.com/news/803886/high-speed-autobahn-range-test/",
@@ -372,20 +386,6 @@
           "date": "2026-08-04T18:57:12+00:00",
           "image": "https://cdn.motor1.com/images/mgl/0eO0Aj/s3/porsche-718-ev-rendering.jpg",
           "summary": "Michael Leiters says the delayed electric Boxster and Cayman remain in development as the brand works to attract new buyers."
-        },
-        {
-          "title": "Toyota’s Next Generation Hybrid Batteries Promise Lower Cost, Better Performance",
-          "link": "https://insideevs.com/news/803763/toyota-next-generation-hybrid-batteries-2027/",
-          "date": "2026-08-04T17:31:30+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/KbMyVq/s3/toyota-hybrid-synergy-drive.jpg",
-          "summary": "It’s now expecting to sell more than 5 million hybrids globally this year for the first time."
-        },
-        {
-          "title": "Nissan Wants You To Relax With Its New Electric Camper Van That Fits 4 And Packs 408-Mile Range",
-          "link": "https://insideevs.com/news/803631/nissan-electric-camper-van-relax/",
-          "date": "2026-08-04T16:33:12+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/6Z87wZ/s3/nissan-interstar-e-relax.jpg",
-          "summary": "Nissan partnered with German outfitter Eifelland to create the Relax. Its 87 kWh battery eliminates the need for external power."
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Zellerfeld Relaunches Marketplace With Live Creator Rankings and Persistent Fit Profiles",
-          "link": "https://3dprintingindustry.com/news/zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles-253553/?utm_source=rss&utm_medium=rss&utm_campaign=zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles",
-          "date": "2026-08-05T11:33:56+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "3D printed footwear company Zellerfeld has relaunched its website and marketplace at zellerfeld.com, rolling out what the company is calling its biggest platform update since it…"
-        },
-        {
-          "title": "3D Systems’ Saudi Venture NAMI Wins Military Manufacturing License",
-          "link": "https://3dprintingindustry.com/news/3d-systems-saudi-venture-nami-wins-military-manufacturing-license-253558/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-saudi-venture-nami-wins-military-manufacturing-license",
-          "date": "2026-08-05T11:33:34+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The National Additive Manufacturing and Innovation Company (NAMI), a Saudi Arabian joint venture between 3D Systems, Dussur, and Saudi Energy, has been granted a Military…"
-        },
-        {
-          "title": "UPM Group 3D prints 100 m² exhibition stand for EuroShop 2026",
-          "link": "https://3dprintingindustry.com/news/upm-group-3d-prints-100-m%c2%b2-exhibition-stand-for-euroshop-2026-253532/?utm_source=rss&utm_medium=rss&utm_campaign=upm-group-3d-prints-100-m%25c2%25b2-exhibition-stand-for-euroshop-2026",
-          "date": "2026-08-05T11:33:26+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "UPM Group built a fully 3D printed exhibition stand for EuroShop 2026, the retail industry&#8217;s largest international trade fair, held in Düsseldorf, Germany. The roughly 100…"
-        },
-        {
-          "title": "GEFERTEC Launches arcTitan, a Sealed-Chamber WAAM System Built for Titanium",
-          "link": "https://3dprintingindustry.com/news/gefertec-launches-arctitan-a-sealed-chamber-waam-system-built-for-titanium-253549/?utm_source=rss&utm_medium=rss&utm_campaign=gefertec-launches-arctitan-a-sealed-chamber-waam-system-built-for-titanium",
-          "date": "2026-08-05T11:32:46+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Berlin-based company GEFERTEC has launched arcTitan, a wire-arc additive manufacturing (WAAM) system built specifically for titanium processing, combining a fully enclosed inert…"
-        },
-        {
-          "title": "MACH 2028 Passes Halfway Mark as General Sales Open",
-          "link": "https://3dprintingindustry.com/news/mach-2028-passes-halfway-mark-as-general-sales-open-253562/?utm_source=rss&utm_medium=rss&utm_campaign=mach-2028-passes-halfway-mark-as-general-sales-open",
-          "date": "2026-08-05T11:32:32+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "More than half of the exhibition floor for MACH 2028 has already been booked as general sales opened, with organizers urging companies to secure space before the event&#8217;s…"
-        },
-        {
-          "title": "New Manufacturing Observatory Tackles Industry’s Commercialization Problem",
-          "link": "https://3dprintingindustry.com/news/new-manufacturing-observatory-tackles-industrys-commercialization-problem-253560/?utm_source=rss&utm_medium=rss&utm_campaign=new-manufacturing-observatory-tackles-industrys-commercialization-problem",
-          "date": "2026-08-05T11:31:49+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "TAAG Global and the University of Bristol Business School have announced a joint intelligence platform called the Advanced Manufacturing Observatory.&#160; Its aim is to provide…"
-        },
-        {
-          "title": "Kentstrapper launches Mille large-format FDM 3D printer with one cubic metre build volume",
-          "link": "https://3dprintingindustry.com/news/kentstrapper-launches-mille-large-format-fdm-3d-printer-with-one-cubic-metre-build-volume-253561/?utm_source=rss&utm_medium=rss&utm_campaign=kentstrapper-launches-mille-large-format-fdm-3d-printer-with-one-cubic-metre-build-volume",
-          "date": "2026-08-05T11:31:27+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Italian 3D printer manufacturer Kentstrapper has launched the Mille, a large-format FDM system with a 1,000 × 1,000 × 1,000 mm build volume. Previewed at Mecspe 2026 in Bologna,…"
-        },
-        {
-          "title": "Phase3D Supports NASA’s Latest Flight Qualification Research",
-          "link": "https://3dprintingindustry.com/news/phase3d-supports-nasas-latest-flight-qualification-research-253577/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-supports-nasas-latest-flight-qualification-research",
-          "date": "2026-08-05T11:31:12+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "NASA Marshall Space Flight Center has awarded Phase3D a role in a new program aimed at proving that metal additively manufactured parts can be qualified for spaceflight during…"
-        },
-        {
-          "title": "TE Connectivity’s New 3D Printing Process for Catheter Shaft Jacketing",
-          "link": "https://3dprintingindustry.com/news/te-connectivitys-new-3d-printing-process-for-catheter-shaft-jacketing-253537/?utm_source=rss&utm_medium=rss&utm_campaign=te-connectivitys-new-3d-printing-process-for-catheter-shaft-jacketing",
-          "date": "2026-08-04T09:30:08+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "TE Connectivity has introduced an automated 3D printing process for producing catheter shafts, replacing a manual assembly step used across the industry.&#160; It was developed by…"
-        },
-        {
-          "title": "America Makes selects 25 suppliers for $10.5M metal AM qualification program",
-          "link": "https://3dprintingindustry.com/news/america-makes-selects-25-suppliers-for-10-5m-metal-am-qualification-program-253527/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-selects-25-suppliers-for-10-5m-metal-am-qualification-program",
-          "date": "2026-08-03T10:43:13+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected 25 project teams for a $10.5 million program intended to expand the US defense…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -739,7 +668,7 @@
           "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
           "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
           "date": "2026-08-04T16:14:51+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/moon-base-update-slate.jpg",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/05/mb-landers-thumbnail-horizontal-1.png",
           "summary": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To…"
         },
         {
@@ -956,6 +885,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer",
+          "link": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer",
+          "date": "2026-08-05T21:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/kzKzwyfs43ncJfFWwj7iFo-1280-80.png",
+          "summary": "Henry Cavill will executive produce this spirited spinoff of 2024's 'Secret Level' anthology."
+        },
+        {
           "title": "The 'Dark Matter' season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands",
           "link": "https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands",
           "date": "2026-08-05T19:00:00+00:00",
@@ -1017,13 +953,6 @@
           "date": "2026-08-05T05:30:17+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/FjsLrdUxHVhG9wH44TDHkJ-1280-80.jpg",
           "summary": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from…"
-        },
-        {
-          "title": "1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland",
-          "link": "https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland",
-          "date": "2026-08-05T05:17:14+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/3Ps3XQsEyxauxjyudY7dxi-1280-80.jpg",
-          "summary": "Here's what you need to know before the total solar eclipse one week from now."
         }
       ],
       "ok": true,
@@ -1552,6 +1481,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Fields Of Mistria Exits Beta With A Big Rideable Chicken",
+          "link": "https://www.gamespot.com/articles/fields-of-mistria-exits-beta-with-a-big-rideable-chicken/",
+          "date": "2026-08-05T19:53:55+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Fields-of-Mistria-Big-Chicken-Mount.jpg?w=300",
+          "summary": "Two years ago, NPC Studio launched its farm life fantasy RPG Fields of Mistria into early access. Today, that preview period has officially ended with the 1.0 release of Fields of…"
+        },
+        {
           "title": "Halo On PS5 Is Off To A Slow Start, Expert Says",
           "link": "https://www.gamespot.com/articles/halo-on-ps5-is-off-to-a-slow-start-expert-says/",
           "date": "2026-08-05T19:20:23+00:00",
@@ -1613,13 +1549,6 @@
           "date": "2026-08-05T13:01:49+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Beast-Of-Reincarnation.jpg?w=300",
           "summary": "Beast of Reincarnation launched this week, and while the game does have several technical issues, co-developer Game Freak says that a patch is on the way. This will target several…"
-        },
-        {
-          "title": "EA Has Officially Been Sold, With Trump’s Son-In-Law Taking A Stake And Mass Layoffs Expected",
-          "link": "https://www.gamespot.com/articles/ea-has-officially-been-sold-and-what-comes-next-could-be-painful/",
-          "date": "2026-08-04T20:27:24+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/EADeal.webp?w=300",
-          "summary": "The blockbuster buyout of Electronic Arts has been completed, with Saudi Arabia's Public Investment Fund taking ownership of the gaming giant in the biggest leveraged buyout (LBO)…"
         }
       ],
       "ok": true,
@@ -1629,6 +1558,55 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "All weapon locations in Beast of Reincarnation",
+          "link": "https://www.polygon.com/beast-of-reincarnation-weapon-location-where-to-find/",
+          "date": "2026-08-05T21:01:23+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bor_guide_weapons_header.jpg",
+          "summary": "In this guide, we list the weapon locations in Beast of Reincarnation, if you can buy them, and we also explain the different between melee and ranged"
+        },
+        {
+          "title": "Bubbly Basin Habitat Dex list for Pokémon Pokopia DLC",
+          "link": "https://www.polygon.com/pokemon-pokopia-bubbly-basin-dlc-habitat-dex-list-requirements/",
+          "date": "2026-08-05T20:44:29+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/obs64_2026-08-05_15-49-27.jpg",
+          "summary": "Our Pokopia guide lists all the habitats added in the Bubbly Basin DLC, and what you need to make them."
+        },
+        {
+          "title": "All manual locations in Beast of Reincarnation",
+          "link": "https://www.polygon.com/beast-of-reincarnation-manual-location-where-to-find-buy-price/",
+          "date": "2026-08-05T20:27:09+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bor_guides_manuals_header.jpg",
+          "summary": "Here's where you can find and buy manuals in Beast of Reincarnation, so you learn the crafting recipe of powerful consumable items."
+        },
+        {
+          "title": "All facility module locations in Beast of Reincarnation",
+          "link": "https://www.polygon.com/beast-of-reincarnation-facility-module-location-where-to-find/",
+          "date": "2026-08-05T20:11:48+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bor_guide_modules_header1.jpg",
+          "summary": "In this guide, you learn the facility module locations in Beast of Reincarnation, how to reach them, and the closest fast travel spot."
+        },
+        {
+          "title": "Larian Studios' Baldur's Gate 3 livestream shut down for being too sexy",
+          "link": "https://www.polygon.com/baldurs-gate-3-developer-livestream-banned-youtube-tiktok-too-horny/",
+          "date": "2026-08-05T20:05:52+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/bg3-love.jpg",
+          "summary": "Larian streams a Baldur's Gate 3 Dark Urge playthrough every week. It got banned from YouTube and TikTok for broadcasting a sex scene."
+        },
+        {
+          "title": "How Pokémon TCG fans avoid getting cooked on Walmart Wednesday",
+          "link": "https://www.polygon.com/pokemon-tcg-walmart-release-deal-is-going-fast-almost-gone-errors/",
+          "date": "2026-08-05T20:00:31+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/pokemon-pitch-black-darkrai.jpg",
+          "summary": "Walmart Wednesday is hard for Pokémon TCG collectors, but your chances are better if you know how to buy and what errors to expect."
+        },
+        {
+          "title": "Fortnite Chapter 7 Season 4 is titled Override, Epic Games confirms",
+          "link": "https://www.polygon.com/fortnite-chapter-7-season-4-override-announced-gaming-legends-leaks/",
+          "date": "2026-08-05T19:39:09+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/born-in-chaos-south-park-drops-into-fortnite-2-53-screenshot.jpg",
+          "summary": "The end of this Fortnite season is fast approaching, so Epic Games has revealed Chapter 7 Season 4's theme and start date."
+        },
         {
           "title": "Pokémon Pokopia Bubbly Basin DLC Finally Gives the Best Type of Pokémon Their Due",
           "link": "https://www.polygon.com/pokemon-pokopia-bubbly-basin-fish/",
@@ -1649,55 +1627,6 @@
           "date": "2026-08-05T18:53:15+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-ending-explained-header.jpg",
           "summary": "Call of Duty: Black Ops and Black Ops 2 recently came to the PS4 and PS5, where they're dramatically outselling Halo: Campaign Evolved."
-        },
-        {
-          "title": "How to solve the 4166 1899 puzzle in Big Walk",
-          "link": "https://www.polygon.com/big-walk-4166-1899-coordinate-puzzle-how-to-solve/",
-          "date": "2026-08-05T18:29:24+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/4166-1899-gourd_bw.jpg",
-          "summary": "The 4166 1899 puzzle in Big Walk requires you to go to a specific location on the map. Here's how to solve the puzzle and where to go."
-        },
-        {
-          "title": "All EA Studios and Games In Development After $55 Billion Saudi Deal",
-          "link": "https://www.polygon.com/ea-all-studios-list-electronic-arts/",
-          "date": "2026-08-05T18:29:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/sergei-novikov-hinztoff-ss-unsplash.jpg",
-          "summary": "EA has officially gone private. Here’s a rundown of all 20+ studios currently owned by Electronic Arts"
-        },
-        {
-          "title": "How to start the Bubbly Basin DLC in Pokémon Pokopia",
-          "link": "https://www.polygon.com/pokemon-pokopia-bubbly-basin-how-to-start-dlc-requirements/",
-          "date": "2026-08-05T17:47:21+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokopia_guide_bubblybasin_lead.jpg",
-          "summary": "Here's how to start the Bubbly Basin DLC in Pokémon Pokopia and unlock the underwater city that comes with the expansion pass part one."
-        },
-        {
-          "title": "Diablo 4 coming to Switch 2 soon, new report says",
-          "link": "https://www.polygon.com/diablo-4-nintendo-switch-2-release-date-rumor/",
-          "date": "2026-08-05T17:43:22+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/11/diablo-4-lilith-silhouette.jpeg",
-          "summary": "A new report claims Diablo 4 is headed to Nintendo Switch 2 this September, with a potential Gamescom reveal just weeks away."
-        },
-        {
-          "title": "Final Fantasy 14 team working on fix for Switch 2's load times",
-          "link": "https://www.polygon.com/final-fantasy-14-switch-2-version-load-times-fix-in-the-works/",
-          "date": "2026-08-05T17:18:45+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2849754/ffxiv_pub_patch2.3_15.1403627489.png",
-          "summary": "Square Enix is looking to address a load time issue in the critically-acclaimed MMORPG's new Switch 2 version"
-        },
-        {
-          "title": "25 years after Harry Potter, Lego is celebrating with a 3,500-piece set",
-          "link": "https://www.polygon.com/harry-potter-new-lego-set-25-year-anniversary/",
-          "date": "2026-08-05T17:11:13+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lego-harry-ministry-of-magic.jpg",
-          "summary": "Lego's next Harry Potter set is a three-story rendition of the Ministry of Magic. You can order it starting next month."
-        },
-        {
-          "title": "Pokémon Company sued over secret bathroom cameras",
-          "link": "https://www.polygon.com/the-pokemon-company-lawsuit-bathroom-camera-ben-tsai-arrested/",
-          "date": "2026-08-05T16:51:25+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16207801/jbareham_190421_0886_pikachu_0001.jpg",
-          "summary": "A former TPC director of engineering is accused of recording people without their consent in places like Starbucks and Safeway as well"
         }
       ],
       "ok": true,
@@ -1786,6 +1715,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Roblox Tanked $9 Billion In A Single Day After The Company Admitted It Was Directing Fewer Kids Toward Viral Games That ‘Emphasize Short-Term Monetization’",
+          "link": "https://kotaku.com/roblox-tanked-9-billion-in-a-single-day-after-the-company-admitted-it-was-directing-fewer-kids-toward-viral-games-that-emphasize-short-term-monetization-2000722002",
+          "date": "2026-08-05T21:08:51+00:00",
+          "image": "https://kotaku.com/app/uploads/2024/04/17663f62fa48b48e4f6d10527b1bbefc.jpg",
+          "summary": "Wall Street seems unhappy about improvements to the Roblox recommendation algorithm"
+        },
+        {
+          "title": "The Critically Acclaimed Co-Op Adventure From The Maker Of Untitled Goose Game Is Forcing Players To Make Friends",
+          "link": "https://kotaku.com/the-critically-acclaimed-co-op-adventure-from-the-maker-of-untitled-goose-game-is-forcing-players-to-make-friends-2000721641",
+          "date": "2026-08-05T20:00:10+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/big-walk-guys-1280x720.jpg",
+          "summary": "Maybe the real Big Walk was the friends we made along the way..."
+        },
+        {
           "title": "Fallout 3 Dev Excited For The Remaster Because The Original Game’s Visuals Were ‘100 Percent Not What We Intended’",
           "link": "https://kotaku.com/fallout-3-dev-excited-for-the-remaster-because-the-original-games-visuals-were-100-percent-not-what-we-intended-2000721988",
           "date": "2026-08-05T19:30:25+00:00",
@@ -1840,20 +1783,6 @@
           "date": "2026-08-05T16:00:56+00:00",
           "image": "https://kotaku.com/app/uploads/2025/10/Intern-Pikachu-Plush-Returns-in-1.jpg",
           "summary": "Local authorities say they found ‘hundreds’ of videos from inside the Bellevue Pokémon offices"
-        },
-        {
-          "title": "Runescape Thought It Could Get Away With Charging Players $12 For Single-Use Balloons",
-          "link": "https://kotaku.com/runescape-tried-charging-players-12-for-one-time-use-balloons-but-the-community-yelled-so-much-they-backed-down-2000721911",
-          "date": "2026-08-05T15:30:38+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/runescapeee-1280x720.jpg",
-          "summary": "Now players will be able to place as many balloons and party decorations as they want without buying more packs"
-        },
-        {
-          "title": "Beast Of Reincarnation Will Get ‘A Series Of Continuous Updates’ Including Increased Text Size",
-          "link": "https://kotaku.com/beast-of-reincarnation-updates-text-size-2000721877",
-          "date": "2026-08-05T15:00:01+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/beast-emma-1280x720.jpg",
-          "summary": "It will also see story pacing adjustments, though we're not sure what this means...?"
         }
       ],
       "ok": true,
@@ -1942,6 +1871,48 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Destiny 2 players are learning how to crack into its infamous content vault by tinkering with old game builds",
+          "link": "https://www.pcgamer.com/games/fps/destiny-2-players-are-learning-how-to-crack-into-its-infamous-content-vault-by-tinkering-with-old-builds/",
+          "date": "2026-08-05T20:12:21+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/CgMD94ntsUhWUx26Ua99aD-1280-80.jpg",
+          "summary": "Two months after it entered purgatory, Destiny 2's community archaeologists are creating tools for exploring its long-absent worlds."
+        },
+        {
+          "title": "You should really get Ace Combat 7 while it's 80% off on Steam, because AC8 might be one of the year's best games",
+          "link": "https://www.pcgamer.com/games/action/you-should-really-get-ace-combat-7-while-its-80-percent-off-on-steam-because-ac8-might-be-one-of-the-years-best-games/",
+          "date": "2026-08-05T20:09:21+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/a2i2JEPby88nhEHc6WkTaT-1280-80.jpg",
+          "summary": "Now this is dogfighting."
+        },
+        {
+          "title": "Fields of Mistria officially becomes the best farm sim since Stardew Valley with its 1.0 update today",
+          "link": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-officially-becomes-the-best-farm-sim-since-stardew-valley-now-that-its-launched-a-1-0-update-today/",
+          "date": "2026-08-05T20:02:24+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/2LbRGo28uxUAxL3atoUnZa-1280-80.jpg",
+          "summary": "I'm joining the stampede to the altar now that I can get married in Mistria."
+        },
+        {
+          "title": "Black Library veteran Toby Longworth gives us his tips for voicing the perfect Space Marine",
+          "link": "https://www.pcgamer.com/games/board-games/black-library-veteran-toby-longworth-gives-us-his-tips-for-voicing-the-perfect-space-marine/",
+          "date": "2026-08-05T20:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/RxZrLj8w9gHEmeRWKgono3-1280-80.jpg",
+          "summary": "\"I AM ENORMOUS AND WILL BE A DREADNOUGHT ONE DAY.\""
+        },
+        {
+          "title": "Something big is coming to Helldivers 2 next week: Squid is back on the menu",
+          "link": "https://www.pcgamer.com/games/third-person-shooter/something-big-is-coming-to-helldivers-2-next-week-squid-is-back-on-the-menu/",
+          "date": "2026-08-05T19:55:52+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/TWXX5XD5sWQWu9XE45UFhg-1280-80.jpg",
+          "summary": ""
+        },
+        {
+          "title": "'Sorry about this!' Big Walk is already fixing its biggest complaint",
+          "link": "https://www.pcgamer.com/games/puzzle/sorry-about-this-big-walk-is-already-fixing-its-biggest-complaint/",
+          "date": "2026-08-05T19:36:45+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/opLfRff2WdB2jTWDfA2RSc-1280-80.jpg",
+          "summary": "In a game about communication, players are having trouble hearing each other."
+        },
+        {
           "title": "Grand Theft Auto 6 publisher is holding an investors call at a very unusual time this week",
           "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-publisher-is-holding-an-investors-call-at-a-very-unusual-time-this-week/",
           "date": "2026-08-05T19:20:04+00:00",
@@ -1968,48 +1939,6 @@
           "date": "2026-08-05T16:27:01+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/TSTpuZqmjfZ33AUYtiscDQ-1280-80.jpg",
           "summary": "Eric Baptizat is back."
-        },
-        {
-          "title": "Fields of Mistria 1.0 changes: What's new in the full release version?",
-          "link": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-1-0-update-changes/",
-          "date": "2026-08-05T16:25:20+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/DG4NKAyU4psHGguSf7eAg4-1280-80.jpg",
-          "summary": "Here's what you need to know about jumping in or starting over in Fields of Mistria"
-        },
-        {
-          "title": "The next game in a huge Chinese action RPG series has plenty of action, but I hope it hasn't totally abandoned the RPG",
-          "link": "https://www.pcgamer.com/games/action/the-next-game-in-a-huge-chinese-action-rpg-series-has-plenty-of-action-but-i-hope-it-hasnt-totally-abandoned-the-rpg/",
-          "date": "2026-08-05T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/buRPaYJBCApkhsmzBSYpte-1280-80.jpg",
-          "summary": "Swords of Legends is a looker, but so far it seems a lot more Black Myth than its predecessors."
-        },
-        {
-          "title": "We asked the voice of Eisenhorn, Gaunt, and Garro in Warhammer 40k who his favorite character to play is",
-          "link": "https://www.pcgamer.com/games/board-games/we-asked-the-voice-of-eisenhorn-gaunt-and-garro-in-warhammer-40k-who-his-favorite-character-to-play-is/",
-          "date": "2026-08-05T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hwnpZjmynCYfHtr3ZvVuEC-1280-80.jpg",
-          "summary": "Black Library veteran Toby Longworth picks his fav."
-        },
-        {
-          "title": "Pulsar to study how we all use our gaming mice to make them better, offering prizes to those who help them build the mouse of the future",
-          "link": "https://www.pcgamer.com/hardware/gaming-mice/pulsar-to-study-how-we-all-use-our-gaming-mice-to-make-them-better-offering-prizes-to-those-who-help-them-build-the-mouse-of-the-future/",
-          "date": "2026-08-05T15:56:23+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hQTSykvd4eTkUSmpRkeumL-1280-80.jpg",
-          "summary": "Finger on the pulse."
-        },
-        {
-          "title": "The actors behind Leon Kennedy and Grace Ashcroft will take to the stage for the Future Games Show at Gamescom this month",
-          "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-actors-behind-leon-kennedy-and-grace-ashcroft-will-take-to-the-stage-for-the-future-games-show-at-gamescom-this-month/",
-          "date": "2026-08-05T15:20:53+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NL7xVzMBJnUQhrZJv3VwA3-1280-80.png",
-          "summary": "We've got some evil residents in the building."
-        },
-        {
-          "title": "'AI PCs will become more important': AMD's Lisa Su remains optimistic about the market despite runaway pricing caused by *checks notes* the AI industry",
-          "link": "https://www.pcgamer.com/software/ai/ai-pcs-will-become-more-important-amds-lisa-su-remains-optimistic-about-the-market-despite-runaway-pricing-caused-by-checks-notes-the-ai-industry/",
-          "date": "2026-08-05T14:46:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/HPZZoqVz3GyBbJX3DsQ4GR-1280-80.jpg",
-          "summary": "\"I remain optimistic about the PC market as an important way for us to reach a broader set of users.\""
         }
       ],
       "ok": true,
@@ -2332,6 +2261,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+          "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+          "date": "2026-08-05T18:00:03+00:00",
+          "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=980",
+          "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme…"
+        },
+        {
           "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
           "link": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
           "date": "2026-08-04T14:51:55+00:00",
@@ -2393,13 +2329,6 @@
           "date": "2026-07-29T14:55:45+00:00",
           "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=980",
           "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech…"
-        },
-        {
-          "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
-          "link": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-          "date": "2026-07-29T14:00:02+00:00",
-          "image": "https://spectrum.ieee.org/media-library/smiling-woman-in-nccu-eagles-jersey-stands-with-arms-crossed-in-front-of-red-mural.png?id=67527627&width=980",
-          "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry…"
         }
       ],
       "ok": true,
@@ -2409,6 +2338,13 @@
       "name": "Interesting Engineering",
       "cat": "engineering",
       "items": [
+        {
+          "title": "X-energy supercharges US reactor fuel ambitions with major 70-acre Oak Ridge expansion",
+          "link": "https://interestingengineering.com/energy/x-energy-adds-70-acres-tennessee-nuclear-fuel-campus",
+          "date": "2026-08-05T19:50:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-1800259172.jpg",
+          "summary": "Maryland-based reactor developer X-energy is adding about 70 acres to its nuclear fuel campus in..."
+        },
         {
           "title": "Bell 505 makes its Asia-Pacific police debut with Japan’s Aichi Prefectural police",
           "link": "https://interestingengineering.com/military/bell-505-aichi-prefectural-police",
@@ -2471,13 +2407,6 @@
           "date": "2026-08-05T15:42:57+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-8.jpg",
           "summary": "Easily overlooked, lubricants are what keep the global machine industry running smoothly. Now, a new..."
-        },
-        {
-          "title": "World’s first nuclear waste repository with 100,000-year lifespan secures major approval",
-          "link": "https://interestingengineering.com/science/worlds-first-nuclear-waste-repository",
-          "date": "2026-08-05T15:16:58+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Nuclear-fuel-repository.jpg",
-          "summary": "Finland&#8217;s nuclear safety regulator, STUK, issued a favorable safety review on August 4 for a..."
         }
       ],
       "ok": true,
@@ -2658,6 +2587,48 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+          "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+          "date": "2026-08-05T19:51:40+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-500x500-1785956226.jpeg",
+          "summary": "\"Slop\" isn't the only problem."
+        },
+        {
+          "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+          "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+          "date": "2026-08-05T19:38:56+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-500x500-1768005711.jpg",
+          "summary": "SpaceX won't build large cell towers but plans small base stations across US."
+        },
+        {
+          "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+          "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "date": "2026-08-05T19:19:04+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot-500x500.png",
+          "summary": "\"The models are forecasting something outside the envelope of anything we have ever observed.\""
+        },
+        {
+          "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+          "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+          "date": "2026-08-05T19:05:58+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261835158-500x500-1785954410.jpg",
+          "summary": "Google's AI brain drain continues."
+        },
+        {
+          "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+          "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+          "date": "2026-08-05T18:27:15+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spidey2-500x500-1785868617.jpg",
+          "summary": "It's as much about grounded characters and well-timed emotional beats as CGI-filled action extravaganzas."
+        },
+        {
+          "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+          "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
+          "date": "2026-08-05T18:11:11+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-500x500.jpg",
+          "summary": "Reports of cases began in June, and the national tally is now nearing 23,000."
+        },
+        {
           "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
           "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
           "date": "2026-08-05T17:12:39+00:00",
@@ -2684,48 +2655,6 @@
           "date": "2026-08-05T15:30:02+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg",
           "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
-        },
-        {
-          "title": "SpaceX spooks investors with debut earnings report",
-          "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-          "date": "2026-08-05T13:59:17+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-500x500.jpg",
-          "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled."
-        },
-        {
-          "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-          "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-          "date": "2026-08-05T11:00:26+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-500x500.jpeg",
-          "summary": "Scooter layout makes pedaling a bad experience. But it does have pedals."
-        },
-        {
-          "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
-          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-          "date": "2026-08-04T21:52:31+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-500x500.jpg",
-          "summary": "Fire experts warn such markets could incentivize arson."
-        },
-        {
-          "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-          "date": "2026-08-04T21:27:05+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-500x500.jpg",
-          "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional."
-        },
-        {
-          "title": "Texas halts data center connections to power grid amid overwhelming demand",
-          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-          "date": "2026-08-04T20:34:28+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-500x500.jpg",
-          "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections."
-        },
-        {
-          "title": "China is Tesla's cash cow, but for how much longer?",
-          "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-          "date": "2026-08-04T17:34:48+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-500x500.jpg",
-          "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose."
         }
       ],
       "ok": true,
@@ -2749,6 +2678,20 @@
       "name": "ENR",
       "cat": "engineering",
       "items": [
+        {
+          "title": "ENR Midwest Announces Best Projects for 2026",
+          "link": "https://www.enr.com/blogs/10-midwest-musings/post/63433-enr-midwest-announces-best-projects-for-2026",
+          "date": "2026-08-05T20:12:25+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/08/05/Aug4ChapelNight---Fentress-(1).webp?t=1785954095",
+          "summary": "ENR Midwest recognizes its Projects of the Year."
+        },
+        {
+          "title": "How I Lived My Clean-Air Engineering Life",
+          "link": "https://www.enr.com/articles/63440-how-i-lived-my-clean-air-engineering-life",
+          "date": "2026-08-05T20:10:00+00:00",
+          "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-Viewpoint.webp?t=1758826048",
+          "summary": "When I enrolled as a mechanical engineering student in 1990, I never knew I would spend 30 years doing air quality environmental engineering—work I love that involves helping to…"
+        },
         {
           "title": "Agencies Use Tech to Inform World Cup Mobility Efforts",
           "link": "https://www.enr.com/articles/63438-agencies-use-tech-to-inform-world-cup-mobility-efforts",
@@ -2804,20 +2747,6 @@
           "date": "2026-08-05T15:04:40+00:00",
           "image": "https://www.enr.com/ext/resources/2026/WEB-NE-Best-Projects.webp?t=1785877846",
           "summary": "Judges selected 28 projects in 14 main categories in Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont."
-        },
-        {
-          "title": "CM Selected for $322M Cleveland Clinic Hospital Expansion",
-          "link": "https://www.enr.com/articles/63425-cm-selected-for-322m-cleveland-clinic-hospital-expansion",
-          "date": "2026-08-05T14:29:16+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/04/Aug.4CCFAvon_Aerial.webp?t=1785873429",
-          "summary": "What new services will the project bring to patients of the Cleveland Clinic?"
-        },
-        {
-          "title": "Construction Economics for August 10, 2026",
-          "link": "https://www.enr.com/articles/63439-construction-economics-for-august-10-2026",
-          "date": "2026-08-05T13:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-ConstructionEconomics.webp?t=1538154003",
-          "summary": "ENR’s 20-city average cost indexes, wages and materials prices. Historical data and details for ENR’s 20 cities can be found at ENR.com/economics"
         }
       ],
       "ok": true,
