@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:59:30.994635+00:00",
+  "updated": "2026-08-07T19:55:27.970636+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -169,6 +169,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "A chat with Akio Toyoda AI; Widewail CEO Cuyler Owens on dealership customer service",
+          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-akio-toyoda-ai-cuyler-owens-widewail/",
+          "date": "2026-08-07T19:19:38+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/oPzzYP__gMf4s9GUD2eUqPx3SBE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/KRSOONNG4JF6JAS4HVQVILIWUA.jpeg",
+          "summary": "Automotive News Asia Editor Hans Greimel sits down with an AI avatar of Toyota Chairman Akio Toyoda. Toyota gets hit by a typhoon the day after restarting from last month’s…"
+        },
+        {
+          "title": "Daily 5 for Aug. 7: Why Honda’s Tata deal signals a new era for legacy automakers",
+          "link": "https://www.autonews.com/newsletters/daily-5/an-daily5-honda-leans-on-tata-0807/",
+          "date": "2026-08-07T19:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/fQ0-A5jpv-f7pAZsaJ6f60ejjfs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JPQG2NXQJ5GD7OAN34KSX4NZJU.png",
+          "summary": "Honda's decision to outsource platform development to India's Tata Technologies signals a broader shift as legacy automakers increasingly rely on emerging-market partners for…"
+        },
+        {
           "title": "Use Automation Tools to Boost Efficiency, Close More Sales",
           "link": "https://www.autonews.com/sponsored/webinars/an-use-automation-tools-to-boost-efficiency-close-more-sales/",
           "date": "2026-08-07T18:58:38+00:00",
@@ -223,20 +237,6 @@
           "date": "2026-08-07T08:26:09+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/bUudxAfs84xJyb4y-VO1MMvjhxo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/2SXUNTUIMJD75KDTBQXDBPAPBQ.jpg",
           "summary": "The Dutch road regulator, the RDW, is withholding Tesla FSD safety review data at the automaker's request, citing trade secrets."
-        },
-        {
-          "title": "VW’s controlling families call for swift action in restructuring battle after $2.6 billion loss",
-          "link": "https://www.autonews.com/volkswagen/ane-vw-top-shareholder-calls-for-cuts-0807/",
-          "date": "2026-08-07T08:08:31+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3nnuhvBd_WF8bnWQbe8D16d7iaM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/YMDDMLXDBNGBBAAX3MCRSWFWYU.jpg",
-          "summary": "VW Group’s controlling shareholder says the automaker must move quickly on restructuring. The Porsche-Piech family firm reported a first-half loss of €2.22 billion."
-        },
-        {
-          "title": "Toyota suspends 17 lines at 9 plants as typhoon follows earthquake disruption in Japan",
-          "link": "https://www.autonews.com/toyota/an-japan-typhoon-toyota-production-suspension-earthquake-honda-nissan-suppliers-0807/",
-          "date": "2026-08-07T06:28:33+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/MV99e26DHug2jSTLf578ohoAUEg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NTURCKPQN5DH5KRMBHFL4JBCEA.png",
-          "summary": "A powerful typhoon forced Toyota to idle production at nine Japanese plants, affecting models including Corolla, Camry and RAV4."
         }
       ],
       "ok": true,
@@ -495,7 +495,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
+      "error": "404 Client Error: Not Found for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -580,6 +580,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "2026 IGARSS Hyperwall Schedule",
+          "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+          "date": "2026-08-07T18:57:34+00:00",
+          "image": null,
+          "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the…"
+        },
+        {
           "title": "NASA’s IXPE Studies Magnetar",
           "link": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
           "date": "2026-08-07T14:27:35+00:00",
@@ -641,13 +648,6 @@
           "date": "2026-08-06T15:15:37+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg?w=2048",
           "summary": "NASA astronaut Adam Fuhrmann (right, in yellow) prepares for a training flight aboard NASA’s WB-57 aircraft in this July 16, 2026, photo. These high-altitude flights train the…"
-        },
-        {
-          "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL",
-          "link": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
-          "date": "2026-08-06T14:39:51+00:00",
-          "image": null,
-          "summary": ""
         }
       ],
       "ok": true,
@@ -885,6 +885,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year",
+          "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+          "date": "2026-08-07T19:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-1280-80.jpg",
+          "summary": "NASA's Voyager 2 probe, which launched in 1977, can keep operating its last science instruments after a power reduction operation performed in interstellar space."
+        },
+        {
           "title": "Inside the mystery of the James Webb Space Telescope's little red dots — and how they might be evolving",
           "link": "https://www.space.com/astronomy/james-webb-space-telescope/inside-the-mystery-of-the-james-webb-space-telescopes-little-red-dots-and-how-they-might-be-evolving",
           "date": "2026-08-07T18:00:00+00:00",
@@ -946,13 +953,6 @@
           "date": "2026-08-07T06:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/riivz6ATircntytE9j9raB-1280-80.jpg",
           "summary": "Millions will see a deep partial or total solar eclipse on Aug. 12, but there's no need to fixate on completely clear skies."
-        },
-        {
-          "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
-          "link": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
-          "date": "2026-08-06T20:05:01+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/intWgzLxHinP4DegP2w3hS-1280-80.jpg",
-          "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026."
         }
       ],
       "ok": true,
@@ -1559,6 +1559,41 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "26 Years Later, Attack on Titan's Best Quote Is Still One of the Coldest Quotes in Anime History",
+          "link": "https://www.polygon.com/how-attack-on-titan-turned-its-heros-battle-cry-into-a-villains-manifesto/",
+          "date": "2026-08-07T19:39:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/attack-on-titan-1.jpg",
+          "summary": "Eren Yeager's most impactful line serves as a tortured forewarning of the monster the character would inevitably become."
+        },
+        {
+          "title": "How to solve the microphone puzzle in Big Walk",
+          "link": "https://www.polygon.com/big-walk-microphone-puzzle-how-to-solve-walkthrough/",
+          "date": "2026-08-07T19:26:53+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/microphone-puzzle_bw.jpg",
+          "summary": "The microphone puzzle in Big Walk will need the help of your best listener. Here's how to solve it."
+        },
+        {
+          "title": "Fields of Mistria romance and best gifts list",
+          "link": "https://www.polygon.com/fields-of-mistria-guides/443158/romance-marriage-candidates-characters-best-gifts/",
+          "date": "2026-08-07T19:19:04+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/265122_99d8e59a5f3f477f88c63dfdcbfe1280-mv2.png",
+          "summary": "There are many romanceable characters in Fields of Mistria. We list them and the best gifts to give them early on."
+        },
+        {
+          "title": "Pokemon Pokopia's Bubbly Basin DLC is great, but Palworld does one thing better",
+          "link": "https://www.polygon.com/pokopia-bubbly-basin-dlc-popplio-temple-construction/",
+          "date": "2026-08-07T19:09:55+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokopia-popplio-temple.jpg",
+          "summary": "Pokopia's Bubbly Basin temple project makes the lack of help you get stand out in stark contrast to Palword's Pal work suitability"
+        },
+        {
+          "title": "Grand Theft Auto 6 Parent Company Doubles Down on No Physical Edition, Calls Digital ‘Much More Convenient'",
+          "link": "https://www.polygon.com/grand-theft-auto-6-no-physical-disc-take-two-earnings-call-digital-games/",
+          "date": "2026-08-07T18:59:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_goodtime_gear_01.jpg",
+          "summary": "Take-Two's CEO says physical discs don't make sense for big games like GTA6, reveals game sales are already over 90% digital"
+        },
+        {
           "title": "'Build the Beautiful Building!' walkthrough and quest steps in Pokémon Pokopia",
           "link": "https://www.polygon.com/pokemon-pokopia-guide-build-beautiful-building-walkthrough/",
           "date": "2026-08-07T18:14:30+00:00",
@@ -1592,41 +1627,6 @@
           "date": "2026-08-07T17:29:40+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/04/duskbloods-gesture.jpg",
           "summary": "FromSoftware's Nintendo Switch 2 multiplayer game will hold a beta later this month and just announced who gets to take part"
-        },
-        {
-          "title": "Pokémon TCG Pocket Player Count Drops Sharply from a Year Ago",
-          "link": "https://www.polygon.com/pokemon-tcg-pocket-revenue-drop/",
-          "date": "2026-08-07T17:11:58+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/poke-mon-tcg-pocket_-pulsing-aura-_-official-trailer-0-47-screenshot.jpg",
-          "summary": "Pokémon TCG Pocket has seen its monthly player count fall significantly, as DeNA looks for ways to keep fans logging in and opening packs."
-        },
-        {
-          "title": "Critical Role's major D&D campaign officially returns — what to know",
-          "link": "https://www.polygon.com/critical-role-campaign-4-release-soon/",
-          "date": "2026-08-07T17:03:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/critical-role.jpg",
-          "summary": "Don't have the time to catch up with Critical Role's main Dungeons & Dragons campaign? We've got everything you need to know about it"
-        },
-        {
-          "title": "Fields of Mistria museum collectibles list",
-          "link": "https://www.polygon.com/fields-of-mistria-guides/445259/museum-list-sections-archaeology-dig-spots/",
-          "date": "2026-08-07T16:58:42+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/image-40.png",
-          "summary": "In Fields of Mistria, you’ll want to complete the museum each season for rewards. We list all the items you need to fill it up in our guide."
-        },
-        {
-          "title": "Robert Pattinson's Nerve-Wracking 105-Minute Psychological Thriller Officially Crowned a #1 Streaming Hit",
-          "link": "https://www.polygon.com/the-drama-popular-on-hbo-max-robert-pattinson/",
-          "date": "2026-08-07T16:28:00+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcddram_ec050.jpg",
-          "summary": "The Drama, the A24 thriller starring Robert Pattinson and Zendaya, is a hit on HBO Max after a great run at the box office."
-        },
-        {
-          "title": "BR1: Infinite Promises Players Real Money for Playing, Prompting Gambling Concerns",
-          "link": "https://www.polygon.com/br-1-infinite-extraction-shooter/",
-          "date": "2026-08-07T16:21:04+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/arc-raiders-extraction-shooter-floodgates-pubg-black-budget.jpg",
-          "summary": "BR1: Infinite promises to give players real-world money for every kill they get and every hour they survive in-game, but there's a catch."
         }
       ],
       "ok": true,
@@ -2027,6 +2027,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "THQ Nordic Showcase 2026: New Worlds, New Stories, New Games, and New Discounts",
+          "link": "https://news.xbox.com/en-us/2026/08/07/thq-nordic-showcase-2026/",
+          "date": "2026-08-07T19:30:00+00:00",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/reanimal-dlc-2cc3a73e25de63d4456a-1024x576.jpg",
+          "summary": "The 2026 instalment of the THQ Nordic Digital Showcase took place today, offering gamers first and fresh looks at many upcoming titles. &#160;During the showcase, we released the…"
+        },
+        {
           "title": "Dinos Collide in Explosive On-Rails Shooter Tailbreak, Out Now",
           "link": "https://news.xbox.com/en-us/2026/08/07/dinos-collide-in-explosive-on-rails-shootertailbreak/",
           "date": "2026-08-07T17:00:00+00:00",
@@ -2088,13 +2095,6 @@
           "date": "2026-08-06T13:00:00+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2019/12/Nexus_GRN_on_WHT2.png",
           "summary": "The post Gears of War: E-Day Early Access Open Beta Starts Today &#8211; Everything You Need to Know appeared first on XBOX Wire ."
-        },
-        {
-          "title": "Monsters Are Coming! Launches on XBOX Series X|S on August 6 — With a New Update Built for Challenge Seekers",
-          "link": "https://news.xbox.com/en-us/2026/08/06/monsters-are-coming-console-launch-update/",
-          "date": "2026-08-06T12:00:00+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/Monsters_are_Coming_Asset_02-a104cc08940ff7257988.jpg",
-          "summary": "The City Reaches XBOX Series X&#124;S Since launch, Monsters Are Coming! has continued to grow through new systems, balance updates, community feedback, and a lot of player-made…"
         }
       ],
       "ok": true,
@@ -2339,6 +2339,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Investment casting firm wins US Navy contract for MRO replacement parts",
+          "link": "https://interestingengineering.com/military/rangeview-lands-us-navy-mro-contract",
+          "date": "2026-08-07T19:36:53+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design275.jpg",
+          "summary": "California-based Rangeview Inc. has secured a contract to supply maintenance, repair, and overhaul (MRO) replacement..."
+        },
+        {
+          "title": "Quantum-inspired tech lets engineers test tens of thousands of drone designs at once",
+          "link": "https://interestingengineering.com/military/quantum-inspired-computing-drone-propeller-design",
+          "date": "2026-08-07T19:23:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Mondolovo.jpg",
+          "summary": "Drone maker Modovolo is using quantum-inspired computing to speed up the design of its next-generation..."
+        },
+        {
+          "title": "SpaceX promises self-sustaining power and water recycling for $55b Grimes County project",
+          "link": "https://interestingengineering.com/innovation/spacex-self-sustaining-power-water-recycling",
+          "date": "2026-08-07T19:14:52+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/xgf2gurv0wa.jpg",
+          "summary": "SpaceX is officially entering the semiconductor manufacturing business. Texas Governor Greg Abbott confirmed that the..."
+        },
+        {
           "title": "From petrochemicals to pigments: how EverDye is reinventing textile dyeing",
           "link": "https://interestingengineering.com/energy/from-petrochemicals-to-pigments-how-everdye-is-reinventing-textile-dyeing",
           "date": "2026-08-07T18:51:01+00:00",
@@ -2386,27 +2407,6 @@
           "date": "2026-08-07T15:13:40+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Z2.jpeg?w=150&h=150&crop=1",
           "summary": "A new modular mobility concept could allow passengers and cargo to move between roads, railways,..."
-        },
-        {
-          "title": "Altilium’s patented hydromet technology reduces EV battery material costs by 20%",
-          "link": "https://interestingengineering.com/innovation/altiliums-patented-hydromet-technology-reduces-ev-battery-material-costs-by-20",
-          "date": "2026-08-07T14:39:19+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/goiecsxovqe_eb9ca7.jpg",
-          "summary": "The UK’s push for electric vehicle supply chain sovereignty just gained critical legal teeth. Clean..."
-        },
-        {
-          "title": "US Navy to get fuel-flexible, multi-megawatt power modules for naval, land missions",
-          "link": "https://interestingengineering.com/energy/us-karno-power-module-navy",
-          "date": "2026-08-07T13:43:18+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-07T182010.270.jpg",
-          "summary": "Austin, Texas-based Hyliion has been awarded a contract from the Office of Naval Research (ONR)..."
-        },
-        {
-          "title": "Nuclear firm advances 986°F lead-cooled reactor tech, next-gen MOX fuel with US filing",
-          "link": "https://interestingengineering.com/energy/newcleo-advances-986f-lead-cooled-reactor-tech",
-          "date": "2026-08-07T13:35:30+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/MoX-Fuel.jpg",
-          "summary": "Nuclear technology firm newcleo has taken its first formal step toward building a commercial fuel..."
         }
       ],
       "ok": true,
