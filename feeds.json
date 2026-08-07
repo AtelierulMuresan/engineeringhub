@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T11:47:00.505469+00:00",
+  "updated": "2026-08-07T13:06:37.032282+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -162,6 +162,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "CATL and BYD’s battery growth pulls in opposite directions",
+          "link": "https://www.automotiveworld.com/news/catl-and-byds-battery-growth-pulls-in-opposite-directions/",
+          "date": "2026-08-07T12:10:56+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BYD's automotive business is consuming nearly everything its battery unit produces, leaving little to sell externally. By Stewart Burnett The post CATL and BYD&#8217;s battery…"
+        },
+        {
           "title": "OEM results watch, Q2 2026: an uneven recovery",
           "link": "https://www.automotiveworld.com/data/oem-results-watch-q2-2026-an-uneven-recovery/",
           "date": "2026-08-07T11:35:23+00:00",
@@ -223,13 +230,6 @@
           "date": "2026-08-07T04:25:15+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Kodiak's expanding pilots and fleet growth signal a company shifting from proving autonomy to proving it can operate profitably The post Kodiak deploys more driverless trucks,…"
-        },
-        {
-          "title": "Enva’s new HIPS compound targets automotive manufacturers",
-          "link": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-          "date": "2026-08-07T04:20:48+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "By controlling recycling through to compounding, Enva is betting vertical integration wins it a foothold in automotive supply chains. The post Enva&#8217;s new HIPS compound…"
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Craft Health’s CraftMake Platform Gets a Peptide Test Run",
-          "link": "https://3dprintingindustry.com/news/craft-healths-craftmake-platform-gets-a-peptide-test-run-253591/?utm_source=rss&utm_medium=rss&utm_campaign=craft-healths-craftmake-platform-gets-a-peptide-test-run",
-          "date": "2026-08-07T11:39:21+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Specialty pharmaceutical company PharmaTher Holdings is collaborating with Craft Health Pte. Ltd., a Singapore-based pharmaceutical technology company, to test whether Craft…"
-        },
-        {
-          "title": "TBGA Contracted to Support BPMI’s AM Material Database",
-          "link": "https://3dprintingindustry.com/news/tbga-contracted-to-support-bpmis-am-material-database-253634/?utm_source=rss&utm_medium=rss&utm_campaign=tbga-contracted-to-support-bpmis-am-material-database",
-          "date": "2026-08-07T06:08:22+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The Barnes Global Advisors (TBGA) has been contracted by Bechtel Plant Machinery, Inc. (BPMI) to support the development and management of a materials and process database for…"
-        },
-        {
-          "title": "USA Diving names FITASY official footwear partner",
-          "link": "https://3dprintingindustry.com/news/usa-diving-names-fitasy-official-footwear-partner-253627/?utm_source=rss&utm_medium=rss&utm_campaign=usa-diving-names-fitasy-official-footwear-partner",
-          "date": "2026-08-07T05:59:46+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "USA Diving has named Indianapolis-based FITASY, a maker of 3D printed custom-fit recovery footwear, as its official footwear partner. The partnership launched at the Bolzano…"
-        },
-        {
-          "title": "Walter Reed’s 3D Printed Titanium Cranial Plate Becomes First Implant Cleared by the FDA for a Point-of-Care Institution",
-          "link": "https://3dprintingindustry.com/news/walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution-253587/?utm_source=rss&utm_medium=rss&utm_campaign=walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution",
-          "date": "2026-08-07T05:54:19+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/170516-D-HA257-8260-150x100.avif",
-          "summary": "The US Food and Drug Administration (FDA) has granted premarket clearance to a 3D printed titanium cranial plate developed at Walter Reed National Military Medical Center, marking…"
-        },
-        {
-          "title": "Renishaw Launches LIBERTAS Software to Reduce Supports and Improve Surface Finish in Metal AM",
-          "link": "https://3dprintingindustry.com/news/renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am-253619/?utm_source=rss&utm_medium=rss&utm_campaign=renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am",
-          "date": "2026-08-07T05:18:35+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Global engineering firm Renishaw has introduced LIBERTAS, a new software technology for its RenAM 500 series metal additive manufacturing (AM) systems that targets two persistent…"
-        },
-        {
-          "title": "Elmet Installs New System to Target Monolithic Hypersonic Heat Exchangers",
-          "link": "https://3dprintingindustry.com/news/elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers-253583/?utm_source=rss&utm_medium=rss&utm_campaign=elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers",
-          "date": "2026-08-06T11:13:27+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The Elmet Group’s subsidiary Elmet Technologies is installing a DMP Flex 350 Triple metal 3D printer from 3D Systems to produce heat exchangers for hypersonic vehicles.&#160;…"
-        },
-        {
-          "title": "Zellerfeld Relaunches Marketplace With Live Creator Rankings and Persistent Fit Profiles",
-          "link": "https://3dprintingindustry.com/news/zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles-253553/?utm_source=rss&utm_medium=rss&utm_campaign=zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles",
-          "date": "2026-08-05T11:33:56+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "3D printed footwear company Zellerfeld has relaunched its website and marketplace at zellerfeld.com, rolling out what the company is calling its biggest platform update since it…"
-        },
-        {
-          "title": "3D Systems’ Saudi Venture NAMI Wins Military Manufacturing License",
-          "link": "https://3dprintingindustry.com/news/3d-systems-saudi-venture-nami-wins-military-manufacturing-license-253558/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-saudi-venture-nami-wins-military-manufacturing-license",
-          "date": "2026-08-05T11:33:34+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The National Additive Manufacturing and Innovation Company (NAMI), a Saudi Arabian joint venture between 3D Systems, Dussur, and Saudi Energy, has been granted a Military…"
-        },
-        {
-          "title": "UPM Group 3D prints 100 m² exhibition stand for EuroShop 2026",
-          "link": "https://3dprintingindustry.com/news/upm-group-3d-prints-100-m%c2%b2-exhibition-stand-for-euroshop-2026-253532/?utm_source=rss&utm_medium=rss&utm_campaign=upm-group-3d-prints-100-m%25c2%25b2-exhibition-stand-for-euroshop-2026",
-          "date": "2026-08-05T11:33:26+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "UPM Group built a fully 3D printed exhibition stand for EuroShop 2026, the retail industry&#8217;s largest international trade fair, held in Düsseldorf, Germany. The roughly 100…"
-        },
-        {
-          "title": "GEFERTEC Launches arcTitan, a Sealed-Chamber WAAM System Built for Titanium",
-          "link": "https://3dprintingindustry.com/news/gefertec-launches-arctitan-a-sealed-chamber-waam-system-built-for-titanium-253549/?utm_source=rss&utm_medium=rss&utm_campaign=gefertec-launches-arctitan-a-sealed-chamber-waam-system-built-for-titanium",
-          "date": "2026-08-05T11:32:46+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Berlin-based company GEFERTEC has launched arcTitan, a wire-arc additive manufacturing (WAAM) system built specifically for titanium processing, combining a fully enclosed inert…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -899,6 +828,20 @@
           "summary": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from…"
         },
         {
+          "title": "Week in images: 03-07 August 2026",
+          "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026",
+          "date": "2026-08-07T13:10:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/webb_opens_a_treasure_chest_filled_with_stars/27404048-1-eng-GB/Webb_opens_a_Treasure_Chest_filled_with_stars_card_full.jpg",
+          "summary": "Week in images: 03-07 August 2026 Discover our week through the lens"
+        },
+        {
+          "title": "Danube’s waters fall to record lows",
+          "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Danube_s_waters_fall_to_record_lows",
+          "date": "2026-08-07T11:40:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/danube_s_waters_fall_to_record_lows/27408537-1-eng-GB/Danube_s_waters_fall_to_record_lows_card_full.jpg",
+          "summary": "Image: These Copernicus Sentinel-2 images over the Danube north of Budapest show how the river’s level has fallen to a record low in Hungary due to a severe drought in central…"
+        },
+        {
           "title": "IRIS² reinforced and accelerated as implementation advances",
           "link": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances",
           "date": "2026-08-07T09:27:00+00:00",
@@ -932,20 +875,6 @@
           "date": "2026-08-05T09:30:00+00:00",
           "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/europe_s_forests_losing_biomass_due_to_disturbances/27405448-2-eng-GB/Europe_s_forests_losing_biomass_due_to_disturbances_card_full.jpg",
           "summary": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in…"
-        },
-        {
-          "title": "ESA and Pokémon team up to celebrate World Space Week",
-          "link": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
-          "date": "2026-08-04T08:00:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/pokemon_x_esa_collaboration/27401892-8-eng-GB/Pokemon_x_ESA_collaboration_card_full.jpg",
-          "summary": "The European Space Agency (ESA) and The Pokémon Company International (TPCi) are teaming up to celebrate World Space Week from 4–10 October 2026. This unique, limited-time…"
-        },
-        {
-          "title": "The journey of Sophie Adenot's bonus food",
-          "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/The_journey_of_Sophie_Adenot_s_bonus_food",
-          "date": "2026-08-03T12:00:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/the_journey_of_sophie_adenot_s_bonus_food/27401561-1-eng-GB/The_journey_of_Sophie_Adenot_s_bonus_food_card_full.png",
-          "summary": "Video: 00:05:45 What does it take to send gourmet food to the International Space Station? Follow ESA astronaut Sophie Adenot's bonus menu from a French kitchen to orbit, where…"
         }
       ],
       "ok": true,
@@ -955,6 +884,13 @@
       "name": "Space.com",
       "cat": "space",
       "items": [
+        {
+          "title": "The UK is about to witness its most spectacular solar eclipse in 11 years. Here's what you need to know",
+          "link": "https://www.space.com/stargazing/solar-eclipses/the-uk-is-about-to-witness-its-most-spectacular-solar-eclipse-in-11-years-heres-what-you-need-to-know",
+          "date": "2026-08-07T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/3h8dH63JcfqUyLLrXxnzUG-1280-80.jpg",
+          "summary": "The Aug. 12 eclipse won't bring totality to Britain, but up to 98% of the sun will disappear in one of the U.K.'s most dramatic partial eclipses in decades."
+        },
         {
           "title": "Why you don't need a perfectly clear sky to enjoy the total solar eclipse on Aug. 12",
           "link": "https://www.space.com/stargazing/solar-eclipses/why-you-dont-need-a-perfectly-clear-sky-to-enjoy-the-total-solar-eclipse-on-aug-12",
@@ -1017,13 +953,6 @@
           "date": "2026-08-06T13:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/KkvFjTqYjZWh7iZs7NRhXn-1280-80.jpg",
           "summary": "The SpaceX Falcon 9 rocket upper stage that collided with the moon on Wednesday (Aug. 5), was just the latest in a line of energetic lunar touchdowns."
-        },
-        {
-          "title": "Plan your perfect 2026 total solar eclipse experience with these smartphone apps",
-          "link": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps",
-          "date": "2026-08-06T07:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/7snzdhc9GaFue3syE4usiE-1280-80.jpg",
-          "summary": "From exact timings to cloud cover warnings, these smartphone apps will help you dial in on the 2026 total solar eclipse."
         }
       ],
       "ok": true,
@@ -1033,6 +962,20 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "U.S. Senate confirms Schiess to lead Space Force",
+          "link": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/",
+          "date": "2026-08-07T12:42:44+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-F-JJ904-1320.jpg?fit=1024%2C981&amp;ssl=1",
+          "summary": "New chief takes command as the Space Force prepares for rapid growth, acquisition reforms and Golden Dome The post U.S. Senate confirms Schiess to lead Space Force appeared first…"
+        },
+        {
+          "title": "Europe increases size and cost of IRIS² constellation",
+          "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
+          "date": "2026-08-07T11:51:44+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/iris2.jpeg?fit=1024%2C576&amp;ssl=1",
+          "summary": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as…"
+        },
         {
           "title": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
           "link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/",
@@ -1088,20 +1031,6 @@
           "date": "2026-08-06T02:23:47+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&amp;ssl=1",
           "summary": "NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner. The post NASA and…"
-        },
-        {
-          "title": "New Glenn explosion linked to rocket engine valve",
-          "link": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
-          "date": "2026-08-05T22:30:16+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/08/BlueOrigin_BE4_EngineLineup.jpg?fit=1000%2C562&amp;ssl=1",
-          "summary": "Blue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket’s BE-4 engine. The post New Glenn explosion linked to rocket…"
-        },
-        {
-          "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
-          "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
-          "date": "2026-08-05T17:05:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_gen4_iceye_us.jpg?fit=879%2C623&amp;ssl=1",
-          "summary": "SAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use of commercial synthetic…"
         }
       ],
       "ok": true,
@@ -1190,6 +1119,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Science Campaigns Planned for the August 12th Total Solar Eclipse",
+          "link": "https://skyandtelescope.org/astronomy-news/science-campaigns-planned-for-the-august-12th-total-solar-eclipse/",
+          "date": "2026-08-07T12:00:00+00:00",
+          "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
+          "summary": "Several science campaigns plan to greet the racing shadow of the Moon on August 12th. The post Science Campaigns Planned for the August 12th Total Solar Eclipse appeared first on…"
+        },
+        {
           "title": "A Perfectly Timed Perseid Meteor Shower",
           "link": "https://skyandtelescope.org/astronomy-news/observing-news/a-perfectly-timed-perseid-meteor-shower/",
           "date": "2026-08-05T15:02:00+00:00",
@@ -1251,13 +1187,6 @@
           "date": "2026-07-30T20:27:45+00:00",
           "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
           "summary": "New analysis of observations taken in 2024 confirm a stellar companion for Betelgeuse in the constellation Orion. The post New Images Confirm: Betelgeuse Has a Companion appeared…"
-        },
-        {
-          "title": "Wandering Supermassive Black Hole Found at the Edge of its Galaxy",
-          "link": "https://skyandtelescope.org/astronomy-news/wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy/",
-          "date": "2026-07-30T12:00:00+00:00",
-          "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
-          "summary": "Astronomers have long thought supermassive black holes can escape their home galaxies — now they've found one roaming its host's galactic outskirts. The post Wandering…"
         }
       ],
       "ok": true,
@@ -1467,6 +1396,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Physicists trace solar outbursts that led to historic Mother's Day storms",
+          "link": "https://phys.org/news/2026-08-physicists-solar-outbursts-historic-mother.html",
+          "date": "2026-08-07T13:00:04+00:00",
+          "image": null,
+          "summary": "On Mother's Day weekend in May 2024, Earth experienced its most powerful geomagnetic storm in two decades, spawning auroras—the ribbony bands of light in the nighttime skies in…"
+        },
+        {
+          "title": "An ultramassive white dwarf half Earth's size may hold a rare oxygen-neon core",
+          "link": "https://phys.org/news/2026-08-ultramassive-white-dwarf-earth-size.html",
+          "date": "2026-08-07T12:00:01+00:00",
+          "image": null,
+          "summary": "Astronomers have found evidence that one of the most massive white dwarfs known has an oxygen-neon core instead of the more common carbon-oxygen core. The finding is important…"
+        },
+        {
           "title": "UK observatory nervously watches growing space junk threat",
           "link": "https://phys.org/news/2026-08-uk-observatory-nervously-space-junk.html",
           "date": "2026-08-07T08:40:02+00:00",
@@ -1521,20 +1464,6 @@
           "date": "2026-08-06T18:40:04+00:00",
           "image": null,
           "summary": "A new study analyzing the James Webb Space Telescope (JWST) spectra of more than 1,400 galaxies suggests a surprisingly small group of \"leaky\" galaxies was responsible for cosmic…"
-        },
-        {
-          "title": "We might soon have the technology to reach other star systems",
-          "link": "https://phys.org/news/2026-08-technology-star.html",
-          "date": "2026-08-06T18:20:01+00:00",
-          "image": null,
-          "summary": "The recent confirmation of an atmosphere around a rocky exoplanet called LHS 1140b has created a wave of interest within the astronomy community. The planet orbits within the…"
-        },
-        {
-          "title": "Rare ultra-magnetic star may be key to solving 90-year old quantum cold case",
-          "link": "https://phys.org/news/2026-08-rare-ultra-magnetic-star-key.html",
-          "date": "2026-08-06T14:20:06+00:00",
-          "image": null,
-          "summary": "Astronomers may have just confirmed one of the quirkiest aspects of quantum mechanics: that seemingly empty space can alter the behavior of light. This phenomenon, called \"vacuum…"
         }
       ],
       "ok": true,
@@ -1551,6 +1480,13 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "GTA 6 Has Not Been Delayed, Still On Track For Its November Launch",
+          "link": "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/",
+          "date": "2026-08-07T12:04:42+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/GTA-6-art.jpg?w=300",
+          "summary": "GTA 6 is still on track to launch for PS5 and Xbox Series X|S on November 19, Take-Two Interactive has confirmed. As part of the publisher's quarterly briefing, Take-Two provided…"
+        },
         {
           "title": "PSA: Marvel Tokon: Fighting Souls Has Day-One Issues On PC",
           "link": "https://www.gamespot.com/articles/psa-marvel-tokon-fighting-souls-has-day-one-issues-on-pc/",
@@ -1613,13 +1549,6 @@
           "date": "2026-08-06T17:22:41+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/campaignevolved.jpg?w=300",
           "summary": "The co-creator of Halo and designer of Master Chief, Marcus Lehto, has weighed in with his thoughts about the latest Halo remake, Halo: Campaign Evolved. Posting on social media ,…"
-        },
-        {
-          "title": "Nintendo Coy On Star Fox Numbers After Super Mario Galaxy Movie Push",
-          "link": "https://www.gamespot.com/articles/nintendo-coy-on-star-fox-numbers-after-super-mario-galaxy-movie-push/",
-          "date": "2026-08-06T16:34:22+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Star-Fox_665a4c.jpg?w=300",
-          "summary": "After a decade of dormancy, the Star Fox franchise has seen a huge push from Nintendo in two significant ways. For starters, Fox McCloud had a pretty big presence in The Super…"
         }
       ],
       "ok": true,
@@ -1629,6 +1558,20 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What's the Worst Camp Miasma Movie? Jane Schoenbrun Breaks Down Their Alt-Universe Slasher Franchise",
+          "link": "https://www.polygon.com/jane-schoebrun-interview-teenage-sex-death-camp-miasma/",
+          "date": "2026-08-07T13:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/campmiasma_still_7_-c-mubi-1.jpeg",
+          "summary": "Schoenbrun breaks down the intricate opening credits of their new movie, Teenage Sex and Death at Camp Miasma, in this exclusive interview"
+        },
+        {
+          "title": "5 New Steam Games to Play the Weekend of August 7",
+          "link": "https://www.polygon.com/new-steam-games-august-7-2026/",
+          "date": "2026-08-07T12:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/marvel-tokon-fighting-souls-wolverine.jpg",
+          "summary": "PC gamers have a lot of options this weekend, as Steam just added a slew of great new games."
+        },
         {
           "title": "After 11 Years, The 5-part Cult Classic Thriller That's Hannibal Meets Buffy Is Officially Free on Streaming",
           "link": "https://www.polygon.com/izombie-streaming-free-pluto-tv/",
@@ -1684,20 +1627,6 @@
           "date": "2026-08-06T23:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/quarantine-zone-rec.jpg",
           "summary": "Quarantine Zone combines the zombie-apocalypse vibes of The Last of Us with bureaucratic drudgery"
-        },
-        {
-          "title": "Rust August Force Wipe Brings New DLC and Major Update",
-          "link": "https://www.polygon.com/rust-august-force-wipe-update-shell/",
-          "date": "2026-08-06T22:07:39+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pumping-rust.jpg",
-          "summary": "Rust's August force wipe is looking promising with the launch of the Bar Games and Stone Sculpture DLC and new monument changes."
-        },
-        {
-          "title": "I played Elden Ring wrong for two years",
-          "link": "https://www.polygon.com/video/i-played-elden-ring-wrong-for-two-years/",
-          "date": "2026-08-06T22:03:07+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/maxresdefault-1.jpg",
-          "summary": "I started Elden Ring on launch day in 2022. It was my first FromSoft game and turns out, I didn't know what I was getting into. Here's how I let a bunch of assumptions and…"
         }
       ],
       "ok": true,
@@ -1707,6 +1636,20 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Sony appears to be putting labels on PS5 console boxes to warn people it's ending disc production",
+          "link": "https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028",
+          "date": "2026-08-07T12:01:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/warning-ps5-discs.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "In case it was ever in doubt, it seems Sony is not backing down from its controversial decision to stop manufacturing physical disc-based games . It appears a notice is being…"
+        },
+        {
+          "title": "Doom creator id Software used Taiwanese pirates to help distribute the game, John Romero reveals",
+          "link": "https://www.eurogamer.net/john-romero-doom-id-software-taiwanese-pirates",
+          "date": "2026-08-07T12:00:44+00:00",
+          "image": "https://assetsio.gnwcdn.com/john-romero-pirate-hat.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "John Romero, the legendarily long-haired co-founder of id Software and father of game series Quake and Doom, has recounted a tale about when id Software worked with Taiwanese…"
+        },
         {
           "title": "Marvel Tokon: Fighting Souls suffers from widespread PC issues at launch",
           "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-problems-stuttering-lag",
@@ -1762,20 +1705,6 @@
           "date": "2026-08-06T14:07:34+00:00",
           "image": "https://assetsio.gnwcdn.com/ps5-pro-promo-shot-titled-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "A new PlayStation 5 firmware beta has arrived for anyone who's part of Sony's beta programme. The platform holder emailed those who signed up to notify them that a new update is…"
-        },
-        {
-          "title": "A generous demo, a big expansion, and \"pricing measures\": What Capcom is doing to get Monster Hunter Wilds' sales to \"surpass\" Monster Hunter World",
-          "link": "https://www.eurogamer.net/monster-hunter-wilds-surpass-worlds-price-ascendance-demo",
-          "date": "2026-08-06T13:28:16+00:00",
-          "image": "https://assetsio.gnwcdn.com/mh-world-wilds.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Last year's Monster Hunter Wilds still represents a major focus for Capcom, its latest financial report has revealed. The game, which had a slower launch than the publisher would…"
-        },
-        {
-          "title": "Pokémon Pokopia's free 2.0 update is here, and it's making a splash with new underwater features and improvements",
-          "link": "https://www.eurogamer.net/pokemon-pokopia-version-bubbly-basin-patch-notes",
-          "date": "2026-08-06T12:39:01+00:00",
-          "image": "https://assetsio.gnwcdn.com/Pokopia_Portal_Pod_Header.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Pok&eacute;mon Pokopia' s 2.0 major update is here, allowing players to venture deep below the waves to meet new Pok&eacute;-pals and mess around with a variety of new features.…"
         }
       ],
       "ok": true,
@@ -1942,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "ChatTJB is a fake chatbot where a guy called Tucker Bryant answers queries himself: 'I tend to overcommit to bits'",
+          "link": "https://www.pcgamer.com/software/ai/chattjb-is-a-fake-chatbot-where-a-guy-called-tucker-bryant-answers-queries-himself-i-tend-to-overcommit-to-bits/",
+          "date": "2026-08-07T12:03:36+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZetwzP3qvSg2MLDiBpGWwK-1280-80.jpg",
+          "summary": "Bryant will answer any questions asked (eventually) and will even scribble images for users."
+        },
+        {
+          "title": "WoW's changing how world bosses work because they've 'really been a little bit lackluster' in recent years, says dev",
+          "link": "https://www.pcgamer.com/games/world-of-warcraft/wows-changing-how-world-bosses-work-because-theyve-really-been-a-little-bit-lackluster-in-recent-years-says-dev/",
+          "date": "2026-08-07T11:56:28+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/SggBQdGjk5ZyyoUjntSFiA-1280-80.png",
+          "summary": "\"A lot of players just cluster into a boss. It drops in a few moments.\""
+        },
+        {
           "title": "'They call us old stupid farmers, you know, but we’re not': Family declines $26 million offer to convert their farmland into an AI data center",
           "link": "https://www.pcgamer.com/software/ai/they-call-us-old-stupid-farmers-you-know-but-were-not-family-declines-usd26-million-offer-to-convert-their-farmland-into-an-ai-data-center/",
           "date": "2026-08-07T10:25:11+00:00",
@@ -1996,20 +1939,6 @@
           "date": "2026-08-06T22:09:33+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/tmbPoa5hXKNqvkyRdBTbc4-1280-80.jpg",
           "summary": "Devolver went public in 2021 and it's not working out."
-        },
-        {
-          "title": "Diablo 4's newest class barely made a splash with Lord of Hatred, but it's shaping up to be king of the next season",
-          "link": "https://www.pcgamer.com/games/rpg/diablo-4s-newest-class-barely-made-a-splash-with-lord-of-hatred-but-its-shaping-up-to-be-king-of-the-next-season/",
-          "date": "2026-08-06T22:01:02+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/HbVYaUgX6kWSaFHTia28bC-1280-80.jpg",
-          "summary": "Warlocks finally get their time in the spotlight."
-        },
-        {
-          "title": "Capcom says it wants Monster Hunter Wilds to outsell World 'over the medium to long term,' but it'll need to muster a lot of sales momentum to get there",
-          "link": "https://www.pcgamer.com/games/action/capcom-says-it-wants-monster-hunter-wilds-to-outsell-world-over-the-medium-to-long-term-but-itll-need-to-muster-a-lot-of-sales-momentum-to-get-there/",
-          "date": "2026-08-06T21:14:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NoRmc5BsHe7jWJAFvdf5NZ-1280-80.jpg",
-          "summary": "Wilds didn't rank in Capcom's quarterly best sellers, but the company hopes to turn that around."
         }
       ],
       "ok": true,
@@ -2176,6 +2105,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Take-Two Q1 results include net bookings ahead of guidance, a slight increase in revenue, and cancellation of unannounced game",
+          "link": "https://www.gamesindustry.biz/take-two-q1-results-include-net-bookings-ahead-of-guidance-a-slight-increase-in-revenue-and-cancellation-of-unannounced-game",
+          "date": "2026-08-07T13:01:40+00:00",
+          "image": "https://assetsio.gnwcdn.com/gta-5_Qh29zu4.webp?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Take-Two's Q1 results came in slightly ahead of guidance thanks to strong performance of NBA 2K6 and GTA supported by the Zynga mobile portfolio, with the firm maintaining its…"
+        },
+        {
           "title": "Charity bundle hosted by Necrosoft Games nears $200,000 goal to support workers affected by layoffs",
           "link": "https://www.gamesindustry.biz/charity-bundle-hosted-by-necrosoft-games-nears-200000-goal-to-support-workers-affected-by-layoffs",
           "date": "2026-08-07T11:07:42+00:00",
@@ -2237,13 +2173,6 @@
           "date": "2026-08-05T18:41:43+00:00",
           "image": "https://assetsio.gnwcdn.com/candycrush_6u4fgnM.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Candy Crush developer King has rejected a collective bargaining agreement (CBA) with Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer. Read more"
-        },
-        {
-          "title": "Phasmophobia developer's indie label Kinetic Publishing to reveal debut slate at showcase later this month",
-          "link": "https://www.gamesindustry.biz/phasmophobia-developers-indie-label-kinetic-publishing-to-reveal-debut-slate-at-showcase-this-august",
-          "date": "2026-08-05T16:21:44+00:00",
-          "image": "https://assetsio.gnwcdn.com/PubBanner.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Kinetic Publishing, the publishing label founded by Phasmophobia developer Kinetic Games, will reveal the first games signed to the label at a showcase on August 12. Read more"
         }
       ],
       "ok": true,
@@ -2258,7 +2187,7 @@
           "link": "https://www.gamedeveloper.com/business/ea-taken-private-by-saudi-arabia-gta-marketing-jumps-the-shark-and-devolver-s-huge-mistake-patch-notes-64",
           "date": "2026-08-07T11:03:10+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaa5bb08f4f74c9e3/6a75bfe695c079308dcf41f2/Patch_Notes_64.png?width=720&quality=80&disable=upscale",
-          "summary": "Plus: You need to listen to the new Avalanches single."
+          "summary": "Plus: You need to listen to the new single from The Avalanches."
         },
         {
           "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
@@ -2410,6 +2339,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "HII signs $900 million robotics deal to modernize U.S. Navy shipbuilding",
+          "link": "https://interestingengineering.com/military/hii-bets-900-million-on-ai-powered-robots",
+          "date": "2026-08-07T13:05:09+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design274.jpg",
+          "summary": "America&#8217;s largest military shipbuilder is making one of its biggest automation investments yet, announcing a..."
+        },
+        {
+          "title": "670-ton Falaj 3 carries warship-level firepower in compact patrol vessel",
+          "link": "https://interestingengineering.com/military/falaj-3-carries-warship-level-firepower",
+          "date": "2026-08-07T12:47:55+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Falaj-3.jpg",
+          "summary": "The United Arab Emirates Navy&#8217;s Falaj 3-class offshore patrol vessel is drawing attention for packing..."
+        },
+        {
           "title": "New Glenn explosion: Blue Origin finally identifies what destroyed the rocket",
           "link": "https://interestingengineering.com/space/blue-origin-new-glenn-explosion-cause",
           "date": "2026-08-07T10:30:00+00:00",
@@ -2464,20 +2407,6 @@
           "date": "2026-08-06T23:58:04+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-51348755.jpg",
           "summary": "Three nuclear companies are exploring a new way to turn recycled nuclear materials into fuel..."
-        },
-        {
-          "title": "US nuclear startup achieves first reactor criticality in under one year at Texas site",
-          "link": "https://interestingengineering.com/energy/klo-groves-reactor-first-criticality-isotope-production",
-          "date": "2026-08-06T23:14:24+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Oklo.jpg",
-          "summary": "Oklo, a California-based advanced nuclear technology company, has achieved first criticality at its Groves Isotope..."
-        },
-        {
-          "title": "One-mile underground nuclear reactor wins DOE safety approval for commercial pilot",
-          "link": "https://interestingengineering.com/energy/deep-fission-gravity-reactor-doe-approval",
-          "date": "2026-08-06T22:56:55+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-3-1.jpg",
-          "summary": "Deep Fission has secured a key regulatory approval from the U.S. Department of Energy (DOE),..."
         }
       ],
       "ok": true,
@@ -2750,6 +2679,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "ENR West Announces 2026 California Best Project Safety and Sustainability Winners",
+          "link": "https://www.enr.com/blogs/50-west-construction-views/post/63413-enr-west-announces-2026-california-best-project-safety-and-sustainability-winners",
+          "date": "2026-08-07T12:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/08/03/Grimes_ENRwebready.webp?t=1785775173",
+          "summary": "Out of 67 projects from across California and Hawaii judged selected selected four Best Projects and seven Awards of Merit in this year's Northern and Southern California…"
+        },
+        {
           "title": "McCarthy Promotes Dhruv Patel to President, COO",
           "link": "https://www.enr.com/articles/63447-mccarthy-promotes-dhruv-patel-to-president-coo",
           "date": "2026-08-06T19:46:23+00:00",
@@ -2758,10 +2694,10 @@
         },
         {
           "title": "Dispute Erupts Into Public Over Castro Theater Rehab Project Costs",
-          "link": "https://www.enr.com/articles/63441-dispute-erupts-over-castro-theater-rehab-project-costs",
+          "link": "https://www.enr.com/articles/63441-dispute-erupts-into-public-over-castro-theater-rehab-project-costs",
           "date": "2026-08-06T19:28:17+00:00",
           "image": "https://www.enr.com/ext/resources/2026/08/06/Castro-Theater-Renovation-Dispute.webp?t=1786049355",
-          "summary": "Theater owner seeks to bar renovation and restoration contractor from publicizing its work on the project."
+          "summary": "San Francisco theater owner seeks to bar renovation and restoration contractor from publicizing its work on the project."
         },
         {
           "title": "Work Halted at $1.2B Asian Carp Prevention Project",
@@ -2795,14 +2731,14 @@
           "title": "Amtrak Proposes Infrastructure Unit to Oversee $5B Annual Capital Program",
           "link": "https://www.enr.com/articles/63443-amtrak-proposes-infrastructure-unit-to-oversee-5b-annual-capital-program",
           "date": "2026-08-06T15:58:11+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/06/Amtrak-Restructure.webp?t=1786035552",
+          "image": "https://www.enr.com/ext/resources/2026/08/06/Amtrak-Restructure.webp?t=1786104345",
           "summary": "Could reorganizing the management of one of America's busiest passenger railroads reshape delivery of $50 billion in infrastructure?"
         },
         {
           "title": "EPC Hired for $3.1B Nebraska Power Plant, State's First in 20 Years",
           "link": "https://www.enr.com/articles/63432-epc-hired-for-31b-nebraska-power-plant-states-first-in-20-years",
           "date": "2026-08-06T14:53:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/06/Aug6princetonroad.webp?t=1786027965",
+          "image": "https://www.enr.com/ext/resources/2026/08/06/Aug6princetonroad.webp?t=1786104344",
           "summary": "Burns & McDonnell is contractor for Princeton Road Station, set to begin operating in 2029, which will include two Siemens F-class combustion turbines."
         },
         {
@@ -2811,13 +2747,6 @@
           "date": "2026-08-06T13:50:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/08/06/ENROctober51950Cover.webp?t=1786024315",
           "summary": "This 1950 cover image depicts work at the Chain-of-Rocks Lock No. 27 on the Mississippi River, located just upriver from St. Louis, Mo., and just downstream of the confluence of…"
-        },
-        {
-          "title": "ENR Midwest Announces Best Projects for 2026",
-          "link": "https://www.enr.com/blogs/10-midwest-musings/post/63433-enr-midwest-announces-best-projects-for-2026",
-          "date": "2026-08-05T20:12:25+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/05/Aug4ChapelNight---Fentress-(1).webp?t=1785954095",
-          "summary": "ENR Midwest recognizes its Projects of the Year."
         }
       ],
       "ok": true,
