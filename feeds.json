@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T05:41:16.776710+00:00",
+  "updated": "2026-08-07T07:18:09.212892+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Toyota suspends 17 lines at 9 plants as typhoon follows earthquake disruption in Japan",
+          "link": "https://www.autonews.com/toyota/an-japan-typhoon-toyota-production-suspension-earthquake-honda-nissan-suppliers-0807/",
+          "date": "2026-08-07T06:28:33+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/MV99e26DHug2jSTLf578ohoAUEg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NTURCKPQN5DH5KRMBHFL4JBCEA.png",
+          "summary": "A powerful typhoon forced Toyota to idle production at nine Japanese plants, affecting models including Corolla, Camry and RAV4."
+        },
+        {
+          "title": "How automated parking could reshape the race for software-defined vehicles",
+          "link": "https://www.autonews.com/technology/ane-sdv-remote-parking-automation-0807/",
+          "date": "2026-08-07T06:02:55+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/68i1Sz-duUEm7NIcuoxZ3hi0RKg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/PKWD2C5B7BGK3PHCS7WUWMXAXQ.jpg",
+          "summary": "Chinese automakers are advancing software-defined vehicles through parking automation that uses AI and over-the-air updates, while Western brands focus on highway autonomy and…"
+        },
+        {
           "title": "ANC Podcast: Aug. 7, 2026 | The week’s top stories and VW’s Edgar Estrada on sales, product, EVs, affordability",
           "link": "https://www.autonews.com/podcasts/canada-conversations/anc-auto-news-canada-podcast-volkswagen-edgar-estrade/",
           "date": "2026-08-07T03:25:06+00:00",
@@ -294,20 +308,6 @@
           "date": "2026-08-06T18:28:59+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/2vWf7LQM5PKltz6lGruS3M5vKy4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MHFKLVBXABHVRGZYMB4N3MLMUU.jpg",
           "summary": "The signature event returns to Hudson’s Detroit and expands to three days to address critical questions facing the industry."
-        },
-        {
-          "title": "International auto dealers association calls for Chinese vehicle ban; ACLU attorney on license plate reader privacy",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-aiada-china-nicolas-hidalgo/",
-          "date": "2026-08-06T17:39:48+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0MrvL0Wd_LfB10Dh3_SUKghz_Hg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/CCGUNJJF3RG77E2UC5HG6X24BI.jpg",
-          "summary": "Most of Japan’s auto industry is back online following the deadly July 28 earthquake, with one big exception. An international dealer group calls for a ban on Chinese brands in…"
-        },
-        {
-          "title": "Workforce Pell Grants now cover short-term tech training — but many auto programs don’t qualify",
-          "link": "https://www.autonews.com/retail/service-and-parts/an-technician-training-programs-pell-grant-0806/",
-          "date": "2026-08-06T17:37:37+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/EFj_GoX_l5kessKR1ErPrmXtGEs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/Q2XNN3ZHLZCANIBBYLQZ2OD66U.jpeg",
-          "summary": "New federal Workforce Pell Grants can help aspiring automotive technicians pay for training. But strict length and accreditation requirements shut out many successful boot…"
         }
       ],
       "ok": true,
@@ -317,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "What To Know About California's $3,500 EV Rebate—And Which Teslas Qualify",
+          "link": "https://insideevs.com/news/804079/california-ev-incentive-how-it-works-tesla/",
+          "date": "2026-08-06T18:07:27+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/8AZJxJ/s3/2026-insideevs-breakthrough-awards-editor-s-choice-tesla-model-y.jpg",
+          "summary": "California dropped new details about how its incentive program for new and used EVs works, and which cars qualify. Here's what we know."
+        },
         {
           "title": "Clemson's Solar-Powered EV Project Looks Like A Cardboard Shoe. But It's A Lot More Clever Than It Looks",
           "link": "https://insideevs.com/news/804099/clemson-bmw-energy-positive-ev/",
@@ -330,13 +337,6 @@
           "date": "2026-08-06T20:28:00+00:00",
           "image": "https://cdn.motor1.com/images/mgl/KbYBAA/s3/lexus-rz-upgrades.jpg",
           "summary": "Toyota is expanding a factory-backed upgrade program designed to breathe new life into aging gas and plug-in Toyota and Lexus cars."
-        },
-        {
-          "title": "What To Know About California's $3,500 EV Rebate—And Which Teslas Qualify",
-          "link": "https://insideevs.com/news/804079/california-ev-incentive-how-it-works-tesla/",
-          "date": "2026-08-06T18:07:27+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/8AZJxJ/s3/2026-insideevs-breakthrough-awards-editor-s-choice-tesla-model-y.jpg",
-          "summary": "California dropped new details about how its incentive program for new and used EVs works, and which cars qualify. Here's what we know."
         },
         {
           "title": "BMW's Oldest Plant Has Always Made Gas Cars. Starting Next Year, It'll Only Make EVs",
@@ -488,6 +488,27 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "TBGA Contracted to Support BPMI’s AM Material Database",
+          "link": "https://3dprintingindustry.com/news/tbga-contracted-to-support-bpmis-am-material-database-253634/?utm_source=rss&utm_medium=rss&utm_campaign=tbga-contracted-to-support-bpmis-am-material-database",
+          "date": "2026-08-07T06:08:22+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Barnes Global Advisors (TBGA) has been contracted by Bechtel Plant Machinery, Inc. (BPMI) to support the development and management of a materials and process database for…"
+        },
+        {
+          "title": "USA Diving names FITASY official footwear partner",
+          "link": "https://3dprintingindustry.com/news/usa-diving-names-fitasy-official-footwear-partner-253627/?utm_source=rss&utm_medium=rss&utm_campaign=usa-diving-names-fitasy-official-footwear-partner",
+          "date": "2026-08-07T05:59:46+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "USA Diving has named Indianapolis-based FITASY, a maker of 3D printed custom-fit recovery footwear, as its official footwear partner. The partnership launched at the Bolzano…"
+        },
+        {
+          "title": "Walter Reed’s 3D Printed Titanium Cranial Plate Becomes First Implant Cleared by the FDA for a Point-of-Care Institution",
+          "link": "https://3dprintingindustry.com/news/walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution-253587/?utm_source=rss&utm_medium=rss&utm_campaign=walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution",
+          "date": "2026-08-07T05:54:19+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/170516-D-HA257-8260-150x100.avif",
+          "summary": "The US Food and Drug Administration (FDA) has granted premarket clearance to a 3D printed titanium cranial plate developed at Walter Reed National Military Medical Center, marking…"
+        },
+        {
           "title": "Renishaw Launches LIBERTAS Software to Reduce Supports and Improve Surface Finish in Metal AM",
           "link": "https://3dprintingindustry.com/news/renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am-253619/?utm_source=rss&utm_medium=rss&utm_campaign=renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am",
           "date": "2026-08-07T05:18:35+00:00",
@@ -535,27 +556,6 @@
           "date": "2026-08-05T11:32:32+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "More than half of the exhibition floor for MACH 2028 has already been booked as general sales opened, with organizers urging companies to secure space before the event&#8217;s…"
-        },
-        {
-          "title": "New Manufacturing Observatory Tackles Industry’s Commercialization Problem",
-          "link": "https://3dprintingindustry.com/news/new-manufacturing-observatory-tackles-industrys-commercialization-problem-253560/?utm_source=rss&utm_medium=rss&utm_campaign=new-manufacturing-observatory-tackles-industrys-commercialization-problem",
-          "date": "2026-08-05T11:31:49+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "TAAG Global and the University of Bristol Business School have announced a joint intelligence platform called the Advanced Manufacturing Observatory.&#160; Its aim is to provide…"
-        },
-        {
-          "title": "Kentstrapper launches Mille large-format FDM 3D printer with one cubic metre build volume",
-          "link": "https://3dprintingindustry.com/news/kentstrapper-launches-mille-large-format-fdm-3d-printer-with-one-cubic-metre-build-volume-253561/?utm_source=rss&utm_medium=rss&utm_campaign=kentstrapper-launches-mille-large-format-fdm-3d-printer-with-one-cubic-metre-build-volume",
-          "date": "2026-08-05T11:31:27+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Italian 3D printer manufacturer Kentstrapper has launched the Mille, a large-format FDM system with a 1,000 × 1,000 × 1,000 mm build volume. Previewed at Mecspe 2026 in Bologna,…"
-        },
-        {
-          "title": "Phase3D Supports NASA’s Latest Flight Qualification Research",
-          "link": "https://3dprintingindustry.com/news/phase3d-supports-nasas-latest-flight-qualification-research-253577/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-supports-nasas-latest-flight-qualification-research",
-          "date": "2026-08-05T11:31:12+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "NASA Marshall Space Flight Center has awarded Phase3D a role in a new program aimed at proving that metal additively manufactured parts can be qualified for spaceflight during…"
         }
       ],
       "ok": true,
@@ -651,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+          "date": "2026-08-07T06:25:27+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536",
+          "summary": "Before astronauts return to the Moon’s surface&#160;through NASA’s&#160;Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar…"
+        },
+        {
           "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
           "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
           "date": "2026-08-06T19:33:32+00:00",
@@ -712,13 +719,6 @@
           "date": "2026-08-05T18:49:14+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/ixpe/IXPEMagnetarArtistsConcept_Web.png?w=5250&#038;h=4500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "A first-of-its-kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results…"
-        },
-        {
-          "title": "Artemis III Orion Crew and Service Models Joined",
-          "link": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
-          "date": "2026-08-05T17:27:18+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp?w=1536",
-          "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA&#8217;s Kennedy Space Center in…"
         }
       ],
       "ok": true,
@@ -956,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Why you don't need a perfectly clear sky to enjoy the total solar eclipse on Aug. 12",
+          "link": "https://www.space.com/stargazing/solar-eclipses/why-you-dont-need-a-perfectly-clear-sky-to-enjoy-the-total-solar-eclipse-on-aug-12",
+          "date": "2026-08-07T06:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/riivz6ATircntytE9j9raB-1280-80.jpg",
+          "summary": "Millions will see a deep partial or total solar eclipse on Aug. 12, but there's no need to fixate on completely clear skies."
+        },
+        {
           "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
           "link": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
           "date": "2026-08-06T20:05:01+00:00",
@@ -991,18 +998,18 @@
           "summary": "Blue Origin has made considerable progress in its New Glenn anomaly investigation, tracing the problem to a faulty valve in one of the rocket's first-stage engines."
         },
         {
-          "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
-          "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
-          "date": "2026-08-06T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/jzmNLRS3jrUPykrz3pTT83-1280-80.jpg",
-          "summary": "\"Phobos crosses the Martian sky three times a day, and Earth is visible for months at a stretch, but catching one directly behind the other takes planning and a little luck.\""
-        },
-        {
           "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
           "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
           "date": "2026-08-06T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/xDe5VhDVboNSqS9DFUN7FZ-1280-80.jpg",
           "summary": "On Aug. 6, 2012, NASA's Curiosity rover successfully touched down on the Martian surface in a way never attempted before: a rocket-powered sky crane. Here's why it mattered."
+        },
+        {
+          "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
+          "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
+          "date": "2026-08-06T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/jzmNLRS3jrUPykrz3pTT83-1280-80.jpg",
+          "summary": "\"Phobos crosses the Martian sky three times a day, and Earth is visible for months at a stretch, but catching one directly behind the other takes planning and a little luck.\""
         },
         {
           "title": "SpaceX’s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown",
@@ -1017,13 +1024,6 @@
           "date": "2026-08-06T07:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/7snzdhc9GaFue3syE4usiE-1280-80.jpg",
           "summary": "From exact timings to cloud cover warnings, these smartphone apps will help you dial in on the 2026 total solar eclipse."
-        },
-        {
-          "title": "Where will the total solar eclipse 2026 be visible from?",
-          "link": "https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from",
-          "date": "2026-08-06T06:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/5A5caGrAqgpxqtpLBs6vTK-1280-80.jpg",
-          "summary": "Find out where you can experience totality on Aug. 12, 2026, and which countries will experience a partial solar eclipse."
         }
       ],
       "ok": true,
@@ -1467,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "South Korean satellite captures before and after views of SpaceX rocket's moon crash",
+          "link": "https://phys.org/news/2026-08-south-korean-satellite-captures-views.html",
+          "date": "2026-08-07T06:31:07+00:00",
+          "image": null,
+          "summary": "A South Korean satellite has captured the first pictures of the moon's fresh crash scene caused by a stray SpaceX rocket."
+        },
+        {
           "title": "Charting the galaxy: Milky Way Mapper survey releases latest all-sky spectra",
           "link": "https://phys.org/news/2026-08-galaxy-milky-mapper-survey-latest.html",
           "date": "2026-08-06T22:30:01+00:00",
@@ -1528,13 +1535,6 @@
           "date": "2026-08-06T13:40:01+00:00",
           "image": null,
           "summary": "Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test cutting-edge handheld analytical…"
-        },
-        {
-          "title": "Spacecraft observations may conceal how particles really move through near-Earth space",
-          "link": "https://phys.org/news/2026-08-spacecraft-conceal-particles-earth-space.html",
-          "date": "2026-08-06T13:20:06+00:00",
-          "image": null,
-          "summary": "High-energy particles in Earth's radiation belt can appear to spread out randomly, even when they are moving in a \"predictable\" way. This is because spacecraft observations…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Netflix Just Quietly Released the Best Steven Spielberg Sci-Fi Thriller That Spielberg Never Made",
+          "link": "https://www.polygon.com/the-last-house-review-steven-spielberg-movie/",
+          "date": "2026-08-07T07:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lasthouse_sg_001.jpeg",
+          "summary": "The Last House from director Louis Leterrier is a must-watch that perfectly executes Steven Spielberg's signature blend of the mundane and miraculous."
+        },
+        {
           "title": "Jon Bernthal’s 121 Minute 10/10 Neo-Western Thriller Is Officially a Streaming Hit",
           "link": "https://www.polygon.com/jon-bernthal-sicario-hbo-max-movies-streaming-hit-august-2026/",
           "date": "2026-08-07T00:00:11+00:00",
@@ -1691,13 +1698,6 @@
           "date": "2026-08-06T20:42:44+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/obs64_2026-08-05_15-49-27.jpg",
           "summary": "Our Pokopia guide lists all the habitats added in the Bubbly Basin DLC, and what you need to make them."
-        },
-        {
-          "title": "Bubbly Basin DLC Pokédex and available Pokémon in Pokopia",
-          "link": "https://www.polygon.com/pokemon-pokopia-bubbly-basin-dlc-pokedex-list-specialty/",
-          "date": "2026-08-06T20:36:07+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/obs64_2026-08-06_16-10-08.jpg",
-          "summary": "Here's a list of all the available Pokémon in Pokopia's Bubbly Basin DLC and the habitats they need."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Next-gen marine propulsion showcased, offers 15% lower fuel consumption, higher efficiency",
+          "link": "https://interestingengineering.com/transportation/rolls-royce-showcases-advanced-marine-propulsion",
+          "date": "2026-08-07T06:23:28+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/rolls-royace-prop.jpg",
+          "summary": "Rolls-Royce has unveiled a new portfolio of advanced marine propulsion systems and integrated service solutions..."
+        },
+        {
           "title": "41,000-ton Trump-class nuclear warship program may top $275B, lead ship at $23B",
           "link": "https://interestingengineering.com/military/41000-ton-trump-class-nuclear-warship-program-may-top-275b-lead-ship-at-23b",
           "date": "2026-08-07T02:37:37+00:00",
@@ -2471,13 +2478,6 @@
           "date": "2026-08-06T20:32:35+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Envision-china-campus.jpg",
           "summary": "Green energy company Envision Energy, which develops renewable power and energy storage technologies, has commissioned..."
-        },
-        {
-          "title": "Critical uranium deal moves America’s next-gen nuclear reactors closer to reality",
-          "link": "https://interestingengineering.com/energy/centrus-x-energy-uranium-enrichment-capacity",
-          "date": "2026-08-06T19:43:20+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled.jpg",
-          "summary": "Centrus Energy, a US nuclear fuel supplier that produces and enriches uranium, has signed a..."
         }
       ],
       "ok": true,
