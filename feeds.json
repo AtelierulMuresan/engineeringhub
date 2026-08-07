@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T15:57:29.621765+00:00",
+  "updated": "2026-08-07T17:00:00.090696+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "5 stories shaping Canadian auto this week: Stellantis’ bridge choice; Ford’s Fathom; more",
+          "link": "https://www.autonews.com/manufacturing/anc-canadian-auto-news-week-august-3-2026/",
+          "date": "2026-08-07T16:30:51+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Wp1_ARvOAcutej-cq2VpZJbwHoo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QT6QNOAQLJEKVJYMNTOQPDQHEA.jpg",
+          "summary": "Here are the most-read Automotive News Canada stories for the week of Aug. 3."
+        },
+        {
           "title": "Dodge ratchets up Charger horsepower with Super Bee revival",
           "link": "https://www.autonews.com/stellantis/dodge/an-dodge-speed-week-charger-0807/",
           "date": "2026-08-07T15:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-07T03:25:06+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0uNkrk4qPamxHdJDjnCRnPyfoFw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/R342CCZN3RE7XHAOHOJBRYVIAI.JPG",
           "summary": "Stellantis avoids Gordie Howe Bridge; tariffs might be here to stay; more EV chargers for N.B. Plus, Volkswagen Canada CEO Edgar Estrada on booming sales, new product, sedans,…"
-        },
-        {
-          "title": "How DoorDash’s AutoParts.com partnership opens DIY market to dealerships",
-          "link": "https://www.autonews.com/retail/service-and-parts/an-door-dash-delivers-auto-parts-0806/",
-          "date": "2026-08-06T19:47:29+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/cp8rUJt4Nvr4T1cE3DiuoLhM2uA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/WF2R4656NBATZCZYANKADKAQMQ.png",
-          "summary": "DoorDash now delivers dealer-sourced auto parts through AutoParts.com, opening a new sales channel for dealerships while keeping the supplier's identity anonymous to buyers. The…"
         }
       ],
       "ok": true,
@@ -956,6 +956,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA's SkyFall Mars helicopters will wear tiny capes",
+          "link": "https://www.space.com/astronomy/mars/nasas-skyfall-mars-helicopters-will-wear-tiny-capes",
+          "date": "2026-08-07T16:07:14+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZFVLMxsBhs3hqvoobnUoxV-1280-80.jpg",
+          "summary": "These tiny capes carry some serious technology."
+        },
+        {
+          "title": "Engineers race to save stricken LINK rescue spacecraft before it's too late",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late",
+          "date": "2026-08-07T16:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/coJpWVm3CQM5ViXRGMfSe5-1280-80.jpg",
+          "summary": "The private LINK spacecraft, which launched last month to save a NASA space telescope, now needs saving, too —and teams are making progress on that front."
+        },
+        {
           "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
           "date": "2026-08-07T15:00:00+00:00",
@@ -1010,20 +1024,6 @@
           "date": "2026-08-06T16:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/dHdCokKx6vmaXJ6KmX4JNo-1280-80.jpg",
           "summary": "Seeking rest or relaxation? You're unlikely to find either on a \"Star Trek\" holiday"
-        },
-        {
-          "title": "SpaceX rocket's impact crater on the moon spied by Korean lunar orbiter (photos)",
-          "link": "https://www.space.com/astronomy/moon/spacex-rockets-impact-crater-on-the-moon-spied-by-korean-lunar-orbiter-photos",
-          "date": "2026-08-06T15:24:47+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/EiFsUah8tAvuzZqzwiuaTF-1280-80.jpg",
-          "summary": "South Korea's Danuri lunar orbiter has spied the crater that a SpaceX rocket blasted out when it slammed into the moon on Wednesday morning (Aug. 5)."
-        },
-        {
-          "title": "Blue Origin traces origin of huge New Glenn rocket explosion to oxygen valve, CEO says",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-traces-origin-of-huge-new-glenn-rocket-explosion-to-oxygen-valve-ceo-says",
-          "date": "2026-08-06T15:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/66iW6WowPav3BAEMbvBy6-1280-80.jpg",
-          "summary": "Blue Origin has made considerable progress in its New Glenn anomaly investigation, tracing the problem to a faulty valve in one of the rocket's first-stage engines."
         }
       ],
       "ok": true,
@@ -1467,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Uranus's unusual rotation makes its bow shock expand and contract each day",
+          "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
+          "date": "2026-08-07T16:20:05+00:00",
+          "image": null,
+          "summary": "Within our solar system, Uranus is a geometric oddball. Its spin axis tilts more than 90° from its orbit, so it essentially rolls on its side through space. In contrast, Earth and…"
+        },
+        {
           "title": "'Plasma gun' technology could transform space laundry and sanitation for future missions",
           "link": "https://phys.org/news/2026-08-plasma-gun-technology-space-laundry.html",
           "date": "2026-08-07T15:20:03+00:00",
@@ -1528,13 +1535,6 @@
           "date": "2026-08-06T20:00:05+00:00",
           "image": null,
           "summary": "Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears as a point source and is called…"
-        },
-        {
-          "title": "Super-Earths may be solid deep inside their mantles",
-          "link": "https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html",
-          "date": "2026-08-06T19:20:03+00:00",
-          "image": null,
-          "summary": "Deep inside super-Earths—rocky planets with masses between 1 and 10 times that of Earth—high pressure can cause familiar minerals to take forms rarely seen on Earth. Understanding…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,62 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Fields of Mistria museum collectables list",
+          "link": "https://www.polygon.com/fields-of-mistria-guides/445259/museum-list-sections-archaeology-dig-spots/",
+          "date": "2026-08-07T16:58:42+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/08/FieldsOfMistria_2024-08-28_14-55-55.png",
+          "summary": "In Fields of Mistria, you’ll want to complete the museum each season for rewards. We list all the items you need to fill it up in our guide."
+        },
+        {
+          "title": "Robert Pattinson's Nerve-Wracking 105-Minute Psychological Thriller Officially Crowned a #1 Streaming Hit",
+          "link": "https://www.polygon.com/the-drama-popular-on-hbo-max-robert-pattinson/",
+          "date": "2026-08-07T16:28:00+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcddram_ec050.jpg",
+          "summary": "The Drama, the A24 thriller starring Robert Pattinson and Zendaya, is a hit on HBO Max after a great run at the box office."
+        },
+        {
+          "title": "BR1: Infinite Promises Players Real Money for Playing, Prompting Gambling Concerns",
+          "link": "https://www.polygon.com/br-1-infinite-extraction-shooter/",
+          "date": "2026-08-07T16:21:04+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/arc-raiders-extraction-shooter-floodgates-pubg-black-budget.jpg",
+          "summary": "BR1: Infinite promises to give players real-world money for every kill they get and every hour they survive in-game, but there's a catch."
+        },
+        {
+          "title": "Star Trek Is Officially Recasting Captain Kirk With One of HBO's Biggest Stars",
+          "link": "https://www.polygon.com/star-trek-the-pitt-wgf-reading-noah-wyle-captain-kirk/",
+          "date": "2026-08-07T16:15:57+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/snw_306_mg_03_12_24_00174_rt_f.jpg",
+          "summary": "Noah Wyle to play Kirk for one night only Star Trek reading along with several Pitt costars"
+        },
+        {
+          "title": "Complete bug list in Fields of Mistria",
+          "link": "https://www.polygon.com/fields-of-mistria-guides/444982/all-bugs-list-locations-seasons-weather/",
+          "date": "2026-08-07T16:14:06+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/image-39.png",
+          "summary": "Our Fields of Mistria guide lists every bug location, season, and weather condition."
+        },
+        {
+          "title": "Xbox Game Pass Officially Losing a Modern Classic Later This Month",
+          "link": "https://www.polygon.com/firewatch-leaving-xbox-game-pass-august-2026/",
+          "date": "2026-08-07T16:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6008921/firewatch_review_screen_4.0.jpg",
+          "summary": "Set in a national park, 2016’s Firewatch is a gorgeous game that tells an unforgettable story. And you only need 4-6 hours to beat it."
+        },
+        {
+          "title": "Blizzard Officially Reveals Overwatch's Newest Hero, D.Mon, with First Gameplay",
+          "link": "https://www.polygon.com/overwatch-dmon-reveal-ability-kit-blizzard/",
+          "date": "2026-08-07T16:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ovr_s4_pk_h53dmon_beauty_individual_001.jpeg",
+          "summary": "Overwatch's 53rd hero is D.Mon (Yuna Lee), a new melee tank that stands apart from MEKA Squad teammate D.Va, thanks to a distinct gameplay kit."
+        },
+        {
+          "title": "33 Years Ago, Anime's Mecha Sci-Fi Masterpiece Was Ahead of Its Time in One Disturbing Way",
+          "link": "https://www.polygon.com/patlabor-2-mecha-anime-political-thriller/",
+          "date": "2026-08-07T16:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/patlabor-2.webp",
+          "summary": "A wonderfully nuanced dissection of illusory post-war peace."
+        },
+        {
           "title": "Complete fish list in Fields of Mistria",
           "link": "https://www.polygon.com/fields-of-mistria-guides/444802/complete-fish-list-in-fields-of-mistria/",
           "date": "2026-08-07T15:32:10+00:00",
@@ -1642,62 +1698,6 @@
           "date": "2026-08-07T15:22:03+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/cloud-ff7-revelation.jpg",
           "summary": "Square Enix confirmed that game director Naoki Hamaguchi will appear in person at Gamescom to show off Final Fantasy 7 Revelation."
-        },
-        {
-          "title": "World of Warcraft: Midnight's First Huge Patch Makes World Bosses Hard Again",
-          "link": "https://www.polygon.com/world-of-warcraft-midnight-patch-12-1-world-boss-lairs/",
-          "date": "2026-08-07T15:14:47+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/wow_midnight_alpha_windrunnerspire_014.jpg",
-          "summary": "Blizzard will make the MMORPG's open world encounters instanced for patch 12.1: The Curse of Ula'tek"
-        },
-        {
-          "title": "With One Character, Star Wars Is Quietly Changing Jedi Canon In an Extremely Overdue Way",
-          "link": "https://www.polygon.com/the-ninth-jedi-the-force-jedi/",
-          "date": "2026-08-07T15:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/epmikkglpgvelwdwdsgfkb.jpg",
-          "summary": "'Star Wars Visions Presents: The Ninth Jedi' is redefining everything that we thought we knew about the Jedi Order."
-        },
-        {
-          "title": "Where to find a Windup Inkay in Pokémon Pokopia",
-          "link": "https://www.polygon.com/pokemon-pokopia-windup-inkay-where-to-find/",
-          "date": "2026-08-07T14:46:13+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokopia-windup-inkay.jpg",
-          "summary": "Pokopia's Windup Inkay is an essential part of the Muddy Playtime habitat. Here's where to find Windup Inkay in Pokopia"
-        },
-        {
-          "title": "Dragon Ball Super Beerus Could Get October Release Date, History Suggests",
-          "link": "https://www.polygon.com/dragon-ball-super-beerus-nycc-possible-release-date/",
-          "date": "2026-08-07T14:34:47+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/dragon-ball-super-beerus-remake-anime.jpg",
-          "summary": "Dragon Ball announced it will have a booth at NYCC this October, hinting that the Beerus anime could premiere around then, like Daima did in 2024."
-        },
-        {
-          "title": "All generator device locations in Beast of Reincarnation",
-          "link": "https://www.polygon.com/beast-of-reincarnation-generator-device-location-where-to-find/",
-          "date": "2026-08-07T14:27:05+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bor_guide_chips_ogouchi_device_header.jpg",
-          "summary": "In this guide, you learn the location of generator devices in Beast of Reincarnation, the collectibles you need to upgrade power."
-        },
-        {
-          "title": "All Electronic Brain Locations in Beast of Reincarnation",
-          "link": "https://www.polygon.com/beast-of-reincarnation-electronic-brain-location-where-to-find-calculations/",
-          "date": "2026-08-07T14:18:19+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bor_guide_chips_ogouchi_brains_header.jpg",
-          "summary": "In this guide, you find the electronic brain locations in Beast of Reincarnation, collectibles you need to upgrade the cleanse walker's calculation."
-        },
-        {
-          "title": "Two Point Studios' Decade of Success Gave Sega a Huge Surprise Win",
-          "link": "https://www.polygon.com/two-point-studios-history-10-year-anniversary/",
-          "date": "2026-08-07T14:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/two-point-studios-history.jpg",
-          "summary": "Two Point Studios just celebrated its 10th anniversary, a major milestone in today's turbulent games industry and one Sega never anticipated"
-        },
-        {
-          "title": "What's the Worst Camp Miasma Movie? Jane Schoenbrun Breaks Down Their Alt-Universe Slasher Franchise",
-          "link": "https://www.polygon.com/jane-schoebrun-interview-teenage-sex-death-camp-miasma/",
-          "date": "2026-08-07T13:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/campmiasma_still_7_-c-mubi-1.jpeg",
-          "summary": "Schoenbrun breaks down the intricate opening credits of their new movie, Teenage Sex and Death at Camp Miasma, in this exclusive interview"
         }
       ],
       "ok": true,
@@ -1707,6 +1707,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
+          "link": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
+          "date": "2026-08-07T16:22:27+00:00",
+          "image": "https://assetsio.gnwcdn.com/strauss-zelnick-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Take-Two boss Strauss Zelnick, who heads the company Rockstar belongs to, has said he's \"not in the least\" concerned that bad press over alleged union-busting will affect the…"
+        },
         {
           "title": "The late Sam Neill will reportedly feature in The Legend of Zelda film, making it very probably the actor's final on-screen role",
           "link": "https://www.eurogamer.net/sam-neill-legend-of-zelda-film",
@@ -1769,13 +1776,6 @@
           "date": "2026-08-07T09:28:09+00:00",
           "image": "https://assetsio.gnwcdn.com/quake-dawn-of-the-machine.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "QuakeCon's opening ceremony came with a delightful surprise yesterday: the announcement and release of a brand new, free expansion for the original Quake game. This is for all…"
-        },
-        {
-          "title": "EA CEO Andrew Wilson's 2026 pay may have been much larger than previously thought",
-          "link": "https://www.eurogamer.net/andrew-ceo-real-pay-chart-77-million",
-          "date": "2026-08-07T09:12:44+00:00",
-          "image": "https://assetsio.gnwcdn.com/andrew-wilson-custom-header-cut.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Earlier this month EA CEO Andrew Wilson's 2026 fiscal year pay package drew a lot of attention , due to how large it was, frankly. Well, it turns out he may have actually taken…"
         }
       ],
       "ok": true,
@@ -1785,6 +1785,27 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Texas Man Who Can’t Access His ‘Motherf*cking Anime’ Now Facing Prison After Allegedly Threatening Local Officials",
+          "link": "https://kotaku.com/anime-texas-age-verification-bill-crunchyroll-pornhub-dps-2000722510",
+          "date": "2026-08-07T16:45:11+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/animecurse-1280x720.jpg",
+          "summary": "The unhinged rant to the governor's office threatened to stab 'every goddam one of you bitches'"
+        },
+        {
+          "title": "Overwatch’s New Hero’s Ult Is Called Limit Break, But She’s Not A Final Fantasy Fan",
+          "link": "https://kotaku.com/overwatch-dmon-ultimate-ability-limit-break-final-fantasy-2000722521",
+          "date": "2026-08-07T16:15:41+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/dmon2-1280x720.jpg",
+          "summary": "Like D.Va, D.Mon is a pro gamer turned mech pilot"
+        },
+        {
+          "title": "Blizzard Swears Overwatch’s New Mech Hero Isn’t ‘D.Va 2.0’",
+          "link": "https://kotaku.com/overwatch-dmon-dva-new-tank-hero-season-4-trailer-ability-2000722499",
+          "date": "2026-08-07T16:00:21+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/dmon-1280x720.jpg",
+          "summary": "D.Mon is meant to be the ‘icy, cool, and very confident’ leader to D.Va’s more aggressive, dive-based playstyle"
+        },
         {
           "title": "Square Enix Deploys An Emergency Update To Fix Final Fantasy 14 Loading Times On The Switch 2",
           "link": "https://kotaku.com/final-fantasy-14-switch-2-loading-times-hotfix-2000722495",
@@ -1833,27 +1854,6 @@
           "date": "2026-08-07T13:34:03+00:00",
           "image": "https://kotaku.com/app/uploads/2026/06/zelnick-1280x720.jpg",
           "summary": "'Given the hype around this title, I think we could have made any number of other pricing choices,' said Strauss Zelnick"
-        },
-        {
-          "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
-          "link": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
-          "date": "2026-08-07T13:16:09+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/05/marvel-tokon-fighting-souls-screenshot-04-ps5-en-05jun25-1280x720.jpg",
-          "summary": "Arc System Works says it’s ‘actively investigating’ reports of performance issues on PC"
-        },
-        {
-          "title": "Preservationist Spent $900 And Strung Together 90 GPUs To Save A Lost Final Fantasy 7 Spinoff",
-          "link": "https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267",
-          "date": "2026-08-06T21:00:50+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_15-e1780874730693-1280x797.jpg",
-          "summary": "Dirge of Cerberus: Lost Episode was a fully voiced mobile game that shut down in 2018"
-        },
-        {
-          "title": "A Destiny 2 Modder Is Making Cut Content Playable Again For The First Time In Six Years",
-          "link": "https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290",
-          "date": "2026-08-06T20:45:17+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/destiny23-1280x720.jpg",
-          "summary": "Soon you'll be able return to past memories once more"
         }
       ],
       "ok": true,
@@ -1942,6 +1942,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is'",
+          "link": "https://www.pcgamer.com/gaming-industry/take-two-boss-dismisses-hand-wringing-over-the-end-of-disc-based-games-our-business-is-well-over-90-percent-digitally-distributed-as-it-is/",
+          "date": "2026-08-07T16:35:05+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/hY6e5okNmvVAdFTJ3H6PjJ-1280-80.jpg",
+          "summary": "Strauss Zelnick says Take-Two will still put out physical editions \"now and then,\" but for the most part, the era of games on discs is already over."
+        },
+        {
+          "title": "Overwatch's new mech hero is the sword-and-board sequel to D.Va, except her code isn't 'a plate of spaghetti' under the hood",
+          "link": "https://www.pcgamer.com/games/fps/overwatchs-new-mech-hero-is-the-sword-and-board-sequel-to-d-va-except-her-code-isnt-a-plate-of-spaghetti-under-the-hood/",
+          "date": "2026-08-07T16:00:36+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/piadU3GPmdaehKi9ymCoNF-1280-80.jpg",
+          "summary": "Blizzard set out to avoid the mistakes of the past with D.Mon."
+        },
+        {
+          "title": "Launch day performance issues and forced logins take another victim: Marvel Tōkon: Fighting Souls sees mixed Steam rating, especially among Linux users",
+          "link": "https://www.pcgamer.com/hardware/launch-day-performance-issues-and-forced-logins-take-another-victim-marvel-tokon-fighting-souls-sees-mixed-steam-rating-especially-among-linux-users/",
+          "date": "2026-08-07T15:58:15+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/fxnMUdpEunirV3vXkri8qN-1280-80.png",
+          "summary": "Ouch, that's gotta sting."
+        },
+        {
           "title": "Asus ROG Zephyrus G16 (2026) review",
           "link": "https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2026-review/",
           "date": "2026-08-07T15:49:06+00:00",
@@ -1989,27 +2010,6 @@
           "date": "2026-08-07T05:11:13+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/fCtQ3sPh5qw2YpK9gsBPHA-1280-80.png",
           "summary": "It'll be among the late actor's final screen performances."
-        },
-        {
-          "title": "How to craft an engagement ring in Fields of Mistria",
-          "link": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-engagement-ring-how-to-craft/",
-          "date": "2026-08-07T00:42:19+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NET9Xjw4LkPR65hnNkMCoh-1280-80.jpg",
-          "summary": "Oh no, when I said he was \"endgame\" I didn't realize marriage was also very endgame content."
-        },
-        {
-          "title": "Following its excellent Lord of the Rings cards, Magic: The Gathering's new Hobbit set is a bit of a second breakfast",
-          "link": "https://www.pcgamer.com/games/card-games/following-its-excellent-lord-of-the-rings-cards-magic-the-gatherings-new-hobbit-set-is-a-bit-of-a-second-breakfast/",
-          "date": "2026-08-07T00:10:40+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/7ohKqqfrkzWKiES6fhSeuD-1280-80.jpg",
-          "summary": "It's nice to have, but it's more of the same."
-        },
-        {
-          "title": "Trent Reznor on Doom: 'In some ways I felt a parallel with what I was trying to do with music'",
-          "link": "https://www.pcgamer.com/games/fps/trent-reznor-on-doom-in-some-ways-i-felt-a-parallel-with-what-i-was-trying-to-do-with-music/",
-          "date": "2026-08-07T00:01:51+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/gejTXV7PSS595Aiy4i2DPh-1280-80.png",
-          "summary": "A new range of Nine Inch Nails Quake merch is out."
         }
       ],
       "ok": true,
@@ -2019,6 +2019,13 @@
       "name": "PlayStation Blog",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Share of the Week: Assassin’s Creed Black Flag Resynced – Jackdaw",
+          "link": "https://blog.playstation.com/2026/08/07/share-of-the-week-assassins-creed-black-flag-resynced-jackdaw/",
+          "date": "2026-08-07T16:00:18+00:00",
+          "image": "https://live.staticflickr.com/65535/55447773390_988b77adbb_h.jpg",
+          "summary": "Last week, we asked you to share moments about Edward Kenway’s pirate ship, the Jackdaw, using #PSshare #PSBlog. Here are this week’s highlights: _GenieCrazy_ shares the Jackdaw…"
+        },
         {
           "title": "Celebrate 30 years of Quake with a brand-new episode, available today",
           "link": "https://blog.playstation.com/2026/08/06/celebrate-30-years-of-quake-with-a-brand-new-episode-available-today/",
@@ -2081,13 +2088,6 @@
           "date": "2026-07-30T15:00:00+00:00",
           "image": "https://live.staticflickr.com/65535/55426789530_e1f92a0f12_k.jpg",
           "summary": "Launching September 24 on PlayStation 5, Silent Hill: Townfall marks the latest entry in the iconic psychological horror franchise. In this article, we bring you insights from…"
-        },
-        {
-          "title": "Silent Hill: Townfall hands-on report",
-          "link": "https://blog.playstation.com/2026/07/29/silent-hill-townfall-hands-on-report/",
-          "date": "2026-07-29T07:00:24+00:00",
-          "image": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32",
-          "summary": "The line between supernatural horrors and the psychological struggles of characters is often blurred between Silent Hill games, but it might never have been as hazy as it is in…"
         }
       ],
       "ok": true,
@@ -2097,6 +2097,13 @@
       "name": "Xbox Wire",
       "cat": "gaming",
       "items": [
+        {
+          "title": "HELLDIVERS 2 x Warhammer 40,000 Legendary Warbond, Launching August 12",
+          "link": "https://news.xbox.com/en-us/2026/08/07/helldivers-2-x-warhammer-40000-warbond-xbox/",
+          "date": "2026-08-07T16:00:00+00:00",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Helldivers-x-40K-44-62de50c0bb2d277ab207-1024x576.jpg",
+          "summary": "The die is cast. The unstoppable force of Freedom is advancing where others fear to tread, emboldened and equipped with Super Earth’s latest instruments of Liberation – and secure…"
+        },
         {
           "title": "Next Week on XBOX: New Games for August 10 to 14",
           "link": "https://news.xbox.com/en-us/2026/08/07/next-week-on-xbox-new-games-for-august-10-to-14/",
@@ -2159,13 +2166,6 @@
           "date": "2026-08-05T17:00:00+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/August2026_Selects_Horizontal-13c2d37cc336ecc5c1b0-1024x576.jpg",
           "summary": "Every Wednesday, dive into the Indie Select Hub — your gateway to a fresh, curated indie collection plus four themed spotlights that rotate weekly! You can always find this…"
-        },
-        {
-          "title": "Available for XBOX Insiders: More Control Over Captures, Saves, and Wishlists",
-          "link": "https://news.xbox.com/en-us/2026/08/05/xbox-insiders-october-2026-console-features/",
-          "date": "2026-08-05T15:55:02+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/1.-Voice-chat-in-captures-8f7eeb43129f9201f619-1024x576.png",
-          "summary": "Starting today, XBOX Insiders can try out new XBOX console updates designed to make it easier to capture and share memorable gameplay moments, track your progress, and manage the…"
         }
       ],
       "ok": true,
@@ -2175,6 +2175,13 @@
       "name": "GamesIndustry.biz",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Strauss Zelnick: Netflix debut is merely \"one of the hors d'oeuvres\" for full GTA 6 launch; pre-order numbers are \"unprecedented and astonishing\"",
+          "link": "https://www.gamesindustry.biz/strauss-zelnick-netflix-debut-is-merely-one-of-the-hors-doeuvres-for-full-gta-6-launch-pre-order-numbers-are-unprecedented-and-astonishing",
+          "date": "2026-08-07T16:26:16+00:00",
+          "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_VICE_CITY_STYLE_01.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Take-Two CEO Strauss Zelnick tells GamesIndustry.biz that the forthcoming Netflix gameplay premiere of GTA 6, which will air on August 27th , is merely \"one of the hors…"
+        },
         {
           "title": "Investors hate Roblox’ new direction – but a reversal may be impossible | Opinion",
           "link": "https://www.gamesindustry.biz/investors-hate-roblox-new-direction-but-a-reversal-may-be-impossible-opinion",
@@ -2237,13 +2244,6 @@
           "date": "2026-08-06T11:01:00+00:00",
           "image": "https://assetsio.gnwcdn.com/xavier-cee-MJppD2Sl2gc-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "This is the second article in our series analysing the potential impact of the new Employment Rights Act (ERA) 2025 on games businesses operating within the UK. Read more"
-        },
-        {
-          "title": "Kudos Games Services expands leadership team with Testronic and Team17 execs",
-          "link": "https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-execs",
-          "date": "2026-08-06T10:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/Goldenhour.145-(1)-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Kudos Games Services has expanded its senior leadership team by appointing Michael Hanna as chief operating officer and Ann Hurley as board advisor. Read more"
         }
       ],
       "ok": true,
@@ -2410,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Nuclear fusion reactors benefit from first-ever silver crystal tritium separation",
+          "link": "https://interestingengineering.com/energy/nuclear-fusion-reactors-get-first-silver-tritium",
+          "date": "2026-08-07T16:05:18+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Fusion-isotope.jpg",
+          "summary": "For the first-time ever, researchers in Germany have found a way to filter hydrogen isotopes..."
+        },
+        {
           "title": "US Air Force taps quantum computing to protect electric grid from cyber threats",
           "link": "https://interestingengineering.com/military/quantum-computing-to-protect-electric-grid",
           "date": "2026-08-07T15:46:39+00:00",
@@ -2471,13 +2478,6 @@
           "date": "2026-08-07T13:21:18+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/IE-Photo-77.jpg",
           "summary": "China&#8217;s first tension-leg platform (TLP) floating wind farm entered operation on Thursday, marking a major..."
-        },
-        {
-          "title": "World’s first autonomous robot that drives aboard moving ship tested by Hyundai",
-          "link": "https://interestingengineering.com/ai-robotics/self-driving-robot-safely-patrols-cargo-ships",
-          "date": "2026-08-07T13:14:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-13.jpg",
-          "summary": "Hyundai Motor Group (HMG) has successfully demonstrated what they describe as the world&#8217;s first autonomous..."
         }
       ],
       "ok": true,
