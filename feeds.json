@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T12:51:11.064460+00:00",
+  "updated": "2026-08-08T13:46:59.350401+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -160,9 +160,80 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "502 Server Error: Bad Gateway for url: https://www.automotiveworld.com/feed/"
+      "items": [
+        {
+          "title": "CATL and BYD’s battery growth pulls in opposite directions",
+          "link": "https://www.automotiveworld.com/news/catl-and-byds-battery-growth-pulls-in-opposite-directions/",
+          "date": "2026-08-07T12:10:56+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BYD's automotive business is consuming nearly everything its battery unit produces, leaving little to sell externally. By Stewart Burnett The post CATL and BYD&#8217;s battery…"
+        },
+        {
+          "title": "OEM results watch, Q2 2026: an uneven recovery",
+          "link": "https://www.automotiveworld.com/data/oem-results-watch-q2-2026-an-uneven-recovery/",
+          "date": "2026-08-07T11:35:23+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Q2 2026 was one of the industry's best periods in years, yet there's a disconnect between revenue, profit and volume. By Will Girling The post OEM results watch, Q2 2026: an…"
+        },
+        {
+          "title": "Tesla puts Terafab in Texas for US$16bn, but plan still vague",
+          "link": "https://www.automotiveworld.com/news/tesla-puts-terafab-in-texas-for-us16bn-but-plan-still-vague/",
+          "date": "2026-08-07T09:41:38+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The financial and geographical details of Terafab are now clear, but viability remains reliant on Musk’s more outlandish bets paying off. By Stewart Burnett The post Tesla puts…"
+        },
+        {
+          "title": "Does Ford’s new US$28k pick-up have a credibility problem?",
+          "link": "https://www.automotiveworld.com/analysis/does-fords-new-us28k-pick-up-have-a-credibility-problem/",
+          "date": "2026-08-07T08:38:33+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Details about the Fathom are coming to light, but questions about repairability, range and profitability remain open. By Stewart Burnet The post Does Ford&#8217;s new US$28k…"
+        },
+        {
+          "title": "Daimler Truck plans new US manufacturing facility by 2029",
+          "link": "https://www.automotiveworld.com/news/daimler-truck-plans-new-us-manufacturing-facility-by-2029/",
+          "date": "2026-08-07T05:15:18+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Daimler Truck's investment points to flexible manufacturing becoming as important as scale in commercial vehicle production strategy The post Daimler Truck plans new US…"
+        },
+        {
+          "title": "Acura to reveal new design language at Monterey Car Week",
+          "link": "https://www.automotiveworld.com/news/acura-to-reveal-new-design-language-at-monterey-car-week/",
+          "date": "2026-08-07T05:10:20+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The reveal suggests Acura is using a concept car, not a production launch, to test reaction to its new design direction first The post Acura to reveal new design language at…"
+        },
+        {
+          "title": "BWI Group extends global R&D network into South America",
+          "link": "https://www.automotiveworld.com/news/bwi-group-extends-global-rd-network-into-south-america/",
+          "date": "2026-08-07T05:00:48+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BWI Group's Brazil expansion suggests chassis suppliers are following automakers into South America ahead of demand The post BWI Group extends global R&#038;D network into South…"
+        },
+        {
+          "title": "Hyundai, Kia find 200 issues early with NOVA Lab bench",
+          "link": "https://www.automotiveworld.com/news/hyundai-kia-find-200-issues-early-with-nova-lab-bench/",
+          "date": "2026-08-07T04:55:34+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "NOVA Lab shows how Hyundai and Kia are readying validation for a future of software-defined vehicles and robotaxis The post Hyundai, Kia find 200 issues early with NOVA Lab bench…"
+        },
+        {
+          "title": "Denso, TÜV Rheinland Japan publish Battery Passport paper",
+          "link": "https://www.automotiveworld.com/topics/e-mobility/denso-tuv-rheinland-japan-publish-battery-passport-paper/",
+          "date": "2026-08-07T04:50:46+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The Battery Passport white paper signals that compliance readiness will decide who competes in the EU battery market from 2027 The post Denso, TÜV Rheinland Japan publish Battery…"
+        },
+        {
+          "title": "Stellantis SRT reveals eBoost Air compressor concept",
+          "link": "https://www.automotiveworld.com/news/stellantis-srt-reveals-eboost-air-compressor-concept/",
+          "date": "2026-08-07T04:45:27+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "eBoost Air shows how SRT is using rapid prototyping to solve turbo lag without waiting for a full production programme The post Stellantis SRT reveals eBoost Air compressor…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Automotive News Europe",
@@ -247,6 +318,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+          "link": "https://insideevs.com/news/804241/rivian-r2-lucid-cosmos-ev-startup-challenges/",
+          "date": "2026-08-08T13:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/Oo9O3B/s3/lucid-cosmos.jpg",
+          "summary": "America's two biggest EV startups are facing more distinct challenges than ever, as Rivian launches the R2 and Lucid delays the Cosmos."
+        },
+        {
           "title": "Ford's Bronco EV Is Better Than It Has Any Right To Be. Why Isn’t It Sold In The U.S.?",
           "link": "https://insideevs.com/news/804026/ford-bronco-ev-review/",
           "date": "2026-08-08T12:00:00+00:00",
@@ -308,13 +386,6 @@
           "date": "2026-08-06T13:28:51+00:00",
           "image": "https://cdn.motor1.com/images/mgl/bgGo7l/s3/zeekr-7gt.jpg",
           "summary": "The 75-kWh Zeekr 7GT never came close to its claimed peak, but its impressive charging curve took it from 10% to full in 21 minutes."
-        },
-        {
-          "title": "Ford's Affordable Electric Truck Finally Has A Name And A Price",
-          "link": "https://insideevs.com/news/803940/ford-fathom-price-name-reveal-electric-truck/",
-          "date": "2026-08-06T13:01:00+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/XBX1x2/s3/ford-uev-platform-details.jpg",
-          "summary": "The $29,945 Ford Fathom gets a pretty decent list of standard equipment."
         }
       ],
       "ok": true,
@@ -1396,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Reduced gravity pushes people toward simpler movement patterns, experiments suggest",
+          "link": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
+          "date": "2026-08-08T13:20:01+00:00",
+          "image": null,
+          "summary": "From reaching for a cup of coffee to tying your shoelaces, gravity shapes nearly all human movement. So how do our bodies react when that familiar force begins to change? Texas…"
+        },
+        {
           "title": "Galactic spins carry fingerprints of the primordial universe",
           "link": "https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html",
           "date": "2026-08-07T17:20:03+00:00",
@@ -1457,13 +1535,6 @@
           "date": "2026-08-06T21:00:07+00:00",
           "image": null,
           "summary": "A team of astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) has captured a massive stream of gas—one trillion miles, or 0.2 light-years, long—feeding the…"
-        },
-        {
-          "title": "Milky Way-like simulation reveals how central galactic structures grow together",
-          "link": "https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html",
-          "date": "2026-08-06T20:40:01+00:00",
-          "image": null,
-          "summary": "Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to unveil the physical processes…"
         }
       ],
       "ok": true,
@@ -1559,6 +1630,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Deborah Ann Woll Says Tales from Woodcreek Season 2 Is 'Clue at the Overlook Hotel'",
+          "link": "https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-season-2-is-clue-at-the-overlook-hotel/",
+          "date": "2026-08-08T13:30:11+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tales-from-woodcreek-returns-on-kickstarter-august-11-0-10-screenshot-1.png",
+          "summary": "The D&amp;D actual play returns with a sprawling 1920s mansion, an ambitious ARG, and a murder mystery inspired by Clue and The Shining."
+        },
+        {
+          "title": "What time does Mastery Monday start in Fortnite?",
+          "link": "https://www.polygon.com/fortnite-chapter-7-season-3-mastery-monday-start-end-time-when/",
+          "date": "2026-08-08T13:01:11+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/john-wick-sprite-spawn-fortnite.jpg",
+          "summary": "Here is the schedule for Mastery Monday for Fortnite Chapter 7 Season 3, so you don't miss out on your chance to level up your sprites!"
+        },
+        {
+          "title": "The 10 Most Ambitious Video Games Ever Made",
+          "link": "https://www.polygon.com/most-ambitious-video-games-ever/",
+          "date": "2026-08-08T13:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/raul_bautista_landscape.jpg",
+          "summary": "Ten games in particular have used massive scale, ingenuity, and/or complexity to deliver the most ambitious experiences ever."
+        },
+        {
           "title": "Disney's Genius 11-Part Crime Thriller Saga So Good, You'll Finish It in One Weekend",
           "link": "https://www.polygon.com/fargo-season-4-weekend-binge/",
           "date": "2026-08-08T12:30:12+00:00",
@@ -1606,27 +1698,6 @@
           "date": "2026-08-08T00:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hell-is-us-key-art.jpg",
           "summary": "Hell Is Us is a must-play 2025 Soulslike saddled with terrible release day luck, now getting a second chance on Xbox Game Pass."
-        },
-        {
-          "title": "Memoirium combines Dark Souls, Inception, and Backrooms in Steam's Coolest New Action RPG",
-          "link": "https://www.polygon.com/new-soulslike-memoirium-on-steam/",
-          "date": "2026-08-07T23:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/99deda405829c33514fa3cc3f30fe60685df035d.png",
-          "summary": "New action game Memoirium on Steam combines Dark Souls, Inception, and Backrooms"
-        },
-        {
-          "title": "Contrapoints devours forbidden, decadent games | Shelf Quest",
-          "link": "https://www.polygon.com/video/contrapoints-devours-forbidden-decadent-games-shelf-quest/",
-          "date": "2026-08-07T22:00:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/contrapointsnotext.jpg",
-          "summary": "YouTuber Natalie Wynn, known as streamer and video essayist ContraPoints, viewed gaming as a forbidden delicacy when she was a kid. But that only made her want it more.From The…"
-        },
-        {
-          "title": "10 Sci-Fi Shows on Netflix Where Every Episode is a Masterpiece",
-          "link": "https://www.polygon.com/best-sci-fi-shows-on-netflix/",
-          "date": "2026-08-07T22:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tcdmani_ec006.jpg",
-          "summary": "On Netflix, sci-fi shows like 11.22.63, Orphan Black, Dark, Resident Alien, The Tick, Cassandra, Pantheon, Bodies, and Maniac are perfect masterpieces"
         }
       ],
       "ok": true,
@@ -1871,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Blocky zombie survival sim Unturned releases its source code so players can build a 'lasting legacy' for the game 'regardless of the changes we make'",
+          "link": "https://www.pcgamer.com/games/survival-crafting/blocky-zombie-survival-sim-unturned-releases-its-source-code-so-players-can-build-a-lasting-legacy-for-the-game-regardless-of-the-changes-we-make/",
+          "date": "2026-08-08T13:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/MMFvN6vpUNVrfpPiy5jcJe-1280-80.jpg",
+          "summary": "The source files are freely available for non-commercial use."
+        },
+        {
           "title": "God of War TV series sees further recasts as Amazon seeks older actors for Atreus and Thrud",
           "link": "https://www.pcgamer.com/movies-tv/god-of-war-tv-series-sees-further-recasts-as-amazon-seeks-older-actors-for-atreus-and-thrud/",
           "date": "2026-08-08T12:00:00+00:00",
@@ -1932,13 +2010,6 @@
           "date": "2026-08-07T20:05:13+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/rSiZrgwHEbGKxVdZyYSoS4-1280-80.jpg",
           "summary": "Rockstar's parent company believes cloud gaming will grow its customer base even as hardware prices rise."
-        },
-        {
-          "title": "Big Walk patch addresses voice volume complaints with restraint: 'We consider it an important part of the game's design that you can only hear players who are close to you'",
-          "link": "https://www.pcgamer.com/games/puzzle/big-walk-patch-addresses-voice-volume-complaints-with-restraint-we-consider-it-an-important-part-of-the-games-design-that-you-can-only-hear-players-who-are-close-to-you/",
-          "date": "2026-08-07T18:55:09+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/3yTzwbM8LpTUNYoFRPx7XX-1280-80.png",
-          "summary": "A new update \"makes quiet voices louder overall,\" but doesn't let you hear players from farther away."
         }
       ],
       "ok": true,
@@ -2339,6 +2410,34 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Lockheed Martin’s new defense vision connects satellites, F-35s and missiles",
+          "link": "https://interestingengineering.com/military/lockheed-martin-defense-vision-connects-satellites",
+          "date": "2026-08-08T13:46:48+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/8yszdg7hkeo.jpg",
+          "summary": "Dominance in future wars will likely depend more on data sharing than on capable weapons,..."
+        },
+        {
+          "title": "China debuts first six-inch wafer polishing and measuring tool to boost EV chips",
+          "link": "https://interestingengineering.com/innovation/china-first-six-inch-wafer-polishing-tool",
+          "date": "2026-08-08T13:42:28+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/q-hr-qc4dz0_d77180.jpg",
+          "summary": "China-based Hwatsing Technology has taken a significant step forward in electronics manufacturing by advancing wafer..."
+        },
+        {
+          "title": "SpaceX to launch 32 pharma laboratories into orbit for microgravity drug production",
+          "link": "https://interestingengineering.com/space/spacex-to-launch-32-pharma-laboratories-into-orbit-for-microgravity-drug-production",
+          "date": "2026-08-08T13:37:26+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design276.jpg",
+          "summary": "SpaceMD, a wholly owned subsidiary of US space infrastructure company Redwire, has signed a contract..."
+        },
+        {
+          "title": "Massive 1.25 gigawatts power systems to bypass grid delays for data centers",
+          "link": "https://interestingengineering.com/energy/massive-gigawatts-power-bypass-grid-delayystems",
+          "date": "2026-08-08T13:27:38+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Energy-Vault.jpg",
+          "summary": "Data centers housing artificial intelligence hardware require massive amounts of power, but connecting to the..."
+        },
+        {
           "title": "US backs autonomous stroke treatment robot from MIT spinout with $32 million funding",
           "link": "https://interestingengineering.com/ai-robotics/us-backs-autonomous-stroke-treatment-robot",
           "date": "2026-08-08T12:44:18+00:00",
@@ -2379,34 +2478,6 @@
           "date": "2026-08-07T23:57:58+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-08T052113.367.jpg",
           "summary": "The United States wants to rebuild its domestic uranium supply chain, and one newly listed..."
-        },
-        {
-          "title": "China expands world’s largest rare earth mine by 50% to 15 million tonnes annually",
-          "link": "https://interestingengineering.com/energy/china-bayan-obo-mining-capacity-expansion",
-          "date": "2026-08-07T23:54:52+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-08T043532.343.jpg",
-          "summary": "China is moving ahead with a major expansion of the Bayan Obo mining complex in..."
-        },
-        {
-          "title": "IBM’s 156-qubit processor joins GPUs to calculate electrostatic energy in an enzyme",
-          "link": "https://interestingengineering.com/science/qc-ware-ibm-quantum-processor-hybrid-chemistry",
-          "date": "2026-08-07T23:18:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-08T044717.386.jpg",
-          "summary": "QC Ware, a California-based quantum computing software company, has combined conventional computing with a quantum..."
-        },
-        {
-          "title": "Trump reveals $2B investment plan to boost US domestic critical mineral supply chain",
-          "link": "https://interestingengineering.com/energy/us-critical-minerals-2-billion-sila-niron-scandium",
-          "date": "2026-08-07T22:42:46+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Trump.jpg",
-          "summary": "The White House has announced more than $2 billion in investments and deals aimed at..."
-        },
-        {
-          "title": "New US center targets gallium recovery from waste to strengthen critical-mineral supply",
-          "link": "https://interestingengineering.com/innovation/found-industries-cambridge-gallium-critical-mineral-refining",
-          "date": "2026-08-07T21:49:01+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-1490697170.jpg",
-          "summary": "MIT spinout Found Industries has opened a new facility in Cambridge, Massachusetts, to develop and..."
         }
       ],
       "ok": true,
