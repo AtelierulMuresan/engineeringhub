@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T10:35:04.655213+00:00",
+  "updated": "2026-08-08T11:30:15.505750+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        },
+        {
+          "title": "NASA Study Points to Smoother Air Taxi Rides",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+          "date": "2026-07-13T21:46:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
+        },
+        {
+          "title": "NASA Photographer Captures Images from F-18 Over Washington",
+          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+          "date": "2026-07-10T16:36:14+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
+        },
+        {
+          "title": "A Day of Flight Testing at NASA Armstrong",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+          "date": "2026-06-30T19:27:13+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
+        },
+        {
+          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+          "date": "2026-06-29T20:38:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lrc-2026-ocio-p-01883-image-1.jpg",
+          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -1559,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "X-Men Actor Says Marvel Never Told Him Why He Was Replaced In 'X-Men '97'",
+          "link": "https://www.polygon.com/x-men-97-cable-gambit-actor-replaced/",
+          "date": "2026-08-08T11:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/vs-disney-x-mendisney-0-29.jpg",
+          "summary": "Chris Potter now plays Cable in ‘X-Men ‘97,’ but he originally played Gambit in the 1990s. In an interview, he says no one ever told him why."
+        },
+        {
           "title": "The Best Live-Action Spider-Man Movies: A Definitive Ranking of All 9 Films",
           "link": "https://www.polygon.com/best-spider-man-movies/",
           "date": "2026-08-08T10:30:12+00:00",
@@ -1620,13 +1698,6 @@
           "date": "2026-08-07T21:35:29+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/sadiesink.jpg",
           "summary": "This seems like a good use of everyone's time."
-        },
-        {
-          "title": "All treasure map locations in Pokémon Pokopia's Bubbly Basin DLC",
-          "link": "https://www.polygon.com/pokemon-pokopia-treasure-map-reward-location-rewards-mermaid-gym-starmie-habitat/",
-          "date": "2026-08-07T21:35:22+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokopia_guide_treasuremap_header.jpg",
-          "summary": "Here's where to find all the treasures from the treasure maps in Pokémon Pokopia and how to make a \"mermaid's gym\" habitat to find Starmie."
         }
       ],
       "ok": true,
@@ -1636,6 +1707,20 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Konami investigating Silent Hill 2 Performance Mode issues after latest PS5 patch",
+          "link": "https://www.eurogamer.net/silent-hill-2-remake-performance-mode-bugs",
+          "date": "2026-08-08T11:20:31+00:00",
+          "image": "https://assetsio.gnwcdn.com/Silent-Hill-2-Review-1-13-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Konami has confirmed it's investigating new Performance Mode problems on PS5 and PS5 Pro after last week's Patch 1.07 for the Silent Hill 2 remake introduced a host of new issues.…"
+        },
+        {
+          "title": "Newly discovered Demon's Souls prototype footage reveals a scrapped first-person mode",
+          "link": "https://www.eurogamer.net/demons-souls-cut-first-person-mode",
+          "date": "2026-08-08T10:45:14+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-08-08-at-11.33.10.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Newly unearthed footage from a 2007 developer presentation has revealed that Demon's Souls once had an option to play in first-person. Read more"
+        },
         {
           "title": "Club Soko is cartoonishly dark and splattered with beer - and it's a wonderful puzzler, too",
           "link": "https://www.eurogamer.net/club-soko-impressions-cartoonishly-dark-sokoban-puzzle-game",
@@ -1691,20 +1776,6 @@
           "date": "2026-08-07T13:33:56+00:00",
           "image": "https://assetsio.gnwcdn.com/strauss-zelnick-gta-take-two.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Take-Two's latest financials are in, and they come with a few surprises. First off, Take-Two CEO Strauss Zelnick has confirmed that the publisher's sales are mostly digital, in…"
-        },
-        {
-          "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam",
-          "link": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
-          "date": "2026-08-07T13:10:07+00:00",
-          "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-3.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Gears of War E-Day has only just rolled out the first stage of its open beta, and already the series' records have been shattered on Steam. Read more"
-        },
-        {
-          "title": "Sony appears to be putting labels on PS5 console boxes to warn people it's ending disc production",
-          "link": "https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028",
-          "date": "2026-08-07T12:01:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/warning-ps5-discs.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "In case it was ever in doubt, it seems Sony is not backing down from its controversial decision to stop manufacturing physical disc-based games . It appears a notice is being…"
         }
       ],
       "ok": true,
@@ -1871,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Tencent's cyberpunk rival to Grand Theft Auto is in trouble as its developer lays off 80 people",
+          "link": "https://www.pcgamer.com/games/action/tencents-cyberpunk-rival-to-grand-theft-auto-is-in-trouble-as-its-developer-lays-off-80-people/",
+          "date": "2026-08-08T11:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/axgjhrcPKagTjVxgUdZoub-1280-80.jpg",
+          "summary": "Lightspeed LA says it will \"shift the creative and development direction\" of Last Sentinel."
+        },
+        {
           "title": "Big Walk: So, what's the deal with that number puzzle?",
           "link": "https://www.pcgamer.com/games/puzzle/big-walk-number-puzzle-4166-1899/",
           "date": "2026-08-08T00:02:33+00:00",
@@ -1932,13 +2010,6 @@
           "date": "2026-08-07T18:25:32+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/eWUovHB5VaTwVNzwxtmVjD-1280-80.jpg",
           "summary": "It's not just about the sanctity of copyright law anymore—Japan's foreign ministry is apparently worried that the US government is damaging the brands."
-        },
-        {
-          "title": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is'",
-          "link": "https://www.pcgamer.com/gaming-industry/take-two-boss-dismisses-hand-wringing-over-the-end-of-disc-based-games-our-business-is-well-over-90-percent-digitally-distributed-as-it-is/",
-          "date": "2026-08-07T16:35:05+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hY6e5okNmvVAdFTJ3H6PjJ-1280-80.jpg",
-          "summary": "Strauss Zelnick says Take-Two will still put out physical editions \"now and then,\" but for the most part, the era of games on discs is already over."
         }
       ],
       "ok": true,
@@ -2339,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Earth faces cosmic deadline in a billion years. A researcher has a plan to keep us alive.",
+          "link": "https://interestingengineering.com/space/earth-habitable-9-quadrillion-years-sun-dies",
+          "date": "2026-08-08T10:45:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Red-sun_solar-storm.jpg",
+          "summary": "Earth has approximately one billion years of habitability left. That deadline has nothing to do..."
+        },
+        {
           "title": "Chameleon-inspired chip adapts to changing data speeds and cuts errors 40-fold",
           "link": "https://interestingengineering.com/innovation/kaist-programmable-memtransistor-40-fold-error-reduction",
           "date": "2026-08-08T00:04:24+00:00",
@@ -2400,13 +2478,6 @@
           "date": "2026-08-07T19:36:53+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design275.jpg",
           "summary": "California-based Rangeview Inc. has secured a contract to supply maintenance, repair, and overhaul (MRO) replacement..."
-        },
-        {
-          "title": "Quantum-inspired tech lets engineers test tens of thousands of drone designs at once",
-          "link": "https://interestingengineering.com/military/quantum-inspired-computing-drone-propeller-design",
-          "date": "2026-08-07T19:23:07+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Mondolovo.jpg",
-          "summary": "Drone maker Modovolo is using quantum-inspired computing to speed up the design of its next-generation..."
         }
       ],
       "ok": true,
