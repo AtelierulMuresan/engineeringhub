@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T05:06:34.621846+00:00",
+  "updated": "2026-08-09T06:58:30.172109+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -160,9 +160,80 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.automotiveworld.com/feed/"
+      "items": [
+        {
+          "title": "CATL and BYD’s battery growth pulls in opposite directions",
+          "link": "https://www.automotiveworld.com/news/catl-and-byds-battery-growth-pulls-in-opposite-directions/",
+          "date": "2026-08-07T12:10:56+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BYD's automotive business is consuming nearly everything its battery unit produces, leaving little to sell externally. By Stewart Burnett The post CATL and BYD&#8217;s battery…"
+        },
+        {
+          "title": "OEM results watch, Q2 2026: an uneven recovery",
+          "link": "https://www.automotiveworld.com/data/oem-results-watch-q2-2026-an-uneven-recovery/",
+          "date": "2026-08-07T11:35:23+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Q2 2026 was one of the industry's best periods in years, yet there's a disconnect between revenue, profit and volume. By Will Girling The post OEM results watch, Q2 2026: an…"
+        },
+        {
+          "title": "Tesla puts Terafab in Texas for US$16bn, but plan still vague",
+          "link": "https://www.automotiveworld.com/news/tesla-puts-terafab-in-texas-for-us16bn-but-plan-still-vague/",
+          "date": "2026-08-07T09:41:38+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The financial and geographical details of Terafab are now clear, but viability remains reliant on Musk’s more outlandish bets paying off. By Stewart Burnett The post Tesla puts…"
+        },
+        {
+          "title": "Does Ford’s new US$28k pick-up have a credibility problem?",
+          "link": "https://www.automotiveworld.com/analysis/does-fords-new-us28k-pick-up-have-a-credibility-problem/",
+          "date": "2026-08-07T08:38:33+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Details about the Fathom are coming to light, but questions about repairability, range and profitability remain open. By Stewart Burnet The post Does Ford&#8217;s new US$28k…"
+        },
+        {
+          "title": "Daimler Truck plans new US manufacturing facility by 2029",
+          "link": "https://www.automotiveworld.com/news/daimler-truck-plans-new-us-manufacturing-facility-by-2029/",
+          "date": "2026-08-07T05:15:18+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Daimler Truck's investment points to flexible manufacturing becoming as important as scale in commercial vehicle production strategy The post Daimler Truck plans new US…"
+        },
+        {
+          "title": "Acura to reveal new design language at Monterey Car Week",
+          "link": "https://www.automotiveworld.com/news/acura-to-reveal-new-design-language-at-monterey-car-week/",
+          "date": "2026-08-07T05:10:20+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The reveal suggests Acura is using a concept car, not a production launch, to test reaction to its new design direction first The post Acura to reveal new design language at…"
+        },
+        {
+          "title": "BWI Group extends global R&D network into South America",
+          "link": "https://www.automotiveworld.com/news/bwi-group-extends-global-rd-network-into-south-america/",
+          "date": "2026-08-07T05:00:48+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BWI Group's Brazil expansion suggests chassis suppliers are following automakers into South America ahead of demand The post BWI Group extends global R&#038;D network into South…"
+        },
+        {
+          "title": "Hyundai, Kia find 200 issues early with NOVA Lab bench",
+          "link": "https://www.automotiveworld.com/news/hyundai-kia-find-200-issues-early-with-nova-lab-bench/",
+          "date": "2026-08-07T04:55:34+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "NOVA Lab shows how Hyundai and Kia are readying validation for a future of software-defined vehicles and robotaxis The post Hyundai, Kia find 200 issues early with NOVA Lab bench…"
+        },
+        {
+          "title": "Denso, TÜV Rheinland Japan publish Battery Passport paper",
+          "link": "https://www.automotiveworld.com/topics/e-mobility/denso-tuv-rheinland-japan-publish-battery-passport-paper/",
+          "date": "2026-08-07T04:50:46+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The Battery Passport white paper signals that compliance readiness will decide who competes in the EU battery market from 2027 The post Denso, TÜV Rheinland Japan publish Battery…"
+        },
+        {
+          "title": "Stellantis SRT reveals eBoost Air compressor concept",
+          "link": "https://www.automotiveworld.com/news/stellantis-srt-reveals-eboost-air-compressor-concept/",
+          "date": "2026-08-07T04:45:27+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "eBoost Air shows how SRT is using rapid prototyping to solve turbo lag without waiting for a full production programme The post Stellantis SRT reveals eBoost Air compressor…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Automotive News Europe",
@@ -415,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "America Makes Tackles AM Qualification Bottlenecks for Defense",
+          "link": "https://3dprintingindustry.com/news/america-makes-tackles-am-qualification-bottlenecks-for-defense-253594/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-tackles-am-qualification-bottlenecks-for-defense",
+          "date": "2026-08-07T12:14:09+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected the winning teams for Delta Qual 2.0, a $9 million project call aimed at…"
+        },
+        {
+          "title": "Cavan Sullivan Becomes First Footballer to Wear a Fully 3D Printed Boot in a Professional Match",
+          "link": "https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603/?utm_source=rss&utm_medium=rss&utm_campaign=cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match",
+          "date": "2026-08-07T11:55:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Philadelphia Union midfielder Cavan Sullivan made history on July 23, 2026, becoming the first footballer to wear a fully 3D printed boot in a top-level competitive match. The…"
+        },
+        {
+          "title": "Craft Health’s CraftMake Platform Gets a Peptide Test Run",
+          "link": "https://3dprintingindustry.com/news/craft-healths-craftmake-platform-gets-a-peptide-test-run-253591/?utm_source=rss&utm_medium=rss&utm_campaign=craft-healths-craftmake-platform-gets-a-peptide-test-run",
+          "date": "2026-08-07T11:39:21+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Specialty pharmaceutical company PharmaTher Holdings is collaborating with Craft Health Pte. Ltd., a Singapore-based pharmaceutical technology company, to test whether Craft…"
+        },
+        {
+          "title": "TBGA Contracted to Support BPMI’s AM Material Database",
+          "link": "https://3dprintingindustry.com/news/tbga-contracted-to-support-bpmis-am-material-database-253634/?utm_source=rss&utm_medium=rss&utm_campaign=tbga-contracted-to-support-bpmis-am-material-database",
+          "date": "2026-08-07T06:08:22+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Barnes Global Advisors (TBGA) has been contracted by Bechtel Plant Machinery, Inc. (BPMI) to support the development and management of a materials and process database for…"
+        },
+        {
+          "title": "USA Diving names FITASY official footwear partner",
+          "link": "https://3dprintingindustry.com/news/usa-diving-names-fitasy-official-footwear-partner-253627/?utm_source=rss&utm_medium=rss&utm_campaign=usa-diving-names-fitasy-official-footwear-partner",
+          "date": "2026-08-07T05:59:46+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "USA Diving has named Indianapolis-based FITASY, a maker of 3D printed custom-fit recovery footwear, as its official footwear partner. The partnership launched at the Bolzano…"
+        },
+        {
+          "title": "Walter Reed’s 3D Printed Titanium Cranial Plate Becomes First Implant Cleared by the FDA for a Point-of-Care Institution",
+          "link": "https://3dprintingindustry.com/news/walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution-253587/?utm_source=rss&utm_medium=rss&utm_campaign=walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution",
+          "date": "2026-08-07T05:54:19+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/170516-D-HA257-8260-150x100.avif",
+          "summary": "The US Food and Drug Administration (FDA) has granted premarket clearance to a 3D printed titanium cranial plate developed at Walter Reed National Military Medical Center, marking…"
+        },
+        {
+          "title": "Renishaw Launches LIBERTAS Software to Reduce Supports and Improve Surface Finish in Metal AM",
+          "link": "https://3dprintingindustry.com/news/renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am-253619/?utm_source=rss&utm_medium=rss&utm_campaign=renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am",
+          "date": "2026-08-07T05:18:35+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Global engineering firm Renishaw has introduced LIBERTAS, a new software technology for its RenAM 500 series metal additive manufacturing (AM) systems that targets two persistent…"
+        },
+        {
+          "title": "Elmet Installs New System to Target Monolithic Hypersonic Heat Exchangers",
+          "link": "https://3dprintingindustry.com/news/elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers-253583/?utm_source=rss&utm_medium=rss&utm_campaign=elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers",
+          "date": "2026-08-06T11:13:27+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Elmet Group’s subsidiary Elmet Technologies is installing a DMP Flex 350 Triple metal 3D printer from 3D Systems to produce heat exchangers for hypersonic vehicles.&#160;…"
+        },
+        {
+          "title": "Zellerfeld Relaunches Marketplace With Live Creator Rankings and Persistent Fit Profiles",
+          "link": "https://3dprintingindustry.com/news/zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles-253553/?utm_source=rss&utm_medium=rss&utm_campaign=zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles",
+          "date": "2026-08-05T11:33:56+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3D printed footwear company Zellerfeld has relaunched its website and marketplace at zellerfeld.com, rolling out what the company is calling its biggest platform update since it…"
+        },
+        {
+          "title": "3D Systems’ Saudi Venture NAMI Wins Military Manufacturing License",
+          "link": "https://3dprintingindustry.com/news/3d-systems-saudi-venture-nami-wins-military-manufacturing-license-253558/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-saudi-venture-nami-wins-military-manufacturing-license",
+          "date": "2026-08-05T11:33:34+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The National Additive Manufacturing and Innovation Company (NAMI), a Saudi Arabian joint venture between 3D Systems, Dussur, and Saudi Energy, has been granted a Military…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -424,7 +566,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "404 Client Error: Not Found for url: https://blog.3ds.com/feed/"
+      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -814,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
+          "link": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026",
+          "date": "2026-08-09T06:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zsidBQaxE89FHmkUZKjke5-1280-80.jpg",
+          "summary": "From first contact to totality and beyond, this is what will happen during each stage of the Aug. 12 total solar eclipse."
+        },
+        {
           "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
           "date": "2026-08-08T19:19:16+00:00",
@@ -835,18 +984,18 @@
           "summary": "On Episode 222 of This Week In Space, Rod Pyle and Tariq Malik are joined by space writer Rich Edwards to discuss the best ways to repel space invaders."
         },
         {
-          "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
-          "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
-          "date": "2026-08-08T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hHGYD4oNUX758H8banx3Ai-1280-80.jpg",
-          "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation…"
-        },
-        {
           "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
           "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
           "date": "2026-08-08T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ko9qET2gL6DH3zyGgQ68v4-1280-80.jpg",
           "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program."
+        },
+        {
+          "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
+          "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
+          "date": "2026-08-08T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/hHGYD4oNUX758H8banx3Ai-1280-80.jpg",
+          "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation…"
         },
         {
           "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
@@ -875,13 +1024,6 @@
           "date": "2026-08-07T20:44:20+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ECEZXk7kX6GPop2uHodk6Z-1280-80.jpg",
           "summary": "SpaceX is still towing Starship's upper stage toward shore two weeks after its latest test flight, but the unprecedented effort is unlikely to succeed, according to Elon Musk."
-        },
-        {
-          "title": "NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year",
-          "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-          "date": "2026-08-07T19:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-1280-80.jpg",
-          "summary": "NASA's Voyager 2 probe, which launched in 1977, can keep operating its last science instruments after a power reduction operation performed in interstellar space."
         }
       ],
       "ok": true,
@@ -1800,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Lae'zel actor Devora Wilde didn't know she was in Space Marine 2 until players told her",
+          "link": "https://www.pcgamer.com/games/action/laezel-actor-devora-wilde-didnt-know-she-was-in-space-marine-2-until-players-told-her/",
+          "date": "2026-08-09T06:23:27+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zkrhEeXwaA98VFrgXqBxef-1280-80.jpg",
+          "summary": "\"I was like, 'No, I'm not. What is that?'\""
+        },
+        {
           "title": "Warhammer 40,000: Battlesector has a roadmap of upcoming additions, including a new narrative DLC",
           "link": "https://www.pcgamer.com/games/strategy/warhammer-40-000-battlesector-has-a-roadmap-of-upcoming-additions-including-a-new-narrative-dlc/",
           "date": "2026-08-09T03:49:46+00:00",
@@ -1861,13 +2010,6 @@
           "date": "2026-08-08T13:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/MMFvN6vpUNVrfpPiy5jcJe-1280-80.jpg",
           "summary": "The source files are freely available for non-commercial use."
-        },
-        {
-          "title": "God of War TV series sees further recasts as Amazon seeks older actors for Atreus and Thrud",
-          "link": "https://www.pcgamer.com/movies-tv/god-of-war-tv-series-sees-further-recasts-as-amazon-seeks-older-actors-for-atreus-and-thrud/",
-          "date": "2026-08-08T12:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/7r3rwAMffvwuQZiapSxEEF-1280-80.jpg",
-          "summary": "The series will have different actors in these roles for Season 2."
         }
       ],
       "ok": true,
