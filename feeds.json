@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T11:30:30.398857+00:00",
+  "updated": "2026-08-09T12:53:16.024993+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -318,6 +318,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "After Driving Over 25 Chinese Cars, These Are The 6 I Would Buy",
+          "link": "https://insideevs.com/news/804237/top-six-chinese-cars-wanted/",
+          "date": "2026-08-09T12:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/P3JPB4/s3/zeekr-mix.jpg",
+          "summary": "These six cars represent what I think are the best of what China has to offer. I wouldn’t mind seeing them in my driveway every day."
+        },
+        {
           "title": "The Hyundai Ioniq 5 N Has A Range Problem. Smaller Wheels Helped A Lot",
           "link": "https://insideevs.com/news/804268/ioniq-5n-wheels-improve-range/",
           "date": "2026-08-09T08:56:42+00:00",
@@ -379,13 +386,6 @@
           "date": "2026-08-06T20:28:00+00:00",
           "image": "https://cdn.motor1.com/images/mgl/KbYBAA/s3/lexus-rz-upgrades.jpg",
           "summary": "Toyota is expanding a factory-backed upgrade program designed to breathe new life into aging gas and plug-in Toyota and Lexus cars."
-        },
-        {
-          "title": "BMW's Oldest Plant Has Always Made Gas Cars. Starting Next Year, It'll Only Make EVs",
-          "link": "https://insideevs.com/news/804067/bmw-i3-munich-production/",
-          "date": "2026-08-06T16:28:21+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/bgPXP3/s3/bmw-i3-munich.jpg",
-          "summary": "Now that i3 production has started at BMW's Munich plant, its days of producing gas-powered cars are numbered."
         }
       ],
       "ok": true,
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        },
+        {
+          "title": "NASA Study Points to Smoother Air Taxi Rides",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+          "date": "2026-07-13T21:46:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
+        },
+        {
+          "title": "NASA Photographer Captures Images from F-18 Over Washington",
+          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+          "date": "2026-07-10T16:36:14+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
+        },
+        {
+          "title": "A Day of Flight Testing at NASA Armstrong",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+          "date": "2026-06-30T19:27:13+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
+        },
+        {
+          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+          "date": "2026-06-29T20:38:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lrc-2026-ocio-p-01883-image-1.jpg",
+          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -885,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
+          "link": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
+          "date": "2026-08-09T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZPZLxA2GQAHfjxjgBRZmwK-1280-80.jpg",
+          "summary": "A naked-eye view of the sun's outer atmosphere is the reason eclipse chasers travel the world. Here's what it may look like on Aug. 12."
+        },
+        {
           "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
           "link": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026",
           "date": "2026-08-09T06:00:00+00:00",
@@ -946,13 +1024,6 @@
           "date": "2026-08-07T21:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/jz6jM6zDwt9yLk9HAKW7oY-1280-80.jpg",
           "summary": "SpaceX plans to build factories on the moon, using robots to do much of the heavy lifting, Elon Musk said on Tuesday (Aug. 4) during SpaceX's first-ever quarterly earnings call."
-        },
-        {
-          "title": "'Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says",
-          "date": "2026-08-07T20:44:20+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ECEZXk7kX6GPop2uHodk6Z-1280-80.jpg",
-          "summary": "SpaceX is still towing Starship's upper stage toward shore two weeks after its latest test flight, but the unprecedented effort is unlikely to succeed, according to Elon Musk."
         }
       ],
       "ok": true,
@@ -1559,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "GTA 6’s Netflix Trailer Signals That Rockstar Wants Its Halo Moment",
+          "link": "https://www.polygon.com/gta-6-netflix-patch-notes/",
+          "date": "2026-08-09T12:30:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_ptt_store_01.jpg",
+          "summary": "Rockstar started rolling out the red carpet for Grand Theft Auto 6 with an unusual Netflix partnership that signals Take Two means business."
+        },
+        {
           "title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
           "link": "https://www.polygon.com/12-new-bg3-replay-ideas/",
           "date": "2026-08-09T11:00:12+00:00",
@@ -1620,13 +1698,6 @@
           "date": "2026-08-08T19:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ambroisia-sky-skip-covered-in-fungus.jpg",
           "summary": "Ambrosia Sky tells a timely story about humanity’s response to crisis through a creative, though underdeveloped, riff on Metroid Prime."
-        },
-        {
-          "title": "Marvel Tokon's Roster Should Add These 10 Characters You Forgot About",
-          "link": "https://www.polygon.com/marvel-tokon-fighting-souls-dlc-characters-wishlist/",
-          "date": "2026-08-08T18:00:11+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/marvel-tokon-fighting-souls-phoenix-cyclops.png",
-          "summary": "Marvel Tokon Fighting Souls will add more playable characters as future DLC. Here are 10 essential heroes we want to see in the new 4v4 tag fighter."
         }
       ],
       "ok": true,
@@ -1636,6 +1707,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Peak gets its final major update and a \"new secret for you to discover\" next week",
+          "link": "https://www.eurogamer.net/peak-final-major-update",
+          "date": "2026-08-09T12:07:48+00:00",
+          "image": "https://assetsio.gnwcdn.com/ss_84436aac3675c39a9e21a14a4a9a3a8a7d9dea26.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Aggro Crab has confirmed its co-op climbing game, Peak, will get its final major update on 11th August. Read more"
+        },
         {
           "title": "Acclaimed photography puzzler sequel Toem 2 gets a release date",
           "link": "https://www.eurogamer.net/toem-2-release-date",
@@ -1698,13 +1776,6 @@
           "date": "2026-08-08T07:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/demon_school_AdobeStock_61305733.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and…"
-        },
-        {
-          "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
-          "link": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
-          "date": "2026-08-07T16:22:27+00:00",
-          "image": "https://assetsio.gnwcdn.com/strauss-zelnick-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Take-Two boss Strauss Zelnick, who heads the company Rockstar belongs to, has said he's \"not in the least\" concerned that bad press over alleged union-busting will affect the…"
         }
       ],
       "ok": true,
@@ -1715,7 +1786,7 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Kiyoshi Kurosawa’s First Samurai Epic Offers Alternative Philosophy To Odyssey‘s Doomed Voyage",
+          "title": "Kiyoshi Kurosawa’s First Samurai Epic Offers An Alternative To The Doomed Voyage In Christopher Nolan’s Odyssey",
           "link": "https://kotaku.com/kiyoshi-kurosawas-first-samurai-epic-offers-alternative-philosophy-to-odysseys-doomed-voyage-2000722718",
           "date": "2026-08-08T22:31:02+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/samuraiandprisoner.jpg",
@@ -1743,14 +1814,14 @@
           "summary": "The science and technology explainers warned audiences in the past about the entropy AI will unleash upon the web and, after being forced to remove a video on microscopic…"
         },
         {
-          "title": "Project Zomboid Fans Create Petition After Devs Revoke Access To Community Map",
+          "title": "Project Zomboid Fans Are In An Uproar After Devs Revoke Access To Community Map",
           "link": "https://kotaku.com/project-zomboid-fans-create-petition-after-devs-revoke-access-to-community-map-2000722698",
           "date": "2026-08-08T15:19:02+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/Project-Zomboid-Main-Artwork-The-Indie-Stone-1280x720.jpg",
           "summary": "The much-beloved PZmap project suddenly disappeared on August 7, prompting Project Zomboid's team to officially apologize"
         },
         {
-          "title": "Unearthed Demon’s Souls Prototype Footage Reveals FromSoftware’s Original First-Person Take On The Souls Formula",
+          "title": "Freshly Unearthed Demon’s Souls Prototype Footage Reveals FromSoftware’s Original First-Person Take On The Souls Formula",
           "link": "https://kotaku.com/demons-souls-from-software-prototype-first-person-2000722570",
           "date": "2026-08-07T22:00:07+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/Demons-Souls-prototype-video-from-Lance-McDonalds-video-1280x720.jpg",
@@ -1871,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive: 'This essentially saved my life'",
+          "link": "https://www.pcgamer.com/games/fps/cancelled-quake-4-expansion-gets-surprise-github-release-after-former-xcom-2-developer-discovers-it-on-an-old-hard-drive-this-essentially-saved-my-life/",
+          "date": "2026-08-09T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/rhXwnfonZf7c4WT6DxRdpB-1280-80.jpg",
+          "summary": "Quake 4: Awakening was in development at Ritual Entertainment before being scrapped."
+        },
+        {
           "title": "Roblox shares plummet by 70% after the company reports persistent decline in player numbers, and of course the solution involves AI",
           "link": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
           "date": "2026-08-09T11:00:00+00:00",
@@ -1932,13 +2010,6 @@
           "date": "2026-08-08T16:00:29+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/yHw9Ar3bfjxEWdYoLHKZyj-1280-80.png",
           "summary": "Creator Andy Davidson hopes it gives the game \"a new lease on life.\""
-        },
-        {
-          "title": "Stop waiting for the Game of Thrones CRPG of your dreams and settle for the pleasant eurojank compromise instead",
-          "link": "https://www.pcgamer.com/games/rpg/stop-waiting-for-the-game-of-thrones-crpg-of-your-dreams-and-settle-for-the-pleasant-eurojank-compromise-instead/",
-          "date": "2026-08-08T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/CMk7GRPmrjXRCeKdaSr9jB-1280-80.jpg",
-          "summary": "It's rough, dated and still probably one of the better GoT games."
         }
       ],
       "ok": true,
@@ -2339,6 +2410,34 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "15 NASA missions that redefined science, engineering, and exploration",
+          "link": "https://interestingengineering.com/space/nasa-missions-that-changed-history",
+          "date": "2026-08-09T12:47:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Top-most-iconic-nasa-missions.jpg",
+          "summary": "Few institutions have shaped humanity&#8217;s understanding of space quite like NASA. Since its founding in..."
+        },
+        {
+          "title": "10 futuristic VTOL aircraft transforming urban mobility, combat & cargo operations",
+          "link": "https://interestingengineering.com/innovation/10-futuristic-vtol-aircraft-transforming-urban-mobility-combat-cargo-operations",
+          "date": "2026-08-09T12:40:24+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Joby-Aviation.jpg?w=150&h=150&crop=1",
+          "summary": "Helicopters are no longer the only aircraft capable of taking off vertically. Electric motors, autonomous..."
+        },
+        {
+          "title": "China’s 80-hectare facility aims to make long-duration energy storage batteries",
+          "link": "https://interestingengineering.com/energy/chinas-80-hectare-facility-aims-to-make-long-duration-energy-storage-batteries",
+          "date": "2026-08-09T12:40:03+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design281.jpg",
+          "summary": "A new industrial complex in China&#8217;s Shandong province is beginning production rollout with a specific..."
+        },
+        {
+          "title": "US lab to hunt most elusive ‘ghost particles’ deep underground with automated triggers",
+          "link": "https://interestingengineering.com/ai-robotics/dune-to-detect-neutrinos",
+          "date": "2026-08-09T12:31:50+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/DUNE-and-AI.jpg",
+          "summary": "One of the world’s most ambitious neutrino experiments, the Deep Underground Neutrino Experiment (DUNE), is..."
+        },
+        {
           "title": "Scientists watch electrons assemble and reassemble to help decode complex quantum phenomena",
           "link": "https://interestingengineering.com/science/scientists-watch-electrons-assemble-and-reassemble",
           "date": "2026-08-09T08:05:20+00:00",
@@ -2379,34 +2478,6 @@
           "date": "2026-08-08T16:04:24+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/titanium-dioxide-turns-ferroelectric.jpg",
           "summary": "What happens when an ordinary material is pushed down to atomic-scale thickness? A team of..."
-        },
-        {
-          "title": "New energy platform assists data centers run off-grid and capture 90% of carbon",
-          "link": "https://interestingengineering.com/energy/plato5x-ai-data-center",
-          "date": "2026-08-08T15:37:39+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design278.jpg",
-          "summary": "As artificial intelligence fuels an unprecedented boom in data center construction, operators are facing three..."
-        },
-        {
-          "title": "Railgun: The naval weapon that’s yet to arrive",
-          "link": "https://interestingengineering.com/military/railguns-the-future-naval-weapon-thats-yet-to-arrive",
-          "date": "2026-08-08T15:14:45+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design277.jpg",
-          "summary": "For much of the 2000s and 2010s, electromagnetic railguns were touted as the future of..."
-        },
-        {
-          "title": "Long-range drones to deliver aerial intelligence on US critical infrastructure",
-          "link": "https://interestingengineering.com/innovation/long-range-drones-to-deliver-aerial-intelligence-on-us-critical-infrastructure",
-          "date": "2026-08-08T14:57:36+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design279.jpg",
-          "summary": "SwissDrones Operating AG and its subsidiary Xplorate Pacific are expanding their integrated long-range drone inspection..."
-        },
-        {
-          "title": "How a 1990s thrust-vectoring technology is helping X-BAT drone to take off vertically",
-          "link": "https://interestingengineering.com/military/shield-ai-x-bat-aven",
-          "date": "2026-08-08T14:19:49+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-X-Bat-Vertical-takeoff-.jpg?w=150&h=150&crop=1",
-          "summary": "A piece of aerospace hardware developed and flight-tested more than three decades ago is being..."
         }
       ],
       "ok": true,
@@ -2587,6 +2658,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "date": "2026-08-09T11:00:14+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1-500x500.jpeg",
+          "summary": "The massive Toba eruption seems to have had little climate impact."
+        },
+        {
           "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
           "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
           "date": "2026-08-08T11:30:48+00:00",
@@ -2648,13 +2726,6 @@
           "date": "2026-08-07T17:36:22+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg",
           "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff."
-        },
-        {
-          "title": "How snails engineer their slime",
-          "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
-          "date": "2026-08-07T17:25:20+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-500x500-1785959902.jpg",
-          "summary": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus."
         }
       ],
       "ok": true,
