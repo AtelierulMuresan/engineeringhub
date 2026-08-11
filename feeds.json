@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T11:44:37.941398+00:00",
+  "updated": "2026-08-11T13:08:19.359863+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Auto thefts continue downward trend across Canada, new report shows",
+          "link": "https://www.autonews.com/retail/anc-canadian-auto-theft-down-cp-0811/",
+          "date": "2026-08-11T12:30:52+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/rRgwPWL6bPz6C96hnammCXC2dpE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/IWYQHXD7SBHLZJ5PQH6YPX6RPA.jpg",
+          "summary": "The report, released Aug. 11, said auto theft in Canada is trending toward “pre-crisis levels” before 2021, when the number of auto thefts shot up."
+        },
+        {
           "title": "Home of the towed: Lenders and lienholders flout federal law, take service member vehicles and pay the price",
           "link": "https://www.autonews.com/regulation-safety/an-scra-violations-repo-tow-0811/",
           "date": "2026-08-11T11:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-10T19:01:08+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/SsKPxQl9xTNI1Ph-ruKu24u70gI=/0x800/d3qtc8km8dvw1x.cloudfront.net/08-10-2026/t_c01c345aa85e43cabf9174805a06c74a_name_081126___ITDS___Hamlin_and_Associates___V1___Captions___SS.png",
           "summary": "Host Emma Hancock sits down with John Hamlin, Founder and CEO of Hamlin & Associates"
-        },
-        {
-          "title": "Daily 5 report for Aug. 10: EV battery fires: What firefighters actually face",
-          "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-battery-fire-research-fsri-0810/",
-          "date": "2026-08-10T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/OJVoAa0C25DB1Td9lj88ge7a1bU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/66ECDHRVHFESDKSEJPL7CAW5T4.jpg",
-          "summary": "A UL fire safety researcher explains why EV battery fires need water, not special tools, and where fire blankets can backfire."
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "MIT’s ShiftLens 3D Prints Objects That Change Their Appearance When You Use Them, Without Electronics",
-          "link": "https://3dprintingindustry.com/news/mits-shiftlens-3d-prints-objects-that-change-their-appearance-when-you-use-them-without-electronics-253675/?utm_source=rss&utm_medium=rss&utm_campaign=mits-shiftlens-3d-prints-objects-that-change-their-appearance-when-you-use-them-without-electronics",
-          "date": "2026-08-11T08:54:19+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers at MIT have developed a design and fabrication system that produces 3D printed objects capable of switching their surface appearance in response to being pressed,…"
-        },
-        {
-          "title": "Jean Paul Gaultier turns to MJF for five haute couture looks printed in TPU and PA12",
-          "link": "https://3dprintingindustry.com/news/jean-paul-gaultier-turns-to-mjf-for-five-haute-couture-looks-printed-in-tpu-and-pa12-253701/?utm_source=rss&utm_medium=rss&utm_campaign=jean-paul-gaultier-turns-to-mjf-for-five-haute-couture-looks-printed-in-tpu-and-pa12",
-          "date": "2026-08-11T08:53:38+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Online 3D printing service Sculpteo has produced 3D printed components for five haute couture looks for Jean Paul Gaultier, printing in TPU and PA12 on HP Multi Jet Fusion and…"
-        },
-        {
-          "title": "SLICED: Latest News from the 3D Printing Industry",
-          "link": "https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-20-253612/?utm_source=rss&utm_medium=rss&utm_campaign=sliced-latest-news-from-the-3d-printing-industry-20",
-          "date": "2026-08-11T08:52:07+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "In this edition of SLICED, the 3D Printing Industry news digest, we track how additive manufacturing is advancing through European partnerships, distribution expansion, defense…"
-        },
-        {
-          "title": "Sinto Advanced Ceramics Europe certified to ISO 9001:2015 with no non-conformities",
-          "link": "https://3dprintingindustry.com/news/sinto-advanced-ceramics-europe-certified-to-iso-90012015-with-no-non-conformities-253698/?utm_source=rss&utm_medium=rss&utm_campaign=sinto-advanced-ceramics-europe-certified-to-iso-90012015-with-no-non-conformities",
-          "date": "2026-08-11T08:38:29+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Sinto Advanced Ceramics Europe GmbH has been certified to ISO 9001:2015 following an audit by TÜV SÜD in which no non-conformities were identified. The certificate, No. G951 26…"
-        },
-        {
-          "title": "Phase3D and Rowan University Partner on Real-Time Inspection for Metal AM",
-          "link": "https://3dprintingindustry.com/news/phase3d-and-rowan-university-partner-on-real-time-inspection-for-metal-am-253722/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-and-rowan-university-partner-on-real-time-inspection-for-metal-am",
-          "date": "2026-08-11T08:36:27+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Chicago-based 3D printing quality assurance software developer Phase3D and Rowan University&#8216;s Digital Engineering Hub (DEHub) have announced a partnership focused on…"
-        },
-        {
-          "title": "Matthäi opens a construction 3D printing division",
-          "link": "https://3dprintingindustry.com/news/matthai-opens-a-construction-3d-printing-division-253705/?utm_source=rss&utm_medium=rss&utm_campaign=matthai-opens-a-construction-3d-printing-division",
-          "date": "2026-08-11T08:34:11+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Construction group Matthäi Schlüsselfertigbau has established an in-house construction 3D printing division following the completion of its own headquarters in Selsingen, Lower…"
-        },
-        {
-          "title": "Artec 3D Launches Point II: Updated Metrology Laser Scanner",
-          "link": "https://3dprintingindustry.com/news/artec-3d-launches-point-ii-updated-metrology-laser-scanner-253711/?utm_source=rss&utm_medium=rss&utm_campaign=artec-3d-launches-point-ii-updated-metrology-laser-scanner",
-          "date": "2026-08-11T08:33:37+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Artec 3D, a 3D scanning hardware and software company, has released the Artec Point II, the second generation of its handheld, target-based laser scanner for industrial metrology,…"
-        },
-        {
-          "title": "Hydrogen’s Metal Compatibility Challenge Draws New Industry Research",
-          "link": "https://3dprintingindustry.com/news/hydrogens-metal-compatibility-challenge-draws-new-industry-research-253669/?utm_source=rss&utm_medium=rss&utm_campaign=hydrogens-metal-compatibility-challenge-draws-new-industry-research",
-          "date": "2026-08-10T10:42:09+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Industrial 3D printing firm EOS has joined MAT-H2, a consortium of ten organizations working to advance metallic materials and technologies that can withstand hydrogen…"
-        },
-        {
-          "title": "Inside Hyundai Motor Group’s Additive Manufacturing Solution Center",
-          "link": "https://3dprintingindustry.com/news/inside-hyundai-motor-groups-additive-manufacturing-solution-center-253683/?utm_source=rss&utm_medium=rss&utm_campaign=inside-hyundai-motor-groups-additive-manufacturing-solution-center",
-          "date": "2026-08-10T10:39:51+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/gallery-0731-02-150x100.avif",
-          "summary": "South Korean motor vehicle manufacturing companies Hyundai Motor and Kia have given a detailed look inside the Additive Manufacturing Solution Center (AMSC), a facility at their…"
-        },
-        {
-          "title": "Eplus3D supports UCL Rocket in first cryogenic LOX/IPA engine hot-fire test",
-          "link": "https://3dprintingindustry.com/news/eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test-253690/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test",
-          "date": "2026-08-10T10:36:08+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "UCL Rocket (UCLR), a student-led rocketry team at University College London, has completed its first successful hot-fire test of a cryogenic regeneratively cooled rocket engine.…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -956,6 +885,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
+          "date": "2026-08-11T13:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Y2b9XP3PZ2w8rCDW9psmjS-1280-80.jpg",
+          "summary": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites."
+        },
+        {
+          "title": "Will Perseid shooting stars be visible during the Aug. 12 total solar eclipse?",
+          "link": "https://www.space.com/stargazing/meteor-showers/will-perseid-shooting-stars-be-visible-during-the-aug-12-total-solar-eclipse",
+          "date": "2026-08-11T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/oSVYYFpnats6uQgFRDvz6Y-1280-80.jpg",
+          "summary": "\"If anyone does see one, they had better go play the lottery asap!\""
+        },
+        {
           "title": "Watch the total solar eclipse online Aug. 12 with these free livestreams",
           "link": "https://www.space.com/stargazing/solar-eclipses/watch-the-total-solar-eclipse-online-aug-12-with-these-free-livestreams",
           "date": "2026-08-11T06:00:00+00:00",
@@ -998,13 +941,6 @@
           "summary": "Easy to use and with an excellent build quality, the ZWO ASI174MM is a fast, monochrome USB 3.0 camera that’s perfect for solar and lunar imaging."
         },
         {
-          "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026",
-          "date": "2026-08-10T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/KNyXQdo3ZV9sEfDd3pyyYR-1280-80.jpg",
-          "summary": "On Aug. 10, 1972, an Earth-grazing fireball burst through the sky over North America. Here's what happened."
-        },
-        {
           "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
           "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026",
           "date": "2026-08-10T14:00:00+00:00",
@@ -1012,18 +948,11 @@
           "summary": "An international team of researchers using the U.S. National Science Foundation's Inouye Solar Telescope has captured the highest-resolution view of the sun's surface."
         },
         {
-          "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
-          "date": "2026-08-10T13:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/SQnWGhTgaaQuo95QhkKZRb-1280-80.jpg",
-          "summary": "Japan's H3 rocket sent the Michibiki 7 navigation satellite aloft this afternoon (Aug. 10), on the ninth-ever mission for the launch vehicle."
-        },
-        {
-          "title": "Pluto's atmosphere is collapsing as it drifts away from the sun into a deep freeze",
-          "link": "https://www.space.com/astronomy/pluto/plutos-atmosphere-is-collapsing-as-it-drifts-away-from-the-sun-into-a-deep-freeze",
-          "date": "2026-08-10T12:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/VwhvEmvsMBVe2VWnA8XSc9-1280-80.jpg",
-          "summary": "As Pluto edges further away from the sun, the chilly temperatures are causing its atmosphere to condense onto its barren surface as frost."
+          "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026",
+          "date": "2026-08-10T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/KNyXQdo3ZV9sEfDd3pyyYR-1280-80.jpg",
+          "summary": "On Aug. 10, 1972, an Earth-grazing fireball burst through the sky over North America. Here's what happened."
         }
       ],
       "ok": true,
@@ -1033,6 +962,20 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "Former Space Force general joins Lunar Outpost board",
+          "link": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/",
+          "date": "2026-08-11T13:00:00+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/johnshaw.jpeg?fit=1024%2C708&amp;ssl=1",
+          "summary": "A retired Space Force general who served as deputy commander of U.S. Space Command is joining the board of lunar rover developer Lunar Outpost. The post Former Space Force general…"
+        },
+        {
+          "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+          "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
+          "date": "2026-08-11T12:02:48+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/golden-dome-1-1.jpg?fit=1024%2C794&amp;ssl=1",
+          "summary": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of…"
+        },
         {
           "title": "First Neutron launch may slip to 2027",
           "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
@@ -1088,20 +1031,6 @@
           "date": "2026-08-10T12:17:07+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rfaone-saxavord.jpeg?fit=1024%2C682&amp;ssl=1",
           "summary": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing. The post Tank…"
-        },
-        {
-          "title": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-          "link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
-          "date": "2026-08-10T12:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Photo-by-ATMOS-Space-Cargo.png?fit=1024%2C512&amp;ssl=1",
-          "summary": "WARSAW, Poland — The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical…"
-        },
-        {
-          "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
-          "link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
-          "date": "2026-08-10T00:55:19+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&amp;ssl=1",
-          "summary": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems. The post Katalyst…"
         }
       ],
       "ok": true,
@@ -1119,7 +1048,7 @@
           "summary": "The announcement came in a filing to the U.S. Securities and Exchange Commission ahead of a quarterly investor earnings call on Aug. 10."
         },
         {
-          "title": "SpaceX scrubs planned Monday launch of its Falcon 9 rocket; targets Tuesday morning",
+          "title": "Live coverage: SpaceX attempts Tuesday morning Starlink launch following Monday scrub",
           "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
           "date": "2026-08-10T13:40:12+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
@@ -1389,6 +1318,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Transit-based exoplanet survey finds its first microlensing exoplanet",
+          "link": "https://physicsworld.com/a/transit-based-exoplanet-survey-finds-its-first-microlensing-exoplanet/",
+          "date": "2026-08-11T13:00:30+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Additional planetary signals may be hidden in TESS data, say astronomers The post Transit-based exoplanet survey finds its first microlensing exoplanet appeared first on Physics…"
+        },
+        {
           "title": "Thermal imaging technique helps overcome a major problem for gravitational-wave astronomy",
           "link": "https://physicsworld.com/a/thermal-imaging-technique-helps-overcome-a-major-problem-for-gravitational-wave-astronomy/",
           "date": "2026-08-11T08:00:10+00:00",
@@ -1450,13 +1386,6 @@
           "date": "2026-08-06T12:00:17+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
           "summary": "Can you work out the word in this puzzle? The post Word wave puzzle no.7 appeared first on Physics World ."
-        },
-        {
-          "title": "Astronomers capture highest-resolution image ever of the Sun’s surface",
-          "link": "https://physicsworld.com/a/astronomers-capture-highest-resolution-image-ever-of-the-suns-surface/",
-          "date": "2026-08-06T10:50:45+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Picture reveals tiny plasma whirlpool-like patterns that have never been seen before The post Astronomers capture highest-resolution image ever of the Sun&#8217;s surface appeared…"
         }
       ],
       "ok": true,
@@ -1466,6 +1395,13 @@
       "name": "Phys.org Space",
       "cat": "space",
       "items": [
+        {
+          "title": "A smarter way to track satellites beyond Earth's orbit",
+          "link": "https://phys.org/news/2026-08-smarter-track-satellites-earth-orbit.html",
+          "date": "2026-08-11T13:00:05+00:00",
+          "image": null,
+          "summary": "Most current space activities operate close to Earth in what is called near–Earth orbit. However, as more satellites and other infrastructure begin to extend beyond that region,…"
+        },
         {
           "title": "Rocket debris crashed into the moon—why this could threaten future lunar bases",
           "link": "https://phys.org/news/2026-08-rocket-debris-moon-threaten-future.html",
@@ -1528,13 +1464,6 @@
           "date": "2026-08-09T10:40:01+00:00",
           "image": null,
           "summary": "What shape is an asteroid? For (44) Nysa, the honest answer until now has been that nobody knew. It is one of the brightest and largest E-type asteroids in the main belt, a class…"
-        },
-        {
-          "title": "Reduced gravity pushes people toward simpler movement patterns, experiments suggest",
-          "link": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
-          "date": "2026-08-08T13:20:01+00:00",
-          "image": null,
-          "summary": "From reaching for a cup of coffee to tying your shoelaces, gravity shapes nearly all human movement. So how do our bodies react when that familiar force begins to change? Texas…"
         }
       ],
       "ok": true,
@@ -1551,6 +1480,13 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
+          "link": "https://www.gamespot.com/articles/gta-6-could-have-had-an-even-higher-price-as-100-edition-proves-popular/",
+          "date": "2026-08-11T12:23:57+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-8.08.31-AM-1.png?w=300",
+          "summary": "Take-Two boss Strauss Zelnick has acknowledged that the company could have charged more for Grand Theft Auto 6 , but it declined to do so to ensure pricing felt fair. He also…"
+        },
         {
           "title": "Indie Games Are Breaking Out–But It’s Still Tough Out There",
           "link": "https://www.gamespot.com/articles/indie-games-are-breaking-out-but-its-still-tough-out-there/",
@@ -1613,13 +1549,6 @@
           "date": "2026-08-10T14:56:21+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Lucia_Caminos_06-1.jpg?w=300",
           "summary": "For big games like GTA 6 , discs \"don't really make sense for the consumer,\" but it's something Take-Two would hasn't totally ruled out for the upcoming game, the company's CEO…"
-        },
-        {
-          "title": "Ryan Hurst Shows Off How Shredded He Got For God Of War, Before Misfortune Struck",
-          "link": "https://www.gamespot.com/articles/ryan-hurst-shows-off-how-shredded-he-got-for-god-of-war-before-misfortune/",
-          "date": "2026-08-10T13:56:43+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Hurst-GoW.jpg?w=300",
-          "summary": "Anyone looking to portray Sony's beefiest protagonist, Kratos, in a live-action God of War series would need to be suitably jacked for the role, and actor Ryan Hurst certainly…"
         }
       ],
       "ok": true,
@@ -1629,6 +1558,34 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "'Reacher' Season 4 review: Prime Video Puts Alan Ritchson in Mission: Impossible mode",
+          "link": "https://www.polygon.com/reacher-season-4-review/",
+          "date": "2026-08-11T13:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/reachers42.jpg",
+          "summary": "Jack Reacher has spent three seasons standing his ground. Now he’s finally on the run."
+        },
+        {
+          "title": "Xbox Outage Bug Has Been Fixed, Microsoft Says",
+          "link": "https://www.polygon.com/xbox-outage-cant-play-games-bug-fixed/",
+          "date": "2026-08-11T12:11:26+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23179057/jbareham_220118_ecl1087_stock_xbox.jpg",
+          "summary": "Xbox chief technology officer Scott Van Vliet has laid out Microsoft's response to the licensing problem that left players unable to play their games"
+        },
+        {
+          "title": "MTG’s 15 Best Goblin Commanders, Ranked From Worst to Best",
+          "link": "https://www.polygon.com/best-goblin-commanders-mtg-magic-the-gathering/",
+          "date": "2026-08-11T12:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/krenko-mtg.jpg",
+          "summary": "From the Mob Boss himself to the mines of Moria's own Azog, Magic: The Gathering is home to stellar Goblin staples that are both beloved and feared."
+        },
+        {
+          "title": "2021 Game of the Year Could Be Coming to Nintendo Switch 2",
+          "link": "https://www.polygon.com/it-takes-two-coming-to-nintendo-switch-2/",
+          "date": "2026-08-11T11:52:48+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/it-takes-two.jpg",
+          "summary": "Rumors indicate that Hazelight Studios' It Takes Two will get a Nintendo Switch 2 version this October."
+        },
         {
           "title": "Why Wo Long’s Zhang Liang is so good at killing you",
           "link": "https://www.polygon.com/video/why-wo-long-s-zhang-liang-is-so-good-at-killing-you/",
@@ -1670,34 +1627,6 @@
           "date": "2026-08-11T11:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/buffy-the-vampire-slayer-sarah-michelle-gellar.jpg",
           "summary": "Buffy the Vampire Slayer is filled with amazing quotes, but there's one her fans still talk about 30 years later."
-        },
-        {
-          "title": "Why Armored Core 6's Balteus is so good at killing you",
-          "link": "https://www.polygon.com/video/why-armored-core-6-s-balteus-is-so-good-at-killing-you/",
-          "date": "2026-08-11T10:43:54+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/why-armored-core-6-s-balteus-is-so-good-at-killing-you-thumbnail.jpeg",
-          "summary": "Armored Core 6's first gatekeeping boss, Balteus, was the scourge of players when the game first came out. Guides to beating Balteus immediately started popping up on YouTube —…"
-        },
-        {
-          "title": "Halloween: The Game Won’t Be Sold in Australia, and Weed May Be the Reason Why",
-          "link": "https://www.polygon.com/halloween-the-game-wont-be-playable-in-australia-and-new-zealand/",
-          "date": "2026-08-11T10:27:30+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/michael-myers-2.jpg",
-          "summary": "Halloween: The Game won't be sold in Australia and New Zealand due to how it depicts controlled substances."
-        },
-        {
-          "title": "The Best Classic JRPGs You Can Still Easily Play Today",
-          "link": "https://www.polygon.com/classic-jrpgs-no-remake/",
-          "date": "2026-08-11T10:00:11+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/suikoden-2.png",
-          "summary": "These games may have been ported to newer platforms or lightly remastered, but they look and play nearly identical to when they were first released"
-        },
-        {
-          "title": "Upcoming RPG Promises Neverwinter Nights Vibes With a Steampunk Touch",
-          "link": "https://www.polygon.com/covenant-of-gears-three-musketeers-classic-rpg/",
-          "date": "2026-08-11T09:57:54+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/covenant-of-gears-poster-detail.jpg",
-          "summary": "Covenant of Gears: The Three Musketeers is an upcoming RPG with real-time combat with tactical pause and a full campaign editor."
         }
       ],
       "ok": true,
@@ -1786,6 +1715,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Super Mario Bros. Speedrunners Are 0.1 Seconds Away From Perfection",
+          "link": "https://kotaku.com/super-mario-bros-speedrunners-lekukie-kosmic-perfect-run-2000723375",
+          "date": "2026-08-11T13:00:26+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/mariobros.jpg",
+          "summary": "Just six frames stand between these savants and the perfect Mario run"
+        },
+        {
+          "title": "Star Wars: Knights Of The Old Republic Nearly Contained A Swear Word That Would Curl Your Toes",
+          "link": "https://kotaku.com/star-wars-knights-of-the-old-republic-damn-lucasfilm-bioware-2000723372",
+          "date": "2026-08-11T12:30:27+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/kotordamn.jpg",
+          "summary": "Prepare to sit back and say 'damn' when you learn what Lucasfilm saved us from hearing"
+        },
+        {
+          "title": "18 Of The Very Finest Cosplay Kits From San Diego Comic Con 2026",
+          "link": "https://kotaku.com/cosplay-gallery-san-diego-comic-con-lara-croft-trogdor-2000723079",
+          "date": "2026-08-11T12:00:06+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/sdcc-main2-1280x720.jpeg",
+          "summary": "Featuring fits from Marvel Rivals , The Last of Us and Nightreign"
+        },
+        {
           "title": "13 Fields of Mistria Tips For First-Time Farmers",
           "link": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
           "date": "2026-08-10T22:45:34+00:00",
@@ -1833,27 +1783,6 @@
           "date": "2026-08-10T18:00:49+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/resident-Evil-warped-week-1280x720.jpg",
           "summary": "And you know what, I'm OK with that"
-        },
-        {
-          "title": "Sly Cooper Might Be The Future Of 3D Platformers, A Genre That Will Thrive Forever",
-          "link": "https://kotaku.com/sly-cooper-thievius-racoonus-ps2-review-sucker-punch-5-2000720931",
-          "date": "2026-08-10T18:00:31+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/slywarpweek-1280x720.jpg",
-          "summary": "Up and coming studio Sucker Punch has entered the ring as a PlayStation platformer mainstay"
-        },
-        {
-          "title": "I Can’t Believe They’re Already Making A Sequel To Golden Sun, The Best Game Boy Advance RPG",
-          "link": "https://kotaku.com/golden-sun-the-lost-age-sequel-warp-week-2000723015",
-          "date": "2026-08-10T18:00:27+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/golden-sun-warp-week.jpg",
-          "summary": "Part 2 of Camelot's epic GBA RPG is coming sooner than we thought"
-        },
-        {
-          "title": "The Internet Reacts To The Release Of Star Wars: Attack Of The Clones: ‘CG Yoda is brilliant’",
-          "link": "https://kotaku.com/the-internet-reacts-to-the-release-of-star-wars-attack-of-the-clones-cg-yoda-is-brilliant-2000722268",
-          "date": "2026-08-10T18:00:25+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/WarpWeek-Sw-aotc-1280x720.jpg",
-          "summary": "The latest entry in George Lucas' epic sci-fi saga is now in theaters nationwide"
         }
       ],
       "ok": true,
@@ -1942,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Star Wars: Galactic Racer's singleplayer is a clever roguelike gauntlet I could easily sink hours into",
+          "link": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-singleplayer-is-a-clever-roguelike-gauntlet-i-could-easily-sink-hours-into/",
+          "date": "2026-08-11T13:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/HfxSz5i6obkan2vjZwbByU-1280-80.png",
+          "summary": "Descenders, is that you, my beloved?"
+        },
+        {
+          "title": "As if PCs weren't expensive enough already, Microsoft is reportedly now charging OEMs more for Windows licenses",
+          "link": "https://www.pcgamer.com/software/windows/as-if-pcs-werent-expensive-enough-already-microsoft-is-reportedly-now-charging-oems-more-for-windows-licenses/",
+          "date": "2026-08-11T12:12:17+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZuVmAQpQa5rWTbzWUpkJEM-1280-80.jpg",
+          "summary": "Supposedly, it's a \"significant increase.\""
+        },
+        {
           "title": "Firefox stunts on Edge as Microsoft gears up to neuter adblockers: 'uBlock Origin isn't going anywhere'",
           "link": "https://www.pcgamer.com/software/browsers/firefox-stunts-on-edge-as-microsoft-gears-up-to-neuter-adblockers-ublock-origin-isnt-going-anywhere/",
           "date": "2026-08-11T10:58:52+00:00",
@@ -1996,20 +1939,6 @@
           "date": "2026-08-10T21:11:44+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/E4dGHB9UnPMb5hYjio65Tm-1280-80.jpg",
           "summary": "Whether that's a TV or movie screen isn't clear at this point, but I'm pretty sure it's one or the other."
-        },
-        {
-          "title": "Grand Theft Auto 5 averages more copies sold per year than most megahits manage in their entire lifetime, with a total of 230 million since 2013",
-          "link": "https://www.pcgamer.com/gaming-industry/grand-theft-auto-5-averages-more-copies-sold-per-year-than-most-megahits-manage-in-their-entire-lifetime-with-a-total-of-230-million-since-2013/",
-          "date": "2026-08-10T20:31:05+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/kqEfCHaVBfRNsFBv3dRgfk-1280-80.jpg",
-          "summary": "The people yearn for Los Santos."
-        },
-        {
-          "title": "Battlefield 6 player claims to have received Steam refund after 470 hours due to surprise mode removal",
-          "link": "https://www.pcgamer.com/games/fps/battlefield-6-player-claims-to-have-received-steam-refund-after-470-hours-due-to-surprise-mode-removal/",
-          "date": "2026-08-10T20:16:13+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/CcypEd2QXJLbEtKf48DEhA-1280-80.jpg",
-          "summary": ""
         }
       ],
       "ok": true,
@@ -2176,6 +2105,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Supermassive Games announces layoffs, up to 75 workers may be affected",
+          "link": "https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected",
+          "date": "2026-08-11T13:05:23+00:00",
+          "image": "https://assetsio.gnwcdn.com/directive-8020_9wViY6J.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Supermassive Games has announced a third round of layoffs in three years, potentially impacting up to 75 positions. Read more"
+        },
+        {
+          "title": "Reforj developer 4J Studios unveils Rixels: modified pixels that reduce texture memory requirements by 98%",
+          "link": "https://www.gamesindustry.biz/reforj-developer-4j-studios-unveils-rixels-modified-pixels-that-reduce-texture-memory-requirements-by-98",
+          "date": "2026-08-11T12:26:32+00:00",
+          "image": "https://assetsio.gnwcdn.com/Rixel-Mining-Screenshot.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Reforj developer 4J Studios has debuted a technology called Rixels that offer an alternative way to provide textures using a fraction of the memory requirements. The Dundee-based…"
+        },
+        {
           "title": "Remedy reports revenue declines in Q2 and H1 as it prepares for Control Resonant launch",
           "link": "https://www.gamesindustry.biz/remedy-reports-revenue-declines-in-q2-and-h1-as-it-prepares-for-control-resonant-launch",
           "date": "2026-08-11T11:08:45+00:00",
@@ -2230,20 +2173,6 @@
           "date": "2026-08-10T15:19:18+00:00",
           "image": "https://assetsio.gnwcdn.com/vampire-crawlers_16_9.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Andreas Firnigl started his career as a tester on Big Mutha Truckers, way back on Gamecube. He founded Nosebleed Interactive almost 15 years ago as CEO and creative director. Read…"
-        },
-        {
-          "title": "Xbox to implement age verification in Australia on console and PC in late August",
-          "link": "https://www.gamesindustry.biz/xbox-to-implement-age-verification-in-australia-on-console-and-pc-in-late-august",
-          "date": "2026-08-10T13:50:22+00:00",
-          "image": "https://assetsio.gnwcdn.com/xbox-controller-aronpw-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Xbox will begin rolling out age verification for users in Australia later this month. Read more"
-        },
-        {
-          "title": "Former Ubisoft Barcelona workers launch Dark Ritual Studios, an indie developer focused on \"craftsmanship over scale\"",
-          "link": "https://www.gamesindustry.biz/former-ubisoft-barcelona-workers-launch-dark-ritual-studios-an-indie-developer-focused-on-craftsmanship-over-scale",
-          "date": "2026-08-10T12:39:11+00:00",
-          "image": "https://assetsio.gnwcdn.com/dark-ritual-puzzle-mage.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "After launching Assassin's Creed Black Flag Resynced in June, Ubisoft eliminated 51 positions at its Barcelona studio . Now, a group of former employees, led by Myles Kerwin, has…"
         }
       ],
       "ok": true,
@@ -2410,6 +2339,48 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Rocket Lab’s GHOST to enable rocket launches to take place from anywhere on Earth",
+          "link": "https://interestingengineering.com/space/ghost-portable-rocket-launch-system",
+          "date": "2026-08-11T13:08:10+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/ua7swxtgcsg.jpg",
+          "summary": "Looks like an entire orbital launchpad could be hitched to a semi-truck and driven anywhere..."
+        },
+        {
+          "title": "This 3D-printable robot clips onto your guitar and plays it like a human",
+          "link": "https://interestingengineering.com/ai-robotics/megcell-pulse-3d-printable-guitar-robot",
+          "date": "2026-08-11T13:05:21+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/robot-guitar.jpg",
+          "summary": "A New Zealand engineer who goes by Bruce online has built a 3D-printable robotic system...."
+        },
+        {
+          "title": "Lockheed’s new defense hub to take missile sensors from sketch to test in months",
+          "link": "https://interestingengineering.com/military/us-lockheed-missiles-defense-missions",
+          "date": "2026-08-11T13:01:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/missile-fired-by-a-launcher.jpg",
+          "summary": "Lockheed Martin has launched a new family of modular radio-frequency sensors, missile datalinks, and seeker..."
+        },
+        {
+          "title": "Agility’s Digit V5 robot targets 20-hour workdays without safety fences in factories",
+          "link": "https://interestingengineering.com/ai-robotics/digit-v5-humanoid-robot",
+          "date": "2026-08-11T12:57:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-18.jpg",
+          "summary": "US-based Agility Robotics is preparing to launch its Digit V5 humanoid robot, with the company..."
+        },
+        {
+          "title": "Video: Chinese robot dog tracks Tibetan antelopes at 15,420 feet in harsh terrain",
+          "link": "https://interestingengineering.com/ai-robotics/chinese-robot-dog-tracks-tibetan-antelopes",
+          "date": "2026-08-11T12:46:02+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/zbvm-s87sye_f1ceb1.jpg",
+          "summary": "DEEP Robotics&#8217; intelligent robots are helping researchers observe Tibetan antelopes in the high-altitude Serling Tso..."
+        },
+        {
+          "title": "Astronomers just released a map of universe so big it contains 4 billion objects",
+          "link": "https://interestingengineering.com/space/desi-legacy-imaging-2d-map-universe",
+          "date": "2026-08-11T11:53:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Universe_2D-map.jpg",
+          "summary": "Astronomers have released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel image contains..."
+        },
+        {
           "title": "0 to 497 mph in 5.3 secs: China’s maglev model makes record with frictionless travel",
           "link": "https://interestingengineering.com/transportation/china-maglev-speed-record",
           "date": "2026-08-11T10:37:22+00:00",
@@ -2436,48 +2407,6 @@
           "date": "2026-08-11T00:13:47+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T041535.936.jpg",
           "summary": "Raytheon and Composite Energy Technologies (CET) have demonstrated a new underwater launch capability for the..."
-        },
-        {
-          "title": "Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules",
-          "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-text-invisible-watermarks",
-          "date": "2026-08-10T23:48:45+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T051104.705.jpg",
-          "summary": "Anthropic will add machine-readable watermarks to text generated by new Claude models starting August 2,..."
-        },
-        {
-          "title": "NASA tests new insulation to make large-scale liquid hydrogen storage cheaper",
-          "link": "https://interestingengineering.com/energy/cb-i-nasa-liquid-hydrogen-storage-insulation-test",
-          "date": "2026-08-10T23:00:27+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/CBI.jpg",
-          "summary": "Energy infrastructure giant CB&amp;I has completed the first fill of a liquid hydrogen storage tank..."
-        },
-        {
-          "title": "Raytheon secures $745M US deal to expand SM-3 IIA ballistic missile interceptors",
-          "link": "https://interestingengineering.com/military/raytheon-sm-3-iia-interceptors-contract",
-          "date": "2026-08-10T22:06:05+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T030550.423.jpg",
-          "summary": "Raytheon has secured a $745 million U.S. defense contract to build and sustain SM-3 Block..."
-        },
-        {
-          "title": "Humanoid robots trained on 1M hours of human video achieve up to 90% task success",
-          "link": "https://interestingengineering.com/ai-robotics/dyna-robotics-dyna-2-human-video-robot-training",
-          "date": "2026-08-10T21:53:43+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T031645.206.jpg",
-          "summary": "Dyna Robotics has unveiled a new robot foundation model trained on more than 1 million..."
-        },
-        {
-          "title": "NASA funds orbital hangar to make commercial space sample returns cheaper, faster",
-          "link": "https://interestingengineering.com/space/nasa-gravitics-orbital-hangar-space-sample-return",
-          "date": "2026-08-10T20:08:43+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Gravitics.jpg",
-          "summary": "Orbital infrastructure company Gravitics has won a NASA award to develop an orbital hangar that..."
-        },
-        {
-          "title": "US: 63,000 solid-state battery materials could unlock safer, better energy storage",
-          "link": "https://interestingengineering.com/energy/cornell-63000-materials-solid-state-batteries",
-          "date": "2026-08-10T18:47:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/cnrqp_sordi.jpg",
-          "summary": "Scientists in the US have identified nearly 63,000 promising materials that could advance solid-state battery..."
         }
       ],
       "ok": true,
@@ -2580,6 +2509,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+          "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+          "date": "2026-08-11T12:10:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MIT_FeatureSelection_Full_1.jpg?fit=2128,1196",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing…"
+        },
+        {
           "title": "AI professors are negotiating the new realities of academic research",
           "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
           "date": "2026-08-10T20:00:00+00:00",
@@ -2641,13 +2577,6 @@
           "date": "2026-08-05T12:10:00+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vitalist_master.jpg?w=840",
           "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space…"
-        },
-        {
-          "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-          "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-          "date": "2026-08-05T08:06:40+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe…"
         }
       ],
       "ok": true,
@@ -2657,6 +2586,13 @@
       "name": "Ars Technica",
       "cat": "engineering",
       "items": [
+        {
+          "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+          "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+          "date": "2026-08-11T11:30:08+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-500x500.jpg",
+          "summary": "Why passkey apps treat Windows differently than other operating systems."
+        },
         {
           "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
           "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
@@ -2719,13 +2655,6 @@
           "date": "2026-08-10T16:01:04+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-500x500-1786375747.jpg",
           "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others."
-        },
-        {
-          "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-          "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-          "date": "2026-08-10T15:44:45+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg",
-          "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order."
         }
       ],
       "ok": true,
