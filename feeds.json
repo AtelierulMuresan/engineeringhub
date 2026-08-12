@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:04:04.709156+00:00",
+  "updated": "2026-08-12T17:57:30.274429+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -160,14 +160,99 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.automotiveworld.com/feed/"
+      "items": [
+        {
+          "title": "Bloomberg: Honda taps Tata firm for new vehicle platform",
+          "link": "https://www.automotiveworld.com/news/bloomberg-honda-taps-tata-firm-for-new-vehicle-platform/",
+          "date": "2026-08-12T15:31:41+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "India’s growing credibility as a software and engineering hub could help Honda lower its costs while advancing its electrification strategy. By Stewart Burnett The post Bloomberg:…"
+        },
+        {
+          "title": "GM makes US$4.5bn plan to mitigate supply shock",
+          "link": "https://www.automotiveworld.com/news/gm-makes-us4-5bn-plan-to-mitigate-supply-shock/",
+          "date": "2026-08-12T14:45:52+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "GM cannot address the underlying causes of the supply shocks affecting automotive, but it can set up safeguards. By Stewart Burnett The post GM makes US$4.5bn plan to mitigate…"
+        },
+        {
+          "title": "Stellantis revamps its European production network",
+          "link": "https://www.automotiveworld.com/analysis/stellantis-revamps-its-european-production-network/",
+          "date": "2026-08-12T12:19:55+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Ian Henry examines how plans announced in May could affect anticipated production and registration volumes for Stellantis in Europe The post Stellantis revamps its European…"
+        },
+        {
+          "title": "Automotive World Magazine – August 2026",
+          "link": "https://www.automotiveworld.com/magazine/automotive-world-magazine-august-2026/",
+          "date": "2026-08-12T10:48:39+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Automotive World Magazine features the best and sharpest Automotive World content, curated specifically to help you understand the future of mobility The post Automotive World…"
+        },
+        {
+          "title": "Weak infrastructure complicates Nigeria’s EV ambitions",
+          "link": "https://www.automotiveworld.com/news/weak-infrastructure-complicates-nigerias-ev-ambitions/",
+          "date": "2026-08-12T10:46:13+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Nigeria’s electrification incentives favour fossil fuel-hungry cars, but two- and three-wheelers may present a more viable path to 2050. By Stewart Burnett The post Weak…"
+        },
+        {
+          "title": "China’s BEV sales grow in July, ICE cars keep collapsing",
+          "link": "https://www.automotiveworld.com/news/chinas-bev-sales-grow-in-july-ice-cars-keep-collapsing/",
+          "date": "2026-08-12T06:29:06+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "China’s car market may continue to be weak for some time, but BEVs remain fairly well-insulated from the pain. By Stewart Burnett The post China&#8217;s BEV sales grow in July,…"
+        },
+        {
+          "title": "DAF, Einride target Level 4 autonomous electric freight",
+          "link": "https://www.automotiveworld.com/news/daf-einride-target-level-4-autonomous-electric-freight/",
+          "date": "2026-08-12T05:00:41+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The DAF-Einride tie-up suggests autonomous electric freight will scale through existing truck platforms rather than new hardware The post DAF, Einride target Level 4 autonomous…"
+        },
+        {
+          "title": "Stoneridge to debut EVO ECU Platform at IAA Transportation",
+          "link": "https://www.automotiveworld.com/news/stoneridge-to-debut-evo-ecu-platform-at-iaa-transportation/",
+          "date": "2026-08-12T04:45:55+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The EVO ECU Platform shows Stoneridge chasing the same software-defined architecture trend now reshaping passenger cars The post Stoneridge to debut EVO ECU Platform at IAA…"
+        },
+        {
+          "title": "BYD Ti 7 seven-seat SUV brings DM-p hybrid power to UK",
+          "link": "https://www.automotiveworld.com/news/byd-ti-7-seven-seat-suv-brings-dm-p-hybrid-power-to-uk/",
+          "date": "2026-08-12T04:40:52+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Pricing the Ti 7 from £47,995 shows BYD chasing volume in the UK seven-seat SUV segment rather than a niche debut The post BYD Ti 7 seven-seat SUV brings DM-p hybrid power to UK…"
+        },
+        {
+          "title": "ZF maps out commercial vehicle decarbonization strategy",
+          "link": "https://www.automotiveworld.com/news/zf-maps-out-commercial-vehicle-decarbonization-strategy/",
+          "date": "2026-08-12T04:35:52+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "ZF is betting that fleet decarbonization works best as a menu of powertrain choices rather than one fixed answer The post ZF maps out commercial vehicle decarbonization strategy…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "In our opinion: Toyota, Honda U.S. production capacity growth plans signal a zero-sum fight for U.S. market share",
+          "link": "https://www.autonews.com/opinion/editorials/an-editorial-japan-us-expansion-0812/",
+          "date": "2026-08-12T17:17:24+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ckC8wTJ3nXzs28lS1aE7vOBMjJQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TIYS7OBA2ZGZ5C25PUT5XZNEBQ.jpg",
+          "summary": "Toyota's $3.6 billion Texas expansion and Honda's U.S. growth plans mean intensifying competition for finite sales in a stagnant market."
+        },
+        {
+          "title": "Guest commentary: I’ve spent my career defending import brands. Here’s why I’m fighting to keep Chinese autos out",
+          "link": "https://www.autonews.com/opinion/guest-commentary/an-guest-commentary-aiada-chinese-autos-0812/",
+          "date": "2026-08-12T16:22:38+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/haYX5a6TLRUyS90jDBs15YlX3VU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QGNDN5CQBNCZDD4EJPXZP3JP7Y.jpg",
+          "summary": "The American International Automobile Dealers Association explains its stance on Chinese automakers, citing national security risks and state-backed pricing pressure on the U.S.…"
+        },
         {
           "title": "Holler-Classic dealership group enters South Carolina",
           "link": "https://www.autonews.com/retail/mergers-acquisitions/an-holler-classic-enters-south-carolina-0812/",
@@ -223,20 +308,6 @@
           "date": "2026-08-12T11:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Op8vAK5Iqx7y-PLjjZr5zkeiT_I=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/J6YC6FI6V5D5LLBKENXJ6VZTPY.jpg",
           "summary": "Hyundai is expanding the Genesis lineup by busting into new segments and offering high-performance Magma versions."
-        },
-        {
-          "title": "Kia banks on crossovers, hybrids and a rugged new truck for growth",
-          "link": "https://www.autonews.com/car-concepts/future-product/an-kia-future-product-0812/",
-          "date": "2026-08-12T11:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/TLIoh3OjdsoJpyNmdVrzv2sVsJc=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/PHWGV2IGVJBTRKXJFWP3CJFPCM.jpg",
-          "summary": "Kia aims to increase annual U.S. sales to just over a million by 2030. To get there, the automaker plans to expand its crossover lineup, enter new segments, including midsize…"
-        },
-        {
-          "title": "Guest commentary: Who’s liable when AI is behind the wheel?",
-          "link": "https://www.autonews.com/opinion/guest-commentary/an-guest-commentary-av-liability-insurance-0812/",
-          "date": "2026-08-12T11:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3gVmbl27vNyvlO9gFO_77mRqsdY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MXWD4NNCW5HQ5CFHHTBUX3YLRE.jpg",
-          "summary": "Autonomous vehicles need aviation-style liability rules so insurers can price risk, insure AV fleets and let the industry scale safely."
         }
       ],
       "ok": true,
@@ -246,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Mitsubishi Taps iPhone Manufacturer For its Next EV",
+          "link": "https://insideevs.com/news/804706/iphone-foxtron-australia-mitsubishi-asx/",
+          "date": "2026-08-12T16:40:10+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/9m8L8v/s3/mitsubishi-asx-vr-e.jpg",
+          "summary": "Called the ASX VR-e, this Mazda CX-30-sized crossover is made for Australia and New Zealand."
+        },
         {
           "title": "The Lucid Cosmos Will Have More Range Than Any Tesla",
           "link": "https://insideevs.com/news/804699/lucid-cosmos-400-miles-of-range/",
@@ -308,13 +386,6 @@
           "date": "2026-08-11T18:39:32+00:00",
           "image": "https://cdn.motor1.com/images/mgl/koKXY4/s3/tesla-model-3-bright-headlights-hero.jpg",
           "summary": "Tired of getting blinded by Tesla headlights? This may help."
-        },
-        {
-          "title": "Chevy Is Giving Up On The Chinese Market",
-          "link": "https://insideevs.com/news/804539/chevrolet-quits-china-give-up/",
-          "date": "2026-08-11T17:41:05+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/2NE0vE/s3/chevrolet-equinox-plus---phev.jpg",
-          "summary": "In 2014 it sold 700,000 units per year in the country. By 2025, that number had dropped to just 9,000."
         }
       ],
       "ok": true,
@@ -580,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+          "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+          "date": "2026-08-12T16:03:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg?w=2048",
+          "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed…"
+        },
+        {
           "title": "Pursuing a Dream of Working for NASA",
           "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
           "date": "2026-08-12T15:38:51+00:00",
@@ -641,13 +719,6 @@
           "date": "2026-08-11T14:16:45+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg?w=1536",
           "summary": "As NASA&#160;prepares&#160;to return astronauts to the lunar surface&#160;for&#160;longer stays and increasingly complex operations, building&#160;the&#160;Moon Base&#160;will…"
-        },
-        {
-          "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-          "link": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
-          "date": "2026-08-11T14:00:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg",
-          "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay…"
         }
       ],
       "ok": true,
@@ -1396,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Famous oddball quasar isn't X-ray weak after all, astronomers say",
+          "link": "https://phys.org/news/2026-08-famous-oddball-quasar-isnt-ray.html",
+          "date": "2026-08-12T16:40:01+00:00",
+          "image": null,
+          "summary": "For more than two decades, the quasar PHL 1811 has been considered the prototype of a rare class of \"intrinsically X-ray weak\" quasars, thought to produce unusually little X-ray…"
+        },
+        {
           "title": "How to enjoy the solar eclipse safely",
           "link": "https://phys.org/news/2026-08-enjoy-solar-eclipse-safely.html",
           "date": "2026-08-12T15:41:08+00:00",
@@ -1457,13 +1535,6 @@
           "date": "2026-08-11T20:50:01+00:00",
           "image": null,
           "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA's space telescopes. The resulting…"
-        },
-        {
-          "title": "Star cluster discovery could change how scientists measure the universe",
-          "link": "https://phys.org/news/2026-08-star-cluster-discovery-scientists-universe.html",
-          "date": "2026-08-11T18:40:07+00:00",
-          "image": null,
-          "summary": "University of Missouri researchers have uncovered evidence that challenges one of astronomy's most trusted assumptions, a breakthrough that could reshape how scientists measure…"
         }
       ],
       "ok": true,
@@ -1481,11 +1552,32 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "God Of War’s Christopher Judge Is Tired Of Video Game TV Adaptations Ignoring Game Creators",
+          "link": "https://www.gamespot.com/articles/god-of-wars-christopher-judge-is-tired-of-video-game-tv-adaptations-ignoring-game-creators/",
+          "date": "2026-08-12T17:19:01+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4054335-playstationgifts_0009_god-of-war-ragnarok.jpg?w=300",
+          "summary": "The live-action adaptation of God of War is on the way, but the voice of the iconic god-killer Kratos, Christopher Judge, has a bone to pick with the people behind game…"
+        },
+        {
+          "title": "One Of This Year’s Biggest Games Is Coming To Switch 2 Next Year",
+          "link": "https://www.gamespot.com/articles/one-of-this-years-biggest-games-is-coming-to-switch-2-next-year/",
+          "date": "2026-08-12T16:22:05+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Crimson-Desert.jpg?w=300",
+          "summary": "Pearl Abyss has announced that Crimson Desert is planned to come out on Switch 2 in 2027. In fact, the developer behind the huge hit-- which has sold over 4 million copies on PC,…"
+        },
+        {
+          "title": "Mysterious Witcher Game Project Sirius Undergoes More Changes – Report",
+          "link": "https://www.gamespot.com/articles/mysterious-witcher-game-project-sirius-undergoes-more-changes-report/",
+          "date": "2026-08-12T16:04:43+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Witcher-Large.jpeg?w=300",
+          "summary": "Project Sirius, the upcoming The Witcher project rumored to be a multiplayer game, is undergoing its latest chapter of upheaval. According to Kotaku , nine people were laid off…"
+        },
+        {
           "title": "PlayStation Plus Extra/Premium Games For August 2026 Includes Helldivers 2",
           "link": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-august-2026-revealed/",
           "date": "2026-08-12T12:24:29+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Helldivers-2.jpg?w=300",
-          "summary": "Sony is set to reveal the next batch of games coming to the Game Catalog for PlayStation Plus Extra and Premium in August, but we already know of one of them: Helldivers 2 , which…"
+          "summary": "Sony is set to reveal the&nbsp;next batch of&nbsp;games coming to the Game Catalog for PlayStation Plus Extra and Premium in August, but we already know of one of them: Helldivers…"
         },
         {
           "title": "Ghost Of Yotei Expansion, Roguelike Survival Mode, And Complete Edition Announced",
@@ -1528,27 +1620,6 @@
           "date": "2026-08-11T19:57:04+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/07/ES6.png?w=300",
           "summary": "The Elder Scrolls 6 is one of Microsoft's biggest upcoming games, but it remains largely a mystery, despite being announced more than eight years ago. Today, August 11, Xbox CEO…"
-        },
-        {
-          "title": "No Man’s Sky Could Have Made So Much Money From DLC And Microtransactions, Sean Murray Says",
-          "link": "https://www.gamespot.com/articles/no-mans-sky-could-have-made-so-much-money-from-dlc-and-microtransactions-sean-murray-says/",
-          "date": "2026-08-11T19:40:45+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/NMS.jpg?w=300",
-          "summary": "The head of No Man's Sky developer Hello Games, Sean Murray, has said it would be a bad idea for his mental health to think about how much money the studio could have made by…"
-        },
-        {
-          "title": "Battlefield 6 Trailer Shows Off New Version Of Wake Island, And It Looks Incredible",
-          "link": "https://www.gamespot.com/articles/battlefield-6-trailer-shows-off-new-version-of-wake-island-and-it-looks-incredible/",
-          "date": "2026-08-11T18:47:24+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/bf6.png?w=300",
-          "summary": "EA and Battlefield Studios have released a new trailer for Battlefield 6 that shows off the upcoming fan-favorite map Wake Island , which arrives on August 18 alongside a Top…"
-        },
-        {
-          "title": "Halo: Campaign Evolved’s Biggest Competition Might Be Halo",
-          "link": "https://www.gamespot.com/articles/halo-campaign-evolved-biggest-competition-on-pc-might-be-halo/",
-          "date": "2026-08-11T18:03:25+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo-point.jpg?w=300",
-          "summary": "Halo Campaign Evolved is a celebration of the franchise, but not many people are attending that party. New estimates peg sales at 1.2 million copies sold across PC, Xbox Series…"
         }
       ],
       "ok": true,
@@ -1559,74 +1630,74 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Dimension 20 Returns on Dropout: Here's A First Look at Its Twisted Take on Toy Story",
+          "link": "https://www.polygon.com/dropout-dimension-20-toylight-new-campaign-trailer/",
+          "date": "2026-08-12T17:30:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dimension-20-toylight-brennan-lee-mulligan-2.png",
+          "summary": "Dimension 20's next season is set to premiere in September on Dropout. It finds the Intrepid Heroes returning as toys fighting a rebellion."
+        },
+        {
+          "title": "The Movie That Hollywood Tried to Kill Officially Releases in Theaters This Week",
+          "link": "https://www.polygon.com/coyote-vs-acme-release-date-looney-tunes/",
+          "date": "2026-08-12T17:07:58+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/warner-bros-discovery-logo.jpg",
+          "summary": "We didn't think it would ever happen, but Coyote vs. Acme is finally coming to the silver screen."
+        },
+        {
+          "title": "Amazon Further Abandons Gaming, Dropping MMOs Lost Ark & Throne And Liberty",
+          "link": "https://www.polygon.com/amazon-games-mmo-lost-ark-throne-and-liberty/",
+          "date": "2026-08-12T17:05:49+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23760156/1__1_.jpg",
+          "summary": "Amazon Game Studios will no longer publish Lost Ark or Throne and Liberty as it shifts focus to games like Tomb Raider: Legacy of Atlantis."
+        },
+        {
+          "title": "Xbox Reveals Limited Edition Controllers for October 2026 Release",
+          "link": "https://www.polygon.com/gears-of-war-e-day-xbox-limited-edition-controllers/",
+          "date": "2026-08-12T16:55:59+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/assets_2026_06_1780855024_13_gow_eday_marcuscheers_4k.png",
+          "summary": "Gears of War: E-Day is getting two limited edition Xbox controllers"
+        },
+        {
+          "title": "The Sims 4 Mod Creates Immersive World Selection Screen",
+          "link": "https://www.polygon.com/the-sims-4-world-section-mod/",
+          "date": "2026-08-12T16:51:34+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/sims-4-ondarion-worlds.png",
+          "summary": "A Sims 4 mod makes it possible for players to see all worlds in one big map, making travel more realistic."
+        },
+        {
+          "title": "How does the Explorer Gadget work in Pokémon Go?",
+          "link": "https://www.polygon.com/pokemon-go-explorer-gadget-how-to-use/",
+          "date": "2026-08-12T16:43:27+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jlee_260812_1001_pogo_gadget.jpg",
+          "summary": "If you found an Explorer Gadget in your Pokémon Go inventory, here's how to use it and what it does."
+        },
+        {
+          "title": "Team behind multiplayer Witcher game 'Project Sirius' hit by layoffs",
+          "link": "https://www.polygon.com/multiplayer-witcher-game-layoffs-project-sirius-update/",
+          "date": "2026-08-12T16:30:41+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/sad-geralt.jpg",
+          "summary": "The multiplayer Witcher game titled 'Project Sirius' might be in trouble after its development team was hit by another round of layoffs."
+        },
+        {
+          "title": "The 8 Best Games Like Cyberpunk 2077",
+          "link": "https://www.polygon.com/games-like-cyberpunk-2077/",
+          "date": "2026-08-12T16:30:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/cyberpunk-alone.png",
+          "summary": "Looking for your next Night City-adjacent adventure? These eight games share Cyberpunk 2077’s messy choices, augmented anti-heroes, or overall mood."
+        },
+        {
+          "title": "PS Plus Extra August 2026 game catalog additions announced",
+          "link": "https://www.polygon.com/ps-plus-game-catalog-august-2026-update/",
+          "date": "2026-08-12T16:13:03+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/11/kingdom-come-deliverance-2-01.jpg",
+          "summary": "PlayStation adds new games each month to its PS Plus Games Catalog for subscribers to enjoy. Here's what Extra/Premium users get in August 2026."
+        },
+        {
           "title": "D&D Rival Announces New Partnership to Fight Financial Struggles",
           "link": "https://www.polygon.com/paizo-drivethrurpg-partnership-pathfinder/",
           "date": "2026-08-12T16:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/753874281_1677368681056200_2315679741086464723_n.jpg",
           "summary": "DriveThruRPG is getting the full Paizo library, and the retailer will also sell Pathfinder and Starfinder physical books."
-        },
-        {
-          "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
-          "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
-          "date": "2026-08-12T15:58:30+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png",
-          "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6"
-        },
-        {
-          "title": "'Ghost of Yotei' Is Getting a Narrative Expansion and a Roguelike Mode in new Complete Edition",
-          "link": "https://www.polygon.com/ghost-of-yotei-complete-edition-story-expansion-most-wanted-roguelike-mode-ps5/",
-          "date": "2026-08-12T15:43:01+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/ghost-of-yotei.jpg",
-          "summary": "The PS5 exclusive action-adventure has announced a new story expansion, roguelike mode, and quality-of-life improvements"
-        },
-        {
-          "title": "Andy Weir's New Time Travel Thriller Launches in Just Three Months",
-          "link": "https://www.polygon.com/andy-weir-benjamin-percy-audible-exoplanet/",
-          "date": "2026-08-12T15:32:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/project-hail-mary.jpg",
-          "summary": "The Audible Original story Exoplanet stars Anthony Mackie, Ariana DeBose, and John Leguizamo."
-        },
-        {
-          "title": "The 7 Worst FPS Games From the 2000s",
-          "link": "https://www.polygon.com/worst-2000s-fps-shooters-aged-like-milk/",
-          "date": "2026-08-12T15:30:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/2000s-shooters-aged-like-milk-header.jpg",
-          "summary": "The 2000s were a great decade for shooters, but there are plenty that don't quite stand the test of time."
-        },
-        {
-          "title": "Bionicle Fan-Made Game Devs Return with Rustbound, and It Looks Sick",
-          "link": "https://www.polygon.com/rustbound-bionicle-fan-game-returns-lego-canceled/",
-          "date": "2026-08-12T15:20:38+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/rustbound-trailer-screenshot.png",
-          "summary": "Unmasked Games spent eight years working on a Bionicle game before Lego shut it down. Now, the team is back with its original work Rustbound."
-        },
-        {
-          "title": "Netflix's Live-Action 'Yu Yu Hakusho' Is Reportedly Getting a Second Season",
-          "link": "https://www.polygon.com/yu-yu-hakusho-netflix-season-2/",
-          "date": "2026-08-12T15:17:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/yu-yu-hakusho-live-action-s2.jpg",
-          "summary": "The live-action remake of Yu Yu Hakusho is reportedly coming back for a second season that will adapt the rest of Togashi's manga."
-        },
-        {
-          "title": "Pokémon Leak Claims Iconic Retro Games Will Get A New Switch Port Soon",
-          "link": "https://www.polygon.com/pokemon-leak-ruby-sapphire-emerald-switch-2-port-fire-red-tcg/",
-          "date": "2026-08-12T15:07:31+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2478632/pokemon_omega_ruby_alpha_sapphire.0.png",
-          "summary": "Much like FireRed and LeafGreen, Pokémon fans may soon be able to return to the iconic GBA games if recent leaks turn out to be true"
-        },
-        {
-          "title": "'The End of Oak Street' Review: The Jurassic Park Knockoff We Didn't Know We Needed",
-          "link": "https://www.polygon.com/the-end-of-oak-street-review/",
-          "date": "2026-08-12T15:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdenof_wb037_h.JPG",
-          "summary": "David Robert Mitchell’s The End of Oak Street beats Steven Spielberg at his own game."
-        },
-        {
-          "title": "Review: 'Coyote vs Acme' Is Too Good To Have Been Canceled by Warner Bros.",
-          "link": "https://www.polygon.com/coyote-vs-acme-movie-review/",
-          "date": "2026-08-12T15:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/coyote-take.jpg",
-          "summary": "Polygon's review of the live-action /animated comedy Coyote vs. ACME, which is the best Looney Tunes movie ever and the best comedy of 2026."
         }
       ],
       "ok": true,
@@ -1637,6 +1708,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Dawn of War 4 gets a release date delay to \"further refine the experience ahead of launch\"",
+          "link": "https://www.eurogamer.net/dawn-of-war-4-release-date-delay-december",
+          "date": "2026-08-12T16:21:22+00:00",
+          "image": "https://assetsio.gnwcdn.com/dawn-of-war-4-lion.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Dawn of War 4 has been delayed to the tail-end of this year, so the developers at King Art games can \"further refine the experience ahead of launch.\" Read more"
+        },
+        {
           "title": "The \"untranslatable\" book that inspired Clair Obscur: Expedition 33 has been translated, and you can buy it later this year",
           "link": "https://www.eurogamer.net/horde-of-the-counterwind-translated-expedition-33",
           "date": "2026-08-12T15:46:54+00:00",
@@ -1644,11 +1722,11 @@
           "summary": "The first ever English translation of Alain Damasio&rsquo;s Horde of the Counterwind (or, to give the book its original name La Horde du Contrevent) is going on sale later this…"
         },
         {
-          "title": "Multiplayer Witcher spin-off Project Sirius reportedly hit by layoffs again, in \"broader shift in development strategy\" at CD Projekt Red",
+          "title": "Multiplayer Witcher spin-off Project Sirius hit by layoffs again, in \"broader shift in development strategy\" at CD Projekt Red",
           "link": "https://www.eurogamer.net/cd-projekt-red-project-sirius-layoffs",
           "date": "2026-08-12T15:18:51+00:00",
           "image": "https://assetsio.gnwcdn.com/witcher-3-geralt_uS0zYOX.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "CD Projekt Red has reportedly laid off nine people working on its mysterious multiplayer-linked Witcher game Project Sirius, and said a further nine are to be reshuffled to other…"
+          "summary": "UPDATE 12TH AUGUST 5.20PM: CD Projekt Red has confirmed the layoffs to Eurogamer. Read more"
         },
         {
           "title": "Ghost of Yōtei: Complete Edition is coming to PS5 later this year, with new story additions, a new roguelike survival mode, and more",
@@ -1698,13 +1776,6 @@
           "date": "2026-08-12T10:52:37+00:00",
           "image": "https://assetsio.gnwcdn.com/xbox-logo_yqqi6oN.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Xbox says it has fixed the issue at the heart of the major service outage suffered in July . Chief technical officer Scott Van Vliet, who initially offered an explanation as to…"
-        },
-        {
-          "title": "A forgotten old co-op Lord of the Rings game has been unexpectedly remastered and re-released, and there's a promise of more to come",
-          "link": "https://www.eurogamer.net/lord-of-the-rings-co-op-game-remaster-war-in-north",
-          "date": "2026-08-12T10:42:05+00:00",
-          "image": "https://assetsio.gnwcdn.com/lotr-war-in-the-north.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Aspyr has unexpectedly remastered and re-released an old Lord of the Rings action role-playing game, which was notable for having three-player co-op and parallel story about one…"
         }
       ],
       "ok": true,
@@ -1714,6 +1785,13 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Damn, The PS Plus Game Catalog Is Having One Of Its Best Months In A Long Time",
+          "link": "https://kotaku.com/damn-the-ps-plus-game-catalog-is-having-one-of-its-best-months-in-a-long-time-2000723833",
+          "date": "2026-08-12T17:00:32+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/PS-Plus-august-catalog-1280x720.jpg",
+          "summary": "Helldivers 2 , Kingdom Come , Metro Exodus , Onimusha and more are coming to Sony's subscription service in August"
+        },
         {
           "title": "Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode",
           "link": "https://kotaku.com/ghost-of-yotei-expansion-coming-this-fall-will-add-new-story-missions-and-roguelike-mode-2000723819",
@@ -1776,13 +1854,6 @@
           "date": "2026-08-11T20:21:11+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/xbox-asha-elder-1280x720.jpg",
           "summary": "The newly appointed Xbox CEO posted on social media that the upcoming RPG looks 'incredible'"
-        },
-        {
-          "title": "New Steam Game Is For All You GoldenEye And Perfect Dark Sickos",
-          "link": "https://kotaku.com/new-steam-game-is-for-all-you-goldeneye-and-perfect-dark-sickos-2000723517",
-          "date": "2026-08-11T20:00:52+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/ss_5288b85a858391f507d6faa351d0674a57a049c2.1920x1080-1280x720.jpg",
-          "summary": "Agent 64: Spies Never Die is a boomer shooter for people who grew up with an N64 controller in their hands"
         }
       ],
       "ok": true,
@@ -1792,6 +1863,20 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Subnautica 2 now has a beta update branch, letting players try out patches before they're finished, but beware, your saves won't carry over",
+          "link": "https://www.rockpapershotgun.com/subnautica-2-now-has-a-beta-update-branch-letting-players-try-out-patches-before-theyre-finished-but-beware-your-saves-wont-carry-over",
+          "date": "2026-08-12T17:44:24+00:00",
+          "image": "https://assetsio.gnwcdn.com/subnautica2-starting-out.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Ocean survival sim Subnautica 2 now has an experimental beta branch on Steam, allowing the intrepid PC owner to test out updates before they're officially live. If there's one…"
+        },
+        {
+          "title": "The Steam Frame needs to be more than a cool device if Valve want to reshape the VR market",
+          "link": "https://www.rockpapershotgun.com/the-steam-frame-needs-to-be-more-than-a-cool-device-if-valve-want-to-reshape-the-vr-market",
+          "date": "2026-08-12T16:44:06+00:00",
+          "image": "https://assetsio.gnwcdn.com/Steam-Frame-with-controllers-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Hi! I'm Rick Lane, and you might remember me from such columns as Reality Bytes , RPS' erstwhile monthly goggle at the world of virtual reality . I've spent the last couple of…"
+        },
         {
           "title": "Amazon are getting out of the MMO game, handing control of Lost Ark and Throne and Liberty to developers, but it won't all be smooth for players",
           "link": "https://www.rockpapershotgun.com/amazon-are-getting-out-of-the-mmo-game-handing-control-of-lost-ark-and-throne-and-liberty-to-developers-but-it-wont-all-be-smooth-for-players",
@@ -1847,20 +1932,6 @@
           "date": "2026-08-11T20:50:23+00:00",
           "image": "https://assetsio.gnwcdn.com/thief-gold-key-art-header.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Broadly speaking, it's fine for something to exist as a niche. Whatever form of media a thing might be, to fulfil a niche is to meet the expectations of at least a handful of…"
-        },
-        {
-          "title": "As Xbox head Asha Sharma reportedly visits Bethesda HQ, workers put up red flags representing laid off staff and a giant inflatable rat outside",
-          "link": "https://www.rockpapershotgun.com/as-xbox-head-asha-sharma-reportedly-visits-bethesda-hq-workers-put-up-red-flags-representing-laid-off-staff-and-a-giant-inflatable-rat-outside",
-          "date": "2026-08-11T20:03:21+00:00",
-          "image": "https://assetsio.gnwcdn.com/scabby-the-rat-bethesda.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "It's probably a weird day to be working at Bethesda's Rockville headquarters. In a week's time, on August 18th, the Communications Workers of America have organised numerous…"
-        },
-        {
-          "title": "Paralives' latest update throws out its wonderfully awful homunculi babies and makes it so that dead bodies should no longer litter the streets",
-          "link": "https://www.rockpapershotgun.com/paralives-latest-update-throws-out-its-wonderfully-awful-homunculi-babies-and-makes-it-so-that-dead-bodies-should-no-longer-litter-the-streets",
-          "date": "2026-08-11T17:30:59+00:00",
-          "image": "https://assetsio.gnwcdn.com/paralives-babies.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The beauty of an early access game is being able to look at something funky, say \"that's not right,\" and as long as you're correct and not an irritating know-it-all making…"
         }
       ],
       "ok": true,
@@ -1870,6 +1941,13 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "It looks like Windows updates might actually be speeding up the OS now",
+          "link": "https://www.pcgamer.com/software/windows/it-looks-like-windows-updates-might-actually-be-speeding-up-the-os-now/",
+          "date": "2026-08-12T16:24:55+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ypWjYqr4df2DhsPcrYejin-1280-80.jpg",
+          "summary": "Less AI, more performance improvements: I'm here for it."
+        },
         {
           "title": "Amazon drops Lost Ark and Throne and Liberty",
           "link": "https://www.pcgamer.com/games/mmo/amazon-drops-lost-ark-and-throne-and-liberty/",
@@ -1932,13 +2010,6 @@
           "date": "2026-08-12T13:33:23+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/9x4oTxdTPoZdKAsRntSC2A-1280-80.jpg",
           "summary": "Find out what monikers you can earn on the path to Level 300."
-        },
-        {
-          "title": "Micron's top brass wins the memory crisis corpo double speak award: 'We do not have line of sight as to when that supply vector will intersect the demand vector'",
-          "link": "https://www.pcgamer.com/hardware/memory/microns-top-brass-wins-the-memory-crisis-corpo-double-speak-award-we-do-not-have-line-of-sight-as-to-when-that-supply-vector-will-intersect-the-demand-vector/",
-          "date": "2026-08-12T12:09:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/qeHGNZSXbQT3EkgvXjGGoR-1280-80.jpg",
-          "summary": "A lot of words for \"don't expect things to get better soon.\""
         }
       ],
       "ok": true,
@@ -2105,6 +2176,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Witcher multiplayer spin-off Project Sirius hit by fresh layoffs",
+          "link": "https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs",
+          "date": "2026-08-12T16:33:08+00:00",
+          "image": "https://assetsio.gnwcdn.com/witcher_3_m9knHIp.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "CD Projekt Red's Witcher multiplayer game, known internally as Project Sirius, has suffered another round of layoffs. Read more"
+        },
+        {
           "title": "Saber Interactive denies replacing writer with AI",
           "link": "https://www.gamesindustry.biz/saber-interactive-denies-replacing-writer-with-ai",
           "date": "2026-08-12T15:45:01+00:00",
@@ -2144,7 +2222,7 @@
           "link": "https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides",
           "date": "2026-08-12T09:51:42+00:00",
           "image": "https://assetsio.gnwcdn.com/crimson-desert_qeGiIrb.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Pearl Abyss reported a weaker second quarter as the initial impact of Crimson Desert's March launch has tapered off. Read more"
+          "summary": "Pearl Abyss reported a weaker second quarter as the initial impact of Crimson Desert's March launch tapered off. Read more"
         },
         {
           "title": "UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class",
@@ -2166,13 +2244,6 @@
           "date": "2026-08-11T13:05:23+00:00",
           "image": "https://assetsio.gnwcdn.com/directive-8020_9wViY6J.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Supermassive Games has announced a third round of layoffs in three years, potentially impacting up to 75 positions. Read more"
-        },
-        {
-          "title": "Reforj developer 4J Studios unveils Rixels: modified pixels that reduce texture memory requirements by 98%",
-          "link": "https://www.gamesindustry.biz/reforj-developer-4j-studios-unveils-rixels-modified-pixels-that-reduce-texture-memory-requirements-by-98",
-          "date": "2026-08-11T12:26:32+00:00",
-          "image": "https://assetsio.gnwcdn.com/Rixel-Mining-Screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Reforj developer 4J Studios has debuted a technology called Rixels that offer an alternative way to provide textures using a fraction of the memory requirements. The Dundee-based…"
         }
       ],
       "ok": true,
@@ -2339,6 +2410,41 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Biosolar roof boosts solar energy by 23% in Australia’s newest city",
+          "link": "https://interestingengineering.com/energy/biosolar-roof-boosts-solar-energy",
+          "date": "2026-08-12T17:34:54+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-22.jpg",
+          "summary": "A new study shows that pairing native rooftop gardens with solar panels cools urban areas,..."
+        },
+        {
+          "title": "10 landmark rockets and the engineering breakthroughs behind them",
+          "link": "https://interestingengineering.com/space/10-landmark-rockets-and-the-engineering-breakthroughs-behind-them",
+          "date": "2026-08-12T16:43:59+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-top-10-innovative-rockets.jpg",
+          "summary": "Rocket design has progressed through a series of engineering breakthroughs rather than one single technological..."
+        },
+        {
+          "title": "3.2 GW of nuclear reactor plant paralyzed by jellyfish in uncanny anniversary replay",
+          "link": "https://interestingengineering.com/science/nuclear-reactor-plant-paralyzed-by-jellyfish",
+          "date": "2026-08-12T16:36:04+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/EDF.jpg",
+          "summary": "A massive swarm of jellyfish has forced Electricité de France (EDF) to shut down three..."
+        },
+        {
+          "title": "US engineers map 14 emotions to design healthier space habitats",
+          "link": "https://interestingengineering.com/space/us-engineers-map-14-emotions-to-design-healthier-space-habitats",
+          "date": "2026-08-12T16:23:22+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Mars.jpg",
+          "summary": "Engineers at MIT and other US institutions have developed an interactive platform that shows how..."
+        },
+        {
+          "title": "Stealthy electric motorcycle with 62-mile range approved for combat use",
+          "link": "https://interestingengineering.com/military/stealthy-electric-motorcycle-with-62-mile-range-approved-for-combat-use",
+          "date": "2026-08-12T16:05:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/q-hr-qc4dz0_774088.jpg",
+          "summary": "Ukraine&#8217;s Ministry of Defense has codified and authorized the MUL.E, the nation&#8217;s first all-wheel-drive (2×2)..."
+        },
+        {
           "title": "93% of US nuclear reactors’ uranium foreign-sourced as fuel loading hits 41 mn pounds",
           "link": "https://interestingengineering.com/energy/us-nuclear-reactors-uranium-foreign-sourced",
           "date": "2026-08-12T15:34:53+00:00",
@@ -2372,34 +2478,6 @@
           "date": "2026-08-12T13:51:23+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/qdv4dslfoeo_c7ac14.jpg",
           "summary": "Scientists in the US have found a hidden atomic disorder inside silicon quantum devices that..."
-        },
-        {
-          "title": "US and allies ask for 24-hour advance warning after China’s ballistic missile test",
-          "link": "https://interestingengineering.com/military/us-notice-china-ballistic-missile-test",
-          "date": "2026-08-12T13:49:14+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-12T172808.548.jpg",
-          "summary": "Just a month after China shocked every nation with a long-range ballistic missile test in..."
-        },
-        {
-          "title": "From Blue Whale to Giant Squid: 7 of the biggest sea creatures ever found",
-          "link": "https://interestingengineering.com/culture/7-of-the-biggest-sea-creatures",
-          "date": "2026-08-12T13:22:36+00:00",
-          "image": "https://interestingengineering.com/codahosted.io/docs/xXV4Q5Vkpx/blobs/bl-xegQncOp5w/de4672fb6fd11d2cdbe86b3a415fc80eee74a2a1582ffc667e99395c0f5e9ec3051020e61e6324597daec50e39d380cf848a8e0a4a4627ddea2942deca574d0453f9fde4c0b7778196265401cdbfec44d8ed2b30bd4b6f886e0de276e18c191941ebdc8f",
-          "summary": "The ocean is home to animals so enormous that some can outweigh entire groups of..."
-        },
-        {
-          "title": "Northrop unveils powerful 50mm Raid Hunter gun to stop drone swarms and missiles",
-          "link": "https://interestingengineering.com/military/northrop-grumman-50mm-gun-air-defense",
-          "date": "2026-08-12T13:02:15+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/IE-Photo-21.jpg",
-          "summary": "Northrop Grumman has introduced Raid Hunter, a new short-range air defense system designed to protect..."
-        },
-        {
-          "title": "Robots could build giant metamaterial radars in space to track hidden threats",
-          "link": "https://interestingengineering.com/space/nasa-robot-built-radar-space",
-          "date": "2026-08-12T12:56:54+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/IE-Photo-31-1.jpg",
-          "summary": "Space is becoming increasingly crowded, and tracking the objects orbiting Earth is becoming a harder..."
         }
       ],
       "ok": true,
@@ -2502,6 +2580,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Scaling AI agents with trustworthy data",
+          "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+          "date": "2026-08-12T16:51:57+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Report-2026-cover.png",
+          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s…"
+        },
+        {
           "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
           "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
           "date": "2026-08-12T12:10:00+00:00",
@@ -2563,13 +2648,6 @@
           "date": "2026-08-07T14:20:00+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Lavaforming-03-lighter-@s.ap-architects.jpg?w=1920",
           "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast…"
-        },
-        {
-          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-          "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-          "date": "2026-08-07T14:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_RightWingBenz.jpg",
-          "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US…"
         }
       ],
       "ok": true,
@@ -2579,6 +2657,13 @@
       "name": "Ars Technica",
       "cat": "engineering",
       "items": [
+        {
+          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+          "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+          "date": "2026-08-12T16:33:43+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg",
+          "summary": "Trump admin claims New York suing Kalshi created \"market emergency.\""
+        },
         {
           "title": "Booksellers suspect AI firms are buying and then destroying rare books",
           "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
@@ -2605,7 +2690,7 @@
           "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
           "date": "2026-08-12T13:35:30+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GEN4-HERO2-2048x2048-1-500x500.jpg",
-          "summary": "The deal starts with the arrival of the GEN4 car and 2026/2027 season this December."
+          "summary": "The deal starts with the arrival of the GEN4 car and 2026-27 season this December."
         },
         {
           "title": "Did poop enable the evolution of complex animals?",
@@ -2641,13 +2726,6 @@
           "date": "2026-08-11T20:59:52+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-500x500.jpg",
           "summary": "Device-bound session credentials thwart an increasingly common form of account takeover."
-        },
-        {
-          "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-          "date": "2026-08-11T20:27:16+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-500x500-1761326403.jpg",
-          "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits."
         }
       ],
       "ok": true,
@@ -2671,6 +2749,13 @@
       "name": "ENR",
       "cat": "engineering",
       "items": [
+        {
+          "title": "Xylem Inks $1.46B Deal to Acquire Two Pump Manufacturers",
+          "link": "https://www.enr.com/articles/63475-xylem-inks-146b-deal-for-cornell-pump-roper-pump",
+          "date": "2026-08-12T17:35:09+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/08/12/Xylem-MA.webp?t=1786555353",
+          "summary": "CEO Matthew Pine told ENR earlier this year that Xylem was planning aggressive spending on acquisitions to expand its portfolio of technologies to address global water demands."
+        },
         {
           "title": "Court Says Enbridge Pipeline Trespasses on Native Land",
           "link": "https://www.enr.com/articles/63471-appeals-court-upholds-enbridge-trespass-backs-line-5-reroute-without-new-deadline",
@@ -2733,13 +2818,6 @@
           "date": "2026-08-11T18:36:09+00:00",
           "image": "https://www.enr.com/ext/resources/2026/03/02/Commanders-Stadium-day.webp?t=1786473642",
           "summary": "Located on the site of the now-demolished RFK Stadium on the banks of the Anacostia River, the estimated $3.8-billion HKS-designed facility is the centerpiece of the multi-phase…"
-        },
-        {
-          "title": "New York Coalition Unveils Plan to Cut Embodied Carbon in Construction",
-          "link": "https://www.enr.com/articles/63466-new-york-coalition-unveils-plan-to-cut-embodied-carbon-in-construction",
-          "date": "2026-08-11T18:21:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/WEB-embodied-concrete.webp?t=1786469362",
-          "summary": "Authors of new report believe there is immense opportunity to reduce embodied carbon emissions, and at a low cost."
         }
       ],
       "ok": true,
