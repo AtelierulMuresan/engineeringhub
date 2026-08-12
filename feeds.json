@@ -1,10 +1,17 @@
 {
-  "updated": "2026-08-12T08:18:45.187506+00:00",
+  "updated": "2026-08-12T10:07:00.734730+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "BMW Announces Monterey Car Week 2026 Program: Premieres of the BMW M Concept Neue Klasse and Vision BMW ALPINA, BMW M3 Milestones, and a New Chapter of “Kith for BMW”",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460052EN?language=en",
+          "date": "2026-08-12T10:00:00+00:00",
+          "image": null,
+          "summary": "• The future of BMW M performance: The all-electric BMW M Concept Neue Klasse previews the next era of BMW M with advanced vehicle control, M-specific Neue Klasse technology, and…"
+        },
         {
           "title": "From end-of-life vehicles to new cars: Car2Car research project demonstrates feasibility of high-quality material loops on an industrial scale",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0459996EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-07-30T06:30:00+00:00",
           "image": null,
           "summary": "Statement Walter Mertl, Member of the Board of Management of BMW AG, Finance, Conference Call Quarterly Statement to 30 June 2026"
-        },
-        {
-          "title": "BMW Group Half-Year Report to 30 June 2026",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0459732EN?language=en",
-          "date": "2026-07-30T05:34:37+00:00",
-          "image": null,
-          "summary": "BMW Group Half-Year Report to 30 June 2026"
         }
       ],
       "ok": true,
@@ -84,74 +84,74 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Porsche customer teams finish 1–2 in Tokyo as Dan Ticktum claims Saturday victory",
+          "link": "https://newsroom.porsche.com/en/ppdb/2026/07/porsche-customer-teams-finish-12-in-tokyo-as-dan-ticktum-claims-saturday-victory.html",
+          "date": "2026-07-25T14:30:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338008&w=1080&h=609&crop=1&public=1&cs=3aad318c578f8cbf",
+          "summary": "Dan Ticktum claimed his second ABB FIA Formula E World Championship victory in Saturday’s Tokyo E-Prix for Porsche customer team Cupra Krio. With Andretti Formula E’s Jake Dennis…"
+        },
+        {
+          "title": "Changes to the Management Board of Porsche Lifestyle GmbH & Co. KG",
+          "link": "https://newsroom.porsche.com/en/2026/company/porsche-changes-to-management-board-lifestyle-gmbh-jan-becker-42920.html",
+          "date": "2026-07-23T14:30:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337920&w=1080&h=609&crop=1&public=1&cs=e597dd57120298f0",
+          "summary": "Dr Jan Becker will assume the role of Chief Executive Officer and Chairman of the Management Board of Porsche Lifestyle GmbH & Co. KG with effect from 1 October 2026. Becker is…"
+        },
+        {
+          "title": "Generation change: Porsche board member Albrecht Reimold to retire",
+          "link": "https://newsroom.porsche.com/en/2026/company/porsche-executive-board-generation-change-albrecht-reimold-christian-friedl-42914.html",
+          "date": "2026-07-22T15:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=274089&w=1080&h=609&crop=1&public=1&cs=063ec75105300fac",
+          "summary": "From toolmaker to architect of modern manufacturing: Albrecht Reimold, Member of the Executive Board for Production and Logistics, is retiring at the age of 65 and at the end of…"
+        },
+        {
+          "title": "A Road Trip in the 1950s: From Paris to the North Cape in a 356",
+          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-356-roadtrip-paris-norway-42904.html",
+          "date": "2026-07-22T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337331&w=1080&h=609&crop=1&public=1&cs=23e32ca00ef460b8",
+          "summary": "When Frenchman Louis Malavieille purchased a Porsche 356 in 1955, he was thinking of one thing only: a sports car adventure with his family. The spectacular road trip from Paris…"
+        },
+        {
+          "title": "Top Gear ranks the greatest 911s of all time",
+          "link": "https://newsroom.porsche.com/en/2026/products/porsche-top-gear-best-911-42893.html",
+          "date": "2026-07-21T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337474&w=1080&h=609&crop=1&public=1&cs=0d0cc70b7fd8f8cc",
+          "summary": "During a three-day investigation on the stunning roads of the Black Forest, Top Gear’s Jethro Bovingdon sets out to determine which 911 is worthy of the title of ‘greatest ever’.…"
+        },
+        {
+          "title": "Porsche Junior Flynt Schuring Extends Supercup Lead",
+          "link": "https://newsroom.porsche.com/en/ppdb/2026/07/victory-at-spa-porsche-junior-flynt-schuring-extends-supercup-lead.html",
+          "date": "2026-07-19T06:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337852&w=1080&h=609&crop=1&public=1&cs=b9f71250329c9832",
+          "summary": "Flynt Schuring claimed his second win of the season in round four of the Porsche Mobil 1 Supercup. On the Formula 1 circuit at Spa‑Francorchamps in Belgium, the Dutchman took…"
+        },
+        {
+          "title": "NBA champion Ariel Hukporti receives Porsche Turbo Award",
+          "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-jugendfoerderung-turbo-award-ariel-hukporti-nba-champion-42877.html",
+          "date": "2026-07-17T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337683&w=1080&h=609&crop=1&public=1&cs=dc3db0a51bc99070",
+          "summary": "Ariel Hukporti returns to Stuttgart as an NBA champion. At the Porsche Museum, the 24-year-old was presented with the Porsche Turbo Award – an honour that he aspired to achieve as…"
+        },
+        {
+          "title": "Individuality down to the last detail: a Taycan Turbo GT like no other",
+          "link": "https://newsroom.porsche.com/en/2026/products/porsche-taycan-turbo-gt-sonderwunsch-nordicgoldmetallic-42868.html",
+          "date": "2026-07-16T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337611&w=1080&h=609&crop=1&public=1&cs=c10a9055b3bb78eb",
+          "summary": "Together with the Porsche Centre Lugano and the Sonderwunsch experts, an example of the most powerful Taycan ever made has been transformed into a car that also takes…"
+        },
+        {
+          "title": "Porsche at the 2026 Goodwood Festival of Speed",
+          "link": "https://newsroom.porsche.com/en/2026/company/porsche-goodwood-festival-of-speed-2026-42847.html",
+          "date": "2026-07-14T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337598&w=1080&h=609&crop=1&public=1&cs=c64208488ecc1e1a",
+          "summary": "Porsche Cars GB marked 75 years since the first Porsche arrived in the UK with a vibrant presence at the 2026 Goodwood Festival of Speed, bringing together heritage, performance,…"
+        },
+        {
           "title": "Exclusive brand experience at The Amundi Evian Championship 2026",
           "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-the-amundi-evian-championship-2026-42839.html",
           "date": "2026-07-13T10:00:00+00:00",
           "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337503&w=1080&h=609&crop=1&public=1&cs=0bede8eab87cd6ff",
           "summary": "Thanks to a historic round, the South Korean Haeran Ryu has won The Amundi Evian Championship. As Automotive and Mobility Partner, Dr. Ing. h.c. F. Porsche AG is shaping the golf…"
-        },
-        {
-          "title": "Impressive Collection: A Passion Spanning Generations",
-          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-garage-ivaylo-popivantchev-42826.html",
-          "date": "2026-07-10T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=336205&w=1080&h=609&crop=1&public=1&cs=ff52a3e3287a77d9",
-          "summary": "Ivaylo Popivantchev, a Porsche importer for Bulgaria and classic car enthusiast, shows us around Sofia, his city of birth, in a customized classic car."
-        },
-        {
-          "title": "Max Bögl – the Lord of the Rings",
-          "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-wind-energy-high-performance-concrete-max-boegl-42817.html",
-          "date": "2026-07-09T15:00:00+00:00",
-          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Company/Consulting-Max-Boegl-Windkraft/PCON_Boegl_Drohne_20251118_712649_MarcoProsch_HEADER_16_9.jpg/jcr:content/PCON_Boegl_Drohne_20251118_712649_MarcoProsch_HEADER_16_9.jpg",
-          "summary": "Using high-performance concrete and a smart concept, German construction group Max Bögl is setting new standards for sustainable energy."
-        },
-        {
-          "title": "Porsche delivers 122,306 sports cars in the first half of the year",
-          "link": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-first-half-2026-42820.html",
-          "date": "2026-07-09T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332558&w=1080&h=609&crop=1&public=1&cs=79e60f85ae5e9d80",
-          "summary": "Dr. Ing. h.c. F. Porsche AG delivered a total of 122,306 vehicles to customers in the first half of 2026 (previous year: 146,391), representing a decline of 16 per cent. The main…"
-        },
-        {
-          "title": "Why is the transaxle concept still so fascinating today?",
-          "link": "https://newsroom.porsche.com/en/2026/history/porsche-transaxle-models-944-cutaway-model-42011.html",
-          "date": "2026-07-08T07:00:00+00:00",
-          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/History/Transaxle-Concept/b-Tech1.jpg/jcr:content/b-Tech1.jpg",
-          "summary": "A successful sports car is defined by dynamism and balance. The transaxle design set new benchmarks."
-        },
-        {
-          "title": "The Amundi Evian Championship 2026 to feature Porsche Cayenne Turbo Electric as hole-in-one prize",
-          "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-the-amundi-evian-championship-2026-preview-42799.html",
-          "date": "2026-07-07T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337326&w=1080&h=609&crop=1&public=1&cs=e384585f284e32aa",
-          "summary": "At The Amundi Evian Championship from 9 to 12 July 2026, the world’s leading women golfers will gather at the Evian Resort Golf Club. Dr. Ing. h.c. F. Porsche AG is once again…"
-        },
-        {
-          "title": "Pascal Wehrlein takes championship lead in second Shanghai race",
-          "link": "https://newsroom.porsche.com/en/ppdb/2026/07/pascal-wehrlein-takes-championship-lead-in-second-shanghai-race.html",
-          "date": "2026-07-05T15:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337277&w=1080&h=609&crop=1&public=1&cs=60483fedef3b3aff",
-          "summary": "Pascal Wehrlein and Nico Müller secured a double points finish for the Porsche Formula E Team in Sunday’s ABB FIA Formula E World Championship Shanghai E-Prix. Finishing fourth,…"
-        },
-        {
-          "title": "Porsche Junior Flynt Schuring triumphs after action-packed Norisring race",
-          "link": "https://newsroom.porsche.com/en/ppdb/2026/07/porsche-junior-flynt-schuring-triumphs-after-action-packed-norisring-race.html",
-          "date": "2026-07-05T13:30:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337306&w=1080&h=609&crop=1&public=1&cs=173999b381b75acd",
-          "summary": "Spectators filling the grandstands at the Norisring witnessed a turbulent race in the Porsche Sixt Carrera Cup Deutschland on Sunday. Several collisions occurred on the narrow…"
-        },
-        {
-          "title": "Burton turns pole position into maiden Norisring victory",
-          "link": "https://newsroom.porsche.com/en/ppdb/2026/07/burton-turns-pole-position-into-maiden-norisring-victory.html",
-          "date": "2026-07-04T13:30:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337224&w=1080&h=609&crop=1&public=1&cs=919b1d5068817453",
-          "summary": "Gustav Burton (Forch Racing by Atlas Ward) celebrated his maiden victory in the Porsche Sixt Carrera Cup Deutschland on Saturday at the Norisring. The Briton started from pole…"
-        },
-        {
-          "title": "Pascal Wehrlein takes second win of the season in Shanghai",
-          "link": "https://newsroom.porsche.com/en/ppdb/2026/07/pascal-wehrlein-takes-second-win-of-the-season-in-shanghai.html",
-          "date": "2026-07-04T07:30:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=337197&w=1080&h=609&crop=1&public=1&cs=225e4a08bc4bd15d",
-          "summary": "Pascal Wehrlein took his second win of the season for the Porsche Formula E Team in Saturday’s ABB FIA Formula E World Championship Shanghai E-Prix. Jake Dennis and Felipe…"
         }
       ],
       "ok": true,
@@ -167,6 +167,48 @@
           "date": "2026-08-12T06:29:06+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "China’s car market may continue to be weak for some time, but BEVs remain fairly well-insulated from the pain. By Stewart Burnett The post China&#8217;s BEV sales grow in July,…"
+        },
+        {
+          "title": "ZF maps out commercial vehicle decarbonization strategy",
+          "link": "https://www.automotiveworld.com/news/zf-maps-out-commercial-vehicle-decarbonization-strategy/",
+          "date": "2026-08-12T04:35:52+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "ZF is betting that fleet decarbonization works best as a menu of powertrain choices rather than one fixed answer The post ZF maps out commercial vehicle decarbonization strategy…"
+        },
+        {
+          "title": "Hyundai Motor Group details progress on AI transformation",
+          "link": "https://www.automotiveworld.com/news/hyundai-motor-group-details-progress-on-ai-transformation/",
+          "date": "2026-08-12T04:30:46+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Hyundai frames AI transformation as years of infrastructure work now paying off across research, production and service The post Hyundai Motor Group details progress on AI…"
+        },
+        {
+          "title": "Autocrypt wins DEF CON 34 automotive cybersecurity contest",
+          "link": "https://www.automotiveworld.com/news/autocrypt-wins-def-con-34-automotive-cybersecurity-contest/",
+          "date": "2026-08-12T04:15:53+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Autocrypt is treating a hacking contest win as proof that AI agents belong inside real automotive cybersecurity work The post Autocrypt wins DEF CON 34 automotive cybersecurity…"
+        },
+        {
+          "title": "Nexteer unveils actuator for software-defined vehicles",
+          "link": "https://www.automotiveworld.com/news/nexteer-unveils-actuator-for-software-defined-vehicles/",
+          "date": "2026-08-12T04:10:50+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Nexteer is betting that freeing steering hardware from fixed layouts is what software-defined vehicles need next The post Nexteer unveils actuator for software-defined vehicles…"
+        },
+        {
+          "title": "Crash avoidance systems raise repair bills but cut claims",
+          "link": "https://www.automotiveworld.com/news/crash-avoidance-systems-raise-repair-bills-but-cut-claims/",
+          "date": "2026-08-12T04:05:42+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Insurance data suggests the real story of crash avoidance systems is the crashes they prevent, not the cost of fixing them The post Crash avoidance systems raise repair bills but…"
+        },
+        {
+          "title": "Ford and Lincoln owners gain AI assistant in existing apps",
+          "link": "https://www.automotiveworld.com/news/ford-and-lincoln-owners-gain-ai-assistant-in-existing-apps/",
+          "date": "2026-08-12T04:00:39+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The Ford AI assistant shows how automakers now see the owner app as the front line of the ownership experience The post Ford and Lincoln owners gain AI assistant in existing apps…"
         },
         {
           "title": "Nikkei: Tesla to expand Japan network 60% amid sales boom",
@@ -188,48 +230,6 @@
           "date": "2026-08-11T07:02:17+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Whether Imagry’s perception-only approach to autonomous public transit bears out will soon become apparent on German roads. By Stewart Burnett The post Imagry, UNVI launch…"
-        },
-        {
-          "title": "Bloomberg: GM to sell Indiana battery stake to Samsung SDI",
-          "link": "https://www.automotiveworld.com/news/bloomberg-gm-to-sell-indiana-battery-stake-to-samsung-sdi/",
-          "date": "2026-08-11T06:06:32+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Detroit Three continues to shed in-house battery capacity, and Korean battery manufacturers continue to buy it up. By Stewart Burnett The post Bloomberg: GM to sell Indiana…"
-        },
-        {
-          "title": "Ouster wins Utah lidar traffic management expansion deal",
-          "link": "https://www.automotiveworld.com/news/ouster-wins-utah-lidar-traffic-management-expansion-deal/",
-          "date": "2026-08-11T04:45:23+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The lidar traffic management deal shows Utah leaning on sensor data to help cut roadway deaths across the state The post Ouster wins Utah lidar traffic management expansion deal…"
-        },
-        {
-          "title": "EVgo, GM open flagship fast-charging station in Detroit",
-          "link": "https://www.automotiveworld.com/news/evgo-gm-open-flagship-fast-charging-station-in-detroit/",
-          "date": "2026-08-11T04:40:19+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The flagship charging site shows automakers and charging networks converging on stall count and speed to win EV drivers The post EVgo, GM open flagship fast-charging station in…"
-        },
-        {
-          "title": "Romania orders 22 more zero-emission buses from Solaris",
-          "link": "https://www.automotiveworld.com/topics/commercial-vehicle/romania-orders-22-more-zero-emission-buses-from-solaris/",
-          "date": "2026-08-11T04:35:58+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The zero-emission buses deal adds to Solaris's Romanian track record of more than 600 electric deliveries to date The post Romania orders 22 more zero-emission buses from Solaris…"
-        },
-        {
-          "title": "Munich Electrification unveils new solid-state relay",
-          "link": "https://www.automotiveworld.com/news/munich-electrification-unveils-new-solid-state-relay/",
-          "date": "2026-08-11T04:30:46+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The solid-state relay reflects a shift toward treating fleet uptime as a deciding purchase factor for electric trucks The post Munich Electrification unveils new solid-state relay…"
-        },
-        {
-          "title": "Aspire Biopharma completes DCS acquisition for $30m",
-          "link": "https://www.automotiveworld.com/news/aspire-biopharma-completes-dcs-acquisition-for-30m/",
-          "date": "2026-08-11T04:00:57+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The DCS acquisition hands Aspire a century-old automotive business with global manufacturing reach and blue-chip OEM ties The post Aspire Biopharma completes DCS acquisition for…"
         }
       ],
       "ok": true,
@@ -239,6 +239,27 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Dodge GLH hot hatch seeks to reignite brand with performance focus",
+          "link": "https://www.autonews.com/stellantis/dodge/an-dodge-ceo-product-outlook-0812/",
+          "date": "2026-08-12T10:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/DLlANoQ68t8Qsm6NHkC1adyYzoo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/6GNJSTRJIVFVBLGWPLDH6DTA5Y.jpg",
+          "summary": "“We don’t plan to enter any segment where we can’t attain best-in-class performance,\" Dodge CEO Matt McAlear told Automotive News."
+        },
+        {
+          "title": "UAW ex-presidents: Vote out Shawn Fain",
+          "link": "https://www.autonews.com/manufacturing/labor-unions/an-uaw-former-presidents-criticize-shawn-fain-0812/",
+          "date": "2026-08-12T10:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/x05WQYa_kQA4kShNWnc5JbjVbvQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BI7YRMLUH5GEJI2H75PTX57MNQ.JPG",
+          "summary": "Fifteen retired officials cited concerns about infighting, unfulfilled promises, and the hiring and firing of some staffers under President Shawn Fain."
+        },
+        {
+          "title": "Windsor’s ARDC continues to drive Stellantis’ next generation",
+          "link": "https://www.autonews.com/manufacturing/automakers/anc-stellantis-automotive-research-development-centre/",
+          "date": "2026-08-12T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ZEikweP_0E1Zm8kT_GjR7YqCo9E=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BTWWD4MAI5ATBCMV6F2ZTRUXX4.jpg",
+          "summary": "The Automotive Research and Development Centre (ARDC) in Windsor, Ont., has grown far beyond its original $30-million footprint."
+        },
         {
           "title": "Spain set to approve Chinese car plant despite alleged security concerns",
           "link": "https://www.autonews.com/manufacturing/ane-spain-saic-plant-defense-worries-0812/",
@@ -268,7 +289,7 @@
           "summary": "The move could help VW Group avoid emissions fines, as Porsche refocuses on combustion-engine cars and the sports-car maker's electric vehicle sales slump."
         },
         {
-          "title": "Chinese-made models fuel 16% sales gain in Europe’s midsize segment",
+          "title": "China-made models fuel 16% sales gain in Europe’s midsize segment",
           "link": "https://www.autonews.com/tesla/ane-segment-analysis-midsize-august-2026-0812/",
           "date": "2026-08-12T04:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/jPzVRE0mdGSsLljwxKD93BP8bQ8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/GSCYTKRALNALPKUKRS4P2NPGYI.jpg",
@@ -287,27 +308,6 @@
           "date": "2026-08-11T22:49:16+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/fIMfQuDwcLE6jlymEErdJC0BBU4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/76CWMJZ6G5GAXPTTVZNACGL4GU.jpg",
           "summary": "ACV Auctions, an online wholesale auto auction marketplace, is weighing a sale or partnership after takeover interest, joining CCC Intelligent Solutions among auto companies…"
-        },
-        {
-          "title": "GM and EVgo open flagship charging station near Detroit as partnerships drive charging infrastructure growth",
-          "link": "https://www.autonews.com/ev/an-evgo-gm-public-charging-0811/",
-          "date": "2026-08-11T20:49:36+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/X3IkTNMydGI_mqTYXPxJuZb629w=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/C3XJIUAE5RGWBLL65IXPBMJXII.jpg",
-          "summary": "GM and EVgo opened their flagship charging station in the parking lot of a Meijer supercenter in Warren, Mich., where EVgo CEO Badar Khan and William Hotchkiss, General Motors’…"
-        },
-        {
-          "title": "Todd Lawrence on keeping Subaru service customers loyal through transparency and trust",
-          "link": "https://www.autonews.com/retail/service-and-parts/an-q-and-a-subaru-fixed-ops-vp-0811/",
-          "date": "2026-08-11T20:02:09+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/T2Q8L1sI3dzbuWjYzB8gzzmMw90=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TR2HDYM4UJFBFLPEZXIQ6WSJPY.png",
-          "summary": "Todd Lawrence is the new vice president of loyalty and aftersales at Subaru of America — a new title for what was the fixed operations department. Lawrence's new title reflects…"
-        },
-        {
-          "title": "First Shift: Japanese manufacturing’s bigger U.S. presence",
-          "link": "https://www.autonews.com/video/first-shift-japanese-manufacturings-bigger-us-presence/",
-          "date": "2026-08-11T19:36:52+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/FBvC0zTobBRNstf9dvEpiaJrUoM=/0x800/d3qtc8km8dvw1x.cloudfront.net/08-11-2026/t_3ddd340366ff471788301902dafbf2ff_name_file_960x540_1600_v4_.jpg",
-          "summary": "Protections for service members’ vehicles | VW strategy: Pickup built in U.S. | GM and Unifor: Cami paint shop’s needs"
         }
       ],
       "ok": true,
@@ -488,6 +488,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Pusan National University develops 3D printing method for switchable soft actuators",
+          "link": "https://3dprintingindustry.com/news/pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators-253748/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators",
+          "date": "2026-08-12T08:59:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at Pusan National University (PNU) and Oak Ridge National Laboratory (ORNL) have developed a 3D printable liquid crystal elastomer that can be programmed to either…"
+        },
+        {
+          "title": "New $6M Award Targets Tough Refractory AM Challenges",
+          "link": "https://3dprintingindustry.com/news/new-6m-award-targets-tough-refractory-am-challenges-253735/?utm_source=rss&utm_medium=rss&utm_campaign=new-6m-award-targets-tough-refractory-am-challenges",
+          "date": "2026-08-12T08:57:34+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $6 million to four project teams tasked with developing high-temperature…"
+        },
+        {
           "title": "University of Melbourne and CSIRO Win Race2Space LOX Bipropellant Category",
           "link": "https://3dprintingindustry.com/news/university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category-253678/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category",
           "date": "2026-08-11T14:30:00+00:00",
@@ -542,20 +556,6 @@
           "date": "2026-08-11T08:34:11+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "Construction group Matthäi Schlüsselfertigbau has established an in-house construction 3D printing division following the completion of its own headquarters in Selsingen, Lower…"
-        },
-        {
-          "title": "Artec 3D Launches Point II: Updated Metrology Laser Scanner",
-          "link": "https://3dprintingindustry.com/news/artec-3d-launches-point-ii-updated-metrology-laser-scanner-253711/?utm_source=rss&utm_medium=rss&utm_campaign=artec-3d-launches-point-ii-updated-metrology-laser-scanner",
-          "date": "2026-08-11T08:33:37+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Artec 3D, a 3D scanning hardware and software company, has released the Artec Point II, the second generation of its handheld, target-based laser scanner for industrial metrology,…"
-        },
-        {
-          "title": "Hydrogen’s Metal Compatibility Challenge Draws New Industry Research",
-          "link": "https://3dprintingindustry.com/news/hydrogens-metal-compatibility-challenge-draws-new-industry-research-253669/?utm_source=rss&utm_medium=rss&utm_campaign=hydrogens-metal-compatibility-challenge-draws-new-industry-research",
-          "date": "2026-08-10T10:42:09+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Industrial 3D printing firm EOS has joined MAT-H2, a consortium of ten organizations working to advance metallic materials and technologies that can withstand hydrogen…"
         }
       ],
       "ok": true,
@@ -1389,6 +1389,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Memory effects in nanoparticle suspensions",
+          "link": "https://physicsworld.com/a/memory-effects-in-nanoparticle-suspensions/",
+          "date": "2026-08-12T08:40:00+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Researchers uncover how memory effects arise in electrically aligned nanoparticles in suspension and use this understanding to accelerate relaxation The post Memory effects in…"
+        },
+        {
+          "title": "When topology meets entanglement",
+          "link": "https://physicsworld.com/a/when-topology-meets-entanglement/",
+          "date": "2026-08-12T08:38:10+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "New research explores how a material’s unusual topological behaviour is connected to the way quantum states are shared between different parts of its lattice The post When…"
+        },
+        {
           "title": "Artificial blood vessels grow with the help of mechanical forces",
           "link": "https://physicsworld.com/a/artificial-blood-vessels-grow-with-the-help-of-mechanical-forces/",
           "date": "2026-08-12T08:00:16+00:00",
@@ -1443,20 +1457,6 @@
           "date": "2026-08-07T13:19:17+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
           "summary": "Artificial intelligence is radically changing how researchers in some disciplines work The post AI model helps physics Nobel laureate out of a decade-old mathematical jam appeared…"
-        },
-        {
-          "title": "New material was created in Hiroshima nuclear explosion",
-          "link": "https://physicsworld.com/a/new-material-was-created-in-hiroshima-nuclear-explosion/",
-          "date": "2026-08-06T15:15:04+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Rapid cooling locked in unusual crystal structure in silicon-rich metal alloy The post New material was created in Hiroshima nuclear explosion appeared first on Physics World ."
-        },
-        {
-          "title": "Building bridges between quantum and classical computing",
-          "link": "https://physicsworld.com/a/building-bridges-between-quantum-and-classical-computing/",
-          "date": "2026-08-06T13:23:38+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Yonatan Cohen of Quantum Machines is our podcast guest The post Building bridges between quantum and classical computing appeared first on Physics World ."
         }
       ],
       "ok": true,
@@ -1466,6 +1466,20 @@
       "name": "Phys.org Space",
       "cat": "space",
       "items": [
+        {
+          "title": "How to design a space habitat that supports its residents' mental health",
+          "link": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
+          "date": "2026-08-12T09:00:04+00:00",
+          "image": null,
+          "summary": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health and safety. This is especially…"
+        },
+        {
+          "title": "Total solar eclipse to spellbind Europe",
+          "link": "https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html",
+          "date": "2026-08-12T08:40:01+00:00",
+          "image": null,
+          "summary": "Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime…"
+        },
         {
           "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
           "link": "https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html",
@@ -1521,20 +1535,6 @@
           "date": "2026-08-11T14:40:01+00:00",
           "image": null,
           "summary": "I'll admit to using AI for things it was probably never designed for. When my van threw a fault I couldn't immediately figure out—one that seems notorious for trips back and forth…"
-        },
-        {
-          "title": "A smarter way to track satellites beyond Earth's orbit",
-          "link": "https://phys.org/news/2026-08-smarter-track-satellites-earth-orbit.html",
-          "date": "2026-08-11T13:00:05+00:00",
-          "image": null,
-          "summary": "Most current space activities operate close to Earth in what is called near–Earth orbit. However, as more satellites and other infrastructure begin to extend beyond that region,…"
-        },
-        {
-          "title": "Rocket debris crashed into the moon—why this could threaten future lunar bases",
-          "link": "https://phys.org/news/2026-08-rocket-debris-moon-threaten-future.html",
-          "date": "2026-08-10T21:20:09+00:00",
-          "image": null,
-          "summary": "In the early hours of Wednesday morning, Aug. 5, the upper stage of a Falcon 9 rocket crashed into the moon in an uncontrolled collision."
         }
       ],
       "ok": true,
@@ -1630,6 +1630,62 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Who put all these banjos in my sci-fi game?",
+          "link": "https://www.polygon.com/video/who-put-all-these-banjos-in-my-sci-fi-game/",
+          "date": "2026-08-12T10:05:38+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/who-put-all-these-banjos-in-my-sci-fi-game.jpg",
+          "summary": "Why have the recent crop of science fiction video games all sounded so... rustic? Do they have more in common than just a country-fried soundtrack?"
+        },
+        {
+          "title": "X-Men ’97 Season 3 Confirmed? Plot, Potential Release Date, and Everything You Need to Know",
+          "link": "https://www.polygon.com/x-men-97-season-3-release-date-plot-explained/",
+          "date": "2026-08-12T10:00:11+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/x-men97s2-trailer-0400_205.jpg",
+          "summary": "The Disney Plus series is setting up for some dark comics arcs with iconic villains."
+        },
+        {
+          "title": "Why Nier: Automata has one of the best soundtracks ever",
+          "link": "https://www.polygon.com/video/why-nier-automata-has-one-of-the-best-soundtracks-ever/",
+          "date": "2026-08-12T09:55:06+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/why-nier-automata-has-one-of-the-best-soundtracks-ever.jpeg",
+          "summary": "Nier: Automata is a game about robots and androids that want nothing more than to be human. That theme is revealed through the game's incredible soundtrack. Read more about…"
+        },
+        {
+          "title": "I fixed Fallout's music by creating a totally new genre | Unraveled",
+          "link": "https://www.polygon.com/video/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-unraveled/",
+          "date": "2026-08-12T09:50:42+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-1.jpg",
+          "summary": "Fallout's lore has one massive problem: the music hasn't changed in centuries. So Brian David Gilbert unraveled a totally new genre of music that should be heard in the wasteland."
+        },
+        {
+          "title": "Crystal Chronicles Has the Best Final Fantasy Music",
+          "link": "https://www.polygon.com/video/crystal-chronicles-has-the-best-final-fantasy-music/",
+          "date": "2026-08-12T09:40:47+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/crystal-chronicles-has-the-best-final-fantasy-music.jpeg",
+          "summary": "Does Final Fantasy Crystal Chronicles, a game long forgotten in the Final Fantasy series, have the best soundtrack of all of the games? Brian thinks so. Let him convince you."
+        },
+        {
+          "title": "Why Journey's last song was the hardest for Austin Wintory to compose",
+          "link": "https://www.polygon.com/video/why-journey-s-last-song-was-the-hardest-for-austin-wintory-to-compose/",
+          "date": "2026-08-12T09:30:40+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/why-journey-s-last-song-was-the-hardest-for-austin-wintory-to-compose.jpg",
+          "summary": "Composing Journey's soundtrack was a Journey in itself. *wink* Composer Austin Wintory sat down with us for an interview to explain how this creative process gave us Journey’s…"
+        },
+        {
+          "title": "How The Sims Made New-Age Jazz Piano the Soundtrack of Our Lives",
+          "link": "https://www.polygon.com/video/how-the-sims-made-new-age-jazz-piano-the-soundtrack-of-our-lives/",
+          "date": "2026-08-12T09:23:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/how-the-sims-made-new-age-jazz-piano-the-soundtrack-of-our-lives.jpeg",
+          "summary": "The Sims soundtrack is an iconic piece of video game music, and the build mode's minimalist new age jazz piano songs are undoubtedly among it's most famous tracks. We spoke to…"
+        },
+        {
+          "title": "Xbox CEO teases The Elder Scrolls 6's title and praises the game's scale and story",
+          "link": "https://www.polygon.com/the-elder-scrolls-6-title-asha-sharma-xbox/",
+          "date": "2026-08-12T09:11:27+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7903467/ESOMorrowind_Stills_Vvardenfell.jpg",
+          "summary": "Asha Sharma played The Elder Scrolls 6, and she just gave us a big clue about the game's full title."
+        },
+        {
           "title": "Pokémon Winds and Waves Massive Leak May Finally Make Series Haters Happy",
           "link": "https://www.polygon.com/pokemon-winds-waves-new-directors-tani-ichiraku-ohmori/",
           "date": "2026-08-12T07:59:30+00:00",
@@ -1642,62 +1698,6 @@
           "date": "2026-08-12T07:01:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/xmen97s2_207_1001.jpg",
           "summary": "A breakdown of all the Easter eggs and season 3 teasers"
-        },
-        {
-          "title": "Overwatch Season 4’s Battle Pass Changes Make You Grind Even More for Free Currency",
-          "link": "https://www.polygon.com/overwatch-battle-pass-season-4-changes-free-currency-locked/",
-          "date": "2026-08-11T21:30:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/overwatch-battle-pass-season-4-changes-free-currency-locked.jpg",
-          "summary": "Overwatch's season 4 battle pass rework locks free currency at the end of the pass, so it's harder for you to obtain unless you pay"
-        },
-        {
-          "title": "Nintendo Officially Confirms Legend of Zelda: Ocarina of Time Remake",
-          "link": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-switch-2-announcement/",
-          "date": "2026-08-11T20:35:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake-release-date-window.jpg",
-          "summary": "The Legend of Zelda: Ocarina of Time remake is coming to Nintendo Switch 2 in 2026, giving fans of the 1998 a new way to play the Zelda classic."
-        },
-        {
-          "title": "'Lord of the Rings: War in the North' Just Shadow Dropped, and More Remasters Have Been Teased",
-          "link": "https://www.polygon.com/lord-rings-war-north-surprise-remaster-aspyr/",
-          "date": "2026-08-11T20:24:21+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/lotr_rotk_4k_3840x1600_300dpi_02-jpg.jpg",
-          "summary": "A 2011 Lord of the Rings video game shadow dropped on Tuesday. Developer Aspyr has teased it could release more LOTR remasters in the future."
-        },
-        {
-          "title": "'Overwatch’ Season 4 Makes a Controversial Change to Lifeweaver’s Life Grip",
-          "link": "https://www.polygon.com/overwatch-lifeweaver-signature-ability-change/",
-          "date": "2026-08-11T20:04:19+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24558246/Overwatch_2_Lifeweaver_win_pose.jpg",
-          "summary": "Lifeweaver’s signature ability works differently in Season 4, and some mains fear the change could undermine its lifesaving potential."
-        },
-        {
-          "title": "'House of the Dragon' Star Officially Breaks Silence About Season 4",
-          "link": "https://www.polygon.com/house-of-the-dragon-season-3-steve-toussaint-interview/",
-          "date": "2026-08-11T19:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/corlys-velaryon.jpg",
-          "summary": "Steve Toussaint breaks down the season 3 finale and tells us everything he knows about House of the Dragon season 4."
-        },
-        {
-          "title": "The Sims 4 Will Be Getting Major Free Content Drops in the Near Future",
-          "link": "https://www.polygon.com/sims-4-free-content-update-anniversary-event/",
-          "date": "2026-08-11T18:54:04+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/sims-4-enchanted-by-nature.png",
-          "summary": "The Sims 4 has revealed that a massive free content update is coming soon, including new outfits, furniture, decor, and hairstyles."
-        },
-        {
-          "title": "Luke Skywalker and Captain America Will Officially Join Forces in New Star Wars-Marvel Crossover",
-          "link": "https://www.polygon.com/new-marvel-and-star-wars-crossover-finally-brings-darth-vader-face-to-face-with-doctor-doom/",
-          "date": "2026-08-11T18:46:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24523663/34__967_.jpg",
-          "summary": "Star Wars and Marvel are crossing over for the first time in Hope Assembles, bringing Luke Skywalker, Captain America, Darth Vader, and more together."
-        },
-        {
-          "title": "‘Crimson Desert’ Dev Finally Reveals DLC Release Window, and It’s Soon",
-          "link": "https://www.polygon.com/crimson-desert-dlc-switch-2-release-windows/",
-          "date": "2026-08-11T18:37:42+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/crimson-desert-impressions-2.jpg",
-          "summary": "Pearl Abyss' hit action RPG will also come to Nintendo Switch 2 in less than a year"
         }
       ],
       "ok": true,
@@ -1707,6 +1707,20 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Xbox CEO Asha Sharma's internal playthrough of The Elder Scrolls 6 disrupted by a giant inflatable rat, as Bethesda union protests cuts",
+          "link": "https://www.eurogamer.net/elder-scrolls-6-giant-inflatable-rat",
+          "date": "2026-08-12T09:16:25+00:00",
+          "image": "https://assetsio.gnwcdn.com/giant-rat-bethesda.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "An early internal preview of The Elder Scrolls 6 by Xbox CEO Asha Sharma was met by a giant inflatable rat, looming over the Bethesda offices in Rockville, Maryland. Read more"
+        },
+        {
+          "title": "Halo: Campaign Evolved struggles to sell in anywhere near the quantities the recent Black Ops revivals did, and the probable reason? Lack of multiplayer",
+          "link": "https://www.eurogamer.net/halo-campaign-evolved-launch-sales-numbers",
+          "date": "2026-08-12T08:50:25+00:00",
+          "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-avery-johnson-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Halo: Campaign Evolved - the remake of the original Halo 1 campaign and the first Halo game released on PlayStation - has struggled to sell in meaningful quantities, and the…"
+        },
         {
           "title": "Much-wishlisted 100-player shooter Wardogs gets an early access release date and promises refunds for anyone unhappy with the closed beta",
           "link": "https://www.eurogamer.net/wardogs-steam-early-access-release-date-closed-beta",
@@ -1762,20 +1776,6 @@
           "date": "2026-08-11T10:08:11+00:00",
           "image": "https://assetsio.gnwcdn.com/big-walk_xLnZ15h.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Developer House House's collaborative puzzle-solving and hangout game par excellence, Big Walk, has found encouraging commercial success. Publisher Panic announced on Bluesky that…"
-        },
-        {
-          "title": "Marvel Tōkon's dire PC performance improved massively by new patch, drastically reducing CPU use and stutters",
-          "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-new-patch-fixes-pc-problems",
-          "date": "2026-08-11T09:20:22+00:00",
-          "image": "https://assetsio.gnwcdn.com/marvel-tokon-spiderman.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Marvel T&amp;omacrkon: Fighting Souls has struggled with some serious technical problems on PC ever since its release last week, resulting in a disparity between console owners…"
-        },
-        {
-          "title": "Marvel's Spider-Man 2 just had its biggest sales boost in years thanks to Brand New Day",
-          "link": "https://www.eurogamer.net/spider-man-2-brand-new-day-film-sales-boost",
-          "date": "2026-08-11T08:41:36+00:00",
-          "image": "https://assetsio.gnwcdn.com/spider-man-2-brand-new-day-costume-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "In yet another example of a successful film or TV show raising the profile of a related game , Hollywood blockbuster Spider-Man: Brand New Day has brought new players to the…"
         }
       ],
       "ok": true,
@@ -1864,6 +1864,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "All Haul The King is a co-op comedy corpse-dragging simulator from the makers of Eclipsium, one of 2025's best horror games",
+          "link": "https://www.rockpapershotgun.com/all-haul-the-king-is-a-co-op-comedy-corpse-dragging-simulator-from-the-makers-of-eclipsium-one-of-2025s-best-horror-games",
+          "date": "2026-08-12T09:43:17+00:00",
+          "image": "https://assetsio.gnwcdn.com/All-Haul-The-King.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "\"That game with the massive dead body was created using generative AI! \" roared the masses. \"Oh shucks,\" said I , \"Don't worry, I'll soon find another massive dead body game to…"
+        },
+        {
           "title": "Spaceship bullet heaven Seven Suns of Orion has what Vampire Survivors lacks: semi-Newtonian physics and railguns",
           "link": "https://www.rockpapershotgun.com/spaceship-bullet-heaven-seven-suns-of-orion-has-what-vampire-survivors-lacks-semi-newtonian-physics-and-railguns",
           "date": "2026-08-12T08:00:00+00:00",
@@ -1925,13 +1932,6 @@
           "date": "2026-08-11T15:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/20260801233439_1.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "In Bit Reactor's XCOM-style tactics RPG Star Wars: Zero Company , you play a custom character called Hawks who is referred to using they/them pronouns. With my armchair producer…"
-        },
-        {
-          "title": "Knytt, one of 2006's most charming indie platformers, has a surprise Steam re-release - and it’s still free",
-          "link": "https://www.rockpapershotgun.com/knytt-one-of-2006s-most-charming-indie-platformers-has-a-surprise-steam-re-release-and-its-still-free",
-          "date": "2026-08-11T13:35:05+00:00",
-          "image": "https://assetsio.gnwcdn.com/Knytt-Classic-cloud-town.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "2006 saw, among such other major events as analogue TV being switched off in Luxembourg, the release of Knytt : a breezy freeware platformer in which you spend a nice couple of…"
         }
       ],
       "ok": true,
@@ -2176,6 +2176,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Pearl Abyss Q2 earnings decline as impact of Crimson Desert's launch period subsides",
+          "link": "https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides",
+          "date": "2026-08-12T09:51:42+00:00",
+          "image": "https://assetsio.gnwcdn.com/crimson-desert_qeGiIrb.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Pearl Abyss reported a weaker second quarter as the initial impact of Crimson Desert's March launch has tapered off. Read more"
+        },
+        {
+          "title": "UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class",
+          "link": "https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class",
+          "date": "2026-08-12T08:59:53+00:00",
+          "image": "https://assetsio.gnwcdn.com/roblox_cqbIpFT.webp?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "UKIE-backed educational non-profit Digital Schoolhouse has partnered with Roblox to develop a suite of free tools designed to teach children how to create Roblox games as part of…"
+        },
+        {
           "title": "Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity",
           "link": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
           "date": "2026-08-11T14:05:37+00:00",
@@ -2230,20 +2244,6 @@
           "date": "2026-08-10T17:46:04+00:00",
           "image": "https://assetsio.gnwcdn.com/Steam-Machine-(3).png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Valve has begun notifying European customers who ordered Steam hardware that their personal information may have been exposed following a cyberattack on CEVA Logistics, the…"
-        },
-        {
-          "title": "HandyGames rebrands as THQ Nordic Mobile",
-          "link": "https://www.gamesindustry.biz/handygames-rebrands-as-thq-nordic-mobile",
-          "date": "2026-08-10T17:10:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/unnamed_1b5enZ9.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "HandyGames has rebranded as THQ Nordic Mobile, with the publisher shifting its focus toward bringing premium PC and console titles to mobile platforms. Read more"
-        },
-        {
-          "title": "Leaked emails reveal Blizzard is Xbox's top-performing studio for FY26",
-          "link": "https://www.gamesindustry.biz/leaked-emails-reveal-blizzard-is-xboxs-top-performing-studio-for-fy26",
-          "date": "2026-08-10T16:07:39+00:00",
-          "image": "https://assetsio.gnwcdn.com/activision-blizzard_40rWCHD.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Blizzard closed Microsoft's 2026 fiscal year as the best-performing studio within Xbox Game Studios, according to internal emails obtained and verified by Windows Central . Read…"
         }
       ],
       "ok": true,
@@ -2253,6 +2253,13 @@
       "name": "Game Developer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
+          "link": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
+          "date": "2026-08-12T08:45:10+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltc19154e57e34af53/6a7c330fc3b93315efe98ecd/Scabby.png?width=720&quality=80&disable=upscale",
+          "summary": "It would be difficult to ignore the giant inflatable rat on the lawn."
+        },
         {
           "title": "Report: Crossfire dev That's No Moon lays off 14 staff",
           "link": "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff",
@@ -2315,13 +2322,6 @@
           "date": "2026-08-10T15:02:54+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png?width=720&quality=80&disable=upscale",
           "summary": "Fenris Creations (formerly known as CCP Games) went independent earlier this year and secured a minority investment from Google."
-        },
-        {
-          "title": "Unity credits AI advertising platform for driving its 'best quarter ever'",
-          "link": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
-          "date": "2026-08-10T13:46:23+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?width=720&quality=80&disable=upscale",
-          "summary": "Unity's revenue grew 24 percent year-over-year thanks to revenue from Unity Vector AI."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US Marines to host a four-day ‘AI hackathon’ to reinvent how troops are trained for war",
+          "link": "https://interestingengineering.com/military/us-marine-corps-ai-hackathon",
+          "date": "2026-08-12T09:31:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/AI-Hackathon.jpg",
+          "summary": "The US Marine Corps has announced a four-day hackathon to build AI prototypes aimed at..."
+        },
+        {
           "title": "New shape-shifting 3D-printed soft actuator stretches or contracts when heated",
           "link": "https://interestingengineering.com/science/new-shape-shifting-3d-printed-soft-actuator-stretches-or-contracts-when-heated",
           "date": "2026-08-12T01:22:45+00:00",
@@ -2471,13 +2478,6 @@
           "date": "2026-08-11T18:58:19+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-12T001059.283.jpg",
           "summary": "Elon Musk&#8217;s xAI wants Grok to do more than answer questions. Its new Grok Bot..."
-        },
-        {
-          "title": "New $472M electronic brain rewires aging CH-47 Chinook helicopters for new missions",
-          "link": "https://interestingengineering.com/military/ch-47-chinook-472m-avionics-upgrade",
-          "date": "2026-08-11T18:09:05+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T230547.085.jpg",
-          "summary": "The U.S. Army is putting up to $472 million behind a new push to keep..."
         }
       ],
       "ok": true,
@@ -2580,7 +2580,14 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+          "title": "How we picked 35 of the world’s top young scientists and engineers",
+          "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+          "date": "2026-08-12T09:08:40+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
+          "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking…"
+        },
+        {
+          "title": "How the “censorship-industrial complex” is changing the internet and US policy",
           "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
           "date": "2026-08-11T17:58:57+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
@@ -2641,13 +2648,6 @@
           "date": "2026-08-06T12:10:00+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/2_digitalselves_photocredit_JonathanReus.jpg?fit=2128,1196",
           "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being…"
-        },
-        {
-          "title": "Puzzle Corner",
-          "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-          "date": "2026-08-05T14:56:29+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka…"
         }
       ],
       "ok": true,
