@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T21:47:36.235327+00:00",
+  "updated": "2026-08-13T22:43:20.762018+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "How VW plans to cut model range to free up cash for innovation",
+          "link": "https://www.autonews.com/volkswagen/ane-vw-model-lineup-cuts-cost-savings-0814/",
+          "date": "2026-08-13T22:29:29+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/yIcF4oYaftQMW4C62scZqhovlXk=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5ABGACTGJNAAZNH4YM4D6OW4XU.jpg",
+          "summary": "VW CFO Arno Antlitz explained in an internal document why reducing product complexity across VW, Audi, Porsche and other brands will help the group reach its 8 to 10 percent…"
+        },
+        {
           "title": "Customer Incentives – 08/17/26",
           "link": "https://www.autonews.com/data-center/sales-data/incentives/an-u-s-customer-incentives-august-17-2026/",
           "date": "2026-08-13T20:49:25+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-13T17:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/lqY8tABxCGSZ0chy9FfO6jhgk00=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/VPCPGCPLNVAPHCMNGZGPROAFZU.jpg",
           "summary": "The low-slung Nexera Vision concept sits wide and planted with an extended front end that dials up the sporty vibe."
-        },
-        {
-          "title": "Chargers are failing less — and that’s helping to make EVs more popular",
-          "link": "https://www.autonews.com/ev/an-jd-power-ev-charger-study-0813/",
-          "date": "2026-08-13T16:54:28+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Vw6gMwSg45Q_aJGWqk485RU99Fw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FPJZRKFGCNAQ5JAP7HBHYMO6SU.png",
-          "summary": "New, higher-speed chargers, larger charging sites and destination-style locations are making failed charging attempts less common, JD Power found."
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Volkmann highlights vDryer powder conditioning for metal AM workflows",
-          "link": "https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows",
-          "date": "2026-08-13T06:53:38+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting…"
-        },
-        {
-          "title": "Hybrid Manufacturing Workflows: Integrating Industrial 3D Printing with Precision Subtractive Finishing",
-          "link": "https://3dprintingindustry.com/news/hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing-253737/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing",
-          "date": "2026-08-13T06:38:07+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Discover how combining industrial 3D printing, 5-axis CNC post-processing, and vacuum casting bridge tooling optimizes mechanical tolerances and accelerates lead times. Metal AM…"
-        },
-        {
-          "title": "Save Big on Revopoint 3D Scanners This August",
-          "link": "https://3dprintingindustry.com/news/save-big-on-revopoint-3d-scanners-this-august-253743/?utm_source=rss&utm_medium=rss&utm_campaign=save-big-on-revopoint-3d-scanners-this-august",
-          "date": "2026-08-12T10:43:53+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Somewhere right now, a mechanical engineering student is staring at a parts bin full of legacy components that don’t have CAD files. The assignment is reverse engineering, and the…"
-        },
-        {
-          "title": "America Makes names nine 2026 Ambassadors  and presented its 2026 Distinguished Collaborator Award",
-          "link": "https://3dprintingindustry.com/news/america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award-253768/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award",
-          "date": "2026-08-12T10:43:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "America Makes named nine additive manufacturing Ambassadors and presented its 2026 Distinguished Collaborator Award to Brett Conner, Ph.D., Chief Manufacturing Officer at the…"
-        },
-        {
-          "title": "Coachella Installation Tests Distributed LFAM as Caracol and Decibel Print One File in Two Locations",
-          "link": "https://3dprintingindustry.com/news/coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations-253763/?utm_source=rss&utm_medium=rss&utm_campaign=coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations",
-          "date": "2026-08-12T10:43:14+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "New Jersey-based design and production studio Decibel Made and Italian robotic manufacturing company Caracol produced 30 large-format 3D printed benches for SKYLRK OASIS at…"
-        },
-        {
-          "title": "3D Systems opens CEO search as Jeffrey Graves prepares to retire",
-          "link": "https://3dprintingindustry.com/news/3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire-253755/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire",
-          "date": "2026-08-12T10:42:50+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Jeff-Graves-768x960.jpg-150x100.avif",
-          "summary": "Provider of additive manufacturing solutions 3D Systems has opened a search for its next president and chief executive, with Dr. Jeffrey Graves set to leave both the executive…"
-        },
-        {
-          "title": "Pusan National University develops 3D printing method for switchable soft actuators",
-          "link": "https://3dprintingindustry.com/news/pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators-253748/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators",
-          "date": "2026-08-12T08:59:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers at Pusan National University (PNU) and Oak Ridge National Laboratory (ORNL) have developed a 3D printable liquid crystal elastomer that can be programmed to either…"
-        },
-        {
-          "title": "New $6M Award Targets Tough Refractory AM Challenges",
-          "link": "https://3dprintingindustry.com/news/new-6m-award-targets-tough-refractory-am-challenges-253735/?utm_source=rss&utm_medium=rss&utm_campaign=new-6m-award-targets-tough-refractory-am-challenges",
-          "date": "2026-08-12T08:57:34+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $6 million to four project teams tasked with developing high-temperature…"
-        },
-        {
-          "title": "University of Melbourne and CSIRO Win Race2Space LOX Bipropellant Category",
-          "link": "https://3dprintingindustry.com/news/university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category-253678/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category",
-          "date": "2026-08-11T14:30:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "A three-person student team from the University of Melbourne has hot-fired a 3D printed regeneratively cooled liquid bipropellant rocket engine at Race2Space in the UK, taking…"
-        },
-        {
-          "title": "Snowbird Technologies manufactures 316L parts aboard USS Essex during RIMPAC 2026",
-          "link": "https://3dprintingindustry.com/news/snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026-253695/?utm_source=rss&utm_medium=rss&utm_campaign=snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026",
-          "date": "2026-08-11T13:30:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Snowbird Technologies, a Florida-based developer of ruggedized manufacturing systems, has produced 316L stainless steel components aboard the USS Essex (LHD-2) during the Rim of…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -1034,6 +963,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+          "link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+          "date": "2026-08-13T22:00:00+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&amp;ssl=1",
+          "summary": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone The post Space Force awards…"
+        },
+        {
           "title": "Space Command expands Alabama footprint as headquarters relocation advances",
           "link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
           "date": "2026-08-13T16:27:05+00:00",
@@ -1095,13 +1031,6 @@
           "date": "2026-08-12T22:00:00+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&amp;ssl=1",
           "summary": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations…"
-        },
-        {
-          "title": "Golden Dome creates digital hub to expand commercial participation",
-          "link": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
-          "date": "2026-08-12T14:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/9819415-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-          "summary": "The Golden Dome ‘ecosystem hub’ allows companies to request information and submit ideas The post Golden Dome creates digital hub to expand commercial participation appeared first…"
         }
       ],
       "ok": true,
@@ -1268,6 +1197,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "The Rooms We Build To Survive In, And The Ones We Build To Live In",
+          "link": "https://www.universetoday.com/articles/the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in",
+          "date": "2026-08-13T22:09:03+00:00",
+          "image": "https://www.universetoday.com/article_images/jsc2023e038523_20260813_220550.jpg",
+          "summary": "What does a home actually need to do for us, beyond keeping the weather out? Engineers at MIT have started mapping the answer for astronauts heading to the Moon and Mars, tracing…"
+        },
+        {
+          "title": "The Ingredients For Planets Turned Up Astonishingly Early",
+          "link": "https://www.universetoday.com/articles/the-ingredients-for-planets-turned-up-astonishingly-early",
+          "date": "2026-08-13T21:56:00+00:00",
+          "image": "https://www.universetoday.com/article_images/HL_Tau_protoplanetary_disk_20260813_215108.jpg",
+          "summary": "Planet building was supposed to be one of the universe's slow projects, something that only got going billions of years after the Big Bang. New research suggests otherwise. The…"
+        },
+        {
           "title": "A Massive Stream of Gas Tilted This Planet-Forming Disk",
           "link": "https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk",
           "date": "2026-08-13T18:51:25+00:00",
@@ -1322,20 +1265,6 @@
           "date": "2026-08-11T22:55:27+00:00",
           "image": "https://www.universetoday.com/article_images/moon-base_20260811_225046.webp",
           "summary": "The surface of the Moon is a bleak and forbidding place that might be hiding a lot of water ice on and under the dusty landscape. However, most possible ice deposits don't just…"
-        },
-        {
-          "title": "Europa's Interior Ocean Could be Harder to Reach Than We Thought",
-          "link": "https://www.universetoday.com/articles/europas-interior-ocean-may-harbor-life-but-could-be-hard-to-reach-says-new-research",
-          "date": "2026-08-11T22:29:00+00:00",
-          "image": "https://www.universetoday.com/article_images/europa_20260811_222345.jpg",
-          "summary": "Lujendra Ojha, a planetary scientist, led a study suggesting that Europa’s icy shell may be a stronger barrier between the moon’s hidden ocean and its surface than previously…"
-        },
-        {
-          "title": "Every Snowflake Needs a Speck of Dust and So Do Planets",
-          "link": "https://www.universetoday.com/articles/every-snowflake-needs-a-speck-of-dust-and-so-do-planets",
-          "date": "2026-08-11T21:33:44+00:00",
-          "image": "https://www.universetoday.com/article_images/Allende_meteorite_20260811_212829.jpg",
-          "summary": "A snowflake cannot form out of nothing. Water vapour will sit in the air quite happily, supercooled and reluctant, until it finds a speck of dust to build on and then it…"
         }
       ],
       "ok": true,
@@ -1467,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Synchronized star pairs unleash radio bursts via a Jupiter-Io-like mechanism",
+          "link": "https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html",
+          "date": "2026-08-13T22:00:04+00:00",
+          "image": null,
+          "summary": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in…"
+        },
+        {
           "title": "Proposed 900-telescope array could detect an Earth-like exoplanet's atmosphere in a single transit",
           "link": "https://phys.org/news/2026-08-telescope-array-earth-exoplanet-atmosphere.html",
           "date": "2026-08-13T21:40:01+00:00",
@@ -1528,13 +1464,6 @@
           "date": "2026-08-12T19:00:08+00:00",
           "image": null,
           "summary": "To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the…"
-        },
-        {
-          "title": "Skies darken as solar eclipse heads south from Arctic to Spain",
-          "link": "https://phys.org/news/2026-08-skies-darken-solar-eclipse-south.html",
-          "date": "2026-08-12T18:55:47+00:00",
-          "image": null,
-          "summary": "One of nature's greatest spectacles—a rare total solar eclipse—cast its shadow on Wednesday, briefly turning day into night in Russia's remote Arctic north and western Iceland…"
         }
       ],
       "ok": true,
@@ -1864,6 +1793,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Invisum Piscium 嫌魚 is a dreamlike walking sim about fragments of conversations and a deep craving for water fish haven't procreated in",
+          "link": "https://www.rockpapershotgun.com/invisum-piscium-is-a-dreamlike-walking-sim-about-fragments-of-conversations-and-a-deep-craving-for-water-fish-havent-procreated-in",
+          "date": "2026-08-13T21:54:43+00:00",
+          "image": "https://assetsio.gnwcdn.com/Invisum-Piscium.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "I won't dive into why this is happening to me at the moment, you'll either need to pay me &pound;20 or let me pay you to be my therapist to get that explanation, but I've been…"
+        },
+        {
           "title": "Five years after acquiring Oxenfree developer Night School Studio, Netflix are shutting them down",
           "link": "https://www.rockpapershotgun.com/five-years-after-acquiring-oxenfree-developer-night-school-studio-netflix-are-shutting-them-down",
           "date": "2026-08-13T20:29:25+00:00",
@@ -1925,13 +1861,6 @@
           "date": "2026-08-13T11:31:00+00:00",
           "image": "https://assetsio.gnwcdn.com/big-walk_SehR2QP.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "I&rsquo;ve spent something like seven hours in funny-thinky cooperative puzzler Big Walk , and the concept of more Big Walk is something that confounds and, just a little bit,…"
-        },
-        {
-          "title": "Twitch are scraping streams for AI training by default, and even their own execs don’t know what user data may have been swept up",
-          "link": "https://www.rockpapershotgun.com/twitch-are-scraping-streams-for-ai-training-by-default-and-even-their-own-execs-dont-know-what-user-data-may-have-been-swept-up",
-          "date": "2026-08-13T10:01:24+00:00",
-          "image": "https://assetsio.gnwcdn.com/twitch-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Livestreaming giants Twitch have admitted using streamed content to train the generative AI models of parent company Amazon. While it&rsquo;s not clear when the platform began…"
         }
       ],
       "ok": true,
@@ -1941,6 +1870,20 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Shoutout to this particular skeleton, who researchers believe is the first confirmed case of being totally obliterated by a trebuchet",
+          "link": "https://www.pcgamer.com/games/shoutout-to-this-particular-skeleton-who-researchers-believe-is-the-first-confirmed-case-of-being-totally-obliterated-by-a-trebuchet/",
+          "date": "2026-08-13T22:02:10+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Vd93fDso2xEcGsMBnzs22n-1280-80.jpg",
+          "summary": "Mordre is so wlatsom and abhomynable."
+        },
+        {
+          "title": "Nightdive's System Shock remake is coming to VR",
+          "link": "https://www.pcgamer.com/games/vr/nightdives-system-shock-remake-is-coming-to-vr/",
+          "date": "2026-08-13T21:52:13+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/77QSq5tehS5WK2G3DyXi4o-1280-80.jpg",
+          "summary": "Strap Shodan on your face. Insect."
+        },
         {
           "title": "This spy game is a dream come true if you love spending time in character creators",
           "link": "https://www.pcgamer.com/games/puzzle/this-spy-game-is-a-dream-come-true-if-you-love-spending-time-in-character-creators/",
@@ -1996,20 +1939,6 @@
           "date": "2026-08-13T16:07:17+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/f5vTBj2gh6AEntetLjhRzi-1280-80.jpg",
           "summary": "Take a snap with some sunflowers."
-        },
-        {
-          "title": "How Stephen King watching a train hit a kid led to Kiefer Sutherland making his videogame horse crap on command: A PC Gamer Causality Chain™",
-          "link": "https://www.pcgamer.com/games/how-stephen-king-watching-a-train-hit-a-kid-led-to-kiefer-sutherland-making-his-videogame-horse-crap-on-command-a-pc-gamer-causality-chaintm/",
-          "date": "2026-08-13T15:34:45+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/sv7tVAP9BGBYzYkGfbXayP-1280-80.jpg",
-          "summary": "Many of our greatest works are downstream of terrible woe."
-        },
-        {
-          "title": "Where to find the Shimanoyama region Treasure Hunt in Forza Horizon 6",
-          "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-shimanoyama-region-location/",
-          "date": "2026-08-13T15:28:05+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/x847xghdGEGnqyCcjpRAs5-1280-80.jpg",
-          "summary": "Locate this treasure chest near a race track."
         }
       ],
       "ok": true,
@@ -2098,6 +2027,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Skatesterre: Where Classic Arcade Skateboarding Meets a New Generation",
+          "link": "https://news.xbox.com/en-us/2026/08/13/skatesterre-where-classic-arcade-skateboarding-meets-a-new-generation/",
+          "date": "2026-08-13T22:00:00+00:00",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/20260527_Skatesterre_screenshot_07-ac2dda65c92243f09d55-1024x576.jpg",
+          "summary": "I’m Dieter from Headup, and together with Goon Squad we created Skatesterre, an arcade skateboarding game that takes you back to the golden era of the genre. Today, I will tell…"
+        },
+        {
           "title": "The Gears of War: E-Day Open Beta is Available Now for Everyone",
           "link": "https://www.xbox.com/en-US/games/store/gears-of-war-e-day-multiplayer-beta/9nhlzs3g6d8h#new_tab",
           "date": "2026-08-13T19:00:00+00:00",
@@ -2159,13 +2095,6 @@
           "date": "2026-08-11T17:00:00+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Grounded-2-MOUNTAIN-efa051793fbbdde11fac-1024x576.jpg",
           "summary": "There&#8217;s more to Brookhollow Park than meets the eye With the Into the Abyss update, Grounded 2&#8217;s biggest content update yet, you&#8217;ll discover an entirely new side…"
-        },
-        {
-          "title": "Star Wars Zero Company: A New Hope for Turn-Based Tactics",
-          "link": "https://news.xbox.com/en-us/2026/08/11/star-wars-zero-company-preview/",
-          "date": "2026-08-11T14:00:00+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/SWZC_HD_Lead-Clone-War-Operatives_Clean-1d077268d70813829c0b-1024x576.jpg",
-          "summary": "When I spoke with the Creative Director and Lead Designer of Star Wars Zero Company earlier this summer, I left extremely excited about the promise of a turn-based tactics game…"
         }
       ],
       "ok": true,
@@ -2330,14 +2259,92 @@
     {
       "name": "IEEE Spectrum",
       "cat": "engineering",
-      "items": [],
-      "ok": false,
-      "error": "HTTPSConnectionPool(host='spectrum.ieee.org', port=443): Read timed out. (read timeout=12)"
+      "items": [
+        {
+          "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+          "link": "https://spectrum.ieee.org/product-engineer",
+          "date": "2026-08-13T14:44:50+00:00",
+          "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980",
+          "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product…"
+        },
+        {
+          "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+          "link": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+          "date": "2026-08-12T14:18:05+00:00",
+          "image": "https://assets.rbl.ms/67607900/origin.png",
+          "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production. Download this free whitepaper…"
+        },
+        {
+          "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+          "link": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+          "date": "2026-08-11T19:50:54+00:00",
+          "image": "https://spectrum.ieee.org/media-library/a-middle-aged-white-woman-receiving-a-gift-of-a-folded-white-cloth-from-a-younger-asian-woman.jpg?id=67605013&width=980",
+          "summary": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the…"
+        },
+        {
+          "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
+          "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+          "date": "2026-08-11T13:00:01+00:00",
+          "image": "https://spectrum.ieee.org/media-library/on-the-left-a-man-in-a-collared-shirt-stands-smiling-with-hands-in-his-pockets-and-lab-equipment-in-the-background-on-the-ri.jpg?id=67598580&width=980",
+          "summary": "In a tranquil Boston suburb , on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a…"
+        },
+        {
+          "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
+          "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+          "date": "2026-08-07T18:00:01+00:00",
+          "image": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=980",
+          "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires…"
+        },
+        {
+          "title": "Cars Communicating Badly Is an Already-Solved Problem",
+          "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
+          "date": "2026-08-07T13:00:01+00:00",
+          "image": "https://spectrum.ieee.org/media-library/an-illustration-of-two-cars-with-cell-towers-on-top-communicating-via-speech-bubbles.jpg?id=67571736&width=980",
+          "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back , in part, to a team of Australian radio…"
+        },
+        {
+          "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+          "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+          "date": "2026-08-05T18:00:03+00:00",
+          "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=980",
+          "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme…"
+        },
+        {
+          "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
+          "link": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
+          "date": "2026-08-04T14:51:55+00:00",
+          "image": "https://assets.rbl.ms/67571651/origin.png",
+          "summary": "This report examines R&amp;D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&amp;D budget is…"
+        },
+        {
+          "title": "The System That Turned Paper Charts Into Digital Medical Records",
+          "link": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
+          "date": "2026-08-03T18:00:02+00:00",
+          "image": "https://spectrum.ieee.org/media-library/1960s-color-photograph-of-a-white-woman-waiting-as-a-middle-aged-white-male-doctor-uses-a-stylus-to-navigate-her-health-record.png?id=67567697&width=980",
+          "summary": "Most hospitals and health care providers use electronic health records instead of paper charts to note patient vaccinations, diagnoses, and procedures. AthenaOne , Epic , and…"
+        },
+        {
+          "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+          "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+          "date": "2026-08-03T11:38:22+00:00",
+          "image": "https://assets.rbl.ms/67522155/origin.png",
+          "summary": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Interesting Engineering",
       "cat": "engineering",
       "items": [
+        {
+          "title": "US targets 4,000 tons of nuclear fuel recycling with new $2.5 million funding push",
+          "link": "https://interestingengineering.com/energy/curio-nuclear-fuel-recycling-doe-funding",
+          "date": "2026-08-13T22:34:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/GettyImages-2040829550_c3a63d.jpg",
+          "summary": "Nuclear energy company Curio has secured $2.5 million in new U.S. Department of Energy funding..."
+        },
         {
           "title": "Researchers’ cheaper, more-efficient method turn rock into potassium fertilizer",
           "link": "https://interestingengineering.com/science/efficient-method-turn-rock-into-potassium-fertilizer",
@@ -2400,13 +2407,6 @@
           "date": "2026-08-13T17:17:37+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-F-15E.jpg",
           "summary": "A new account of the April shootdown of a U.S. Air Force F-15E Strike Eagle..."
-        },
-        {
-          "title": "US nuclear reactor hot cell clears 10,000 pounds of legacy gear for advanced testing",
-          "link": "https://interestingengineering.com/innovation/us-nuclear-reactor-hot-cell",
-          "date": "2026-08-13T15:53:24+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-25.jpg",
-          "summary": "The Hot Fuel Examination Facility (HFEF), located at Idaho National Laboratory&#8217;s (INL) Materials and Fuels..."
         }
       ],
       "ok": true,
@@ -2509,6 +2509,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+          "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "date": "2026-08-13T21:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
+          "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress…"
+        },
+        {
           "title": "Building a practical path to post-quantum cryptography",
           "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
           "date": "2026-08-13T18:11:42+00:00",
@@ -2570,13 +2577,6 @@
           "date": "2026-08-12T09:08:40+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
           "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking…"
-        },
-        {
-          "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-          "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-          "date": "2026-08-11T17:58:57+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on…"
         }
       ],
       "ok": true,
@@ -2679,6 +2679,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "$10.5M Settlement Ends George Washington Bridge Debris Liability Fight",
+          "link": "https://www.enr.com/articles/63494-105m-settlement-ends-george-washington-bridge-debris-liability-fight",
+          "date": "2026-08-13T21:45:14+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/08/13/GWB---Top-of-Fold.jpeg.webp?t=1786659232",
+          "summary": "After a piece of steel from a truck's suspension pierced a motorist’s windshield and caused serious head injury, years of litigation have scrutinized bridge maintenance practices,…"
+        },
+        {
           "title": "ENR New England Announces 2026 Excellence in Sustainability Award Winners",
           "link": "https://www.enr.com/blogs/48-east-construction-views/post/63493-enr-new-england-announces-2026-excellence-in-sustainability-award-winners",
           "date": "2026-08-13T20:29:44+00:00",
@@ -2710,7 +2717,7 @@
           "title": "Hensel Phelps Lands $309M Contract to Restore Oahu’s Red Hill Water Source",
           "link": "https://www.enr.com/articles/63486-hensel-phelps-lands-309m-contract-to-restore-oahus-red-hill-water-source",
           "date": "2026-08-13T15:02:17+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/12/Hensel-Phelps---NAVFAC.webp?t=1786633331",
+          "image": "https://www.enr.com/ext/resources/2026/08/12/Hensel-Phelps---NAVFAC.webp?t=1786657588",
           "summary": "Project will replace years of temporary operations at Red Hill, where difficult terrain adds heavy civil work to the water-system recovery."
         },
         {
@@ -2740,13 +2747,6 @@
           "date": "2026-08-12T17:35:09+00:00",
           "image": "https://www.enr.com/ext/resources/2026/08/12/Xylem-MA.webp?t=1786555353",
           "summary": "CEO Matthew Pine told ENR earlier this year that Xylem was planning aggressive spending on acquisitions to expand its portfolio of technologies to address global water demands."
-        },
-        {
-          "title": "Court Says Enbridge Pipeline Trespasses on Native Land",
-          "link": "https://www.enr.com/articles/63471-appeals-court-upholds-enbridge-trespass-backs-line-5-reroute-without-new-deadline",
-          "date": "2026-08-12T14:48:43+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/11/Aug.11L_MvvVuF.webp?t=1786565390",
-          "summary": "Why does a federal appeals court say Enbridge needs a “reasonable opportunity” to build a $1-billion pipeline in northwest Wisconsin?"
         }
       ],
       "ok": true,
