@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T06:17:35.260880+00:00",
+  "updated": "2026-08-13T08:22:24.979627+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -162,6 +162,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Ford to reshore Lincoln Nautilus production from China to US",
+          "link": "https://www.automotiveworld.com/news/ford-to-reshore-lincoln-nautilus-production-from-china-to-us/",
+          "date": "2026-08-13T07:38:51+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Ford openly admits it is bowing to US Commerce Department pressure, but it will take time for a concrete plan to emerge. By Stewart Burnett The post Ford to reshore Lincoln…"
+        },
+        {
           "title": "Mini launches fully electric range in Pakistan, back in Jordan",
           "link": "https://www.automotiveworld.com/news/mini-launches-fully-electric-range-in-pakistan-back-in-jordan/",
           "date": "2026-08-13T04:30:35+00:00",
@@ -223,13 +230,6 @@
           "date": "2026-08-12T04:45:55+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "The EVO ECU Platform shows Stoneridge chasing the same software-defined architecture trend now reshaping passenger cars The post Stoneridge to debut EVO ECU Platform at IAA…"
-        },
-        {
-          "title": "BYD Ti 7 seven-seat SUV brings DM-p hybrid power to UK",
-          "link": "https://www.automotiveworld.com/news/byd-ti-7-seven-seat-suv-brings-dm-p-hybrid-power-to-uk/",
-          "date": "2026-08-12T04:40:52+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Pricing the Ti 7 from £47,995 shows BYD chasing volume in the UK seven-seat SUV segment rather than a niche debut The post BYD Ti 7 seven-seat SUV brings DM-p hybrid power to UK…"
         }
       ],
       "ok": true,
@@ -318,6 +318,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "GM And LG Restart EV Battery Production In Ohio After Seven-Month Shutdown",
+          "link": "https://insideevs.com/news/804775/gm-lg-ultium-cells-production-restart-ohio/",
+          "date": "2026-08-13T08:02:36+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/bggXbM/s3/ultium-cells-llc-battery-plant-in-warren-ohio.jpg",
+          "summary": "The Ultium Cells factory in Warren, Ohio, was idled at the beginning of 2026 due to a drop in EV demand."
+        },
+        {
           "title": "Study: DC Fast Charging Satisfaction Is Up, And Ionna Takes The Top Spot",
           "link": "https://insideevs.com/news/804743/ev-charging-satifsfaction-2026-jdpower/",
           "date": "2026-08-12T22:10:56+00:00",
@@ -379,13 +386,6 @@
           "date": "2026-08-12T06:25:47+00:00",
           "image": "https://cdn.motor1.com/images/mgl/Qe7pY1/s3/jaguar-type-01-das-interieur-teaserbilder.jpg",
           "summary": "The controversial electric grand tourer has four individual seats and a “central spine” that runs the entire length of the cabin."
-        },
-        {
-          "title": "Tesla Roadster Is Supposedly (Once Again) Coming 'Very Soon'",
-          "link": "https://insideevs.com/news/804554/tesla-roadster-very-soon-again/",
-          "date": "2026-08-11T20:46:27+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/Oo3bgl/s3/tesla-roadster.jpg",
-          "summary": "Have you been holding your breath for the last 9 years? A little more won't hurt."
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "Volkmann highlights vDryer powder conditioning for metal AM workflows",
+          "link": "https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows",
+          "date": "2026-08-13T06:53:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting…"
+        },
+        {
+          "title": "Hybrid Manufacturing Workflows: Integrating Industrial 3D Printing with Precision Subtractive Finishing",
+          "link": "https://3dprintingindustry.com/news/hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing-253737/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing",
+          "date": "2026-08-13T06:38:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Discover how combining industrial 3D printing, 5-axis CNC post-processing, and vacuum casting bridge tooling optimizes mechanical tolerances and accelerates lead times. Metal AM…"
+        },
+        {
+          "title": "Save Big on Revopoint 3D Scanners This August",
+          "link": "https://3dprintingindustry.com/news/save-big-on-revopoint-3d-scanners-this-august-253743/?utm_source=rss&utm_medium=rss&utm_campaign=save-big-on-revopoint-3d-scanners-this-august",
+          "date": "2026-08-12T10:43:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Somewhere right now, a mechanical engineering student is staring at a parts bin full of legacy components that don’t have CAD files. The assignment is reverse engineering, and the…"
+        },
+        {
+          "title": "America Makes names nine 2026 Ambassadors  and presented its 2026 Distinguished Collaborator Award",
+          "link": "https://3dprintingindustry.com/news/america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award-253768/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award",
+          "date": "2026-08-12T10:43:31+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes named nine additive manufacturing Ambassadors and presented its 2026 Distinguished Collaborator Award to Brett Conner, Ph.D., Chief Manufacturing Officer at the…"
+        },
+        {
+          "title": "Coachella Installation Tests Distributed LFAM as Caracol and Decibel Print One File in Two Locations",
+          "link": "https://3dprintingindustry.com/news/coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations-253763/?utm_source=rss&utm_medium=rss&utm_campaign=coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations",
+          "date": "2026-08-12T10:43:14+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "New Jersey-based design and production studio Decibel Made and Italian robotic manufacturing company Caracol produced 30 large-format 3D printed benches for SKYLRK OASIS at…"
+        },
+        {
+          "title": "3D Systems opens CEO search as Jeffrey Graves prepares to retire",
+          "link": "https://3dprintingindustry.com/news/3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire-253755/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire",
+          "date": "2026-08-12T10:42:50+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Jeff-Graves-768x960.jpg-150x100.avif",
+          "summary": "Provider of additive manufacturing solutions 3D Systems has opened a search for its next president and chief executive, with Dr. Jeffrey Graves set to leave both the executive…"
+        },
+        {
+          "title": "Pusan National University develops 3D printing method for switchable soft actuators",
+          "link": "https://3dprintingindustry.com/news/pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators-253748/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators",
+          "date": "2026-08-12T08:59:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at Pusan National University (PNU) and Oak Ridge National Laboratory (ORNL) have developed a 3D printable liquid crystal elastomer that can be programmed to either…"
+        },
+        {
+          "title": "New $6M Award Targets Tough Refractory AM Challenges",
+          "link": "https://3dprintingindustry.com/news/new-6m-award-targets-tough-refractory-am-challenges-253735/?utm_source=rss&utm_medium=rss&utm_campaign=new-6m-award-targets-tough-refractory-am-challenges",
+          "date": "2026-08-12T08:57:34+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $6 million to four project teams tasked with developing high-temperature…"
+        },
+        {
+          "title": "University of Melbourne and CSIRO Win Race2Space LOX Bipropellant Category",
+          "link": "https://3dprintingindustry.com/news/university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category-253678/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category",
+          "date": "2026-08-11T14:30:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A three-person student team from the University of Melbourne has hot-fired a 3D printed regeneratively cooled liquid bipropellant rocket engine at Race2Space in the UK, taking…"
+        },
+        {
+          "title": "Snowbird Technologies manufactures 316L parts aboard USS Essex during RIMPAC 2026",
+          "link": "https://3dprintingindustry.com/news/snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026-253695/?utm_source=rss&utm_medium=rss&utm_campaign=snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026",
+          "date": "2026-08-11T13:30:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Snowbird Technologies, a Florida-based developer of ruggedized manufacturing systems, has produced 316L stainless steel components aboard the USS Essex (LHD-2) during the Rim of…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -828,11 +899,11 @@
           "summary": "Video: 00:05:08 [English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for…"
         },
         {
-          "title": "A total solar eclipse is coming to Europe",
-          "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
-          "date": "2026-08-11T12:30:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_total_solar_eclipse_is_coming_to_europe/27412432-3-eng-GB/A_total_solar_eclipse_is_coming_to_Europe_card_full.png",
-          "summary": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is…"
+          "title": "Sophie Adenot’s first spacewalk",
+          "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk",
+          "date": "2026-08-11T08:00:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_first_spacewalk/27407635-1-eng-GB/Sophie_Adenot_s_first_spacewalk_card_full.png",
+          "summary": "Video: 00:00:44 ESA astronaut Sophie Adenot will take part in her first-ever spacewalk during U.S. Spacewalk 97 set for 18 August 2026. Together with&nbsp;NASA astronaut Anil…"
         },
         {
           "title": "Dust and water spotted close to giant black hole",
@@ -920,18 +991,18 @@
           "summary": "A distant black hole star is providing strong evidence that these objects lie at the hearts of the mysterious little red dots found shortly after the Big Bang by the James Webb…"
         },
         {
-          "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-          "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
-          "date": "2026-08-12T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/zCUhzcQoCVkdDXpb6arPy7-1280-80.jpg",
-          "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission."
-        },
-        {
           "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
           "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
           "date": "2026-08-12T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/Yvp9NJQZd2wKNqQdi5uh6n-1280-80.png",
           "summary": "A shot so spectacular it will leave other astrophotographers green with envy."
+        },
+        {
+          "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
+          "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
+          "date": "2026-08-12T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zCUhzcQoCVkdDXpb6arPy7-1280-80.jpg",
+          "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission."
         },
         {
           "title": "Perseid meteor shower peaks under perfect skies tonight — here's what to expect",
@@ -1318,6 +1389,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Crystal symmetry controls hydrogen’s quantum tunnelling",
+          "link": "https://physicsworld.com/a/crystal-symmetry-controls-hydrogens-quantum-tunnelling/",
+          "date": "2026-08-13T08:00:28+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Discovery could support the development of safer and more efficient hydrogen storage media The post Crystal symmetry controls hydrogen’s quantum tunnelling appeared first on…"
+        },
+        {
           "title": "Knowing through uncertainty: probability and the evolution of our cosmos",
           "link": "https://physicsworld.com/a/knowing-through-uncertainty-probability-and-the-evolution-of-our-cosmos/",
           "date": "2026-08-12T14:00:55+00:00",
@@ -1379,13 +1457,6 @@
           "date": "2026-08-10T10:00:22+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
           "summary": "Fairer criteria must be used when recruiting doctoral students The post Why physics should move beyond prestige in PhD admissions appeared first on Physics World ."
-        },
-        {
-          "title": "Artificially rotating system reflects radiation like a black hole",
-          "link": "https://physicsworld.com/a/artificially-rotating-system-reflects-radiation-like-a-black-hole/",
-          "date": "2026-08-10T07:30:39+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Rotational super-radiance observed for twisted radio waves The post Artificially rotating system reflects radiation like a black hole appeared first on Physics World ."
         }
       ],
       "ok": true,
@@ -1637,6 +1708,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store \"monopoly\"",
+          "link": "https://www.eurogamer.net/stop-killing-games-consumer-rights-lawsuit-netherlands-sony-playstation-monopoly",
+          "date": "2026-08-13T08:21:53+00:00",
+          "image": "https://assetsio.gnwcdn.com/stop-killing-games-eu-v2.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Stop Killing Games, the grassroots initiative fighting to prevent game publishers from shutting down servers without offering an alternative, has joined a lawsuit filed in the…"
+        },
+        {
           "title": "Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future",
           "link": "https://www.eurogamer.net/sam-barlow-immortality-precognition-brandon-cronenberg",
           "date": "2026-08-12T19:30:00+00:00",
@@ -1698,13 +1776,6 @@
           "date": "2026-08-12T11:49:44+00:00",
           "image": "https://assetsio.gnwcdn.com/meccha-chameleon.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Meccha Chameleon, the indie hide-and-seek game that launched on Steam two months ago , has cemented itself as one of the year's biggest hits. The game's developer posted a sales…"
-        },
-        {
-          "title": "Smilegate will rescue Lost Ark's western servers, as Amazon ditches support while retreating from MMO development",
-          "link": "https://www.eurogamer.net/amazon-smilegate-lost-ark-servers",
-          "date": "2026-08-12T11:18:46+00:00",
-          "image": "https://assetsio.gnwcdn.com/lost-ark-best-class-9201-1646758585227.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Amazon Game Studios has announced it will no longer support the Western game servers for massively-multiplayer online action role-playing game Lost Ark , from 2027 onwards. Read…"
         }
       ],
       "ok": true,
@@ -2130,7 +2201,7 @@
           "link": "https://www.gamesindustry.biz/mmorpg-throne-and-liberty-transitions-from-amazon-game-studios-to-nc-formerly-ncsoft",
           "date": "2026-08-12T13:07:48+00:00",
           "image": "https://assetsio.gnwcdn.com/throne-and-liberty.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Throne and Liberty's global publishing service will transfer from Amazon Game Studios to NC (formerly NCSoft). Read more"
+          "summary": "Update, August 13, 2026: Amazon Game Studios has ended its publishing deal with Smilegate's MMO Lost Ark. Read more"
         },
         {
           "title": "How Planet of Lana became a hit through dogged determination after being rejected \"hundreds\" of times",
@@ -2339,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US’ hypersonic programs to get major boost, new deal to deliver battle-ready engineering",
+          "link": "https://interestingengineering.com/military/us-hypersonic-programs-battle-ready-engineering",
+          "date": "2026-08-13T07:29:48+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/hyper-h.jpg",
+          "summary": "Lockheed Martin has joined hands with an advanced composite material company, Albany Engineered Composites. The..."
+        },
+        {
           "title": "Scientists’ new tech could help cement plants remove CO2 from atmosphere",
           "link": "https://interestingengineering.com/innovation/cement-plants-remove-co2-from-atmosphere",
           "date": "2026-08-13T01:25:24+00:00",
@@ -2400,13 +2478,6 @@
           "date": "2026-08-12T19:02:26+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/orlando.jpg",
           "summary": "Orlando is moving ahead with plans for a roughly $2 billion smart city that will..."
-        },
-        {
-          "title": "SunHydrogen modules exceed 10% solar-to-hydrogen efficiency in testing",
-          "link": "https://interestingengineering.com/energy/sunhydrogen-modules-solar-to-hydrogen-efficiency",
-          "date": "2026-08-12T18:20:35+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Solar-hydrogen-module.jpg",
-          "summary": "SunHydrogen says its hydrogen-producing modules have exceeded 10% solar-to-hydrogen efficiency in testing with Australian company..."
         }
       ],
       "ok": true,
