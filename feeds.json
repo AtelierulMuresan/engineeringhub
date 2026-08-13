@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T23:42:45.075826+00:00",
+  "updated": "2026-08-13T02:05:36.873384+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Automotive News Classifieds",
+          "link": "https://www.autonews.com/classifieds/automotive-news-classifieds/",
+          "date": "2026-08-12T23:54:06+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/YpI6mdkxnQg4QoVMZnVpjVE4Kw8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MVQWKS2DPRHGRKD2JQ3FF4XQNM.png",
+          "summary": "Automotive News Classifieds"
+        },
+        {
           "title": "Ford will move production of some Lincoln models from China to U.S. due to tariffs",
           "link": "https://www.autonews.com/ford/lincoln/an-ford-lincoln-china-us-production-0812/",
           "date": "2026-08-12T22:58:13+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-12T16:22:38+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/haYX5a6TLRUyS90jDBs15YlX3VU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QGNDN5CQBNCZDD4EJPXZP3JP7Y.jpg",
           "summary": "The American International Automobile Dealers Association explains its stance on Chinese automakers, citing national security risks and state-backed pricing pressure on the U.S.…"
-        },
-        {
-          "title": "Holler-Classic dealership group enters South Carolina",
-          "link": "https://www.autonews.com/retail/mergers-acquisitions/an-holler-classic-enters-south-carolina-0812/",
-          "date": "2026-08-12T15:47:55+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/AWGwF90niUFDXpMD_50QX4-habI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QYSIR4RPFFBHBBC56OEY5T3E4Q.jpg",
-          "summary": "Holler-Classic Family of Dealerships also has stores in Florida."
         }
       ],
       "ok": true,
@@ -805,80 +805,9 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [
-        {
-          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-          "date": "2026-07-31T17:11:14+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
-          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
-        },
-        {
-          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
-          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
-          "date": "2026-07-22T18:47:05+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
-          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
-        },
-        {
-          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-          "date": "2026-07-20T18:54:44+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
-          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
-        },
-        {
-          "title": "NASA Pushes New Wing Design to Find Structural Limits",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-          "date": "2026-07-17T23:08:33+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
-          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
-        },
-        {
-          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
-          "date": "2026-07-15T21:56:38+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
-          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
-        },
-        {
-          "title": "NASA Jets Turn Red, White, and Blue",
-          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
-          "date": "2026-07-14T17:13:53+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
-        },
-        {
-          "title": "NASA Study Points to Smoother Air Taxi Rides",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-          "date": "2026-07-13T21:46:11+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
-          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
-        },
-        {
-          "title": "NASA Photographer Captures Images from F-18 Over Washington",
-          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
-          "date": "2026-07-10T16:36:14+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
-        },
-        {
-          "title": "A Day of Flight Testing at NASA Armstrong",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
-          "date": "2026-06-30T19:27:13+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
-        },
-        {
-          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
-          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
-          "date": "2026-06-29T20:38:23+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lrc-2026-ocio-p-01883-image-1.jpg",
-          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
     },
     {
       "name": "ESA Top News",
@@ -991,18 +920,18 @@
           "summary": "A distant black hole star is providing strong evidence that these objects lie at the hearts of the mysterious little red dots found shortly after the Big Bang by the James Webb…"
         },
         {
-          "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
-          "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
-          "date": "2026-08-12T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Yvp9NJQZd2wKNqQdi5uh6n-1280-80.png",
-          "summary": "A shot so spectacular it will leave other astrophotographers green with envy."
-        },
-        {
           "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
           "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
           "date": "2026-08-12T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/zCUhzcQoCVkdDXpb6arPy7-1280-80.jpg",
           "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission."
+        },
+        {
+          "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
+          "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
+          "date": "2026-08-12T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Yvp9NJQZd2wKNqQdi5uh6n-1280-80.png",
+          "summary": "A shot so spectacular it will leave other astrophotographers green with envy."
         },
         {
           "title": "Perseid meteor shower peaks under perfect skies tonight — here's what to expect",
@@ -1033,6 +962,13 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "Virgin Galactic delays resumption of commercial flights to 2027",
+          "link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
+          "date": "2026-08-13T01:46:10+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/vg-spaceship-aug26.jpeg?fit=1024%2C576&amp;ssl=1",
+          "summary": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months. The post Virgin Galactic delays resumption of…"
+        },
         {
           "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
           "link": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
@@ -1095,13 +1031,6 @@
           "date": "2026-08-11T22:01:21+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/GuetleinSMD.png?fit=1024%2C570&amp;ssl=1",
           "summary": "Gen. Michael Guetlein says Congress must find a way to finance the next phase as most initial funding is already committed The post Golden Dome faces 2027 funding cliff appeared…"
-        },
-        {
-          "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
-          "link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
-          "date": "2026-08-11T21:01:02+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/isaacman-inl.jpeg?fit=1024%2C768&amp;ssl=1",
-          "summary": "NASA officials say they are confident in plans to launch a nuclear electric propulsion demonstration mission by the end of 2028 after visiting the national lab building the…"
         }
       ],
       "ok": true,
@@ -1630,6 +1559,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Cities Skylines meets Balatro in the excellent new roguelike city builder Combolands",
+          "link": "https://www.polygon.com/combolands-demo-preview-impressions/",
+          "date": "2026-08-13T01:31:30+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/combolands-indie-roguelike-city-builder.jpg",
+          "summary": "Combolands combines the combo-chaining thrills of Balatro with the strategic placement of Cities: Skylines"
+        },
+        {
+          "title": "Xbox Gamers Can Play Co-Op RPG Sunderfolk for a Limited Time",
+          "link": "https://www.polygon.com/xbox-free-games-sunderfolk-tabletop-rgp-couch-coop/",
+          "date": "2026-08-12T23:51:30+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/sunderfolk-arden.jpg",
+          "summary": "Sunderfolk, the co-op tactical RPG from former Blizzard developers at Secret Door, is free to play on Xbox for a limited time."
+        },
+        {
           "title": "After 2 Years, My Hero Academia's Creator Finally Returns With a Near-Perfect Follow-Up",
           "link": "https://www.polygon.com/horikoshi-horror-manga-quit-laughing-shijima-review/",
           "date": "2026-08-12T23:00:12+00:00",
@@ -1684,20 +1627,6 @@
           "date": "2026-08-12T19:29:33+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/liam-neeson-in-the-land-of-saints-and-sinners.jpg",
           "summary": "Liam Neeson’s 2024 thriller ‘In the Land of Saints and Sinners’ is a Netflix hit, reaching No. 3 in the U.S. and No. 7 worldwide."
-        },
-        {
-          "title": "All large lost sunken relics list in Pokémon Pokopia",
-          "link": "https://www.polygon.com/pokemon-pokopia-lost-sunken-relics-dlc-list-how-to-get/",
-          "date": "2026-08-12T19:24:42+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokopia_guide_relics_header.jpg",
-          "summary": "Here's a list of large lost sunken relics in Pokémon Pokopia Bubbly Basin DLC and how to get them."
-        },
-        {
-          "title": "Is 'The End of Oak Street' a Cloverfield Spin-Off? A Spoiler Free Guide",
-          "link": "https://www.polygon.com/the-end-of-oak-street-ending-cloverfield-spin-off/",
-          "date": "2026-08-12T19:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13625058/Screen_Shot_2018_12_13_at_4.53.27_PM__2_.png",
-          "summary": "With JJ Abrams and Bad Robot Productions in the picture, fans are certain that 'The End of Oak Street' has a connection to the 'Cloverfield' franchise"
         }
       ],
       "ok": true,
@@ -1942,6 +1871,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Saber CEO scorns writer who says she was fired in favor of AI with confusing, combative statement",
+          "link": "https://www.pcgamer.com/gaming-industry/game-development/saber-ceo-scorns-writer-who-says-she-was-fired-in-favor-of-ai-with-confusing-combative-statement/",
+          "date": "2026-08-13T01:46:36+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/4ZpyyPxBnPLU6EPFmTsHkD-1280-80.png",
+          "summary": "The comments are \"remarkably pathetic,\" the writer said in response."
+        },
+        {
+          "title": "Big Walk devs talk the Australian bush and friendslop: 'I'd prefer the second word wasn't slop'",
+          "link": "https://www.pcgamer.com/games/puzzle/big-walk-devs-talk-the-australian-bush-and-friendslop-id-prefer-the-second-word-wasnt-slop/",
+          "date": "2026-08-13T00:39:10+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZbyFbmsY6DA6JbAbdGcgFF-1280-80.jpg",
+          "summary": "The open world was based on a real world national park."
+        },
+        {
+          "title": "Big Walk review",
+          "link": "https://www.pcgamer.com/games/puzzle/big-walk-review/",
+          "date": "2026-08-12T23:47:02+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/SbJCXcFCShieMaQrMjTDf7-1280-80.jpg",
+          "summary": "Explore an island full of puzzles with a few of your friends."
+        },
+        {
           "title": "Take-Two won't reveal raw GTA 6 preorder numbers because it doesn't know what they mean: 'It's just never happened before'",
           "link": "https://www.pcgamer.com/games/grand-theft-auto/take-two-wont-reveal-raw-gta-6-preorder-numbers-because-it-doesnt-know-what-they-mean-its-just-never-happened-before/",
           "date": "2026-08-12T22:51:13+00:00",
@@ -1989,27 +1939,6 @@
           "date": "2026-08-12T16:24:55+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ypWjYqr4df2DhsPcrYejin-1280-80.jpg",
           "summary": "Less AI, more performance improvements: I'm here for it."
-        },
-        {
-          "title": "Amazon drops Lost Ark and Throne and Liberty",
-          "link": "https://www.pcgamer.com/games/mmo/amazon-drops-lost-ark-and-throne-and-liberty/",
-          "date": "2026-08-12T16:01:40+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/LVXq77579iA3GyoMBoNbuY-1280-80.jpg",
-          "summary": "Both MMOs will continue to operate, but new publishers are taking over in the West."
-        },
-        {
-          "title": "Dawn of War 4 has been delayed: 'We saw an opportunity to further enhance Dawn of War 4 and deliver the quality of experience we've always envisioned'",
-          "link": "https://www.pcgamer.com/games/strategy/dawn-of-war-4-has-been-delayed-we-saw-an-opportunity-to-further-enhance-dawn-of-war-4-and-deliver-the-quality-of-experience-weve-always-envisioned/",
-          "date": "2026-08-12T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/7S4FeArt6VyoGLPMzxWzD9-1280-80.jpg",
-          "summary": "The war has been put on hold until December."
-        },
-        {
-          "title": "Someone hooked an RX 9070 XT up to their Steam Machine and it works surprisingly well, like fitting a V8 engine into your Honda Civic",
-          "link": "https://www.pcgamer.com/hardware/gaming-pcs/someone-hooked-an-rx-9070-xt-up-to-their-steam-machine-and-it-works-surprisingly-well-like-fitting-a-v8-engine-into-your-honda-civic/",
-          "date": "2026-08-12T15:28:38+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/U8jzX8x2whtFT9PRWXhog7-1280-80.jpg",
-          "summary": "Big GPU, little machine."
         }
       ],
       "ok": true,
@@ -2410,6 +2339,34 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Scientists’ new tech could help cement plants remove CO2 from atmosphere",
+          "link": "https://interestingengineering.com/innovation/cement-plants-remove-co2-from-atmosphere",
+          "date": "2026-08-13T01:25:24+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/CO2.jpg",
+          "summary": "A new approach developed by researchers at ETH Zurich could transform cement plants from major..."
+        },
+        {
+          "title": "Reshaped battery crystals retain 96.7% capacity after 300 cycles, limiting stress",
+          "link": "https://interestingengineering.com/energy/sodium-ion-battery-crystal-grains",
+          "date": "2026-08-12T23:55:55+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/GettyImages-1392688987.jpg",
+          "summary": "Researchers have found a way to make sodium-ion batteries more durable by changing the shape..."
+        },
+        {
+          "title": "Existing 5G networks become drone hunters with new real-time tracking technology",
+          "link": "https://interestingengineering.com/innovation/existing-5g-networks-track-drones",
+          "date": "2026-08-12T23:48:08+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-13T035804.378.jpg",
+          "summary": "The US is testing a new way to spot drones without building a separate detection..."
+        },
+        {
+          "title": "$30M investment brings new US marine engine manufacturing capacity to Virginia",
+          "link": "https://interestingengineering.com/military/dms-30m-us-marine-engine-manufacturing",
+          "date": "2026-08-12T23:44:02+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/DMS.jpg",
+          "summary": "Defense Maritime Solutions (DMS) plans to invest more than $30 million to establish a new..."
+        },
+        {
           "title": "US Army Apache helicopter crashes in Texas, killing 2 soldiers and sparking wildfire",
           "link": "https://interestingengineering.com/culture/fort-hood-ah64-apache-crash-texas",
           "date": "2026-08-12T23:21:24+00:00",
@@ -2450,34 +2407,6 @@
           "date": "2026-08-12T18:20:35+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Solar-hydrogen-module.jpg",
           "summary": "SunHydrogen says its hydrogen-producing modules have exceeded 10% solar-to-hydrogen efficiency in testing with Australian company..."
-        },
-        {
-          "title": "Radiation vest tested on Artemis I cuts solar storm exposure by up to 60 percent",
-          "link": "https://interestingengineering.com/space/astrorad-vest-solar-storm-radiation",
-          "date": "2026-08-12T18:05:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/AstroRed_2.jpg?w=150&h=150&crop=1",
-          "summary": "A radiation-shielding vest tested on the Artemis I mission could cut an astronaut&#8217;s exposure during..."
-        },
-        {
-          "title": "World’s first polarized electron-ion collider taps CERN expertise for future tech",
-          "link": "https://interestingengineering.com/science/world-first-polarized-electron-ion-collider",
-          "date": "2026-08-12T18:04:33+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/wq7hfifmlp8.jpg",
-          "summary": "US scientists working on the world&#8217;s first polarized electron-ion collider (EIC) that will investigate some..."
-        },
-        {
-          "title": "Humanoid robots master crawling, cartwheel and backflips using motion data, animation",
-          "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-master-complex-movements",
-          "date": "2026-08-12T18:00:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/d9br0hd6juw_08c2fd.jpg",
-          "summary": "Researchers have developed a new control framework that enables humanoid robots to perform agile movements,..."
-        },
-        {
-          "title": "New humanoid robot system lets machines run, jump and dance with simple commands",
-          "link": "https://interestingengineering.com/ai-robotics/new-system-for-humanoid-movements",
-          "date": "2026-08-12T18:00:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-21.jpg",
-          "summary": "Researchers have designed a large-scale framework to control humanoid robots using inputs ranging from teleoperation..."
         }
       ],
       "ok": true,
