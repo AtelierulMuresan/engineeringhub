@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T02:03:18.385623+00:00",
+  "updated": "2026-08-14T04:48:54.355291+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "ANC Podcast: Aug. 14, 2026 | The week’s top stories and Viova’s Benjamin Wenger on AI at the dealership",
+          "link": "https://www.autonews.com/podcasts/canada-conversations/anc-auto-news-canada-podcast-viova-benjamin-wenger/",
+          "date": "2026-08-14T03:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/TCpumsaRPEPtCC39w0kc6MdsR24=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/UJXRH73EKNGXJN56ISQ2RRBO4I.jpg",
+          "summary": "Unifor wants Sierra output; CAMI’s future; Pacifica price cuts. Plus, Viova Head of Sales Benjamin Wenger talks about what artificial intelligence can do dealers today, and in the…"
+        },
+        {
           "title": "How VW plans to cut model range to free up cash for innovation",
           "link": "https://www.autonews.com/volkswagen/ane-vw-model-lineup-cuts-cost-savings-0814/",
           "date": "2026-08-13T22:29:29+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-13T17:09:05+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/nzW72WPqgfWUmpiaS0OlW9sKiZY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/XYYP2RJZ3BFZJIYOJKW74ECTSQ.jpg",
           "summary": "The FTC stopped enforcing anti-discrimination and fair lending settlement terms with two groups and a former general manager, but other parts of their deals stand — including more…"
-        },
-        {
-          "title": "Acura Nexera concept’s A-logo lights coming to RDX Hybrid in 2028",
-          "link": "https://www.autonews.com/honda/acura/an-acura-design-concept-0813/",
-          "date": "2026-08-13T17:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/lqY8tABxCGSZ0chy9FfO6jhgk00=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/VPCPGCPLNVAPHCMNGZGPROAFZU.jpg",
-          "summary": "The low-slung Nexera Vision concept sits wide and planted with an extended front end that dials up the sporty vibe."
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "Volkmann highlights vDryer powder conditioning for metal AM workflows",
+          "link": "https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows",
+          "date": "2026-08-13T06:53:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting…"
+        },
+        {
+          "title": "Hybrid Manufacturing Workflows: Integrating Industrial 3D Printing with Precision Subtractive Finishing",
+          "link": "https://3dprintingindustry.com/news/hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing-253737/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing",
+          "date": "2026-08-13T06:38:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Discover how combining industrial 3D printing, 5-axis CNC post-processing, and vacuum casting bridge tooling optimizes mechanical tolerances and accelerates lead times. Metal AM…"
+        },
+        {
+          "title": "Save Big on Revopoint 3D Scanners This August",
+          "link": "https://3dprintingindustry.com/news/save-big-on-revopoint-3d-scanners-this-august-253743/?utm_source=rss&utm_medium=rss&utm_campaign=save-big-on-revopoint-3d-scanners-this-august",
+          "date": "2026-08-12T10:43:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Somewhere right now, a mechanical engineering student is staring at a parts bin full of legacy components that don’t have CAD files. The assignment is reverse engineering, and the…"
+        },
+        {
+          "title": "America Makes names nine 2026 Ambassadors  and presented its 2026 Distinguished Collaborator Award",
+          "link": "https://3dprintingindustry.com/news/america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award-253768/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award",
+          "date": "2026-08-12T10:43:31+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes named nine additive manufacturing Ambassadors and presented its 2026 Distinguished Collaborator Award to Brett Conner, Ph.D., Chief Manufacturing Officer at the…"
+        },
+        {
+          "title": "Coachella Installation Tests Distributed LFAM as Caracol and Decibel Print One File in Two Locations",
+          "link": "https://3dprintingindustry.com/news/coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations-253763/?utm_source=rss&utm_medium=rss&utm_campaign=coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations",
+          "date": "2026-08-12T10:43:14+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "New Jersey-based design and production studio Decibel Made and Italian robotic manufacturing company Caracol produced 30 large-format 3D printed benches for SKYLRK OASIS at…"
+        },
+        {
+          "title": "3D Systems opens CEO search as Jeffrey Graves prepares to retire",
+          "link": "https://3dprintingindustry.com/news/3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire-253755/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire",
+          "date": "2026-08-12T10:42:50+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Jeff-Graves-768x960.jpg-150x100.avif",
+          "summary": "Provider of additive manufacturing solutions 3D Systems has opened a search for its next president and chief executive, with Dr. Jeffrey Graves set to leave both the executive…"
+        },
+        {
+          "title": "Pusan National University develops 3D printing method for switchable soft actuators",
+          "link": "https://3dprintingindustry.com/news/pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators-253748/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-develops-3d-printing-method-for-switchable-soft-actuators",
+          "date": "2026-08-12T08:59:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at Pusan National University (PNU) and Oak Ridge National Laboratory (ORNL) have developed a 3D printable liquid crystal elastomer that can be programmed to either…"
+        },
+        {
+          "title": "New $6M Award Targets Tough Refractory AM Challenges",
+          "link": "https://3dprintingindustry.com/news/new-6m-award-targets-tough-refractory-am-challenges-253735/?utm_source=rss&utm_medium=rss&utm_campaign=new-6m-award-targets-tough-refractory-am-challenges",
+          "date": "2026-08-12T08:57:34+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $6 million to four project teams tasked with developing high-temperature…"
+        },
+        {
+          "title": "University of Melbourne and CSIRO Win Race2Space LOX Bipropellant Category",
+          "link": "https://3dprintingindustry.com/news/university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category-253678/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category",
+          "date": "2026-08-11T14:30:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A three-person student team from the University of Melbourne has hot-fired a 3D printed regeneratively cooled liquid bipropellant rocket engine at Race2Space in the UK, taking…"
+        },
+        {
+          "title": "Snowbird Technologies manufactures 316L parts aboard USS Essex during RIMPAC 2026",
+          "link": "https://3dprintingindustry.com/news/snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026-253695/?utm_source=rss&utm_medium=rss&utm_campaign=snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026",
+          "date": "2026-08-11T13:30:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Snowbird Technologies, a Florida-based developer of ruggedized manufacturing systems, has produced 316L stainless steel components aboard the USS Essex (LHD-2) during the Rim of…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -580,6 +651,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+          "date": "2026-08-14T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg?w=7616&#038;h=5080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
+          "title": "A Sunflower’s View of Totality",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
+          "date": "2026-08-14T04:01:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower",
+          "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026."
+        },
+        {
           "title": "NASA’s 737 Reveals New Paint",
           "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
           "date": "2026-08-13T19:41:23+00:00",
@@ -634,20 +719,6 @@
           "date": "2026-08-12T17:55:36+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg",
           "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the…"
-        },
-        {
-          "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
-          "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
-          "date": "2026-08-12T16:03:05+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg?w=2048",
-          "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed…"
-        },
-        {
-          "title": "Pursuing a Dream of Working for NASA",
-          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
-          "date": "2026-08-12T15:38:51+00:00",
-          "image": "https://images-assets.nasa.gov/image/KSC-20260806-PH-RCR01_0149/KSC-20260806-PH-RCR01_0149~large.jpg?w=1280&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project…"
         }
       ],
       "ok": true,
@@ -963,6 +1034,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+          "link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
+          "date": "2026-08-14T02:24:02+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&amp;ssl=1",
+          "summary": "CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist’s plans for a future…"
+        },
+        {
           "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
           "link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
           "date": "2026-08-13T22:00:00+00:00",
@@ -1024,13 +1102,6 @@
           "date": "2026-08-12T23:00:00+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&amp;ssl=1",
           "summary": "Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster The post…"
-        },
-        {
-          "title": "Space Command identifies capabilities it needs for the next space war",
-          "link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
-          "date": "2026-08-12T22:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&amp;ssl=1",
-          "summary": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations…"
         }
       ],
       "ok": true,
@@ -2339,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "From iron arches to giant suspension spans: 10 bridges that changed engineering",
+          "link": "https://interestingengineering.com/transportation/10-bridges-that-changed-transportation",
+          "date": "2026-08-14T02:24:54+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Top-10-bridges.jpg",
+          "summary": "Bridges do much more than carry people from one side of an obstacle to another...."
+        },
+        {
           "title": "China, Iran team up to explore and process rare earths amid global supply race",
           "link": "https://interestingengineering.com/energy/china-iran-rare-earth-processing-cooperation",
           "date": "2026-08-14T00:47:23+00:00",
@@ -2400,13 +2478,6 @@
           "date": "2026-08-13T19:22:15+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T004542.463.jpg",
           "summary": "EV charging and energy storage provider XCharge North America has deployed a 400-kW ultra-fast charger..."
-        },
-        {
-          "title": "China’s J-36 vs US F-47: 5 key differences between sixth-gen jets",
-          "link": "https://interestingengineering.com/military/chinas-j-36-vs-us-f-47-5-key-differences-between-sixth-gen-jets",
-          "date": "2026-08-13T18:33:24+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Boeing-F-47.jpg",
-          "summary": "China and the United States are developing two combat aircraft that could reshape aerial warfare,..."
         }
       ],
       "ok": true,
