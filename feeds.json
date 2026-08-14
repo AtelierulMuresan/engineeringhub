@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:54:44.490083+00:00",
+  "updated": "2026-08-14T17:54:09.198373+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "First Shift: Surge in Toyota’s plug-in hybrid sales",
+          "link": "https://www.autonews.com/video/first-shift-surge-in-toyotas-plug-in-hybrid-sales/",
+          "date": "2026-08-14T17:28:10+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0iwWR9835FbBl-KCNd7X5zAat_M=/0x800/d3qtc8km8dvw1x.cloudfront.net/08-14-2026/t_10522d2bd96748a1862db3481fa31fa1_name_file_960x540_1600_v4_.jpg",
+          "summary": "California offers $3,500 EV rebate | Lawsuit: Polestar used ban as cover | Nissan ramps up incentives"
+        },
+        {
+          "title": "Dealerships eye auto refinancing as loyalty tool, not just charge-back risk",
+          "link": "https://www.autonews.com/retail/finance-insurance/an-refinancing-car-loans-0814/",
+          "date": "2026-08-14T17:12:23+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/pHMPrf41e6VSLsmc4_wL8pSpYy8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/N3H7SNKEAZCDNMVZDLTOLRZN6Y.jpg",
+          "summary": "Auto loan refinancing has nearly doubled as rates fall. F&amp;I consultants say dealers should help customers refinance to strengthen loyalty and identify new trade opportunities…"
+        },
+        {
           "title": "5 stories shaping Canadian auto this week: Unifor seeks Sierra output; CAMI’s paint problem; more",
           "link": "https://www.autonews.com/manufacturing/anc-canadian-auto-news-week-august-14-2026/",
           "date": "2026-08-14T16:39:58+00:00",
@@ -294,20 +308,6 @@
           "date": "2026-08-14T12:21:38+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/g4d87B25WTGv2-L0tBvymRmYsm4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4ZGDTP5G2JBHDAZHMR43L7WOVQ.jpg",
           "summary": "Almost sidelined by tariffs, the first three dozen Eletre utilities are on the ground in Canada. Lotus aims to leverage the model to double both its Canadian sales and store count."
-        },
-        {
-          "title": "Column: The battle to be Canada’s most Canadian automaker",
-          "link": "https://www.autonews.com/opinion/columns/anc-ford-stellantis-canada-most-canadian-automaker/",
-          "date": "2026-08-14T12:19:21+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Wh92-3PsR0d0qzNQ-DUIsN63PLw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4WMGHNFQ6JBDJL4RXYENWQPTT4.jpg",
-          "summary": "Ford and Stellantis are competing to prove their Canadian credentials as tariffs put production, investment and jobs under the microscope."
-        },
-        {
-          "title": "Magna repurposes EV equipment, looks beyond auto after divestitures",
-          "link": "https://www.autonews.com/manufacturing/suppliers/pn-magna-looks-beyond-automotive-after-lighting-sale/",
-          "date": "2026-08-14T12:17:35+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/z-csL3OJ6QyP7ncBO5rslbMSytU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MREW432DENGY3NHHJLDPZDJI2M.jpg",
-          "summary": "Magna is finding new uses for equipment bought for underperforming EV programs as the automotive supplier expands factory automation and looks to new markets for growth."
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "3D Systems Lands $9M to Complete Air Force Large-Format Metal 3D Printing Demonstrator",
+          "link": "https://3dprintingindustry.com/news/3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator-253803/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator",
+          "date": "2026-08-14T14:44:43+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3D Systems has been awarded an additional $9 million under the U.S. Air Force-funded Large-Format Metal 3D Printer Advanced Technology Demonstrator program, GEN-II DMP-1000. The…"
+        },
+        {
+          "title": "Firestorm Labs 3D prints 1,000 parts and 12 flight-ready drones at sea",
+          "link": "https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795/?utm_source=rss&utm_medium=rss&utm_campaign=firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea",
+          "date": "2026-08-14T13:36:26+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Firestorm Labs printed more than 1,000 parts and built 12 flight-ready Squall FPV quadcopters inside a containerized factory aboard the USS Essex during a two-week transit to…"
+        },
+        {
+          "title": "Why Drone Economics Are Driving Growth in 3D Printed Components",
+          "link": "https://3dprintingindustry.com/news/why-drone-economics-are-driving-growth-in-3d-printed-components-253790/?utm_source=rss&utm_medium=rss&utm_campaign=why-drone-economics-are-driving-growth-in-3d-printed-components",
+          "date": "2026-08-14T08:28:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A recent market report from Additive Manufacturing Research estimates the current market for 3D printed drone components at $140 million in 2025, with projections reaching $900…"
+        },
+        {
+          "title": "Meshy Launches Meshy 7: Image-to-3D Model Built Around Alignment",
+          "link": "https://3dprintingindustry.com/news/meshy-launches-meshy-7-image-to-3d-model-built-around-alignment-253786/?utm_source=rss&utm_medium=rss&utm_campaign=meshy-launches-meshy-7-image-to-3d-model-built-around-alignment",
+          "date": "2026-08-14T06:03:24+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Meshy has released Meshy 7, the latest version of its image-to-3D foundation model, alongside a new benchmark method for scoring how closely a generated 3D asset matches the image…"
+        },
+        {
+          "title": "Volkmann highlights vDryer powder conditioning for metal AM workflows",
+          "link": "https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows",
+          "date": "2026-08-13T06:53:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting…"
+        },
+        {
+          "title": "Hybrid Manufacturing Workflows: Integrating Industrial 3D Printing with Precision Subtractive Finishing",
+          "link": "https://3dprintingindustry.com/news/hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing-253737/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing",
+          "date": "2026-08-13T06:38:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Discover how combining industrial 3D printing, 5-axis CNC post-processing, and vacuum casting bridge tooling optimizes mechanical tolerances and accelerates lead times. Metal AM…"
+        },
+        {
+          "title": "Save Big on Revopoint 3D Scanners This August",
+          "link": "https://3dprintingindustry.com/news/save-big-on-revopoint-3d-scanners-this-august-253743/?utm_source=rss&utm_medium=rss&utm_campaign=save-big-on-revopoint-3d-scanners-this-august",
+          "date": "2026-08-12T10:43:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Somewhere right now, a mechanical engineering student is staring at a parts bin full of legacy components that don’t have CAD files. The assignment is reverse engineering, and the…"
+        },
+        {
+          "title": "America Makes names nine 2026 Ambassadors  and presented its 2026 Distinguished Collaborator Award",
+          "link": "https://3dprintingindustry.com/news/america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award-253768/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-names-nine-2026-ambassadors-and-presented-its-2026-distinguished-collaborator-award",
+          "date": "2026-08-12T10:43:31+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "America Makes named nine additive manufacturing Ambassadors and presented its 2026 Distinguished Collaborator Award to Brett Conner, Ph.D., Chief Manufacturing Officer at the…"
+        },
+        {
+          "title": "Coachella Installation Tests Distributed LFAM as Caracol and Decibel Print One File in Two Locations",
+          "link": "https://3dprintingindustry.com/news/coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations-253763/?utm_source=rss&utm_medium=rss&utm_campaign=coachella-installation-tests-distributed-lfam-as-caracol-and-decibel-print-one-file-in-two-locations",
+          "date": "2026-08-12T10:43:14+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "New Jersey-based design and production studio Decibel Made and Italian robotic manufacturing company Caracol produced 30 large-format 3D printed benches for SKYLRK OASIS at…"
+        },
+        {
+          "title": "3D Systems opens CEO search as Jeffrey Graves prepares to retire",
+          "link": "https://3dprintingindustry.com/news/3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire-253755/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-opens-ceo-search-as-jeffrey-graves-prepares-to-retire",
+          "date": "2026-08-12T10:42:50+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Jeff-Graves-768x960.jpg-150x100.avif",
+          "summary": "Provider of additive manufacturing solutions 3D Systems has opened a search for its next president and chief executive, with Dr. Jeffrey Graves set to leave both the executive…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -495,7 +566,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "404 Client Error: Not Found for url: https://blog.3ds.com/feed/"
+      "error": "503 Server Error: Service Unavailable for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -580,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+          "date": "2026-08-14T17:00:23+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/space-weather/20260630_205556_4096_0131.jpg?w=4096&#038;h=4096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a…"
+        },
+        {
           "title": "Total Solar Eclipse in Sunflower Field",
           "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
           "date": "2026-08-14T14:48:55+00:00",
@@ -641,13 +719,6 @@
           "date": "2026-08-12T20:40:27+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg?w=1083",
           "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment.…"
-        },
-        {
-          "title": "2026 Total Solar Eclipse in Spain",
-          "link": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
-          "date": "2026-08-12T20:08:28+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg?w=2048",
-          "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely…"
         }
       ],
       "ok": true,
@@ -885,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites'",
+          "link": "https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
+          "date": "2026-08-14T17:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/yL7kusp8LCpShc9tFfuF4E-1280-80.png",
+          "summary": "The U.S. Space Force has awarded Rocket Lab $397 million to manufacture a new fleet of \"Flatellites\" designed to detect and track airborne threats from space."
+        },
+        {
           "title": "Can Venus cast a shadow? Here's how to see it for yourself",
           "link": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself",
           "date": "2026-08-14T16:00:00+00:00",
@@ -899,18 +977,18 @@
           "summary": "Water and cosmic dust can survive in the harsh environment near Sagittarius A*, new observations reveal."
         },
         {
-          "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-          "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
-          "date": "2026-08-14T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/aRVeZxQFTtqVsMt8ZsqVDZ-1280-80.jpg",
-          "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!"
-        },
-        {
           "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
           "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
           "date": "2026-08-14T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/yMFDES3rrquMBkHbo6wreU-1280-80.png",
           "summary": "The silhouette of the ISS transiting across the sun's face during the Aug. 12, 2026 total solar eclipse."
+        },
+        {
+          "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
+          "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
+          "date": "2026-08-14T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/aRVeZxQFTtqVsMt8ZsqVDZ-1280-80.jpg",
+          "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!"
         },
         {
           "title": "India-US space ties deepen as NASA invites ISRO to join moon base program",
@@ -946,13 +1024,6 @@
           "date": "2026-08-13T20:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/vfQjBgkAemsuvsrcsu5uwe-1280-80.jpg",
           "summary": "That's three times longer than the Milky Way galaxy."
-        },
-        {
-          "title": "NASA's canceled lunar space station tech will help build the Artemis moon base",
-          "link": "https://www.space.com/space-exploration/artemis/nasas-canceled-lunar-space-station-tech-will-help-build-the-artemis-moon-base",
-          "date": "2026-08-13T19:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/3D4mxnqQxLLMghk9TtWZDZ-1280-80.jpg",
-          "summary": "Northrop Grumman plans to take technology built into the HALO module for NASA's canceled lunar space station and repurpose it to help develop the Artemis moon base."
         }
       ],
       "ok": true,
@@ -1481,6 +1552,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Halo: Campaign Evolved Will Look Way Better Soon",
+          "link": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon/",
+          "date": "2026-08-14T17:20:58+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo-Campaign-Evolved-Will-Look-Better-Soon.jpg?w=300",
+          "summary": "Halo: Campaign Evolved is set to receive its first major patch next week, one that will give players more control over the game's visuals as well as make improvements to Jackals…"
+        },
+        {
           "title": "Watch God Of War Laufey Star Smash The Last Of Us Golf Club Prop On Her First Day",
           "link": "https://www.gamespot.com/articles/watch-god-of-war-laufey-star-smash-the-last-of-us-golf-club-prop-on-her-first-day/",
           "date": "2026-08-14T15:48:43+00:00",
@@ -1542,13 +1620,6 @@
           "date": "2026-08-14T00:29:40+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Unhinged-1a.jpg?w=300",
           "summary": "Earlier this summer, Netflix-owned developer Night School released Unhinged , a horror game that was playable on televisions/screens through the streaming app. Unhinged was met…"
-        },
-        {
-          "title": "Matthew McConaughey Discusses Passing On Playing Joel In The Last Of Us Show",
-          "link": "https://www.gamespot.com/articles/matthew-mcconaughey-discusses-passing-on-playing-joel-in-the-last-of-us-show/",
-          "date": "2026-08-13T19:58:36+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/mud-Large.jpeg?w=300",
-          "summary": "Pedro Pascal plays Joel in HBO's popular The Last of Us, based on the Naughty Dog game, and he has been praised for his performance. However, he wasn't the only actor in the mix…"
         }
       ],
       "ok": true,
@@ -1558,6 +1629,27 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "KPop Demon Hunters Criterion Collection Release Includes New Features, Physical Goodies",
+          "link": "https://www.polygon.com/kpop-demon-hunters-criterion-physical-release-pre-order-details/",
+          "date": "2026-08-14T17:37:52+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/kpop-demon-hunters-huntrix-on-stage.jpg",
+          "summary": "Netflix's Oscar-winning animated film KPop Demon Hunters is getting a ton of goodies in Criterion Collection release."
+        },
+        {
+          "title": "Sydney Sweeney’s 116-Minute R-Rated Thriller Is Officially One of the Biggest Movies on HBO Max",
+          "link": "https://www.polygon.com/the-voyeurs-sydney-sweeney-hbo-max/",
+          "date": "2026-08-14T17:22:59+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/sydney-sweeney.jpg",
+          "summary": "Sydney Sweeney’s The Voyeurs is surging on HBO Max, with the R-rated 2021 thriller climbing the worldwide streaming charts."
+        },
+        {
+          "title": "The 5 Greatest New Games to Play on Steam This Weekend",
+          "link": "https://www.polygon.com/new-steam-games-august-14-2026/",
+          "date": "2026-08-14T17:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/duskfade-screenshot-zirian-and-cuckoo-overlooking-village.jpg",
+          "summary": "PC players have a handful of games to try on Steam this weekend, including some modern-retro throwbacks."
+        },
         {
           "title": "Congress Is Opening an Investigation Into ‘Roblox’ Over Child Exploitation",
           "link": "https://www.polygon.com/roblox-senate-investigation-2026/",
@@ -1606,27 +1698,6 @@
           "date": "2026-08-14T15:39:32+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/call-of-duty-modern-warfare-4.jpg",
           "summary": "The upcoming 'Call of Duty: Modern Warfare 4' betas will feature campaign, multiplayer, and Warzone modes."
-        },
-        {
-          "title": "'Marvel Tokon' Reportedly Moves 500K Units In First Week, Kicking Off Sales Figures Debate",
-          "link": "https://www.polygon.com/marvel-tokon-sales-debate-steam-ps5/",
-          "date": "2026-08-14T15:35:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/marvel-tokon-screenshot-2-1.jpg",
-          "summary": "According to Alinea Analytics, 'Marvel Tokon: Fighting Souls' sold 485K units in its first week, sparking a debate about whether it's a bust or not."
-        },
-        {
-          "title": "Star Wars The Mandalorian and Grogu Gets Disney Plus Streaming Date",
-          "link": "https://www.polygon.com/mandalorian-and-grogu-disney-plus-release-date-star-wars/",
-          "date": "2026-08-14T15:29:25+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-mandalorian-grogu-1.jpg",
-          "summary": "When does The Mandalorian and Grogu come to streaming? Lucasfilm has set a Sept. 2 release date on Disney Plus."
-        },
-        {
-          "title": "Anne Hathaway's Best Sci-Fi Movie Boils Down to One Perfect Quote",
-          "link": "https://www.polygon.com/anne-hathaways-best-sci-fi-performance/",
-          "date": "2026-08-14T15:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/interstellar001.jpg",
-          "summary": "If you left The End of Oak Street wanting even more Anne Hathaway, one of her best roles is still worth revisiting all these years later."
         }
       ],
       "ok": true,
@@ -1715,6 +1786,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "World Of Warcraft Players Claim Their Characters Keep Fighting Bosses On Their Own After Disconnecting",
+          "link": "https://kotaku.com/world-of-warcraft-players-claim-their-characters-keep-fighting-bosses-on-their-own-after-disconnecting-2000724514",
+          "date": "2026-08-14T17:23:40+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/curse-of-ulatek-dungeon.jpg",
+          "summary": ""
+        },
+        {
           "title": "KPop Demon Hunters’ Criterion Blu-Ray Set Looks Incredible",
           "link": "https://kotaku.com/kpop-demon-hunters-bluray-dvd-criterion-collection-date-2000724512",
           "date": "2026-08-14T16:50:14+00:00",
@@ -1776,13 +1854,6 @@
           "date": "2026-08-14T13:26:09+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/joel-1280x720.jpg",
           "summary": "‘All right, all right, all right, Ellie. There was no cure’"
-        },
-        {
-          "title": "Takoyaki At ‘Disastrous’ Deltarune Fan Event Leaves Attendees With Food Poisoning",
-          "link": "https://kotaku.com/takoyaki-at-disastrous-deltarune-fan-event-leaves-attendees-with-food-poisoning-2000724243",
-          "date": "2026-08-14T12:49:58+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/takoyaki.jpg",
-          "summary": "Just a liiiiiittle too faithful to the game"
         }
       ],
       "ok": true,
@@ -1792,6 +1863,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The Watcher is a creepy surveillance thriller with shiny Unreal Engine props - I just hope it's not as talkative as its trailer",
+          "link": "https://www.rockpapershotgun.com/the-watcher-is-a-creepy-surveillance-thriller-with-shiny-unreal-engine-props-i-just-hope-its-not-as-talkative-as-its-trailer",
+          "date": "2026-08-14T17:41:16+00:00",
+          "image": "https://assetsio.gnwcdn.com/thewatcher.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Some pressing personal context: I live in a very small flat with huge windows and curtains that only ever seem to cover about 80% of the view, no matter how ingeniously I yank…"
+        },
         {
           "title": "Rideshare Stimulator finally gets its genAI disclosure after much Saber-rattling, and it turns out the game also uses the tech for in-game music",
           "link": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music",
@@ -1854,13 +1932,6 @@
           "date": "2026-08-13T16:32:07+00:00",
           "image": "https://assetsio.gnwcdn.com/sandustry_pOeANQV.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "It's quite the month for sand-related games! Sandcastle, a literal sandbox game , received a demo earlier this month, and now here we are today with the release of Sandustry,…"
-        },
-        {
-          "title": "\"Obvious tells and subtle hints\" - Alien: Isolation's lead designer on the lethal variety of The Lost Wild's dinosaurs",
-          "link": "https://www.rockpapershotgun.com/obvious-tells-and-subtle-hints-alien-isolations-lead-designer-on-the-lethal-variety-of-the-lost-wilds-dinosaurs",
-          "date": "2026-08-13T16:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/the.lost.wild.poster_online.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "First-person sneakalot The Lost Wild is about surviving on an island overrun by dinosaurs, from the relatively affable diplodocus to the absolutely intolerable allosaurus. I'm not…"
         }
       ],
       "ok": true,
@@ -1870,6 +1941,13 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "A dev tried to warn WB Games not to launch Lord of the Rings: War in the North 10 days before Skyrim, but was 'overruled'",
+          "link": "https://www.pcgamer.com/games/rpg/a-dev-tried-to-warn-wb-games-not-to-launch-lord-of-the-rings-war-in-the-north-10-days-before-skyrim-but-was-overruled/",
+          "date": "2026-08-14T17:07:16+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/8bUsW7sTFvgykg5gr4d9NY-1280-80.jpg",
+          "summary": "As a wise tree guy once said, \"We must not be hasty.\""
+        },
         {
           "title": "We've been tracking graphics card prices for exactly one year and it's never been worse than this",
           "link": "https://www.pcgamer.com/hardware/graphics-cards/weve-been-tracking-graphics-card-prices-for-exactly-one-year-and-its-never-been-worse-than-this/",
@@ -1932,13 +2010,6 @@
           "date": "2026-08-14T12:10:02+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/3LxA2h8d8uE3JQ6RtYiCXe-1280-80.jpg",
           "summary": "It's been a wild ride."
-        },
-        {
-          "title": "Asus ROG Harpe II Extreme Edition 20 review",
-          "link": "https://www.pcgamer.com/hardware/gaming-mice/asus-rog-harpe-ii-extreme-edition-20-review/",
-          "date": "2026-08-14T12:04:08+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/5Z5HG6hDyVtLXotzVznxzd-1280-80.jpg",
-          "summary": "The most luxurious gaming mouse I've managed to get grubby."
         }
       ],
       "ok": true,
@@ -2341,7 +2412,7 @@
         {
           "title": "New 1,200 MWh battery storage facility to power 385,000 homes in California",
           "link": "https://interestingengineering.com/energy/1200-mwh-battery-facility-power-homes",
-          "date": "2026-08-14T16:43:26+00:00",
+          "date": "2026-08-14T16:43:28+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-28.jpg",
           "summary": "Arevon Energy has officially brought online its Nighthawk Energy Storage Project, a 300-megawatt (MW) /..."
         },
