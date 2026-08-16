@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T10:23:53.447396+00:00",
+  "updated": "2026-08-16T11:21:30.709133+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,10 +240,24 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "JD Power’s Frank Hanley: Why the satisfaction gap is closing between premium and mass-market owners",
+          "link": "https://www.autonews.com/podcasts/shift/an-shift-podcast-jdp-frank-hanley-0817/",
+          "date": "2026-08-16T11:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/eAkxk-eM8WbSkAmrJCXo0xqewDg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/O57FR7X3XZDRLOLKGMVKG2ETXE.jpg",
+          "summary": "The senior director of automotive benchmarking for JD Power, Frank Hanley, joins this week's episode of the \"Shift\" podcast to talk about the results of the APEAL survey, which…"
+        },
+        {
+          "title": "Rising Stars show how technology advancements are rapidly shaping the auto industry",
+          "link": "https://www.autonews.com/retail/marketing/an-intersection-rising-stars-0816/",
+          "date": "2026-08-16T11:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/1TpXigJBk_g25DAigp_bkkto_Qg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TVJBFGBJYBBMLMCJK6E5AKBQ5Y.jpg",
+          "summary": "The 18 Automotive News Rising Stars for 2026 represent leaders ages 45 and younger working on software, artificial intelligence, electrification and advanced manufacturing across…"
+        },
+        {
           "title": "How the 2026 Automotive News Rising Stars are transforming the industry",
           "link": "https://www.autonews.com/executives/an-2026-automotive-news-rising-stars-0816/",
           "date": "2026-08-16T10:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/1TpXigJBk_g25DAigp_bkkto_Qg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TVJBFGBJYBBMLMCJK6E5AKBQ5Y.jpg",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Te1XRhLb1HdniKSj79RPPQoNbeY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3SOJRVFBQRGKRHCRNG2HDLA4UQ.jpg",
           "summary": "The 2026 Automotive News Rising Stars include 18 executives and technical leaders age 45 and younger driving rapid change across vehicles, manufacturing, retail strategies and…"
         },
         {
@@ -294,20 +308,6 @@
           "date": "2026-08-16T09:37:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/bKPCAOpGfD7e-6KWeQ6N0pwhGLA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MYETPHZ25ZFRDNUGDU47SFPFYU.jpg",
           "summary": "Jonathan Jordan, assistant vice president of sales and retail strategy at JM&amp;A Group, is an Automotive News 2026 Rising Stars honoree."
-        },
-        {
-          "title": "2026 Rising Star: Mahdokht Kalantari",
-          "link": "https://www.autonews.com/awards/rising-stars/2026/an-mahdokht-kalantari-ford/",
-          "date": "2026-08-16T09:33:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/mlUhGwT4Dd3GEtxc3VsZoEV-hRQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/PWTOZ3F55ZF53ORJMF2C2K4OLI.jpg",
-          "summary": "Mahdokht Kalantari, director of AI and analytics delivery within Ford's Global Data Insights & Analytics division, is an Automotive News 2026 Rising Stars honoree."
-        },
-        {
-          "title": "2026 Rising Star: Niraj Kapadia",
-          "link": "https://www.autonews.com/awards/rising-stars/2026/an-niraj-kapadia-ally/",
-          "date": "2026-08-16T09:30:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/RMvfTHJLXgb9FOHssIaeN2kHCsE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/VMVWRE7SDZFCLEHXQBP6BNJSBA.jpg",
-          "summary": "Niraj Kapadia, CFO of Ally Dealer Financial Services, is an Automotive News 2026 Rising Stars honoree."
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "Haddy 3D prints the TF-179 drone boat, an uncrewed vessel",
+          "link": "https://3dprintingindustry.com/news/haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel-253825/?utm_source=rss&utm_medium=rss&utm_campaign=haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel",
+          "date": "2026-08-15T10:32:08+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Digital manufacturing company Haddy has produced an uncrewed vessel designated the TF-179 Drone Boat using large-format robotic additive manufacturing. The company did not name…"
+        },
+        {
+          "title": "Buckley Conversions Builds a Luxury Camper Van Interior, 3D Printed Almost From Scratch",
+          "link": "https://3dprintingindustry.com/news/buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch-253817/?utm_source=rss&utm_medium=rss&utm_campaign=buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch",
+          "date": "2026-08-15T10:00:14+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A camper van interior built almost entirely by large-format 3D printing has come in roughly 1,500 pounds (680 kg) lighter than the plywood-and-aluminum fit-out it replaces.…"
+        },
+        {
+          "title": "Guam’s GAMMA AM factory targets full operating capacity by February 2027",
+          "link": "https://3dprintingindustry.com/news/guams-gamma-am-factory-targets-full-operating-capacity-by-february-2027-253831/?utm_source=rss&utm_medium=rss&utm_campaign=guams-gamma-am-factory-targets-full-operating-capacity-by-february-2027",
+          "date": "2026-08-15T09:39:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Guam Additive Materials and Manufacturing Accelerator (GAMMA) applications center will reach full operating capacity by February 2027, according to Neal Orringer, co-founder,…"
+        },
+        {
+          "title": "RIC Robotics printers build out Colorado’s first 3D printed metro district",
+          "link": "https://3dprintingindustry.com/news/ric-robotics-printers-build-out-colorados-first-3d-printed-metro-district-253808/?utm_source=rss&utm_medium=rss&utm_campaign=ric-robotics-printers-build-out-colorados-first-3d-printed-metro-district",
+          "date": "2026-08-15T08:07:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Seven homes are complete and several sold at Cleora, a 55-acre development in Salida, Colorado that its backers expect to become one of the world&#8217;s largest planned 3D…"
+        },
+        {
+          "title": "3D Systems Lands $9M to Complete Air Force Large-Format Metal 3D Printing Demonstrator",
+          "link": "https://3dprintingindustry.com/news/3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator-253803/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator",
+          "date": "2026-08-14T14:44:43+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3D Systems has been awarded an additional $9 million under the U.S. Air Force-funded Large-Format Metal 3D Printer Advanced Technology Demonstrator program, GEN-II DMP-1000. The…"
+        },
+        {
+          "title": "Firestorm Labs 3D prints 1,000 parts and 12 flight-ready drones at sea",
+          "link": "https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795/?utm_source=rss&utm_medium=rss&utm_campaign=firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea",
+          "date": "2026-08-14T13:36:26+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Firestorm Labs printed more than 1,000 parts and built 12 flight-ready Squall FPV quadcopters inside a containerized factory aboard the USS Essex during a two-week transit to…"
+        },
+        {
+          "title": "Why Drone Economics Are Driving Growth in 3D Printed Components",
+          "link": "https://3dprintingindustry.com/news/why-drone-economics-are-driving-growth-in-3d-printed-components-253790/?utm_source=rss&utm_medium=rss&utm_campaign=why-drone-economics-are-driving-growth-in-3d-printed-components",
+          "date": "2026-08-14T08:28:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A recent market report from Additive Manufacturing Research estimates the current market for 3D printed drone components at $140 million in 2025, with projections reaching $900…"
+        },
+        {
+          "title": "Meshy Launches Meshy 7: Image-to-3D Model Built Around Alignment",
+          "link": "https://3dprintingindustry.com/news/meshy-launches-meshy-7-image-to-3d-model-built-around-alignment-253786/?utm_source=rss&utm_medium=rss&utm_campaign=meshy-launches-meshy-7-image-to-3d-model-built-around-alignment",
+          "date": "2026-08-14T06:03:24+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Meshy has released Meshy 7, the latest version of its image-to-3D foundation model, alongside a new benchmark method for scoring how closely a generated 3D asset matches the image…"
+        },
+        {
+          "title": "Volkmann highlights vDryer powder conditioning for metal AM workflows",
+          "link": "https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows",
+          "date": "2026-08-13T06:53:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting…"
+        },
+        {
+          "title": "Hybrid Manufacturing Workflows: Integrating Industrial 3D Printing with Precision Subtractive Finishing",
+          "link": "https://3dprintingindustry.com/news/hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing-253737/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing",
+          "date": "2026-08-13T06:38:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Discover how combining industrial 3D printing, 5-axis CNC post-processing, and vacuum casting bridge tooling optimizes mechanical tolerances and accelerates lead times. Metal AM…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -734,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA’s 737 Reveals New Paint",
+          "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "date": "2026-08-13T19:41:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
+          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight…"
+        },
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        },
+        {
+          "title": "NASA Study Points to Smoother Air Taxi Rides",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+          "date": "2026-07-13T21:46:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
+        },
+        {
+          "title": "NASA Photographer Captures Images from F-18 Over Washington",
+          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+          "date": "2026-07-10T16:36:14+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
+        },
+        {
+          "title": "A Day of Flight Testing at NASA Armstrong",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+          "date": "2026-06-30T19:27:13+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -877,11 +1019,11 @@
           "summary": "\"We're not just studying astronomical objects anymore; we're using them to test the laws of nature.\""
         },
         {
-          "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-          "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+          "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+          "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
           "date": "2026-08-14T20:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/pj4RQP2ETfRsvXYfkhSazf-1280-80.jpg",
-          "summary": "Cards Against Humanity isn't done with its scorched-Earth campaign against SpaceX and Elon Musk, and is planning to erect an \"Elon Musk is a Sad Little B----- with No Friends\"…"
+          "image": "https://cdn.mos.cms.futurecdn.net/kpcwBrwbGHaRuR2h4gQBBb-1280-80.jpg",
+          "summary": "“Whoever controls space will control the Earth.”"
         }
       ],
       "ok": true,
@@ -891,6 +1033,13 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "link": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "date": "2026-08-16T10:50:00+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg?fit=1024%2C383&amp;ssl=1",
+          "summary": "Firefly, D-Orbit and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S. defense agencies tap three companies for…"
+        },
         {
           "title": "Lunar orbiter among upcoming NASA CLPS task orders",
           "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
@@ -953,13 +1102,6 @@
           "date": "2026-08-14T09:00:00+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
           "summary": "Paris, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in…"
-        },
-        {
-          "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
-          "link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
-          "date": "2026-08-14T02:24:02+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&amp;ssl=1",
-          "summary": "CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist’s plans for a future…"
         }
       ],
       "ok": true,
@@ -1325,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Black hole star: Astronomers discover a brand-new type of astrophysical object",
+          "link": "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
+          "date": "2026-08-16T11:00:01+00:00",
+          "image": null,
+          "summary": "Astronomers at MIT and elsewhere have spotted an extremely bright red spot in the early universe. The object resembles an enormous star, roughly the size of our solar system. But…"
+        },
+        {
           "title": "Exploring the moon will require rovers that can think for themselves",
           "link": "https://phys.org/news/2026-08-exploring-moon-require-rovers.html",
           "date": "2026-08-15T18:00:01+00:00",
@@ -1386,13 +1535,6 @@
           "date": "2026-08-14T13:00:01+00:00",
           "image": null,
           "summary": "Long before dark sunspots appear on the sun's surface, a new active region—where powerful solar eruptions can originate—begins showing subtle signs of its formation. Now,…"
-        },
-        {
-          "title": "Synchronized star pairs unleash radio bursts via a Jupiter-Io-like mechanism",
-          "link": "https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html",
-          "date": "2026-08-13T22:00:04+00:00",
-          "image": null,
-          "summary": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in…"
         }
       ],
       "ok": true,
@@ -1488,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Stephen King's 103-Minute Sci-Fi Movie Masterpiece Has Officially Returned to Free Streaming",
+          "link": "https://www.polygon.com/stephen-king-dead-zone-streaming-free-august-2026/",
+          "date": "2026-08-16T11:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/deadzone025.jpg",
+          "summary": "Before The Shawshank Redemption and Stand by Me, The Dead Zone proved Stephen King was more than horror."
+        },
+        {
           "title": "One Punch Man’s Original Director Will Unleash His Dazzling New Sci-Fi Movie in 6 Months",
           "link": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
           "date": "2026-08-16T10:00:12+00:00",
@@ -1549,13 +1698,6 @@
           "date": "2026-08-15T22:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/reincarnated-as-a-slime-king.jpg",
           "summary": "With Re:Zero just returning for season 4's second cour, the three biggest isekai anime are all on air at the same time, but which one is the best?"
-        },
-        {
-          "title": "'Fortnite's Unstable Event And Sonic Comic Seemingly Confirm Massive Chapter 7 Season 4 Leak",
-          "link": "https://www.polygon.com/fortnite-chapter-7-season-4-leaks/",
-          "date": "2026-08-15T19:41:22+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fortnite-event.png",
-          "summary": "A key art leak for Fortnite Chapter 7 Season 4 seems authentic after the game's Unstable story event and the release of a Sonic crossover comic"
         }
       ],
       "ok": true,
@@ -2268,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Forget cameras, this new drone detection system just listens for the enemy instead",
+          "link": "https://interestingengineering.com/ai-robotics/fraunhofer-acoustic-drone-detection-drone-days",
+          "date": "2026-08-16T10:30:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/drone-detection.jpg",
+          "summary": "A drone hiding behind a building or flying through fog might dodge cameras and radar,..."
+        },
+        {
           "title": "Undersea systems showcase immense warfare power at world’s largest international maritime exercise",
           "link": "https://interestingengineering.com/military/undersea-systems-showcase-immense-warfare-power",
           "date": "2026-08-16T08:41:21+00:00",
@@ -2329,13 +2478,6 @@
           "date": "2026-08-15T14:42:39+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Underwater-drone-detection.jpg",
           "summary": "A U.S. Navy exercise focused on undersea autonomy has provided another demonstration of how distributed..."
-        },
-        {
-          "title": "30,000-square-foot US aviation plant expansion to boost aircraft manufacturing",
-          "link": "https://interestingengineering.com/innovation/30000-square-foot-us-aviation-plant",
-          "date": "2026-08-15T13:34:52+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/q-hr-qc4dz0_b10c89.jpg",
-          "summary": "US-based Cirrus has announced a multi-million-dollar, 30,000-square-foot expansion at its Grand Forks facility to meet..."
         }
       ],
       "ok": true,
@@ -2516,6 +2658,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "date": "2026-08-16T10:00:59+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-500x500.jpg",
+          "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains."
+        },
+        {
           "title": "VisionQuest trailer kicks off Disney's D23 fan event",
           "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
           "date": "2026-08-15T21:21:27+00:00",
@@ -2577,13 +2726,6 @@
           "date": "2026-08-14T16:29:21+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-500x500.jpg",
           "summary": "It turns out that the economics of rocket reuse are pretty, pretty good."
-        },
-        {
-          "title": "Ars Live recap: How can we stop publishers from killing their own games?",
-          "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
-          "date": "2026-08-14T16:11:37+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-500x500.jpg",
-          "summary": "The Stop Killing Games movement faces an uphill battle."
         }
       ],
       "ok": true,
