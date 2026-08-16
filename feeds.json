@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:21:34.743991+00:00",
+  "updated": "2026-08-16T20:23:38.640282+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -805,80 +805,9 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [
-        {
-          "title": "NASA’s 737 Reveals New Paint",
-          "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-          "date": "2026-08-13T19:41:23+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
-          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight…"
-        },
-        {
-          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-          "date": "2026-07-31T17:11:14+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
-          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
-        },
-        {
-          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
-          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
-          "date": "2026-07-22T18:47:05+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
-          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
-        },
-        {
-          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-          "date": "2026-07-20T18:54:44+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
-          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
-        },
-        {
-          "title": "NASA Pushes New Wing Design to Find Structural Limits",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-          "date": "2026-07-17T23:08:33+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
-          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
-        },
-        {
-          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
-          "date": "2026-07-15T21:56:38+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
-          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
-        },
-        {
-          "title": "NASA Jets Turn Red, White, and Blue",
-          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
-          "date": "2026-07-14T17:13:53+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
-        },
-        {
-          "title": "NASA Study Points to Smoother Air Taxi Rides",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-          "date": "2026-07-13T21:46:11+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
-          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips…"
-        },
-        {
-          "title": "NASA Photographer Captures Images from F-18 Over Washington",
-          "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
-          "date": "2026-07-10T16:36:14+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&amp;h=1439&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA…"
-        },
-        {
-          "title": "A Day of Flight Testing at NASA Armstrong",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
-          "date": "2026-06-30T19:27:13+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
     },
     {
       "name": "ESA Top News",
@@ -1630,6 +1559,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "8 Years Later, Marvel Tokon Team's Amazing Dragon Ball Fighting Game Still Holds Up",
+          "link": "https://www.polygon.com/dragon-ball-fighterz-recommendation-marvel-tokon-arc-system-works/",
+          "date": "2026-08-16T20:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dragon-ball-fighterz-ss4-goku-screen-2.jpg",
+          "summary": "Marvel Tokon features a brand-new 4v4 fighting system. But if you want a classic 3v3 tag fighter, Dragon Ball FighterZ has everything you need."
+        },
+        {
           "title": "'Fatal Fury: City of the Wolves Revenge Edition' Makes It Easy To Get All Of The Street Fighter Rival's DLC",
           "link": "https://www.polygon.com/fatal-fury-revenge-edition/",
           "date": "2026-08-16T19:00:12+00:00",
@@ -1691,13 +1627,6 @@
           "date": "2026-08-16T14:55:59+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24028287/money_island_head.jpg",
           "summary": "Ron Gilbert would have to deal with a lot of big companies to make a new Monkey Island, but he doesn't have to for Thimbleweed Park 2"
-        },
-        {
-          "title": "One of Marvel's Strongest Heroes Is Officially Making a Near-Perfect Comeback",
-          "link": "https://www.polygon.com/marvel-tokon-gladiator-worst-life-ever/",
-          "date": "2026-08-16T14:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-12-at-3-49-38-pm.png",
-          "summary": "One of Marvel’s strongest heroes makes a near-perfect comeback in Marvel Tōkon after nearly 50 years of humiliating defeats."
         }
       ],
       "ok": true,
@@ -1786,6 +1715,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "3D Model Markets Are Being Flooded With AI Sellers But No One’s Buying",
+          "link": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
+          "date": "2026-08-16T20:04:11+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/the-tears-in-rain-monologue-1711653091.jpg",
+          "summary": "A classic conundrum of 'why would I buy something you didn’t make,' platforms like CGTrader has shelves of AI made models collecting dust"
+        },
+        {
           "title": "Insomniac Staff Blame Social Media Feedback Loops For Overnight Wolverine Hate",
           "link": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
           "date": "2026-08-16T19:11:50+00:00",
@@ -1847,13 +1783,6 @@
           "date": "2026-08-15T05:07:22+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/doom-1280x720.jpg",
           "summary": "The D23 announcements and trailers keep coming"
-        },
-        {
-          "title": "Marvel Finally Reveals The Cast Of MCU’s X-Men Reboot",
-          "link": "https://kotaku.com/x-men-mcu-reboot-cast-2028-adam-driver-inde-navarrette-2000724577",
-          "date": "2026-08-15T04:56:01+00:00",
-          "image": "https://kotaku.com/app/uploads/2025/04/d60de05dc6db777168a012abec36924d.jpg",
-          "summary": "Adam Driver, Inde Navarrette, and Christopher Abbott join the ensemble cast for the 2028 film"
         }
       ],
       "ok": true,
@@ -2410,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "China could prepare civilian cargo ships for wartime operations, support military in conflicts",
+          "link": "https://interestingengineering.com/military/china-civilian-cargo-ships-wartime-operations",
+          "date": "2026-08-16T19:28:27+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/ptsunffamy_151223.jpg",
+          "summary": "China needs to accelerate plans to mobilize civilian ships for military operations, drawing lessons from..."
+        },
+        {
           "title": "New framework cuts errors by 80%, helps scientists predict fusion machine’s hardware changes",
           "link": "https://interestingengineering.com/energy/method-cuts-errors-fusion-machine-changes",
           "date": "2026-08-16T16:38:52+00:00",
@@ -2471,13 +2407,6 @@
           "date": "2026-08-16T13:12:55+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Robot-1.jpg",
           "summary": "Chinese researchers have developed a new robot sensor that can &#8220;feel&#8221; objects without physical contact,..."
-        },
-        {
-          "title": "Russia tests floating gun outposts to shield maritime bases from drone attacks",
-          "link": "https://interestingengineering.com/military/russia-tests-floating-gun-outposts",
-          "date": "2026-08-16T13:10:58+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/plot-2.jpeg",
-          "summary": "Russia appears to be testing a new floating defense platform designed to protect ports and..."
         }
       ],
       "ok": true,
