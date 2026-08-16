@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:22:15.543205+00:00",
+  "updated": "2026-08-16T23:20:39.772580+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -474,7 +474,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "HTTPSConnectionPool(host='www.compositesworld.com', port=443): Read timed out. (read timeout=12)"
+      "error": "404 Client Error: Not Found for url: https://www.compositesworld.com/rss"
     },
     {
       "name": "All3DP",
@@ -956,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "How to watch 'Lanterns' — HBO's gritty new Green Lantern show",
+          "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-lanterns-hbos-gritty-new-green-lantern-show",
+          "date": "2026-08-16T23:02:58+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZHSXQJMd6zuzncv7oXhXw9-1280-80.png",
+          "summary": "Hal Jordan and John Stewart don the classic green in this new hardboiled space cop mystery"
+        },
+        {
           "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
           "link": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
           "date": "2026-08-16T15:00:00+00:00",
@@ -1017,13 +1024,6 @@
           "date": "2026-08-15T12:08:27+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/GjxTWVnGqpWUUf4DTk2q7H-1280-80.jpg",
           "summary": "On Episode 223 of This Week In Space, Rod Pyle and guest co-host Dale Skran are joined by Dr. Scott Pace to discuss the future of exploration on the Moon."
-        },
-        {
-          "title": "We think these Nikon binoculars are excellent for variable magnification on the go",
-          "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
-          "date": "2026-08-15T09:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/PzSi4SRiVZY2G2v52KKXoQ-1280-80.jpg",
-          "summary": "Get everything between 10x and 22x with Nikon’s new Action Zoom 10-22x50 binoculars"
         }
       ],
       "ok": true,
@@ -1033,6 +1033,13 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "Satellite operators emphasize launch deals in a constrained market",
+          "link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
+          "date": "2026-08-16T23:05:35+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&amp;ssl=1",
+          "summary": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be…"
+        },
         {
           "title": "U.S. defense agencies tap three companies for satellite disposal study",
           "link": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
@@ -1095,13 +1102,6 @@
           "date": "2026-08-14T09:00:00+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&amp;ssl=1",
           "summary": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with the local satellite manufacturer EnduroSat to collaborate on the development of a new…"
-        },
-        {
-          "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-          "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-          "date": "2026-08-14T09:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
-          "summary": "Paris, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in…"
         }
       ],
       "ok": true,
@@ -1467,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
+          "link": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
+          "date": "2026-08-16T22:40:01+00:00",
+          "image": null,
+          "summary": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were…"
+        },
+        {
           "title": "Japan aims for the moons of Mars",
           "link": "https://phys.org/news/2026-08-japan-aims-moons-mars.html",
           "date": "2026-08-16T19:05:17+00:00",
@@ -1528,13 +1535,6 @@
           "date": "2026-08-14T19:20:03+00:00",
           "image": null,
           "summary": "For astronauts in space, constipation is a well-known problem. But why this happens has long been unclear. Now, a new study from the University of Copenhagen in collaboration with…"
-        },
-        {
-          "title": "Mysterious Cygnus Bubble may trace back to microquasar, astronomers suggest",
-          "link": "https://phys.org/news/2026-08-mysterious-cygnus-microquasar-astronomers.html",
-          "date": "2026-08-14T18:20:07+00:00",
-          "image": null,
-          "summary": "Astronomers have proposed a new explanation for the mysterious Cygnus Bubble, a vast cloud of ultra-high-energy gamma rays stretching thousands of light-years across the sky.…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
+          "link": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
+          "date": "2026-08-16T23:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdjare_ec021.jpg",
+          "summary": "Prime Video's Reacher owes everything to this underrated Tom Cruise thriller"
+        },
+        {
+          "title": "'Spider-Man: Brand New Day' Hits $2 Billion at the Box Office",
+          "link": "https://www.polygon.com/spider-man-brand-new-day-2-billion-box-office/",
+          "date": "2026-08-16T22:22:30+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spider-man-brand-new-day-tom-holland.jpg",
+          "summary": "Marvel's latest Spider-Man movie keeps breaking records, hitting $2 billion in less than 3 weeks. Could it be Marvel's first $3 billion movie?"
+        },
+        {
           "title": "Mahershala Ali’s 'Blade' Is Dead, But His Forgotten 4-Part Sci-Fi Masterpiece Is Free on Streaming",
           "link": "https://www.polygon.com/4400-mahershala-ali-free-streaming-tubi/",
           "date": "2026-08-16T22:00:12+00:00",
@@ -1684,20 +1698,6 @@
           "date": "2026-08-16T16:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/netflix-games-minigolf.jpg",
           "summary": "Netflix’s decision to shut down two video game studios continues its messy five-year attempt to find its niche in a crowded industry."
-        },
-        {
-          "title": "Indiana Jones' next Disney attraction will feature a robot Harrison Ford",
-          "link": "https://www.polygon.com/indiana-jones-animatronic-harrison-ford/",
-          "date": "2026-08-16T15:44:45+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24761656/IJ_DOD_dtlr2_uhd_r709f_stills_230405.088296.jpg",
-          "summary": "Animal Kingdom Tropical Americas' Indiana Jones and the Myth of the Jade Serpent ride will feature an animatronic Harrison Ford"
-        },
-        {
-          "title": "Ewan McGregor's $205 Million Superhero Flop Deserves Another Shot",
-          "link": "https://www.polygon.com/birds-of-prey-ewan-mcgregor-streaming-rec/",
-          "date": "2026-08-16T15:30:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/black-mask-bop-ewan-mcgregor.jpg",
-          "summary": "Looking for more Ewan McGregor after 'The End of Oak Street'? Then you should check out the time he played one of the nastiest DC villains."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Chinese firm sees 93.7% capacity utilization as modern tech demand drives chip shortages",
+          "link": "https://interestingengineering.com/ai-robotics/chinese-firm-smic-capacity-utilization-chip",
+          "date": "2026-08-16T23:08:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/q-hr-qc4dz0_ccc2e5.jpg",
+          "summary": "Demand is high for mature-node chips for AI processors, and China&#8217;s Semiconductor Manufacturing International Corporation..."
+        },
+        {
           "title": "China could prepare civilian cargo ships for wartime operations, support military in conflicts",
           "link": "https://interestingengineering.com/military/china-civilian-cargo-ships-wartime-operations",
           "date": "2026-08-16T19:28:27+00:00",
@@ -2471,13 +2478,6 @@
           "date": "2026-08-16T13:13:48+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Quantum-computing-.jpg",
           "summary": "Quantum computing has spent years proving that quantum processors can work. The next challenge is..."
-        },
-        {
-          "title": "Electric-field robot sensor lets machines ‘feel’ and identify objects without touch",
-          "link": "https://interestingengineering.com/innovation/robot-sensor-lets-machines-feel-objects",
-          "date": "2026-08-16T13:12:55+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Robot-1.jpg",
-          "summary": "Chinese researchers have developed a new robot sensor that can &#8220;feel&#8221; objects without physical contact,..."
         }
       ],
       "ok": true,
