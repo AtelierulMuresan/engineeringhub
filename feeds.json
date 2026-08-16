@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:21:18.235961+00:00",
+  "updated": "2026-08-16T22:22:15.543205+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -474,7 +474,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "404 Client Error: Not Found for url: https://www.compositesworld.com/rss"
+      "error": "HTTPSConnectionPool(host='www.compositesworld.com', port=443): Read timed out. (read timeout=12)"
     },
     {
       "name": "All3DP",
@@ -1630,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Mahershala Ali’s 'Blade' Is Dead, But His Forgotten 4-Part Sci-Fi Masterpiece Is Free on Streaming",
+          "link": "https://www.polygon.com/4400-mahershala-ali-free-streaming-tubi/",
+          "date": "2026-08-16T22:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/l-intro-1621971205.jpg",
+          "summary": "You can still watch the actor play a superhero in his breakout role"
+        },
+        {
           "title": "8 Years Later, Marvel Tokon Team's Amazing Dragon Ball Fighting Game Still Holds Up",
           "link": "https://www.polygon.com/dragon-ball-fighterz-recommendation-marvel-tokon-arc-system-works/",
           "date": "2026-08-16T20:00:12+00:00",
@@ -1691,13 +1698,6 @@
           "date": "2026-08-16T15:30:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/black-mask-bop-ewan-mcgregor.jpg",
           "summary": "Looking for more Ewan McGregor after 'The End of Oak Street'? Then you should check out the time he played one of the nastiest DC villains."
-        },
-        {
-          "title": "Ron Gilbert Says Making Another 'Monkey Island' Game Would Be \"Really Complicated\"",
-          "link": "https://www.polygon.com/no-new-monkey-island-ron-gilbert/",
-          "date": "2026-08-16T14:55:59+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24028287/money_island_head.jpg",
-          "summary": "Ron Gilbert would have to deal with a lot of big companies to make a new Monkey Island, but he doesn't have to for Thimbleweed Park 2"
         }
       ],
       "ok": true,
