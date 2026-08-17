@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:29:28.587724+00:00",
+  "updated": "2026-08-17T15:26:38.509246+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -160,154 +160,83 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Ford, GM rivalry suggests US trade policy tensions",
-          "link": "https://www.automotiveworld.com/analysis/ford-gm-rivalry-suggests-us-trade-policy-tensions/",
-          "date": "2026-08-17T11:18:12+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Reports of lobbying efforts by Ford and General Motors against each other could mean a lower-cost future in the US is unlikely. By Will Girling The post Ford, GM rivalry suggests…"
-        },
-        {
-          "title": "VinFast ADAS roadmap ties Level 2+ rollout to validation",
-          "link": "https://www.automotiveworld.com/news/vinfast-adas-roadmap-ties-level-2-rollout-to-validation/",
-          "date": "2026-08-17T05:05:03+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Level 2 versus autonomy distinction is both a safety requirement and an implicit measure of the AV industry's integrity problem The post VinFast ADAS roadmap ties Level 2+…"
-        },
-        {
-          "title": "Rolls-Royce extension project reaches £300m milestone",
-          "link": "https://www.automotiveworld.com/news/rolls-royce-extension-project-reaches-300m-milestone/",
-          "date": "2026-08-17T05:00:52+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Rolls-Royce extension project's first infrastructure landmark signals the Goodwood site is firmly on track for its 2029 completion The post Rolls-Royce extension project…"
-        },
-        {
-          "title": "Teradar GmbH to accelerate terahertz imaging for EU AVs",
-          "link": "https://www.automotiveworld.com/news/teradar-gmbh-to-accelerate-terahertz-imaging-for-eu-avs/",
-          "date": "2026-08-17T04:45:03+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "A German base for terahertz imaging gives Europe a potential first-mover position in the perception layer of autonomous vehicles The post Teradar GmbH to accelerate terahertz…"
-        },
-        {
-          "title": "Hyundai Ioniq 3 production starts at Türkiye İzmit plant",
-          "link": "https://www.automotiveworld.com/topics/e-mobility/hyundai-ioniq-3-production-starts-at-turkiye-izmit-plant/",
-          "date": "2026-08-17T04:40:57+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "First-mover advantage in EV manufacturing accrues to Hyundai as the only foreign automaker to produce an electric vehicle in Türkiye The post Hyundai Ioniq 3 production starts at…"
-        },
-        {
-          "title": "Mitsubishi ASX VR-e to launch in Australia and New Zealand",
-          "link": "https://www.automotiveworld.com/news/mitsubishi-asx-vr-e-to-launch-in-australia-and-new-zealand/",
-          "date": "2026-08-17T04:35:48+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Mitsubishi ASX VR-e's ANZ launch tests whether a heritage nameplate can anchor a BEV segment the brand has never occupied The post Mitsubishi ASX VR-e to launch in Australia…"
-        },
-        {
-          "title": "Stellantis launches STLA One platform with new Cherokee",
-          "link": "https://www.automotiveworld.com/news/stellantis-launches-stla-one-platform-with-new-cherokee/",
-          "date": "2026-08-17T04:30:33+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "A common architecture spanning 30-plus models by 2035 gives Stellantis its clearest path yet to cost discipline and product breadth The post Stellantis launches STLA One platform…"
-        },
-        {
-          "title": "Aston Martin Valen hits 850PS in limited V12 special",
-          "link": "https://www.automotiveworld.com/news/aston-martin-valen-hits-850ps-in-limited-v12-special/",
-          "date": "2026-08-17T04:25:14+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "An 850PS front-mounted V12 and 3.0-second 0-60mph sprint make the Aston Martin Valen the brand's most complete performance statement The post Aston Martin Valen hits 850PS in…"
-        },
-        {
-          "title": "Mahindra BE 6 Sporteq debuts with AI suites, new cockpit",
-          "link": "https://www.automotiveworld.com/news/mahindra-be-6-sporteq-debuts-with-ai-suites-new-cockpit/",
-          "date": "2026-08-17T04:20:44+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Mahindra BE 6 Sporteq's MAIA-powered Teq suites and three-screen cockpit raise the bar for India's EV software experience The post Mahindra BE 6 Sporteq debuts with AI suites,…"
-        },
-        {
-          "title": "Cadillac V-One concept debuts at the Quail in California",
-          "link": "https://www.automotiveworld.com/news/cadillac-v-one-concept-debuts-at-the-quail-in-california/",
-          "date": "2026-08-17T04:15:08+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Quail debut gives Cadillac's V-One a public audience that equates performance authenticity with what it sees in real competition The post Cadillac V-One concept debuts at the…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='www.automotiveworld.com', port=443): Read timed out. (read timeout=12)"
     },
     {
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
         {
-          "title": "Shaping Stellantis’ future, one frame at a time",
-          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-mariani-rising-stars/",
-          "date": "2026-08-17T14:20:21+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/k7NgzwGIyMegmz5lDHnA9RzfZnk=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/F732NIAJV5HNHLFULIDZUU2CRQ.jpeg",
-          "summary": "Director of Body in White, Windsor Assembly Plant Adam Mariani is a 2026 Automotive News Canada Rising Star."
+          "title": "Grupo Antolin, creditors pause bankruptcy fight for talks",
+          "link": "https://www.autonews.com/manufacturing/suppliers/pn-antolin-creditors-negotiating-bankruptcy-resolution/",
+          "date": "2026-08-17T15:17:11+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/vqoTGib1U3QV6GuSl8YJe7vnQgM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TOHMLP2BAFEPPO7UJFO6NHOV6U.jpg",
+          "summary": "Grupo Antolin and major bondholders challenging its financial restructuring have temporarily paused their legal fight while they try to negotiate a resolution."
         },
         {
-          "title": "Longley’s next act: Reviving Stellantis in Canada",
-          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-longley-rising-stars/",
-          "date": "2026-08-17T13:53:05+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/AVlzJ9Er6LAdhCTN5irgjsM102g=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/6ZNWXCXVRNBFVKYAKFJEELIHDY.jpg",
-          "summary": "Stellantis Canada CEO Trevor Longley is a 2026 Automotive News Canada Rising Star."
+          "title": "Ford engine chief builds on transformation",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-wilson-rising-stars/",
+          "date": "2026-08-17T15:08:14+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/A_AeEjkRMPBOHIKWEKfZuwVXb_0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/KD6SNCQQVVCYVJMEBNSJAT2MOY.jpeg",
+          "summary": "Ford Motor Company Site Manager — Windsor Operations Neil Wilson is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "Ferrari’s first EV commands record $40 million at auction",
-          "link": "https://www.autonews.com/stellantis/ferrari/an-ferrari-luce-record-auction-price-0817/",
-          "date": "2026-08-17T13:29:32+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/UmLKNyOjaroadkvge1h9J2XNHhY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/72VHSS4KCBC53OTT76CIBIHVRE.jpg",
-          "summary": "Ferrari is expected to sell out its initial Luce run of several hundred units, buoyed by a marketing approach that relies on scarcity, rewarding repeat buyers with access to the…"
+          "title": "Banerji puts research into practice",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-rising-star-banerji/",
+          "date": "2026-08-17T15:07:07+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/BKbqTRRz4PtKBwbi0zGcM4FcuLg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SUT47YHGIRCNPKNK6NVZKIWE7I.jpg",
+          "summary": "Martinrea International Engineering Supervisor Anindya Banerji is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "Guest commentary: Video gaming is moving into cars. The next level is immersion",
-          "link": "https://www.autonews.com/opinion/guest-commentary/an-guest-commentary-in-car-gaming-immersion-0817/",
-          "date": "2026-08-17T13:10:32+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/pxw7MvJf_e2RDe8rb9SDrlXiI9g=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MSB3VBFLZNBOHFWC5JQBEXODK4.jpg",
-          "summary": "Video gaming is entering vehicles, but automakers can now make the car part of the game itself, not just a screen for playing one."
+          "title": "Malinowski settles into challenges of his ‘dream job’",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-rising-star-malinowski/",
+          "date": "2026-08-17T15:05:44+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/4olf6fRbxmfqKSTqnSVtdIuQ0Jw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3MZ4MBXW6JDHDOLORRX66OK4DA.jpeg",
+          "summary": "Global Automakers of Canada CEO Lucas Malinowski is a 2026 Automotive News Canada Rising Star,"
         },
         {
-          "title": "Automotive News Canada 8-17-2026",
-          "link": "https://www.autonews.com/digital-edition/automotive-news/anc-july-08-17-2026-digital-edition/",
-          "date": "2026-08-17T13:10:17+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/lRp8Vrm6VopgBLQq-YfDKKlPLZM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FIXUGVMQGRBMLF7UD66T2ILWTI.png",
-          "summary": "Archive of digital edition for 8-17-2026"
+          "title": "Building Honda’s factory of the future",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-fraser-rising-stars/",
+          "date": "2026-08-17T15:04:28+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Qf_0VWT_Z-E-9Chje-luEBGdpwo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/E7O6PWZNAVAFDGCANHWZRP2A7Q.jpeg",
+          "summary": "Honda Canada Manufacturing Manufacturing Division Manager Paul Fraser is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "Read the Automotive News digital edition for August 17",
-          "link": "https://www.autonews.com/digital-edition/automotive-news/an-digital-edition-8-17-2026/",
-          "date": "2026-08-17T13:00:30+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/A3XJYfmDzYcipCPL7fjJh7CMGV8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QOOAGK3FR5BJZH64JR3R2DH54E.png",
-          "summary": "Archive of digital edition for 8-17-2026"
+          "title": "Turning curiosity into dealer performance",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-pourbazargan-rising-stars/",
+          "date": "2026-08-17T15:03:37+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/JUktUblWLKtf0p67Xg6PBWCVB6I=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/577FH6ELBNEGBII6YAPRL474SI.jpeg",
+          "summary": "Hyundai Canada Western Zone Manager Damoun Pourbazargan is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "CARFAX Canada Used Vehicle Market Insights: 2026 Mid-Year Update",
-          "link": "https://www.autonews.com/sponsored/publishing-partners/anc-carfax-canada-used-vehicle-market-insights-2026-mid-year-update/",
-          "date": "2026-08-17T13:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/aV6hyge3EfeGvw9uY-GJnXLexno=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/H2W3A5J6ZVALLLGW24NJQNLNEQ.png",
-          "summary": "Canada’s used vehicle market continued to stabilize through June 2026."
+          "title": "Driving privacy forward at Mazda",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-mansour-rising-stars/",
+          "date": "2026-08-17T15:02:46+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/uvlZ98QkpQvmLNXdObt8vo1zX2I=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/K6P6H6VLURGN3FY3QHEVDRORBM.jpeg",
+          "summary": "Mazda Canada General Counsel Sarah Mansour is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "Geely founder Li Shufu resigns as chairman of automaking arm but keeps overall control",
-          "link": "https://www.autonews.com/geely/ane-geely-li-shufu-resigns-stays-honorary-chairman-0817/",
-          "date": "2026-08-17T11:30:04+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/nvNNaswg-6pItuGKwYDNAzSSBng=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/7EHSQR45JZHQJA6E7TIHEA3Y2I.jpg",
-          "summary": "Li, who founded the automaker 40 years ago, will be succeeded as head of Geely Automobile by An Conghui. Geely Auto's brands include Zeekr, Geely and Lynk & CO."
+          "title": "Plotting an Infiniti revival",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-hearn-rising-stars/",
+          "date": "2026-08-17T15:02:03+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/4IVYMs4VEl4TpCZsBHhuIQwSNr0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NZ3KHAK3FZCF3GNRTUNSBAAEBU.jpg",
+          "summary": "Infiniti Canada Managing Director Ken Hearn is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "Guest commentary: Volkswagen wants to cut costs everywhere but where it counts",
-          "link": "https://www.autonews.com/opinion/guest-commentary/an-guest-commentary-vw-scout-dealers-0817/",
-          "date": "2026-08-17T11:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/FsTLdpva8cB4m1M323E9QAQsSK4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/W5IGJH2U6VBMZNDI3DDTX6ES7U.jpg",
-          "summary": "As Volkswagen slashes jobs and plants to survive, bypassing franchises for Scout sales works against the automaker's own interests."
+          "title": "Lee’s fast lane for auto loans",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-lee-rising-stars/",
+          "date": "2026-08-17T15:01:20+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/d-t_mWjKdnLZXHgR8Xmt5LXO_c4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/U3KTS2M23RC6JNZE6CNHVVACFY.jpg",
+          "summary": "Nissan Canada Finance Senior Manager of Risk, Compliance, Remarketing, and Analytics John Lee is a 2026 Automotive News Canada Rising Star."
         },
         {
-          "title": "Hyundai Motor Group achieves 80 percent employee adoption of new AI tools, slashing engineering and service times",
-          "link": "https://www.autonews.com/hyundai/an-hyundai-kia-ai-artificial-intelligence-robot-efficiency-gains-0817/",
-          "date": "2026-08-17T10:12:33+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0yCXVfvt9doTV48pROCk3b_HrI8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3XO2HHZJ2JGI5GQXPH2H4L2UJA.JPG",
-          "summary": "Hyundai Motor Group deployed its H Chat Pro generative AI platform to all employees, achieving 80 percent adoption. The AI tools reduced crash test analysis time by 90 percent and…"
+          "title": "Mayhead eyes growth and electrification",
+          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-mayhead-rising-stars/",
+          "date": "2026-08-17T14:59:04+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/dHwV7FcoYl6NKEJLkXtRuwzCZTU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/GQURIE73SRAW5IYAOSHNAPCV6Q.jpg",
+          "summary": "Mercedes-Benz Canada COO Susann Mayhead is a 2026 Automotive News Canada Rising Star."
         }
       ],
       "ok": true,
@@ -956,11 +885,11 @@
       "cat": "space",
       "items": [
         {
-          "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
-          "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
-          "date": "2026-08-17T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Uye9zkNt2pteDkVK2C3bEU-1280-80.jpg",
-          "summary": "From all-in-one to compatible sets, these are the eight Lego Star Wars Smart Play sets you won't want to miss."
+          "title": "Scientists find 3 supermassive black holes on the verge of collision inside a distant galaxy",
+          "link": "https://www.space.com/astronomy/black-holes/scientists-find-3-supermassive-black-holes-on-the-verge-of-collision-inside-a-distant-galaxy",
+          "date": "2026-08-17T15:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/QeLmutJBbR2hv7wvV3VFNb-1280-80.jpg",
+          "summary": "A greedy galaxy that existed less than 1.3 billion years after the Big Bang is hoarding supermassive black holes."
         },
         {
           "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
@@ -968,6 +897,13 @@
           "date": "2026-08-17T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/E9frxsMGXWbcTZYkXU4BnR-1280-80.png",
           "summary": "The wildfires ripping across North America have created massive plumes of smoke."
+        },
+        {
+          "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
+          "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
+          "date": "2026-08-17T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Uye9zkNt2pteDkVK2C3bEU-1280-80.jpg",
+          "summary": "From all-in-one to compatible sets, these are the eight Lego Star Wars Smart Play sets you won't want to miss."
         },
         {
           "title": "On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos",
@@ -1017,13 +953,6 @@
           "date": "2026-08-16T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/sySQ8hJAT2ESNp4ugec2Q4-1280-80.jpg",
           "summary": "On this day in space Aug. 16, 1963: NASA's M2-F1 aircraft prototype makes its first glide flight."
-        },
-        {
-          "title": "Artemis II pilot thanks NASA for letting him fly Orion by hand: 'I'm still blown away by that trust'",
-          "link": "https://www.space.com/space-exploration/artemis/artemis-ii-pilot-thanks-nasa-for-letting-him-fly-orion-by-hand-im-still-blown-away-by-that-trust",
-          "date": "2026-08-16T13:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/d68ZCtNmYub9gdgYPHaygT-1280-80.jpg",
-          "summary": "The Artemis II crew thanked NASA and its contractors in front of a crowd of over 8,000 on on Aug. 3, 2026 at Red Rocks Amphitheatre in Colorado."
         }
       ],
       "ok": true,
@@ -1346,6 +1275,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Theory of Fluids Enters the 21st Century",
+          "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+          "date": "2026-08-17T15:11:17+00:00",
+          "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Slow-mo-paint-cr-DepositPhotos_Alamy-Default.webp",
+          "summary": "From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom…"
+        },
+        {
           "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
           "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
           "date": "2026-08-07T13:55:32+00:00",
@@ -1372,13 +1308,6 @@
           "date": "2026-07-15T15:24:33+00:00",
           "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Default-copy.webp",
           "summary": "Today’s computers need safeguards against random energy fluctuations. Thermodynamic computers would put those fluctuations to use. The post Thermodynamic Computers Go With the…"
-        },
-        {
-          "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
-          "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-          "date": "2026-07-10T14:51:48+00:00",
-          "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Default.jpg",
-          "summary": "Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea. The post We Know…"
         }
       ],
       "ok": true,
@@ -1467,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "First pair of feeding supermassive black holes found in a Green Pea galaxy",
+          "link": "https://phys.org/news/2026-08-pair-supermassive-black-holes-green.html",
+          "date": "2026-08-17T15:10:01+00:00",
+          "image": null,
+          "summary": "Astronomers have discovered the first confirmed dual active galactic nucleus in a Green Pea galaxy, revealing two supermassive black holes growing at the same time inside a…"
+        },
+        {
           "title": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
           "link": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
           "date": "2026-08-17T12:40:08+00:00",
@@ -1528,13 +1464,6 @@
           "date": "2026-08-15T15:20:01+00:00",
           "image": null,
           "summary": "Neptune's moon and ring system stand out among the giant planets because of the strange imbalance between its one very large moon and its many tiny moons. Its largest moon,…"
-        },
-        {
-          "title": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
-          "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
-          "date": "2026-08-15T01:00:01+00:00",
-          "image": null,
-          "summary": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic—with a new twist. In a space economy projected to…"
         }
       ],
       "ok": true,
@@ -1551,6 +1480,20 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "This Switch Game That Reached 1 Million Players Is Closing Official Servers Soon",
+          "link": "https://www.gamespot.com/articles/this-switch-game-that-reached-1-million-players-is-closing-official-servers-soon/",
+          "date": "2026-08-17T15:07:13+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/ArkSwitch-Large.jpeg?w=300",
+          "summary": "The Switch version of the dinosaur-survival game Ark: Survival Evolved is ramping down its online support. Developer Studio Wildcard announced \"with wistful hearts\" that official…"
+        },
+        {
+          "title": "Canceled Star Wars RPG Magellan Looked Like A Star Wars Take On Borderlands",
+          "link": "https://www.gamespot.com/articles/canceled-star-wars-rpg-magellan-looked-like-a-star-wars-take-on-borderlands/",
+          "date": "2026-08-17T14:25:04+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Mandalorian.jpg?w=300",
+          "summary": "There's no shortage of Star Wars games in development right now, but one game set in a galaxy far (far!) away that you won't be playing is an AAA action-RPG set in that sci-fi…"
+        },
         {
           "title": "Kingdom Hearts 4 Delay, You Say? No Way, Series Co-Creator States",
           "link": "https://www.gamespot.com/articles/kingdom-hearts-4-delay-you-say-no-way-series-co-creator-states/",
@@ -1606,20 +1549,6 @@
           "date": "2026-08-14T14:49:40+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Roblox.jpg?w=300",
           "summary": "US Senators Josh Hawley and Dick Durbin have announced that Roblox will be the subject of a congressional investigation amid claims that the gaming platform is a threat to child…"
-        },
-        {
-          "title": "Call Of Duty: Modern Warfare 4 Beta Will Do Something No Previous CoD Beta Has",
-          "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/",
-          "date": "2026-08-14T14:48:08+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/CODNew-Large.jpeg?w=300",
-          "summary": "Activision has announced that the upcoming Call of Duty: Modern Warfare 4 beta will have more than just multiplayer content. The MW4 beta will also include access to the campaign…"
-        },
-        {
-          "title": "Disney Has 9 Gaming Franchises That Have Generated $1 Billion+ At Retail, Including Kingdom Hearts",
-          "link": "https://www.gamespot.com/articles/disney-has-9-gaming-franchises-that-have-generated-1-billion-at-retail-including-kingdom-hearts/",
-          "date": "2026-08-14T14:26:23+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/DISGames-1.png?w=300",
-          "summary": "Disney has outlined just how powerful and important video games are to the company's future. In a blog post ahead of D23-- where Kingdom Hearts news is expected --the company's…"
         }
       ],
       "ok": true,
@@ -1629,6 +1558,34 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Nintendo Just Teased a Big Story Twist for 'Fire Emblem: Fortune’s Weave' in New Trailer",
+          "link": "https://www.polygon.com/fire-emblem-fortunes-weave-time-skip/",
+          "date": "2026-08-17T15:10:54+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/switch2_fireemblemfortunesweave_scrn_15.jpeg",
+          "summary": "Eagle-eyed fans took to social media to point out that a time-skip could be featured in Nintendo's latest Fire Emblem game."
+        },
+        {
+          "title": "Marvel Cosmic Invasion Doctor Doom DLC Arrives this Fall",
+          "link": "https://www.polygon.com/marvel-cosmic-invasion-doctor-doom-dlc-announced/",
+          "date": "2026-08-17T15:00:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/marvel-cosmic-invasion-the-siege-of-castle-doom-dlc-2-key-art-cropped.jpg",
+          "summary": "Marvel Cosmic Invasion The Siege of Castle Doom DLC is on the way just in time for Doctor Doom's reign of villainy in December's Avengers Doomsday."
+        },
+        {
+          "title": "'Resident Evil Requiem' Star Has Reportedly Found Her Next Starring Role",
+          "link": "https://www.polygon.com/tides-of-annihilation-lead-actor-resident-evil-requiem-grace/",
+          "date": "2026-08-17T14:41:21+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/resident-evil-requiem-tips.jpg",
+          "summary": "A Resident Evil Requiem star is reportedly taking over for Jennifer English in an upcoming RPG after the Expedition 33 lead had to step away."
+        },
+        {
+          "title": "'Skip and Loafer' Season 2 Anime Finally Coming in 2027",
+          "link": "https://www.polygon.com/skip-and-loafer-season-2-release-date-announced/",
+          "date": "2026-08-17T14:37:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24762706/skip_and_loafer_01.jpg",
+          "summary": "2023's charming romcom anime perfect for fans of Horimiya and You and I Are Polar Opposites returns April 2027."
+        },
         {
           "title": "'Marvel Rivals' Players Are Exploiting a Cheat That Lets Them End Matches Without Penalties",
           "link": "https://www.polygon.com/marvel-rivals-match-quit-hack/",
@@ -1670,34 +1627,6 @@
           "date": "2026-08-17T12:00:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdblru_ec051.jpg",
           "summary": "Polygon recently interviewed Blade Runner 2099's creator/showrunner Silka Luisa for our upcoming Fall Preview, and she revealed the answer."
-        },
-        {
-          "title": "'Train to Busan' Director's New Zombie Movie Was Inspired By a 48-Year-Old Sci-Fi Masterpiece",
-          "link": "https://www.polygon.com/yeon-sang-ho-interview-colony-director/",
-          "date": "2026-08-17T11:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/colony_still_02-1.jpg",
-          "summary": "Yeon Sang-ho breaks down his new zombie movie, Colony"
-        },
-        {
-          "title": "Ryan Gosling's 100-Minute 10/10 Crime-Thriller Cult Classic Is Officially Free on Streaming",
-          "link": "https://www.polygon.com/movies-free-streaming-august-2026-drive/",
-          "date": "2026-08-17T10:00:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/1d10fc37654ce98444b46fe0cd7b671343918b686f5b10f230ed9ee9a74a99ac.jpg",
-          "summary": "This slick, neo-soaked adventure is quite impossible to forget."
-        },
-        {
-          "title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
-          "link": "https://www.polygon.com/avengers-doomsday-watchlist/",
-          "date": "2026-08-17T09:52:02+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdcaam_ec205.jpg",
-          "summary": "Marvel and Disney have unveiled a list of key films fans need to watch to prepare for Doomsday, with one surprising omission."
-        },
-        {
-          "title": "Will King of the Hill Pit Hank And Buck Against Each Other?",
-          "link": "https://www.polygon.com/video/will-king-of-the-hill-pit-hank-and-buck-against-each-other/",
-          "date": "2026-08-17T09:37:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-17-at-11-31-24-am.png",
-          "summary": "King of the Hill is setting up potential conflict between Buck Strickland and Hank Hill, as Hank takes the reins of Strickland Propane."
         }
       ],
       "ok": true,
@@ -1707,6 +1636,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues",
+          "link": "https://www.eurogamer.net/sony-ps6-internal-release-date-component-shortage",
+          "date": "2026-08-17T14:58:18+00:00",
+          "image": "https://assetsio.gnwcdn.com/ps5-ram-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "We already know that console manufacturing is being heavily impacted by the on-going component shortage , driven by the proliferation of AI datacenters, the war in Iran, and…"
+        },
         {
           "title": "Spider-Man is looking exceptionally strong in Marvel Tōkon: Fighting Souls",
           "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-spider-man-ceo",
@@ -1769,13 +1705,6 @@
           "date": "2026-08-17T09:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/Fire-Emblem-mice.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Earlier this year, Pokopia convinced me that the Switch 2's gimmicky mouse controls were a worthwhile addition to the console, after all. Since then, I've been trying out other…"
-        },
-        {
-          "title": "For the first time ever in a Call of Duty beta, the Modern Warfare 4 beta includes a campaign mission",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-maps-modes-campaign",
-          "date": "2026-08-17T08:27:59+00:00",
-          "image": "https://assetsio.gnwcdn.com/modern-warfare-4-multiplayer-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Activision has announced several new details about the Call of Duty: Modern Warfare 4 beta, whose first leg is set to kick off Friday. The official Call of Duty X account posted a…"
         }
       ],
       "ok": true,
@@ -1785,6 +1714,27 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The Toy Maker Behind Barbie And Hot Wheels Wants To Make Its Own Video Games",
+          "link": "https://kotaku.com/the-toy-maker-behind-barbie-and-hot-wheels-wants-to-make-its-own-video-games-2000724968",
+          "date": "2026-08-17T15:00:06+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/babie.jpg",
+          "summary": "Mattel is looking to succeed where Hasbro failed"
+        },
+        {
+          "title": "When Is The PS6 Coming Out? Even Sony Doesn’t Know The Answer Yet",
+          "link": "https://kotaku.com/the-ps6-launch-date-is-still-up-in-the-air-2000725002",
+          "date": "2026-08-17T14:50:03+00:00",
+          "image": "https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg",
+          "summary": "Scheduling is happening amid an unprecedented cost crisis for gaming"
+        },
+        {
+          "title": "We Almost Got A Loot-Based Star Wars RPG Featuring Jedi And Mandalorians",
+          "link": "https://kotaku.com/we-almost-got-a-loot-based-star-wars-rpg-featuring-jedi-and-mandalorians-2000724976",
+          "date": "2026-08-17T14:40:07+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/starwars-RPG-1280x720.jpg",
+          "summary": "Project Magellan was planned to feature different classes and online multiplayer"
+        },
         {
           "title": "Don’t Worry About Delays, Kingdom Hearts 4 Directors Say Late 2027 Release Date Is ‘A 100-Percent Thing’",
           "link": "https://kotaku.com/kingdom-hearts-4-release-date-late-2027-confirmed-tetsuya-nomura-2000724969",
@@ -1833,27 +1783,6 @@
           "date": "2026-08-16T20:04:11+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/the-tears-in-rain-monologue-1711653091.jpg",
           "summary": "A classic conundrum of 'why would I buy something you didn’t make,' platforms like CGTrader has shelves of AI made models collecting dust"
-        },
-        {
-          "title": "Insomniac Devs Blame Social Media Feedback Loops For Sudden Wolverine Hate",
-          "link": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
-          "date": "2026-08-16T19:11:50+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/wolverinerage.jpg",
-          "summary": "The studio’s marketing director blows off some steam on the sudden surge of scrutiny, believing this kind of culture can’t possibly be good for anyone’s mental health"
-        },
-        {
-          "title": "Now Sonic Is Getting A Gun In Fortnite As ‘Gaming Legends’ From Mega Man, Spyro, Persona And More Arrive",
-          "link": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
-          "date": "2026-08-16T17:55:42+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/sonicfortnite-1280x718.jpg",
-          "summary": "Mega Man, Crash Bandicoot, Spyro and Jazz Jackrabbit join Fortnite’s ever growing IP pit in ‘Gaming Legends’ trailer"
-        },
-        {
-          "title": "Saber CEO Apologizes To Rideshare Writer Involved In AI Controversy After Weeklong Crashout",
-          "link": "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730",
-          "date": "2026-08-15T23:54:05+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/rideshare-2-1280x809.jpg",
-          "summary": "Hopefully putting a fork in this embarrassing stitch, Matt Karch delivered a private apology to the lead Rideshare \"Stimulator\" writer subjected to his stinky, snarky rant"
         }
       ],
       "ok": true,
@@ -1863,6 +1792,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Mortal Shell 2 review: A monumental heavy metal sequel with the spirit of a '90s PC game",
+          "link": "https://www.rockpapershotgun.com/mortal-shell-2-review-a-monumental-heavy-metal-sequel-with-the-spirit-of-a-90s-pc-game",
+          "date": "2026-08-17T14:33:22+00:00",
+          "image": "https://assetsio.gnwcdn.com/mortal-shell-2-rps-bestest-best.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "A few hours into your sojourn across Mortal Shell 2 's harsh realm of Fainweald, you might stumble upon a tavern called The One Legged Wolf. In a monstrous land inhabited by…"
+        },
         {
           "title": "Boardroom beat-em-up Stick It to the Stickman punches its way out of early access next month, complete with neurolinkage and an \"absolutely absurd finale\"",
           "link": "https://www.rockpapershotgun.com/boardroom-beat-em-up-stick-it-to-the-stickman-punches-its-way-out-of-early-access-next-month-complete-with-neurolinkage-and-an-absolutely-absurd-finale",
@@ -1925,13 +1861,6 @@
           "date": "2026-08-15T18:08:30+00:00",
           "image": "https://assetsio.gnwcdn.com/the-witcher-3-hearts-of-stone-a.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Gone are the days where a developer could give an NPC maybe two lines of dialogue and call it a day. The steady shift to realism essentially enforces the idea that characters must…"
-        },
-        {
-          "title": "Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot",
-          "link": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
-          "date": "2026-08-15T17:08:21+00:00",
-          "image": "https://assetsio.gnwcdn.com/slay-the-spire-2-release-date-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to…"
         }
       ],
       "ok": true,
@@ -1941,6 +1870,20 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The Sinking City 2 review",
+          "link": "https://www.pcgamer.com/games/horror/the-sinking-city-2-review/",
+          "date": "2026-08-17T15:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/TnqVcY3pJRJWesraGXdNR-1280-80.jpg",
+          "summary": "An improved sequel that doubles down on the basics."
+        },
+        {
+          "title": "SSD price increases might be with us for the long haul, as Phison's CEO says NAND supply won't catch up with demand for four years",
+          "link": "https://www.pcgamer.com/hardware/ssds/ssd-price-increases-might-be-with-us-for-the-long-haul-as-phisons-ceo-says-nand-supply-wont-catch-up-with-demand-for-four-years/",
+          "date": "2026-08-17T14:34:44+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/TS44xiDUQAMviLKqDZYhgh-1280-80.jpg",
+          "summary": "More bad news, I know."
+        },
         {
           "title": "Tests show newer OLED TVs can still experience significant burn-in because they're much brighter, proving that you can't have your cake and eat it",
           "link": "https://www.pcgamer.com/hardware/gaming-monitors/tests-show-newer-oled-tvs-can-still-experience-significant-burn-in-because-theyre-much-brighter-proving-that-you-cant-have-your-cake-and-eat-it/",
@@ -1996,20 +1939,6 @@
           "date": "2026-08-16T17:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/uh26LEAoSbJah73QhMhjRH-1280-80.jpg",
           "summary": "The legendary game designer guides us through the games on his PC."
-        },
-        {
-          "title": "Where's the weirdest place you've heard videogame music?",
-          "link": "https://www.pcgamer.com/games/wheres-the-weirdest-place-youve-heard-videogame-music/",
-          "date": "2026-08-16T17:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NUrc7GAqwBdawyXwPEtABH-1280-80.jpg",
-          "summary": "Why does hearing it in public places feel so… wrong?"
-        },
-        {
-          "title": "The next big videogame TV adaptation is a Kingdom Hearts anime",
-          "link": "https://www.pcgamer.com/movies-tv/the-next-big-videogame-tv-adaptation-is-a-kingdom-hearts-anime/",
-          "date": "2026-08-16T16:00:41+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Yj3EoT7uW6gLCydUdMJHzb-1280-80.jpg",
-          "summary": "In it, the Three Caballeros will fight Bahamut. I'm kidding, but I can't imagine I'm that far off."
         }
       ],
       "ok": true,
@@ -2098,6 +2027,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "TCG Card Shop Simulator’s Biggest 1.0 Feature: How to Dominate Tetramon Duel Master",
+          "link": "https://news.xbox.com/en-us/2026/08/17/tcg-card-shop-simulator-tetramon-duel-masters-guide/",
+          "date": "2026-08-17T15:00:00+00:00",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/image-d1860867582f1b011e84.jpeg",
+          "summary": "TCG Card Shop Simulator puts you behind the counter of your own trading card store. From ordering booster packs, stocking shelves, and cracking open packs of Tetramon cards to…"
+        },
+        {
           "title": "Whisper of the House Unpacks Cozy Xbox Preorders Today",
           "link": "https://news.xbox.com/en-us/2026/08/14/whisper-of-the-house-unpacks-cozy-xbox-preorders-today/",
           "date": "2026-08-14T18:00:00+00:00",
@@ -2159,13 +2095,6 @@
           "date": "2026-08-12T14:05:00+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Gears-of-War-E-Day-Controller-1-b8cc332a4e72b64710b7.jpg",
           "summary": "To celebrate the launch of Gears of War: E-Day, we&#8217;re giving fans two new ways to immerse themselves in one of gaming&#8217;s most iconic universes. Starting today, fans can…"
-        },
-        {
-          "title": "Helldivers 2: Devoid of Liberty – Meet the SEAF Squad Assembled to Take on The Illuminate",
-          "link": "https://news.xbox.com/en-us/2026/08/12/helldivers-2-devoid-of-liberty-update-xbox/",
-          "date": "2026-08-12T12:00:00+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/SEAF-Screenshot-Yellow-Radio01_Disclaimer-3533f4ce6c3685240672-1024x576.jpg",
-          "summary": "The blight of the Illuminate have expanded their war front with a strange new presence on the Galactic map. Assessed by our top Super Earth scientists, this area has been…"
         }
       ],
       "ok": true,
@@ -2254,6 +2183,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "How Forbidden Solitaire brought solitaire games to the forefront",
+          "link": "https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront",
+          "date": "2026-08-17T14:51:26+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5933ca91f0888868/6a7f5eadf75dbf2536ff1c46/Forbidden_solitaire_cutscene_art.png?width=720&quality=80&disable=upscale",
+          "summary": "Its success has allowed Grey Alien Games to reach out to more Steam players than ever."
+        },
+        {
           "title": "Inner Pocket is a new indie publisher looking to champion 'curiosity games'",
           "link": "https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publishing-label-that-wants-to-champion-intimate-experiences",
           "date": "2026-08-17T14:15:46+00:00",
@@ -2315,13 +2251,6 @@
           "date": "2026-08-13T13:36:46+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf6a8ace37ec05556/6a75e963c19d943b4a59b78b/toxicsmallteamsfeattured.png?width=720&quality=80&disable=upscale",
           "summary": "As smaller teams see bigger success, how will the game industry protect professional standards of conduct?"
-        },
-        {
-          "title": "Twitch will sacrifice you to its AI overlord whether you like it or not",
-          "link": "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not",
-          "date": "2026-08-13T13:19:47+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfbed083d2e99ebc2/6a7dc571356eb87d61638027/Twitch_video_game_header.png?width=720&quality=80&disable=upscale",
-          "summary": "The streaming platform has informed users their content will be used to train Amazon's generative AI models by default—and opting-out doesn't solve the problem entirely."
         }
       ],
       "ok": true,
@@ -2410,9 +2339,9 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "NASA funds ion-powered flying drones to explore Saturn’s largest moon",
+          "title": "Silent ion-powered robot swarms could map subsurface caves on Saturn’s moon Titan",
           "link": "https://interestingengineering.com/space/nasa-funds-ion-powered-flying-drones-to-explore-saturns-largest-moon",
-          "date": "2026-08-17T13:55:09+00:00",
+          "date": "2026-08-17T13:55:11+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-34.jpg",
           "summary": "NASA is funding an ambitious new concept that could send swarms of tiny, silent, spherical..."
         },
@@ -2750,6 +2679,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Mountain States & Southwest People News, August 2026",
+          "link": "https://www.enr.com/articles/63483-mountain-states-and-southwest-people-news-august-2026",
+          "date": "2026-08-17T15:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/Regions/MSSW/ENR-People-MSSW.webp?t=1760645969",
+          "summary": "Updates about construction professionals from across the Mountain States & Southwest region."
+        },
+        {
           "title": "ENR West People: August 2026",
           "link": "https://www.enr.com/articles/63508-enr-west-people-august-2026",
           "date": "2026-08-17T14:00:00+00:00",
@@ -2811,13 +2747,6 @@
           "date": "2026-08-14T14:00:00+00:00",
           "image": "https://www.enr.com/ext/resources/Issues/MSSW/2026/August/Utah-N-Capitol-Bldg.webp?t=1786564185",
           "summary": "Regional firm revenue jumps 20% from previous year."
-        },
-        {
-          "title": "GreenVibe Concrete Sensors Put Lab Results to the Test",
-          "link": "https://www.enr.com/articles/63496-greenvibe-concrete-sensors-put-lab-results-to-the-test",
-          "date": "2026-08-14T13:37:29+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/13/GreenVibe---TOF.webp?t=1786669820",
-          "summary": "A costly high-rise repair helped convince one project team that real-time measurements from inside curing concrete could provide insights conventional laboratory testing had…"
         }
       ],
       "ok": true,
