@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:37:58.574456+00:00",
+  "updated": "2026-08-19T05:31:34.463526+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -566,7 +566,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://blog.3ds.com/feed/"
+      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -651,11 +651,18 @@
       "cat": "space",
       "items": [
         {
+          "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+          "date": "2026-08-19T05:02:06+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg?w=1536",
+          "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.&#160; From astronaut training and engineering tests…"
+        },
+        {
           "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
           "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
           "date": "2026-08-19T04:05:00+00:00",
           "image": null,
-          "summary": "APOD Science APOD APOD: 2026 August 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+          "summary": "APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day…"
         },
         {
           "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
@@ -712,13 +719,6 @@
           "date": "2026-08-17T20:17:20+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080",
           "summary": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified…"
-        },
-        {
-          "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-          "link": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-          "date": "2026-08-17T19:24:34+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg?w=1920",
-          "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles,…"
         }
       ],
       "ok": true,
@@ -998,13 +998,6 @@
           "summary": "The JCB Hydromax vehicle averaged more than 400 mph during two runs in Utah last week, becoming the fastest hydrogen-powered car in history."
         },
         {
-          "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
-          "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
-          "date": "2026-08-18T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NDqKjfqQ344xKV4rnjwXSo-1280-80.jpg",
-          "summary": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium"
-        },
-        {
           "title": "A beginner’s guide to observing the night sky with a manual telescope",
           "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
           "date": "2026-08-18T14:00:00+00:00",
@@ -1017,6 +1010,13 @@
           "date": "2026-08-18T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/dZhSLvJgV2eiXxJeHvTTd-1280-80.png",
           "summary": "The \"Black Eye Galaxy\" is captured in a gorgeous new composite image from the Hubble and James Webb space telescopes."
+        },
+        {
+          "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
+          "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
+          "date": "2026-08-18T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/NDqKjfqQ344xKV4rnjwXSo-1280-80.jpg",
+          "summary": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium"
         },
         {
           "title": "It's harder to poop in space. Scientists may finally know why",
