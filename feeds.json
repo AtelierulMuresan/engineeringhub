@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T05:31:34.463526+00:00",
+  "updated": "2026-08-19T06:45:56.825773+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -566,7 +566,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
+      "error": "503 Server Error: Service Unavailable for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -1119,11 +1119,11 @@
           "summary": "It was the 282nd EVA devoted to station assembly and maintenance, the fifth so far this year, the second for Menon and the first for Adenot, now the first French woman to walk in…"
         },
         {
-          "title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California",
+          "title": "SpaceX exceeds 11,000 satellites in low Earth orbit",
           "link": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/",
           "date": "2026-08-18T13:13:09+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-          "summary": "The Starlink 17-50 mission will add another 24 broadband satellites to the company’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:01…"
+          "summary": "The Starlink 17-50 mission added another 24 broadband satellites to the company’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base happened at 9:01 p.m. PDT…"
         },
         {
           "title": "SpaceX launches record-breaking back-to-back Falcon 9 rockets for Globalstar, U.S. Space Force",
