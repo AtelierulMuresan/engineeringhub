@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:52:41.849957+00:00",
+  "updated": "2026-08-19T04:37:58.574456+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "How zonal architectures work — and why they are essential for software-defined vehicles, future competitiveness",
+          "link": "https://www.autonews.com/technology/ane-zonal-architecture-sdv-bmw-vw-0819/",
+          "date": "2026-08-19T04:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/oGQPd7IBwI9q4RmfVwL1w13yvTM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TQ4ROEBFRZEPHGFIQAK3SBPA7Y.png",
+          "summary": "Grouping vehicle electronics by physical location in the car results in fewer electronic control units, less wiring, reduced complexity and better over-the-air update capability,…"
+        },
+        {
           "title": "The Multi-lane Highway: Bosch’s vision for next-generation trucks and SUVs",
           "link": "https://www.autonews.com/resource_center/boschmobility/an-the-multi-lane-highway-boschs-vision-for-next-generation-trucks-and-suvs/",
           "date": "2026-08-18T21:06:23+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-18T16:45:15+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/BKbqTRRz4PtKBwbi0zGcM4FcuLg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SUT47YHGIRCNPKNK6NVZKIWE7I.jpg",
           "summary": "Martinrea International Engineering Supervisor Anindya Banerji is a 2026 Automotive News Canada Rising Star."
-        },
-        {
-          "title": "Building Honda’s factory of the future",
-          "link": "https://www.autonews.com/awards/canadians-to-watch/2026/anc-fraser-rising-stars/",
-          "date": "2026-08-18T16:45:03+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Qf_0VWT_Z-E-9Chje-luEBGdpwo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/E7O6PWZNAVAFDGCANHWZRP2A7Q.jpeg",
-          "summary": "Honda Canada Manufacturing Manufacturing Division Manager Paul Fraser is a 2026 Automotive News Canada Rising Star."
         }
       ],
       "ok": true,
@@ -566,7 +566,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
+      "error": "503 Server Error: Service Unavailable for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -651,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+          "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+          "date": "2026-08-19T04:05:00+00:00",
+          "image": null,
+          "summary": "APOD Science APOD APOD: 2026 August 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
           "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
           "link": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
           "date": "2026-08-18T18:49:50+00:00",
@@ -712,13 +719,6 @@
           "date": "2026-08-17T19:24:34+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg?w=1920",
           "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles,…"
-        },
-        {
-          "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
-          "link": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
-          "date": "2026-08-17T17:52:42+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/FORCE_leaders_sciact.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling…"
         }
       ],
       "ok": true,
@@ -984,11 +984,11 @@
           "summary": "After Starship's test launch and splashdown last month, SpaceX recovery teams have successfully tugged the vehicle through a turbulent stretch of the Indian Ocean and arrived at…"
         },
         {
-          "title": "Watch SpaceX launch its 100th mission of the year tonight",
+          "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
           "date": "2026-08-18T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg",
-          "summary": "SpaceX will launch its 100th mission of the year tonight (Aug. 18), and you can watch the action live."
+          "image": "https://cdn.mos.cms.futurecdn.net/hqmCRuQxjC27indyS4Aaa6-1280-80.jpg",
+          "summary": "SpaceX launched its 100th mission of the year early Wednesday morning (Aug. 19), sending 24 Starlink satellites to low Earth orbit."
         },
         {
           "title": "Hydrogen-powered 'rocket car' tops 400 mph in record-breaking test (video)",
