@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:37:01.155129+00:00",
+  "updated": "2026-08-19T19:27:23.910992+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Pinewood.AI to go private in $742 million acquisition by Ridgeview Partners",
+          "link": "https://www.autonews.com/retail/an-pinewoodai-agrees-to-be-acquired-0819/",
+          "date": "2026-08-19T18:44:02+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/OnWGZ_RS25T0iVDX0ZMhMJ1rHOI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/OWSTHQDFFJARDDMKQWMOUJ2XBM.jpg",
+          "summary": "U.S. private equity firm Ridgeview Partners agreed to acquire dealership management system provider Pinewood.AI to fund technology investment and accelerate North American…"
+        },
+        {
+          "title": "First Shift: EV road trips get easier",
+          "link": "https://www.autonews.com/video/first-shift-ev-road-trips-get-easier/",
+          "date": "2026-08-19T18:35:33+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/gkGCGBLJ_CaQNb45I4w2tmGFZhk=/0x800/d3qtc8km8dvw1x.cloudfront.net/08-19-2026/t_9f07c4c1e26041898e91532b7af182bc_name_file_960x540_1600_v4_.jpg",
+          "summary": "Carvana’s new-car pricing skews higher | Supplier job losses deepen despite tariff push | Honda weighs hybrid HR-V, ADX"
+        },
+        {
           "title": "Canada tariff standoff continues; inside LG Energy Solution’s battery pivot",
           "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-lg-energy-bob-lee-08-19/",
           "date": "2026-08-19T17:39:03+00:00",
@@ -294,20 +308,6 @@
           "date": "2026-08-19T14:21:35+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/kidEKPQmBGvCiSLmlyajrfvHHu8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SXMMG6POUNCNJFG6OSBL4FEONI.jpg",
           "summary": "VW is in talks with the conglomerate JSW for an India joint venture and is open to ceding majority control. Skoda CEO Klaus Zellmer, whose brand leads VW's push in India, said a…"
-        },
-        {
-          "title": "Build a Modern Tech Stack to Boost Efficiency and Profits",
-          "link": "https://www.autonews.com/resource_center/CapitalOne/an-build-a-modern-tech-stack-to-boost-efficiency-and-profits/",
-          "date": "2026-08-19T13:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/qRAc05Lmztla5F7ni3n3r7n9vE4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BN3LN6D4VVGUBPOSRSEAGAPHDU.jpg",
-          "summary": "In this 20-minute executive briefing, Capital One’s Tim Mullins sits down with Capital One Product Executive Vikram Repaka and Grapevine Dodge General Manager Brandon Buehlman to…"
-        },
-        {
-          "title": "Toyota donates to Red Cross relief efforts as wildfires rage across Canada",
-          "link": "https://www.autonews.com/retail/anc-toyota-wildfire-relief-donation-0817/",
-          "date": "2026-08-19T11:45:44+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/CNWF7pKA6aOa_1hY3o91BcT12XU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5N47YS25WJAX7MYAGAKMG6PB7Y.jpg",
-          "summary": "Wildfires have flared in several regions of Canada over the summer."
         }
       ],
       "ok": true,
@@ -317,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Sharing Is Caring: See How A Lucid Gravity Can Charge A Tesla Model 3",
+          "link": "https://insideevs.com/news/805511/lucid-gravity-charges-tesla/",
+          "date": "2026-08-19T18:49:21+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
+          "summary": "Charging a Tesla with its biggest competitors might seem like blasphemy but it actually works pretty damn well."
+        },
         {
           "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
           "link": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors/",
@@ -379,13 +386,6 @@
           "date": "2026-08-18T08:07:14+00:00",
           "image": "https://cdn.motor1.com/images/mgl/L3yZJG/s3/tesla-model-y-performance-home-charging.jpg",
           "summary": "Germany’s biggest car club tested several EVs for charging losses. One car stood out."
-        },
-        {
-          "title": "Who Needs Leather? Bentley's First EV Will Offer Merino Wool Seats",
-          "link": "https://insideevs.com/news/805231/bentley-torcal-sustainable-merino-wool/",
-          "date": "2026-08-17T21:21:30+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/2N4WxB/s3/bentley-torcal-interior.jpg",
-          "summary": "Bentley is taking its material quality expertise to the world of sustainability, with Merino wool and recycled wood trim in the Torcal."
         }
       ],
       "ok": true,
@@ -394,80 +394,9 @@
     {
       "name": "Plastics Technology",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Purpose-Built System Enhances Capacity and Flexibility for Recycler",
-          "link": "https://www.ptonline.com/blog/post/purpose-built-system-enhances-capacity-and-flexibility-for-recycler",
-          "date": "2023-06-23T18:04:47+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PT/2023-PT/pt-0623-acs11.jpg;maxWidth=720",
-          "summary": "A Boston recycler invested in a turnkey shredding, granulation and elutriation system to expand its plastics reclaim business."
-        },
-        {
-          "title": "FTC Panels Discuss the Green Guides, Recyclability, and Consumer Perception",
-          "link": "https://www.ptonline.com/blog/post/ftc-panels-discuss-the-green-guides-recyclability-and-consumer-perception",
-          "date": "2023-05-31T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PT/2023-PT/pt-0723-rc6.jpg;maxWidth=720",
-          "summary": "Public feedback is being solicited on the definition of recyclable and other issues associated with marketing claims."
-        },
-        {
-          "title": "Molding and Moldmaking Conference Agendas Finalized",
-          "link": "https://www.ptonline.com/blog/post/molding-and-moldmaking-conference-agendas-finalized",
-          "date": "2023-05-29T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/pt/2023-pt/gettyimages-871359020.jpg;maxWidth=720",
-          "summary": "August 29-30 in Minneapolis all things injection molding and moldmaking will be happening at the Hyatt Regency &mdash; check out who&rsquo;s speaking on what topics today."
-        },
-        {
-          "title": "Twin-Screw Compounding Trends",
-          "link": "https://www.ptonline.com/blog/post/twin-screw-extrusion-trends-in-technology",
-          "date": "2023-05-26T04:25:00+00:00",
-          "image": null,
-          "summary": "What's new in extrusion? Leistritz talks with the Plastics Technology team on hot topics in extrusion including, biopolymers and recycled materials.&nbsp;"
-        },
-        {
-          "title": "Latest Data on Bottled Water Shows Continued Strong Growth",
-          "link": "https://www.ptonline.com/blog/post/latest-data-on-bottled-water-shows-continued-strong-growth",
-          "date": "2023-05-24T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/pt/2023-pt/blogstudyonbottledwaterbottled20water20grocery-1.jpg;maxWidth=720",
-          "summary": "Bottled water&rsquo;s volume surpassed soft drinks for the first time in 2016 and has done so every year since."
-        },
-        {
-          "title": "Recycling Terminology Can Be a Minefield, So We Should Tread Lightly",
-          "link": "https://www.ptonline.com/blog/post/recycling-terminology-can-be-a-minefield-so-we-should-tread-lightly",
-          "date": "2023-05-22T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/pt/2023-pt/0523pt-blog-neopac-polyfoil-ecopro.jpg;maxWidth=720",
-          "summary": "Loose propagation of terms like &ldquo;recyclable&rdquo; and &ldquo;compostable&rdquo; has already brought down government regulations on labeling. The plastics and packaging…"
-        },
-        {
-          "title": "Plastic Bank Marks 10 Years and 88,000 Tons of Plastic Waste Reclaimed",
-          "link": "https://www.ptonline.com/blog/post/plastic-bank-marks-10-years-and-88000-tons-of-plastic-waste-reclaimed",
-          "date": "2023-05-19T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PT/2023-PT/pt-0723-plasticbankindonesiaaug22.jpg;maxWidth=720",
-          "summary": "Company sets up local exchange centers to divert plastic waste otherwise likely to end up in the ocean."
-        },
-        {
-          "title": "Drones and Injection Molding Ready for Takeoff",
-          "link": "https://www.ptonline.com/blog/post/drones-and-injection-molding-ready-for-takeoff",
-          "date": "2023-05-16T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PT/2023-PT/bluehalo-image1.png;maxWidth=720",
-          "summary": "Drones and unmanned aerial vehicles (UAV) are approaching an inflection point where their production volumes &mdash; and functionality &mdash; will increasingly point to injection…"
-        },
-        {
-          "title": "The Future of Automation in Injection Molding",
-          "link": "https://www.ptonline.com/blog/post/the-future-of-automation-in-injection-molding",
-          "date": "2023-05-15T04:00:00+00:00",
-          "image": null,
-          "summary": "Are you automating enough? At #PTXPO23 we spoke with leaders in automation and injection molding about the current state of automation and what&rsquo;s in store for the future."
-        },
-        {
-          "title": "All-PP Packaging is More than Likely to Make its Mark in the Monomaterial Trend",
-          "link": "https://www.ptonline.com/blog/post/all-pp-packaging-is-more-than-likely-to-make-its-mark-in-the-monomaterial-trend",
-          "date": "2023-05-12T04:00:00+00:00",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/pt/2023-pt/blogborealisc-borealismonomaterial-pouch.jpg;maxWidth=720",
-          "summary": "Borealis and partners have developed a new PP monomaterial food pouch with high barrier and compatibility for mechanical recycling of PP. &nbsp;"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='www.ptonline.com', port=443): Read timed out. (read timeout=12)"
     },
     {
       "name": "Composites World",
@@ -658,6 +587,13 @@
           "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a…"
         },
         {
+          "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+          "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+          "date": "2026-08-19T18:02:40+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&#038;h=3712&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South…"
+        },
+        {
           "title": "Ancient Milky Way Merger",
           "link": "https://www.nasa.gov/image-article/ancient-milky-way-merger/",
           "date": "2026-08-19T16:18:48+00:00",
@@ -712,13 +648,6 @@
           "date": "2026-08-18T15:10:36+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg?w=1536",
           "summary": "NASA&#8217;s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in…"
-        },
-        {
-          "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
-          "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
-          "date": "2026-08-18T14:00:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg?w=2048",
-          "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research…"
         }
       ],
       "ok": true,
@@ -956,6 +885,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "'The Mandalorian and Grogu' finally blasts onto Disney+ next month",
+          "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-finally-blasts-onto-disney-next-month",
+          "date": "2026-08-19T19:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/vD7BnqW6xj8S3KqdaQzKwR-1280-80.jpg",
+          "summary": "Will this underwhelming spinoff of \"The Mandalorian\" find new life in the streaming world?"
+        },
+        {
           "title": "Dark matter could magnify the jets of a ravenously feeding supermassive black hole",
           "link": "https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole",
           "date": "2026-08-19T18:00:00+00:00",
@@ -984,18 +920,18 @@
           "summary": "These are the books that inspired our favorite science fiction worlds on the big and small screens, including novels from Andy Weir, Emily St. John Mandel and Mary Shelley."
         },
         {
-          "title": "My 5 favorite sights to see in the night sky with binoculars",
-          "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
-          "date": "2026-08-19T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/8xj8WBWPnxvkSDeg7bhJRg-1280-80.jpg",
-          "summary": "Here are our top picks on what to look for when using binoculars to explore the night sky."
-        },
-        {
           "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
           "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
           "date": "2026-08-19T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/6AHzp9NVbvFKh84dVrZEqf-1280-80.png",
           "summary": ""
+        },
+        {
+          "title": "My 5 favorite sights to see in the night sky with binoculars",
+          "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
+          "date": "2026-08-19T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/8xj8WBWPnxvkSDeg7bhJRg-1280-80.jpg",
+          "summary": "Here are our top picks on what to look for when using binoculars to explore the night sky."
         },
         {
           "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
@@ -1017,13 +953,6 @@
           "date": "2026-08-19T10:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/qnXj4xKhNsjzUZs5FLDy2M-1280-80.jpg",
           "summary": "\"This isn't what we expected at all.\""
-        },
-        {
-          "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
-          "date": "2026-08-19T01:29:44+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/b3TbWLSVpCuC9ANjWAvB6X-1280-80.jpg",
-          "summary": "The Beijing-based company LandSpace landed its Zhuque-3 rocket this evening (Aug. 18), notching a huge milestone for commercial Chinese spaceflight."
         }
       ],
       "ok": true,
@@ -1033,6 +962,13 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "Katalyst Space and NASA abandon plans for Swift reboost",
+          "link": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
+          "date": "2026-08-19T19:23:06+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&amp;ssl=1",
+          "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems…"
+        },
         {
           "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
           "link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
@@ -1095,13 +1031,6 @@
           "date": "2026-08-18T12:00:00+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/MissileWarningCenter-scaled.jpg?fit=1024%2C664&amp;ssl=1",
           "summary": "Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control The post New report takes closer look at…"
-        },
-        {
-          "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
-          "link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
-          "date": "2026-08-18T09:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HPDYEsnWcAAM16m-scaled-e1787001268860.jpeg?fit=1024%2C596&amp;ssl=1",
-          "summary": "NRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters The post NRO to expand use of HawkEye 360’s satellite…"
         }
       ],
       "ok": true,
@@ -1268,6 +1197,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "The Fastest Star in the Milky Way Will Test Relativity",
+          "link": "https://www.universetoday.com/articles/the-fastest-star-in-the-milky-way-will-test-relativity",
+          "date": "2026-08-19T18:30:57+00:00",
+          "image": "https://www.universetoday.com/article_images/eso2612a_20260819_172156.jpg",
+          "summary": "Astronomers have discovered another S star, the population of stars that orbits the Milky Way's SMBH. This one is the fastest of them all, and also comes closest to the SMBH. It…"
+        },
+        {
           "title": "Interstellar Travel IV: Solar, Magnetic, &amp; Directed-Energy Sails",
           "link": "https://www.universetoday.com/articles/interstellar-travel-iv-solar-magnetic-directed-energy-sails",
           "date": "2026-08-19T16:51:00+00:00",
@@ -1329,13 +1265,6 @@
           "date": "2026-08-18T15:22:54+00:00",
           "image": "https://www.universetoday.com/article_images/jpegPIA01649.width-1280_20260818_152124.jpg",
           "summary": "Of Jupiter’s four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And…"
-        },
-        {
-          "title": "A Quantum Trick for Spotting Gravitational Waves",
-          "link": "https://www.universetoday.com/articles/a-quantum-trick-for-spotting-gravitational-waves",
-          "date": "2026-08-18T14:37:00+00:00",
-          "image": "https://www.universetoday.com/article_images/niac-2026-ph1-stankus-2_20260818_143709.webp",
-          "summary": "Gravitational wave astronomy has seen plenty of improvements since the original signal was captured in 2015. Despite that, it remains an engineering challenge to actually create…"
         }
       ],
       "ok": true,
@@ -1552,6 +1481,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "GTA 6 Has Already Made $400 Million+ From Preorders, Apparently",
+          "link": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/",
+          "date": "2026-08-19T18:35:18+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTAKayak.jpg?w=300",
+          "summary": "According to a third-party research company, GTA 6 has already brought in more than $400 million in revenue from preorders. Sensor Tower's sales tracker for GTA 6 states that…"
+        },
+        {
+          "title": "Xbox’s Latest Console Update Will Finally Let You Choose Old Saves To Delete",
+          "link": "https://www.gamespot.com/articles/xboxs-latest-console-update-will-finally-let-you-choose-old-saves-to-delete/",
+          "date": "2026-08-19T18:32:44+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-Update-Local-Saves.jpg?w=300",
+          "summary": "Xbox's latest console update is rolling out now to Xbox Insiders, giving players more control over the home screen and saves, as well as improvements to profile customization. As…"
+        },
+        {
           "title": "Army Unit Gives Soldiers 4-Day Pass To Play GTA 6 If They Re-Enlist",
           "link": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/",
           "date": "2026-08-19T17:36:01+00:00",
@@ -1606,20 +1549,6 @@
           "date": "2026-08-19T14:13:55+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/redfall.jpg?w=300",
           "summary": "Former Arkane bosses Harvey Smith and Ben Horne have opened a new studio, Black Pony Immersive, which is now working on \"imaginative first-person action-RPGs.\" The last game they…"
-        },
-        {
-          "title": "Pokemon Krispy Kreme Boxes Are Being Listed For Ridiculous Sums Of Money",
-          "link": "https://www.gamespot.com/articles/pokemon-krispy-kreme-boxes-are-being-listed-for-ridiculous-sums-of-money/",
-          "date": "2026-08-19T13:43:10+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Pokedonuts_7ffc44.jpg?w=300",
-          "summary": "The Pokemon franchise is celebrating its 30th anniversary this year with various promotions, and the Krispy Kreme collaboration is easily the sweetest team-up. Like all things…"
-        },
-        {
-          "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, Rewards And How To Get In",
-          "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
-          "date": "2026-07-20T17:29:10+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4_4dd2db.webp?w=300",
-          "summary": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and…"
         }
       ],
       "ok": true,
@@ -1629,6 +1558,20 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "10 Canceled Games We're Still Upset About Years Later",
+          "link": "https://www.polygon.com/canceled-games-nooooo/",
+          "date": "2026-08-19T19:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3945830/scalebound-gamescom-2015-comrades.0.jpg",
+          "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise."
+        },
+        {
+          "title": "Original Xbox Returns in Brick Form With $324 Mattel Set",
+          "link": "https://www.polygon.com/xbox-mattel-brick-shop-set-announced/",
+          "date": "2026-08-19T18:48:23+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mattel-brick-xbox-header-1.jpg",
+          "summary": "The original Xbox is getting 3,509 piece Mattel Brick Shop set that includes the Duke controller and dioramas."
+        },
         {
           "title": "GTA 6 Leaks Gave Fans a Soundtrack Tease, But We Want More",
           "link": "https://www.polygon.com/gta-leak-6-soundtrack-wishlist/",
@@ -1684,20 +1627,6 @@
           "date": "2026-08-19T16:00:13+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-19-at-11-01-05-am.png",
           "summary": "Insidious: Out of the Further piles on the demons but skimps on the fun. Read Polygon's review of the horror sequel, in theaters August 21."
-        },
-        {
-          "title": "14 Years Later, Quentin Tarantino’s 10/10 Western Thriller Classic Explodes Onto Streaming",
-          "link": "https://www.polygon.com/quentin-tarantino-django-unchained-streaming-success-pluto-tv-august-2026/",
-          "date": "2026-08-19T15:47:07+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/quentin-tarantino.jpg",
-          "summary": "Quentin Tarantino’s acclaimed 2012 revenge Western starring Jamie Foxx and Leonardo DiCaprio is finding a new audience more than a decade later."
-        },
-        {
-          "title": "'Stranger Things: Tales From ‘85’ Season 2 Gets September Release Date",
-          "link": "https://www.polygon.com/stranger-things-tales-from-85-season-2-release-date/",
-          "date": "2026-08-19T15:35:22+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/st85_trailer_05.png",
-          "summary": "’Stranger Things: Tales From ‘85’ will be back next month with a second season."
         }
       ],
       "ok": true,
@@ -1786,6 +1715,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Dire Forecast Predicts 39 Million Fewer Consoles Sold If PS6 And Xbox Helix Are $1,000",
+          "link": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914",
+          "date": "2026-08-19T18:45:31+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/GettyImages-477358798-1280x879.jpg",
+          "summary": "Console gaming could continue to shrink if something doesn't change"
+        },
+        {
           "title": "No More PlayStation Discs Means No More Disc Butts",
           "link": "https://kotaku.com/no-more-playstation-discs-means-no-more-disc-butts-2000725871",
           "date": "2026-08-19T16:45:09+00:00",
@@ -1847,13 +1783,6 @@
           "date": "2026-08-19T13:07:24+00:00",
           "image": "https://kotaku.com/app/uploads/2026/05/Jason_Duval_04-1280x720.jpg",
           "summary": "The alleged gameplay footage has wowed some but left others unimpressed"
-        },
-        {
-          "title": "Report: Sony Rebooting Live-Service Horizon After Bad Player Tests",
-          "link": "https://kotaku.com/horizon-co-op-mulitplayer-game-development-reboot-2000725807",
-          "date": "2026-08-19T12:40:34+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/image-4.jpg",
-          "summary": "Horizon Hunters Gathering is struggling to get off the ground"
         }
       ],
       "ok": true,
@@ -1942,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "After cranking up the difficulty, I am once again asking: How many of these games with pixel art styles can you identify?",
+          "link": "https://www.pcgamer.com/games/after-cranking-up-the-difficulty-i-am-once-again-asking-how-many-of-these-games-with-pixel-art-styles-can-you-identify/",
+          "date": "2026-08-19T19:12:18+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/waZP5W2bgTCNMndqSeK7Yd-1280-80.jpg",
+          "summary": "Another round of games to examine bit by bit."
+        },
+        {
+          "title": "More GTA 6 leaks reveal new details: Cloning keys, combat changes, random bird deaths",
+          "link": "https://www.pcgamer.com/games/grand-theft-auto/more-gta-6-leaks-reveal-new-details-cloning-keys-combat-changes-random-bird-deaths/",
+          "date": "2026-08-19T18:46:37+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/oKVSj4cJAK44pN6Xsw7Gan-1280-80.jpg",
+          "summary": "The latest purported GTA 6 gameplay videos show Jason committing more senseless murder, and reveal even more gameplay systems."
+        },
+        {
           "title": "EA employees brace for the worst under Saudi ownership: 'Hard to feel good about being bought out by a regime that's very much at odds with progressive society'",
           "link": "https://www.pcgamer.com/gaming-industry/ea-employees-brace-for-the-worst-under-saudi-ownership-hard-to-feel-good-about-being-bought-out-by-a-regime-thats-very-much-at-odds-with-progressive-society/",
           "date": "2026-08-19T17:58:26+00:00",
@@ -1996,20 +1939,6 @@
           "date": "2026-08-19T14:51:59+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/LGgbX9TAycmvpiFkw4kUkh-1280-80.jpg",
           "summary": "I'm dying over here."
-        },
-        {
-          "title": "Take-Two's former AI guy is, in a twist, skeptical about AI now: 'The guy should be selling you the gold if he's actually got the gold'",
-          "link": "https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/",
-          "date": "2026-08-19T14:24:49+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/U8C4YGRTeZ687xyDQ2MbRV-1280-80.jpg",
-          "summary": "\"If any of this sh*t actually did what people are billing it as, they would not be talking about it.\""
-        },
-        {
-          "title": "Keychron K8 Ultra 8K review",
-          "link": "https://www.pcgamer.com/hardware/gaming-keyboards/keychron-k8-ultra-8k-review/",
-          "date": "2026-08-19T13:29:22+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/M3D77H4ZPSveunoRmPb7od-1280-80.jpg",
-          "summary": "Solid, dependable and versatile."
         }
       ],
       "ok": true,
@@ -2410,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "New method converts difficult-to-recycle aircraft composite waste into aerogel insulation",
+          "link": "https://interestingengineering.com/innovation/recycling-approach-carbon-fiber-aerogel",
+          "date": "2026-08-19T19:05:33+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/IE-73.jpg",
+          "summary": "The National University of Singapore (NUS) has developed a method to turn difficult-to-recycle carbon fiber..."
+        },
+        {
           "title": "LG Energy fires up $2B Michigan battery plant, targets 50+ GWh capacity by year-end",
           "link": "https://interestingengineering.com/energy/lg-energy-solution-lansing-battery-plant-production",
           "date": "2026-08-19T18:12:09+00:00",
@@ -2471,13 +2407,6 @@
           "date": "2026-08-19T14:35:58+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/bwvmndgxu8k.jpg",
           "summary": "A US hydrogen energy company has recently launched independent testing of its HOG hydrogen power..."
-        },
-        {
-          "title": "World’s most powerful    superconducting magnetic actuator is space flight ready",
-          "link": "https://interestingengineering.com/space/world-most-powerful-magnetic-actuator-flight-ready",
-          "date": "2026-08-19T14:15:02+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/acutator.jpg",
-          "summary": "A Los Angeles-based company has achieved a key milestone as its powerful magnetic actuator is..."
         }
       ],
       "ok": true,
@@ -2750,11 +2679,11 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "Time to Speak Up, Show Up: Talking About Construction Leadership",
-          "link": "https://www.enr.com/articles/63530-time-to-speak-up-show-up-talking-about-construction-leadership",
+          "title": "Talking About Construction Leadership—Time to Speak Up, Show Up!",
+          "link": "https://www.enr.com/articles/63530-talking-about-construction-leadershiptime-to-speak-up-show-up",
           "date": "2026-08-19T18:20:00+00:00",
           "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-Viewpoint.webp?t=1758826048",
-          "summary": "I’ve had the privilege of spending nearly my entire professional career working alongside the people who build California’s infrastructure—hundreds of relationships and thousands…"
+          "summary": "The future of construction will be built by those who lead themselves well. Choose curiosity and courage over fear. Be a champion for someone else. You are a powerful leader for…"
         },
         {
           "title": "Steel Fabricator 1872 Aims to Integrate AI Into Its Processes",
@@ -2785,6 +2714,27 @@
           "summary": "Planned hyperscale data center complex on the site of a former federal uranium enrichment plant gets a shot in the arm from the chip-making giant."
         },
         {
+          "title": "Construction Economics for August 24, 2026",
+          "link": "https://www.enr.com/articles/63532-construction-economics-for-august-24-2026",
+          "date": "2026-08-19T13:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-ConstructionEconomics.webp?t=1538154003",
+          "summary": "ENR’s 20-city average cost indexes, wages and materials prices. Historical data and details for ENR’s 20 cities can be found at ENR.com/economics"
+        },
+        {
+          "title": "Construction Economics for August 17, 2026",
+          "link": "https://www.enr.com/articles/63531-construction-economics-for-august-17-2026",
+          "date": "2026-08-19T13:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-ConstructionEconomics.webp?t=1538154003",
+          "summary": "ENR’s 20-city average cost indexes, wages and materials prices. Historical data and details for ENR’s 20 cities can be found at ENR.com/economics"
+        },
+        {
+          "title": "Industrial Leads for the Week of August 24, 2026",
+          "link": "https://www.enr.com/articles/63533-industrial-leads-for-the-week-of-august-24-2026",
+          "date": "2026-08-19T04:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-IndustryLeads.webp?t=1750344057",
+          "summary": "Information derived from Industrial Reports, a market intelligence firm specializing in industrial construction and equipment leads."
+        },
+        {
           "title": "Oregon-Washington I-5 Bridge Project Moves Toward Construction",
           "link": "https://www.enr.com/articles/63520-oregon-washington-i-5-bridge-project-moves-toward-construction",
           "date": "2026-08-18T18:33:47+00:00",
@@ -2797,27 +2747,6 @@
           "date": "2026-08-18T17:45:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/08/18/Rosarito-Desal-Plant.webp?t=1787075121",
           "summary": "After two failed procurements, Mexico is advancing a long-planned reverse-osmosis project whose engineering spans Pacific coast seawater infrastructure and cross-border regional…"
-        },
-        {
-          "title": "UAE Awards $8B in Gas Plant Upgrade EPC Contracts to China and Italy Firms",
-          "link": "https://www.enr.com/articles/63518-uae-awards-8b-in-gas-plant-upgrade-epc-contracts-to-china-and-italy-firms",
-          "date": "2026-08-18T16:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/18/ADNOC_Refining_Ruwais_Site-187.webp?t=1787077230",
-          "summary": "Increased gas production and refinement follows Emirates' move in May to leave OPEC after 60 years due to strict generation limits and pricing rules."
-        },
-        {
-          "title": "$200M Funding Round Set for Automated Equipment Startup Gravis Robotics",
-          "link": "https://www.enr.com/articles/63517-200m-funding-round-set-for-automated-equipment-startup-gravis-robotics",
-          "date": "2026-08-17T22:59:46+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/17/GravisExcav.webp?t=1787133763",
-          "summary": "Investment is major infusion for Swiss-based equipment tech firm as it rolls out its autonomous and machine-assist systems to jobsites around the world."
-        },
-        {
-          "title": "Hurricane Lala Damages at Least Six Hawaii Bridges, Washes Out Highway",
-          "link": "https://www.enr.com/articles/63515-hurricane-lala-damages-at-least-six-hawaii-bridges-washes-out-highway",
-          "date": "2026-08-17T21:35:11+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/17/Hawaii_Hurricane_2026_ENRwebready.webp?t=1787058043",
-          "summary": "Assessments are revealing the scale of Lala’s toll as record rainfall, prolonged outages and damaged transportation links complicate recovery efforts."
         }
       ],
       "ok": true,
