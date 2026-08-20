@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:32:33.359955+00:00",
+  "updated": "2026-08-20T20:30:31.723408+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -318,6 +318,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Geely Is Testing A Solid-State Battery With Over 621 Miles Of Range. It Could End Up In A Volvo",
+          "link": "https://insideevs.com/news/805618/volvo-geely-solid-state-2027/",
+          "date": "2026-08-20T20:08:08+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/2N4K8k/s3/volvo-ex60-charging.jpg",
+          "summary": "It's almost time to say goodbye to range anxiety."
+        },
+        {
+          "title": "The Lucid Air Air Sapphire Beats Genuine Mid-Engine Supercars From 0-200-0 MPH",
+          "link": "https://insideevs.com/news/805634/lucid-air-sapphire-beats-supercars/",
+          "date": "2026-08-20T20:03:42+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/1ZKxl9/s3/2025-lucid-air-sapphire.jpg",
+          "summary": "Big luxury sedans aren't supposed to be capable of such nutty performance but the fastest Lucid put on a show for Car and Driver."
+        },
+        {
           "title": "The Tesla Semi Is Heading To Europe",
           "link": "https://insideevs.com/news/805622/tesla-semi-launches-europe/",
           "date": "2026-08-20T17:13:34+00:00",
@@ -372,20 +386,6 @@
           "date": "2026-08-19T18:49:21+00:00",
           "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
           "summary": "Charging a Tesla with its biggest competitors might seem like blasphemy but it actually works pretty damn well."
-        },
-        {
-          "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
-          "link": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors/",
-          "date": "2026-08-19T09:19:47+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/Xkvj9/s3/2022-kia-niro-ev.jpg",
-          "summary": "The same company that remanufactures motors for the Tesla Model S now caters to the more affordable Kia Niro and Hyundai Kona EVs"
-        },
-        {
-          "title": "Audi’s China-Built EVs Are Coming To Europe—And They Cost Less Than Local Models",
-          "link": "https://insideevs.com/news/805407/audi-china-evs-europe-import/",
-          "date": "2026-08-19T07:54:30+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/wlWJV6/s3/audi-e7x-2026.jpg",
-          "summary": "Audi went out of its way to keep the Chinese-market E5 and E7X officially out of Europe. A third-party company is importing them anyway."
         }
       ],
       "ok": true,
@@ -727,158 +727,16 @@
     {
       "name": "NASA JPL",
       "cat": "space",
-      "items": [
-        {
-          "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-          "link": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-          "date": "2026-08-17T19:24:34+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg?w=1920",
-          "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles,…"
-        },
-        {
-          "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
-          "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
-          "date": "2026-08-05T15:25:27+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/pia26758-figure-a-inset-pillarbox.jpg?w=1024",
-          "summary": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky,…"
-        },
-        {
-          "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-          "date": "2026-08-04T16:14:51+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/05/mb-landers-thumbnail-horizontal-1.png",
-          "summary": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To…"
-        },
-        {
-          "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-          "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
-          "date": "2026-07-31T14:11:34+00:00",
-          "image": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg?w=1438&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman…"
-        },
-        {
-          "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-          "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
-          "date": "2026-07-29T15:30:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.jpg?w=2048",
-          "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists:…"
-        },
-        {
-          "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
-          "link": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
-          "date": "2026-07-22T14:54:35+00:00",
-          "image": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg?w=1920&amp;h=1241&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Lee esta historia en español aquí. &#160;NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant…"
-        },
-        {
-          "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month",
-          "link": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
-          "date": "2026-07-21T20:07:59+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/ksc-20260626-ph-ser01-0004large.jpg?w=1920",
-          "summary": "Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from…"
-        },
-        {
-          "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
-          "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
-          "date": "2026-07-21T18:14:52+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26617-nisar-nunatak-main.png",
-          "summary": "As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and…"
-        },
-        {
-          "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-          "link": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
-          "date": "2026-07-16T18:40:26+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg?w=2048",
-          "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its…"
-        },
-        {
-          "title": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-          "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-          "date": "2026-07-15T15:30:04+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/pia26574-selfie.jpg?w=2048",
-          "summary": "NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/centers-and-facilities/jpl/feed/"
     },
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [
-        {
-          "title": "NASA Selects University Teams to Help Advance Aviation Research",
-          "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
-          "date": "2026-08-20T14:57:01+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400",
-          "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes…"
-        },
-        {
-          "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
-          "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
-          "date": "2026-08-18T18:03:44+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500",
-          "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and…"
-        },
-        {
-          "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
-          "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
-          "date": "2026-08-18T14:00:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg?w=2048",
-          "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research…"
-        },
-        {
-          "title": "NASA’s 737 Reveals New Paint",
-          "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-          "date": "2026-08-13T19:41:23+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
-          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight…"
-        },
-        {
-          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-          "date": "2026-07-31T17:11:14+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
-          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
-        },
-        {
-          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
-          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
-          "date": "2026-07-22T18:47:05+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
-          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
-        },
-        {
-          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-          "date": "2026-07-20T18:54:44+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
-          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
-        },
-        {
-          "title": "NASA Pushes New Wing Design to Find Structural Limits",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-          "date": "2026-07-17T23:08:33+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
-          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
-        },
-        {
-          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
-          "date": "2026-07-15T21:56:38+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
-          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
-        },
-        {
-          "title": "NASA Jets Turn Red, White, and Blue",
-          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
-          "date": "2026-07-14T17:13:53+00:00",
-          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
     },
     {
       "name": "ESA Top News",
@@ -956,6 +814,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Microbes from Earth may survive on the moon, scientists find",
+          "link": "https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find",
+          "date": "2026-08-20T20:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ekrvBpVyhGr6fp44korfpM-1280-80.jpg",
+          "summary": "\"Even a bootprint or a rover's tread may create a habitable area.\""
+        },
+        {
           "title": "'Wet Hot American Summer': The raunchy 2000s teen movie that was actually about a space station falling to Earth",
           "link": "https://www.space.com/entertainment/space-movies-shows/wet-hot-american-summer-the-raunchy-2000s-teen-movie-that-was-actually-about-a-space-station-falling-to-earth",
           "date": "2026-08-20T19:00:00+00:00",
@@ -1017,13 +882,6 @@
           "date": "2026-08-20T10:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/N2BCZ77SNSnDoByrU72PQJ-1280-80.jpg",
           "summary": "Earth's curved inner shadow will darken the moon's disk during the Aug. 27-28 partial lunar eclipse."
-        },
-        {
-          "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
-          "date": "2026-08-20T04:05:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hJS6zDr8MpVsVJ6yYyGLv3-1280-80.png",
-          "summary": "Rocket Lab launched its ninth mission for the Japanese company iQPS this morning (Aug. 20), sending an Earth-observation satellite into low Earth orbit."
         }
       ],
       "ok": true,
@@ -1630,6 +1488,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Riot Games Officially Confirms End of an Era for League of Legends",
+          "link": "https://www.polygon.com/riot-games-cancels-2xko-league-of-legends/",
+          "date": "2026-08-20T20:16:33+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jinx.jpg",
+          "summary": "League of Legends fighting game 2XKO is ending active development in 2026, Riot Games has announced less than a year after launch."
+        },
+        {
+          "title": "5 Classic Nintendo Games that Are Completely Unplayable Today",
+          "link": "https://www.polygon.com/unplayable-classic-nintendo-games/",
+          "date": "2026-08-20T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/unplayable-nintendo-games.jpg",
+          "summary": "As much progress as Nintendo's made in game preservation, some of the most important Nintendo games are still unplayable today"
+        },
+        {
+          "title": "The Most Completely Bonkers Sci-Fi Action Thriller of 2026 Officially Releases in 3 Weeks",
+          "link": "https://www.polygon.com/hope-us-release-date-sci-fi-movie/",
+          "date": "2026-08-20T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/hoyeon-hope-2026.JPG",
+          "summary": "Cops vs. hunters vs. aliens vs. wildfires vs. Michael Fassbender"
+        },
+        {
+          "title": "Naruto Live-Action Movie Has Filled a Key Role, Report Says",
+          "link": "https://www.polygon.com/charles-melton-naruto-live-action-movie-kakashi-spider-man-director/",
+          "date": "2026-08-20T19:50:44+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/03/naruto-the-movie_-ninja-clash-in-the-land-of-snow.jpg",
+          "summary": "Spider-Man Brand New Day's Destin Daniel Cretton is directing a Naruto movie. Reports say he's zeroing in on an actor for Kakashi, a key role."
+        },
+        {
           "title": "All sprites in Fortnite Chapter 7 Season 4",
           "link": "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/",
           "date": "2026-08-20T19:09:23+00:00",
@@ -1670,34 +1556,6 @@
           "date": "2026-08-20T18:00:13+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/elden-ring-switch-2.jpg",
           "summary": "New Game Plus and trying different builds are just a starting point for re-experiencing FromSoftware's lauded RPG"
-        },
-        {
-          "title": "James Bond 007 First Light Sequel All But Confirmed With 4 Million Copies Sold",
-          "link": "https://www.polygon.com/james-bond-007-first-light-sequel-guaranteed-after-4-million-copies-sold/",
-          "date": "2026-08-20T17:51:33+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/007-first-light-ending-header.jpg",
-          "summary": "007 First Light developer IO Interactive has announced the James Bond game has sold 4 million copies in three months"
-        },
-        {
-          "title": "Jim Caviezel Goes Full Jason Statham in Action-Thriller Ghost Soldier",
-          "link": "https://www.polygon.com/ghost-soldier-jim-caviezel-movie-trailer-release-date/",
-          "date": "2026-08-20T17:46:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ghost-soldier-official-trailer-_-4k-starring-jim-caviezel-1-12-screenshot.jpeg",
-          "summary": "Ghost Soldier is one part Beekeeper, one part Ghost Recon Future Soldier and stars cinema's favorite Jesus, Jim Caviezel."
-        },
-        {
-          "title": "Pokémon Silver and Gold Remake Rumors Sparked by Nintendo Tease",
-          "link": "https://www.polygon.com/pokemon-gen-2-nintendo-tease-pokopia/",
-          "date": "2026-08-20T17:34:01+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/pokemon-pokopia-talking.jpg",
-          "summary": "Nintendo has posted a Pokémon Pokopia screenshot with a caption that hints a Johto return could be in the cards"
-        },
-        {
-          "title": "Where to find the Shimanoyama Heat mascots in Forza Horizon 6",
-          "link": "https://www.polygon.com/forza-horizon-6-fh6-shimanoyama-heat-mascot-collectibles-location-where-to-find/",
-          "date": "2026-08-20T17:28:44+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_collectibles_shimanoyama_header.jpg",
-          "summary": "In this guide you learn where to find the Shimanoyama Heat mascots in Forza Horizon 6 to complete the Series 4 \"Horizon Mascot Party\" challange."
         }
       ],
       "ok": true,
@@ -1786,6 +1644,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Pirates Have Resonance: A Plague Tale Legacy A Week Before Release As Games Keep Leaking On PC",
+          "link": "https://kotaku.com/pirates-have-resonance-a-plague-tale-legacy-a-week-before-release-as-games-keep-leaking-on-pc-2000726279",
+          "date": "2026-08-20T20:15:51+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/resonance-.jpg",
+          "summary": "This is getting old"
+        },
+        {
+          "title": "Great New Horror FPS Is Like BioShock, But With More Action And Creepy Clowns",
+          "link": "https://kotaku.com/great-new-horror-fps-is-like-bioshock-but-with-more-action-and-creepy-clowns-2000726250",
+          "date": "2026-08-20T19:45:33+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/indieoftheweekFPStower-1280x720.jpg",
+          "summary": "Hey, at least you get to shoot all those clown bastards with gumballs and marbles in Twisted Tower"
+        },
+        {
           "title": "14 Things We Just Learned About The Duskbloods",
           "link": "https://kotaku.com/14-things-we-just-learned-about-the-duskbloods-2000726219",
           "date": "2026-08-20T19:30:17+00:00",
@@ -1797,7 +1669,7 @@
           "link": "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270",
           "date": "2026-08-20T19:18:48+00:00",
           "image": "https://kotaku.com/app/uploads/2026/01/2XKO.jpg",
-          "summary": "2XKO will be out a little more than a year before Riot will cease dev"
+          "summary": "2XKO will not make it to its first official birthday"
         },
         {
           "title": "Bricks & Minifigs’ $200,000 Star Wars Lego Dispute That Spawned Reckless Ben Drama Reaches Partial Settlement",
@@ -1840,20 +1712,6 @@
           "date": "2026-08-20T15:15:33+00:00",
           "image": "https://kotaku.com/app/uploads/2026/07/gta-pc-3-1280x720.jpg",
           "summary": "The company hasn't posted anything on any of its official channels or pages since Tuesday"
-        },
-        {
-          "title": "Subnautica 2′s Co-Op Buddy System Update Is Live, And Has The Coolest Chat",
-          "link": "https://kotaku.com/subnautica-2-buddy-system-update-co-op-1-2-patch-notes-unknown-worlds-2000726159",
-          "date": "2026-08-20T14:45:57+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/sub2-1280x722.jpg",
-          "summary": "Version 1.2 of the early access build also adds ways to revive friends, trade items, and airtag your luggage"
-        },
-        {
-          "title": "The Best And Worst Parts Of Every Metal Gear Game",
-          "link": "https://kotaku.com/best-worst-parts-every-metal-gear-solid-game-msg4-2000726160",
-          "date": "2026-08-20T14:10:59+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/metal-gear.jpg",
-          "summary": "Here are the high and low points of every major entry in the hit Konami espionage series created by Hideo Kojima"
         }
       ],
       "ok": true,
@@ -1942,6 +1800,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International",
+          "link": "https://www.pcgamer.com/games/dude-no-joke-looks-like-hugh-jackman-now-the-internet-is-swooning-over-gabe-newells-svelte-new-look-at-the-international/",
+          "date": "2026-08-20T20:21:56+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1280-80.jpg",
+          "summary": "Newell's video message welcoming everyone to this year's Dota 2 championship tourney caught a lot of viewers by surprise."
+        },
+        {
+          "title": "Black Myth: Zhong Kui's 15-minute gameplay reveal shows off confident swordplay, boss fights with oyster men, and the coolest skeletons I've ever seen",
+          "link": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
+          "date": "2026-08-20T20:04:44+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/p2kSD3xRBnXgZx4NrPYXLg-1280-80.jpg",
+          "summary": "Look at those guys! Look at those guys!!"
+        },
+        {
+          "title": "I'm a decade-plus FromSoftware sicko, and these are my 5 takeaways from the first Duskbloods gameplay",
+          "link": "https://www.pcgamer.com/games/action/im-a-decade-plus-fromsoftware-sicko-and-these-are-my-5-takeaways-from-the-first-duskbloods-gameplay/",
+          "date": "2026-08-20T19:56:14+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/AJsFDS3gaV5eRw9Pme4UTW-1280-80.png",
+          "summary": "I still resent it being a Switch 2 exclusive."
+        },
+        {
           "title": "This wild new PC pro controller runs its own custom OS across a 2.79-inch color display slapped beneath the thumbsticks",
           "link": "https://www.pcgamer.com/hardware/controllers/this-wild-new-pc-pro-controller-runs-its-own-custom-os-across-a-2-79-inch-color-display-slapped-beneath-the-thumbsticks/",
           "date": "2026-08-20T18:00:00+00:00",
@@ -1989,27 +1868,6 @@
           "date": "2026-08-20T15:49:27+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/sgubwgoeBkgCxypveWyYKk-1280-80.jpg",
           "summary": "Not a DIY play, but could be the basis for bundles and budget pre-built gaming PCs."
-        },
-        {
-          "title": "Where to find Mascot City's Tokyo City Dango area in Forza Horizon 6",
-          "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-mascot-citys-tokyo-city-dango-area-location/",
-          "date": "2026-08-20T15:33:08+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/qjkAfVEpYME5oweA8yqxkk-1280-80.jpg",
-          "summary": "Take a snap outside your car."
-        },
-        {
-          "title": "Unboxing videos of the Steam Frame have been leaked, giving us a closer look at the long-awaited VR headset",
-          "link": "https://www.pcgamer.com/hardware/vr-hardware/unboxing-videos-of-the-steam-frame-have-been-leaked-giving-us-a-closer-look-at-the-long-awaited-vr-headset/",
-          "date": "2026-08-20T14:36:01+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/LBhCXJd5FKJwDxcwL5WQWn-1280-80.jpg",
-          "summary": "I'm not even a VR guy and I'm kinda interested."
-        },
-        {
-          "title": "Former Arkane vets' new studio isn't going to try 'trend chasing', and in hindsight, thank God",
-          "link": "https://www.pcgamer.com/gaming-industry/game-development/former-arkane-vets-new-studio-isnt-going-to-try-trend-chasing-and-in-hindsight-thank-god/",
-          "date": "2026-08-20T13:00:05+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/PizQ3MqdKhgCNz2KUhdHb3-1280-80.jpg",
-          "summary": "Lessons learned."
         }
       ],
       "ok": true,
@@ -2018,80 +1876,9 @@
     {
       "name": "PlayStation Blog",
       "cat": "gaming",
-      "items": [
-        {
-          "title": "Code Vein II Mask of Idris DLC launches September 9",
-          "link": "https://blog.playstation.com/2026/08/20/code-vein-ii-mask-of-idris-dlc-launches-september-9/",
-          "date": "2026-08-20T14:00:56+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "Earlier this year, Code Vein II invited players into a post-apocalyptic action RPG where they fight alongside unique partners, wield powerful blood-based abilities, and battle…"
-        },
-        {
-          "title": "A field guide to Gran Turismo 7’s 1.71 update, out today",
-          "link": "https://blog.playstation.com/2026/08/19/a-field-guide-to-gran-turismo-7s-1-71-update-out-today/",
-          "date": "2026-08-19T13:00:46+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "Gran Turismo 7’s 1.71 update roars onto PS5 today*, bringing with it new cars, as well as introducing&#160; three new World Circuits, while Whistler added as featured Curation in…"
-        },
-        {
-          "title": "Inside the brutal puzzles of Clive Barker’s Hellraiser: Revival",
-          "link": "https://blog.playstation.com/2026/08/19/inside-the-brutal-puzzles-of-clive-barkers-hellraiser-revival/",
-          "date": "2026-08-19T12:15:07+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "It’s dark. The walls are oppressively grey, spikey and close. And there’s a disturbing noise of chattering teeth that sounds like it’s coming from, well, everywhere. Then, I see…"
-        },
-        {
-          "title": "(For Southeast Asia) Pulse Elevate wireless speakers launch November 12, 2026",
-          "link": "https://blog.playstation.com/2026/08/18/20260818-speaker/",
-          "date": "2026-08-19T01:33:26+00:00",
-          "image": "https://blog.playstation.com/tachyon/2025/09/33a1663d44d742a2e7d0d44c264e8c2fe8bd37dc-scaled.jpg?fit=1024%2C1024",
-          "summary": "Update (August 19, 2026): Pulse Elevate wireless speakers in Midnight Black and White will launch starting on November 12, 2026,* with a recommended retail price (RRP) of&#160;…"
-        },
-        {
-          "title": "New NBA 2K27 gameplay details on The City, co-op, MyNBA eras, and more",
-          "link": "https://blog.playstation.com/2026/08/18/new-nba-2k27-gameplay-details-on-the-city-co-op-mynba-eras-and-more/",
-          "date": "2026-08-18T18:00:23+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "Enter the World of 2K and get your competitive fix with the NBA 2K27 Preseason Breakdown: Game Reveal recap! Live from the Inuit Dome in Los Angeles, CA, NBA 2K hosted a 45-minute…"
-        },
-        {
-          "title": "Meet the Lovecraftian monstrosities of The Sinking City 2, out today on PS5",
-          "link": "https://blog.playstation.com/2026/08/18/meet-the-lovecraftian-monstrosities-of-the-sinking-city-2-out-today-on-ps5/",
-          "date": "2026-08-18T14:00:44+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "Hi everyone, my name is Evgeny Maloshenkov, and I’m responsible for creature design at Frogwares, the team behind The Sinking City 2. When we started working on the sequel back in…"
-        },
-        {
-          "title": "Helldivers 2: A deep dive into the Illuminate Void",
-          "link": "https://blog.playstation.com/2026/08/18/helldivers-2-a-deep-dive-into-the-illuminate-void/",
-          "date": "2026-08-18T12:00:04+00:00",
-          "image": "https://live.staticflickr.com/65535/55464656070_f94dcdcf5d_h.jpg",
-          "summary": "Helldivers, we have entered the unknown at last to face the unthinkable. Our elite peacekeepers are looking into the corruption and shining Liberty’s light onto the heart of…"
-        },
-        {
-          "title": "(For Southeast Asia) PlayStation Store: July 2026’s top downloads",
-          "link": "https://blog.playstation.com/2026/08/17/20260818-top/",
-          "date": "2026-08-18T03:11:45+00:00",
-          "image": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32",
-          "summary": "It&#8217;s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month&#8217;s download charts in Asia.&#160; In July, EA SPORTS FC 26 and Assassin’s Creed Black…"
-        },
-        {
-          "title": "Phantom Blade Zero State of Play dives deep into combat and the Wulin world",
-          "link": "https://blog.playstation.com/2026/08/17/phantom-blade-zero-state-of-play-dives-deep-into-combat-and-the-wulin-world/",
-          "date": "2026-08-18T02:22:34+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "Phantom Blade Zero is set to release on October 29*. In our deep dive gameplay State of Play episode, we share more about the world of Phantom Blade Zero, its gameplay systems,…"
-        },
-        {
-          "title": "New It Happens on PS5 campaign highlights the biggest moments of play",
-          "link": "https://blog.playstation.com/2026/08/17/new-it-happens-on-ps5-campaign-highlights-the-biggest-moments-of-play/",
-          "date": "2026-08-17T12:00:25+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "There’s never been a better time to play on PS5. With a lineup of iconic games available now and coming soon, players have plenty of unforgettable experiences to look forward to.…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "504 Server Error: Gateway Time-out for url: https://blog.playstation.com/feed"
     },
     {
       "name": "Xbox Wire",
@@ -2754,7 +2541,7 @@
           "link": "https://www.enr.com/articles/63524-bowman-consulting-announces-1b-cash-sale-to-louisiana-based-private-equity-firm",
           "date": "2026-08-20T18:00:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/Bowman-Consulting-Group-Allegro-South-Data-Center.webp?t=1787250934",
-          "summary": "The publicly traded engineering services and program management firm will become a privately-held company under Bernhard Capital Partners, a growing infrastructure and utility…"
+          "summary": "Equity firm Bernhard Capital Partners will take the publicly traded engineering services firm private when the cash deal closes next year"
         },
         {
           "title": "ENR Texas & Southeast Judges Name Project of the Year Finalists for Texas Region",
@@ -2802,7 +2589,7 @@
           "title": "Talking About Construction Leadership: Speak Up, Show Up!",
           "link": "https://www.enr.com/articles/63530-talking-about-construction-leadership-speak-up-show-up",
           "date": "2026-08-19T18:20:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/19/EmilyCohenPodium780.webp?t=1787175026",
+          "image": "https://www.enr.com/ext/resources/2026/08/19/EmilyCohenPodium780.webp?t=1787256264",
           "summary": "United Contractors CEO Emily Cohen thinks The future of construction will be built by those who lead themselves well, \"Choose curiosity and courage over fear,\" she told the ENR…"
         },
         {
