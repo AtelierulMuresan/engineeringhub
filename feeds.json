@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T02:57:59.224285+00:00",
+  "updated": "2026-08-20T03:52:21.175825+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Genesis shifts further upmarket with opulent electric GV90 flagship",
+          "link": "https://www.autonews.com/hyundai/genesis/an-genesis-gv90-0819/",
+          "date": "2026-08-20T03:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0nXABSHWK3IOrckKd0yBBpXtEI8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/R5KJ5RLAIZFIHI55EOAHIE4NSY.jpg",
+          "summary": "The electric crossover includes comfort amenities expected to help Genesis appeal to affluent buyers in China."
+        },
+        {
           "title": "Tentative Canada-U.S. trade deal promises auto tariff relief after 18-month fight",
           "link": "https://www.autonews.com/manufacturing/automakers/anc-canada-us-trade-deal-reduced-auto-tariffs-0819/",
           "date": "2026-08-19T21:25:19+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-19T18:44:02+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/OnWGZ_RS25T0iVDX0ZMhMJ1rHOI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/OWSTHQDFFJARDDMKQWMOUJ2XBM.jpg",
           "summary": "U.S. private equity firm Ridgeview Partners agreed to acquire dealership management system provider Pinewood.AI to fund technology investment and accelerate North American…"
-        },
-        {
-          "title": "First Shift: EV road trips get easier",
-          "link": "https://www.autonews.com/video/first-shift-ev-road-trips-get-easier/",
-          "date": "2026-08-19T18:35:33+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/gkGCGBLJ_CaQNb45I4w2tmGFZhk=/0x800/d3qtc8km8dvw1x.cloudfront.net/08-19-2026/t_9f07c4c1e26041898e91532b7af182bc_name_file_960x540_1600_v4_.jpg",
-          "summary": "Carvana’s new-car pricing skews higher | Supplier job losses deepen despite tariff push | Honda weighs hybrid HR-V, ADX"
         }
       ],
       "ok": true,
@@ -317,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "The Genesis GV90 Is Here And It's Like a Luxury Lounge On Wheels",
+          "link": "https://insideevs.com/news/805381/genesis-gv90-luxury-lounge/",
+          "date": "2026-08-20T03:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/y2lEWK/s3/genesis-gv90.jpg",
+          "summary": "With massive interior space and the ability to turn the front seats around, the GV90 can create a lounge-like interior for four people."
+        },
         {
           "title": "BMW's Chinese-Market iX3 50L Just Drove 640 Miles On One Charge",
           "link": "https://insideevs.com/news/805513/bmw-ix3-drove-640-miles/",
@@ -379,13 +386,6 @@
           "date": "2026-08-18T15:47:11+00:00",
           "image": "https://cdn.motor1.com/images/mgl/BXYP8A/s3/tesla-fsd.jpg",
           "summary": "Tesla has been kicking the HW3 can down the road for nearly two years. One owner got tired of waiting around."
-        },
-        {
-          "title": "Tesla’s New Three-Row EV Is The Longest-Range Model Y Tested By Edmunds",
-          "link": "https://insideevs.com/news/805339/tesla-model-y-l-range-test-edmunds/",
-          "date": "2026-08-18T14:04:58+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
-          "summary": "The newly introduced electric crossover beat its range estimate by more than 30 miles."
         }
       ],
       "ok": true,
@@ -488,6 +488,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Black Falcon Turns to 3D Scanning to Verify Repairs After a Nürburgring 24 Hours Crash",
+          "link": "https://3dprintingindustry.com/news/black-falcon-turns-to-3d-scanning-to-verify-repairs-after-a-nurburgring-24-hours-crash-253948/?utm_source=rss&utm_medium=rss&utm_campaign=black-falcon-turns-to-3d-scanning-to-verify-repairs-after-a-nurburgring-24-hours-crash",
+          "date": "2026-08-20T03:33:51+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Motorsport team Black Falcon used a 3D scanner from SHINING 3D to verify that a race car had been correctly rebuilt after suffering a serious crash during the Nürburgring 24…"
+        },
+        {
+          "title": "Creality Launches SPARKX i7 Nano: Technical Specifications and Pricing",
+          "link": "https://3dprintingindustry.com/news/creality-launches-sparkx-i7-nano-technical-specifications-and-pricing-253938/?utm_source=rss&utm_medium=rss&utm_campaign=creality-launches-sparkx-i7-nano-technical-specifications-and-pricing",
+          "date": "2026-08-20T03:15:15+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Shenzhen-based 3D printer maker Creality has released the SPARKX i7 Nano, a desktop 3D printer that adds four-color printing to its i7 series in a smaller form factor. The 3D…"
+        },
+        {
           "title": "Hadrian Raises $1.37B Series D, Valuing Automated Defense Manufacturer at $7.87B",
           "link": "https://3dprintingindustry.com/news/hadrian-raises-1-37b-series-d-valuing-automated-defense-manufacturer-at-7-87b-253913/?utm_source=rss&utm_medium=rss&utm_campaign=hadrian-raises-1-37b-series-d-valuing-automated-defense-manufacturer-at-7-87b",
           "date": "2026-08-19T08:55:48+00:00",
@@ -542,20 +556,6 @@
           "date": "2026-08-18T10:21:03+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "Rowan University has secured a two-year, $155,000 grant from the National Cancer Institute to 3D print living models of chondrosarcoma, a bone cancer that resists both…"
-        },
-        {
-          "title": "Nine printed resonators turn lab PLA waste into a tuned sound field in Georgia",
-          "link": "https://3dprintingindustry.com/news/nine-printed-resonators-turn-lab-pla-waste-into-a-tuned-sound-field-in-georgia-253889/?utm_source=rss&utm_medium=rss&utm_campaign=nine-printed-resonators-turn-lab-pla-waste-into-a-tuned-sound-field-in-georgia",
-          "date": "2026-08-18T10:20:09+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "An installation built from shredded PLA scrap collected from fabrication laboratories is on view at the Reeves House Visual Arts Center in Woodstock, Georgia until September 24.…"
-        },
-        {
-          "title": "UTEP trains 1st Armored Division maintainers to qualify 3D printed Army parts",
-          "link": "https://3dprintingindustry.com/news/utep-trains-1st-armored-division-maintainers-to-qualify-3d-printed-army-parts-253880/?utm_source=rss&utm_medium=rss&utm_campaign=utep-trains-1st-armored-division-maintainers-to-qualify-3d-printed-army-parts",
-          "date": "2026-08-18T10:19:36+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Soldiers from across Fort Bliss have completed the Advanced Manufacturing for Defense Readiness (AMDR) Certificate Program, a six-week additive manufacturing course taught by the…"
         }
       ],
       "ok": true,
@@ -1012,11 +1012,11 @@
           "summary": "These are the books that inspired our favorite science fiction worlds on the big and small screens, including novels from Andy Weir, Emily St. John Mandel and Mary Shelley."
         },
         {
-          "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
+          "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
+          "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
           "date": "2026-08-19T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/6vEYRWXLRyV2xXF2USZYfd-1280-80.png",
-          "summary": "On Aug. 19, 1997, the Philippines launched its own satellite for the first time."
+          "image": "https://cdn.mos.cms.futurecdn.net/6AHzp9NVbvFKh84dVrZEqf-1280-80.png",
+          "summary": ""
         },
         {
           "title": "My 5 favorite sights to see in the night sky with binoculars",
@@ -2445,9 +2445,9 @@
           "summary": "Energy Fuels has cleared another hurdle in its push to build a Western supply chain..."
         },
         {
-          "title": "China’s J-36 jet engineers warn rogue intelligence models invent war and design data",
+          "title": "China’s J-36 jet engineers warn LLM hallucinations invent war and design data",
           "link": "https://interestingengineering.com/military/china-j-36-rogue-intelligence-models",
-          "date": "2026-08-19T20:40:50+00:00",
+          "date": "2026-08-19T20:40:52+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-20T013355.890.jpg",
           "summary": "China&#8217;s aircraft engineers have warned that artificial intelligence could feed false data into military intelligence,..."
         },
