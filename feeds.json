@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:26:42.277899+00:00",
+  "updated": "2026-08-21T20:27:02.878747+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "North America car and truck production by plant, July & YTD 2026",
+          "link": "https://www.autonews.com/data-center/manufacturing-data/production-plant/an-north-america-production-plant-july-2026/",
+          "date": "2026-08-21T19:41:41+00:00",
+          "image": null,
+          "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed by plant and automaker for the current and previous year periods"
+        },
+        {
+          "title": "North America car and truck production by model, July & YTD 2026",
+          "link": "https://www.autonews.com/data-center/manufacturing-data/production-model/an-north-america-production-model-july-2026/",
+          "date": "2026-08-21T19:36:23+00:00",
+          "image": null,
+          "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed alphabetically by brand and automaker for the current and previous year periods"
+        },
+        {
           "title": "NHTSA opens probe into nearly 1 million GM pickups and SUVs over engine failure concerns",
           "link": "https://www.autonews.com/general-motors/an-gm-recall-pickups-suvs-0821/",
           "date": "2026-08-21T19:03:00+00:00",
@@ -294,20 +308,6 @@
           "date": "2026-08-21T16:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/iT0-5QWZHy9o1u5i3FrTsNfF9no=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/IKJQTP3AOZH2VAXDKVJABGA5SE.jpg",
           "summary": "An interactive data dashboard for the Europe region."
-        },
-        {
-          "title": "Foundation Automotive’s dealership acquisitions led to 7 years of legal battles",
-          "link": "https://www.autonews.com/retail/mergers-acquisitions/an-foundation-automotive-mergers-acquisition-lawsuits-0821/",
-          "date": "2026-08-21T16:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/jkHVH4nF2UcnLXSU_MVmVpLHOuQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/DH4QGICQ2VHGJLDIMCADYTO2TA.jpg",
-          "summary": "Dealership buy-sell transactions rarely result in litigation, M&amp;A experts say, but Foundation since 2019 has brought or defended several cases connected to deals."
-        },
-        {
-          "title": "Foundation Automotive, former COO had court battles involving millions in stock options, taxes",
-          "link": "https://www.autonews.com/retail/an-foundation-automotive-kramer-lawsuits-taxes-stock-0821/",
-          "date": "2026-08-21T16:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Bk-OzrAIFs5zZhJ8SPjCFjewDgQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/UCQBWMBRHVHJDL5AW6E4W24HPE.jpg",
-          "summary": "Foundation Automotive and former COO Chuck Kramer sued each other in 2023 in disputes over $1.7 million in taxes and more than $3.5 million in stock options."
         }
       ],
       "ok": true,
@@ -651,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+          "date": "2026-08-21T18:43:40+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/NHQ202608120208.jpg?w=25145&#038;h=17074&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona…"
+        },
+        {
           "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
           "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
           "date": "2026-08-21T17:41:00+00:00",
@@ -712,13 +719,6 @@
           "date": "2026-08-20T14:12:09+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state."
-        },
-        {
-          "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
-          "date": "2026-08-20T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/IMG_5201_sgarbossa.jpeg?w=1208&#038;h=1800&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APODScienceAPODAPOD: 2026 August 20 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day…"
         }
       ],
       "ok": true,
@@ -956,6 +956,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "Trump signs new national space policy to enable 1,000 US rocket launches per year",
+          "link": "https://www.space.com/space-exploration/trump-signs-new-national-space-policy-to-enable-1-000-us-rocket-launches-per-year",
+          "date": "2026-08-21T20:00:46+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/P75y7FqGqB9aSePBGFZqJH-1280-80.jpg",
+          "summary": "The United States is updating its approach to managing spaceflights and reentries, with the goal of expanding the nation's capabilities to support more than 1,000 rocket launches…"
+        },
+        {
+          "title": "'Star Trek: Strange New Worlds' cast talks losing sleep, living up to their character's legacy, and learning to ride a horse for season 4 (interview)",
+          "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-talks-losing-sleep-living-up-to-their-characters-legacy-and-learning-to-ride-a-horse-for-season-4-interview",
+          "date": "2026-08-21T20:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/CkWeTbyZ3WurG2H4mtsYTY-1280-80.jpg",
+          "summary": "\"We lose so much sleep, we have crazy hours, we say crazy things, we even look crazy.\""
+        },
+        {
+          "title": "Trump to award NASA's Artemis II astronauts the Congressional Space Medal of Honor",
+          "link": "https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor",
+          "date": "2026-08-21T19:30:51+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/PaSCzFdpMCcU4U2mw6DXhU-1280-80.jpg",
+          "summary": "The NASA astronauts who flew around the moon on the Artemis II mission will receive the Congressional Space Medal of Honor next Friday (Aug. 28)."
+        },
+        {
           "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
           "link": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
           "date": "2026-08-21T18:00:00+00:00",
@@ -966,7 +987,7 @@
           "title": "SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
           "date": "2026-08-21T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/4S58k7ozAKjJnQg48KvkGE-1280-80.jpg",
+          "image": "https://cdn.mos.cms.futurecdn.net/cSp5Zs3xAta4EHGv4tsJmS-1280-80.png",
           "summary": "SpaceX completed a single-engine test-firing of its next Starship spacecraft to prepare for its coming test flight, which will be the first to reach orbit."
         },
         {
@@ -1003,27 +1024,6 @@
           "date": "2026-08-21T12:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/sV4cnBQWGUHpWtknHgq5vi-1280-80.jpg",
           "summary": "We'll soon get a chance to see a giant curved shadow in space move slowly across the moon during a very deep partial lunar eclipse. There are few more awesome or enlightening…"
-        },
-        {
-          "title": "Could 'dark photons' explain dark matter?",
-          "link": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter",
-          "date": "2026-08-21T10:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/oQ6xBitDYVuYaDLLgfyGC8-1280-80.png",
-          "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought."
-        },
-        {
-          "title": "China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history",
-          "link": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history",
-          "date": "2026-08-20T21:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/34Zqz34tvj4zEcozEBx3qB-1280-80.jpg",
-          "summary": "China aims to launch its Chang'e 7 moon mission on Aug. 24 to send a lander, a rover, a hopper and a wide range of science experiments to the lunar south pole."
-        },
-        {
-          "title": "SpaceX will try for 1st Starship tower catch 'in a few months,' Elon Musk says",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says",
-          "date": "2026-08-20T20:30:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/2Bd2iSfNPm9ugmCJu55V3P-1280-80.jpg",
-          "summary": "SpaceX will likely try to make the first-ever catch of its Starship upper stage a few months from now, according to Elon Musk. He had earlier flagged late August as a potential…"
         }
       ],
       "ok": true,
@@ -1033,6 +1033,20 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "Chinese radio-frequency intelligence startup StarRF closes new funding round",
+          "link": "https://spacenews.com/chinese-radio-frequency-intelligence-startup-starrf-closes-new-funding-round/",
+          "date": "2026-08-21T20:08:59+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Yaogan39-02-CZ2D-XSLC-17sept2023-ourspace1.jpg?fit=1024%2C681&amp;ssl=1",
+          "summary": "HELSINKI — A Chinese startup building a constellation to detect and geolocate radio-frequency emissions from orbit has closed a funding round as China’s commercial sector expands.…"
+        },
+        {
+          "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
+          "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
+          "date": "2026-08-21T19:48:14+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
+          "summary": "Paris, France &#124; August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as…"
+        },
         {
           "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
           "link": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/",
@@ -1088,20 +1102,6 @@
           "date": "2026-08-20T16:38:31+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/electron93.jpeg?fit=1024%2C755&amp;ssl=1",
           "summary": "Rocket Lab launched another satellite for Japanese radar-imaging company iQPS on Aug. 20. The post Rocket Lab launches 9th satellite for iQPS appeared first on SpaceNews ."
-        },
-        {
-          "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
-          "link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
-          "date": "2026-08-20T16:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon-1.png?fit=1024%2C1024&amp;ssl=1",
-          "summary": "Huntsville, AL &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor…"
-        },
-        {
-          "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
-          "link": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/",
-          "date": "2026-08-20T13:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&amp;ssl=1",
-          "summary": "Portal Space Systems has acquired a Falcon 9 to launch its first Supernova spacecraft and will offer excess capacity on the vehicle for rideshare payloads. The post Portal Space…"
         }
       ],
       "ok": true,
@@ -1268,6 +1268,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Strange Signals Called Long-period Radio Transits Come From Cataclysmic Variables",
+          "link": "https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables",
+          "date": "2026-08-21T19:59:01+00:00",
+          "image": "https://www.universetoday.com/article_images/ASKAP-Rose-WD-e1780465074367_20260820_225651.jpg",
+          "summary": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the…"
+        },
+        {
           "title": "New Solar System Models Show Earth Is No Fluke",
           "link": "https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke",
           "date": "2026-08-21T07:12:12+00:00",
@@ -1329,13 +1336,6 @@
           "date": "2026-08-19T18:30:57+00:00",
           "image": "https://www.universetoday.com/article_images/eso2612a_20260819_172156.jpg",
           "summary": "Astronomers have discovered another S star, the population of stars that orbits the Milky Way's SMBH. This one is the fastest of them all, and also comes closest to the SMBH. It…"
-        },
-        {
-          "title": "Interstellar Travel IV: Solar, Magnetic, &amp; Directed-Energy Sails",
-          "link": "https://www.universetoday.com/articles/interstellar-travel-iv-solar-magnetic-directed-energy-sails",
-          "date": "2026-08-19T16:51:00+00:00",
-          "image": "https://www.universetoday.com/article_images/1-exactlyhowwe_20260819_004024.jpg",
-          "summary": "In our fourth installment in the Interstellar Travel series, we'll examine solar sails, magnetosails, and directed-energy propulsion (DEP), which are currently the most plausible…"
         }
       ],
       "ok": true,
@@ -1552,6 +1552,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Call Of Duty’s Most Controversial Item Is Back In Modern Warfare 4, But With Some Major Changes",
+          "link": "https://www.gamespot.com/articles/call-of-dutys-most-controversial-item-is-back-in-modern-warfare-4-but-with-some-major-changes/",
+          "date": "2026-08-21T20:02:01+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4New.webp?w=300",
+          "summary": "One of the most infamous and controversial items in Call of Duty is the Riot Shield. Some love it. Some hate it. Well, it's back in Call of Duty: Modern Warfare 4, but with a few…"
+        },
+        {
+          "title": "GTA 6 Leaker Has Not Been Identified Yet – Report",
+          "link": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/",
+          "date": "2026-08-21T19:29:14+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Jason_Duval_01.07m377xeb6jhq.jpg?w=300",
+          "summary": "One of the biggest stories in gaming this week has been the ongoing GTA 6 gameplay leaks, which are all about hyping up a memecoin for profit. A new report provides insight into…"
+        },
+        {
+          "title": "CoD: MW4 DLC Honors Real-Life Medal Of Honor Recipient Who Lost His Eye And Teeth In Grenade Blast",
+          "link": "https://www.gamespot.com/articles/cod-mw4-dlc-honors-real-life-medal-of-honor-recipient-who-lost-his-eye-and-teeth-in-grenade-blast/",
+          "date": "2026-08-21T19:05:17+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/COD-Large.jpeg?w=300",
+          "summary": "Activision has announced that Call of Duty: Modern Warfare 4 will have day-one DLC, and like in years past, it will focus on a real-life military hero, with proceeds going to…"
+        },
+        {
           "title": "Mortal Shell 2’s Latest Update Alleviates One Of The Game’s Biggest Headaches",
           "link": "https://www.gamespot.com/articles/mortal-shell-2s-latest-update-alleviates-one-of-the-games-biggest-headaches/",
           "date": "2026-08-21T18:40:53+00:00",
@@ -1599,27 +1620,6 @@
           "date": "2026-08-21T15:19:13+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Diablo-4-Malthael-Tease.jpg?w=300",
           "summary": "Those reaching the end of Diablo 4 Season 14's seasonal storyline are being treated to some major teases about what's next for Blizzard's ARPG, though those eagerly anticipating…"
-        },
-        {
-          "title": "Genki’s Manta Controller Packs A Small Mountain Of Features Into A Single Gamepad",
-          "link": "https://www.gamespot.com/articles/genki-manta-controller-packs-a-small-mountain-of-features-into-a-single-gamepad/",
-          "date": "2026-08-21T15:11:31+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Genki-main.jpg?w=300",
-          "summary": "Genki is no stranger to video game accessories, but the company is venturing into the tightly contested space of controllers with a device aimed at gamers who enjoy fine-tuning…"
-        },
-        {
-          "title": "James Pond’s New Trailer Has AI Alarm Bells Ringing, But Dev Says Otherwise",
-          "link": "https://www.gamespot.com/articles/james-pond-new-trailer-has-ai-alarm-bells-ringing-comments-turned-off/",
-          "date": "2026-08-19T15:00:15+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/James-Pond.jpg?w=300",
-          "summary": "It's a good time to be a fan of retro video games, thanks to all the various compilations hitting the scene, and for the James Pond enthusiasts out there, their time has finally…"
-        },
-        {
-          "title": "Microsoft And Discord Subpoenaed In GTA 6 Leak Case",
-          "link": "https://www.gamespot.com/articles/microsoft-and-discord-subpoenaed-in-gta-6-leak-case/",
-          "date": "2026-08-21T14:57:53+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/gta-6-subpoena.webp?w=300",
-          "summary": "Many alleged clips of Grand Theft Auto 6 gameplay have leaked online this week, showing everything from combat to basketball, and Rockstar's parent company Take-Two is scrambling…"
         }
       ],
       "ok": true,
@@ -1630,7 +1630,28 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "HBO and James Gunn Officially Confirm New 8-Episode 'True Crime' Superman Spinoff",
+          "title": "Noomi Rapace’s Sci-Fi Thriller 'Hot Spot' Is Like 'Dune's Deranged Cousin",
+          "link": "https://www.polygon.com/hot-spot-noomi-rapace-director-interview/",
+          "date": "2026-08-21T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/4246_hs_tp_00001_r.jpg",
+          "summary": "The Lure director Agnieszka Smoczynska's new movie is all about retrofuture vibes and AI horror"
+        },
+        {
+          "title": "3 Marvel Movies Definitely Missing From Disney's Official 'Avengers: Doomsday' Watchlist",
+          "link": "https://www.polygon.com/avengers-doomsday-mcu-movie-watchlist-missing/",
+          "date": "2026-08-21T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/nick-fury-the-marvels.jpg",
+          "summary": "Disney Plus' list of Marvel movies to watch before Avengers: Doomsday may be extensive, but there are still some glaring omissions"
+        },
+        {
+          "title": "Psychonauts Developer Double Fine Reveals Post-Xbox Comeback Plan",
+          "link": "https://www.polygon.com/double-fine-kickstarter-xbox-layoffs/",
+          "date": "2026-08-21T19:48:49+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/psychonauts-2.jpg",
+          "summary": "After splitting from Xbox, Double Fine is holding a new game jam where Kickstarter backers can vote on the studio's next game."
+        },
+        {
+          "title": "HBO and James Gunn Confirm New 8-Part Action True-Crime Series Spinoff",
           "link": "https://www.polygon.com/dc-jimmy-olsen-show-people-v-gorilla-grodd-hbo-max/",
           "date": "2026-08-21T19:09:23+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jimmy-olsen-superman.jpg",
@@ -1644,7 +1665,7 @@
           "summary": "The Family Plan starring Mark Wahlberg and Michelle Monaghan is back near the top of Apple TV’s streaming charts nearly three years later."
         },
         {
-          "title": "Nintendo Goes After Switch Emulation With Aggressive New Takedowns",
+          "title": "Nintendo Just Delivered Devastating News to Emulator Users",
           "link": "https://www.polygon.com/nintendo-emulation-take-downs-piracy/",
           "date": "2026-08-21T18:49:39+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/switch-vs-switch-2-launch-year.jpg",
@@ -1677,27 +1698,6 @@
           "date": "2026-08-21T17:03:25+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/igthp.JPG",
           "summary": "Uncharted and Last of Us actor Robin Atkin Downes is joining the cast of Naughty Dog's Intergalactic: The Heretic Prophet"
-        },
-        {
-          "title": "'GTA 6' Leaks Lead Desperate Fans To Get Trolled in the Most Ridiculous Way Possible",
-          "link": "https://www.polygon.com/gta-6-reddit-lucia-ending-leak-bikini-unmoderated-jason-fake/",
-          "date": "2026-08-21T16:40:44+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lucia.jpg",
-          "summary": "GTA 6 fans are being duped by fake hackers claiming to have access to Lucia's ending"
-        },
-        {
-          "title": "Avengers: Endgame Re-release New Footage Runtime Officially Revealed",
-          "link": "https://www.polygon.com/avengers-endgame-encore-extra-footage-runtime-doomsday/",
-          "date": "2026-08-21T16:13:37+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19927645/captain_america_thor_endgame_ending.jpeg",
-          "summary": "Marvel has revealed how much new footage Avengers: Endgame Encore will have to tie it into Doomsday"
-        },
-        {
-          "title": "Ms. Marvel Is Returning for Official Avengers: Doomsday Release Coming Aug. 27",
-          "link": "https://www.polygon.com/avengers-doomsday-official-podcast-iman-vellani-ms-marvel/",
-          "date": "2026-08-21T16:11:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23932836/FHP1540_106_comp_v007.1082_R.jpg",
-          "summary": "Marvel is counting down to Avengers: Doomsday with a new podcast. Ms. Marvel actor Iman Vellani will host its five episodes."
         }
       ],
       "ok": true,
@@ -1786,6 +1786,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot",
+          "link": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
+          "date": "2026-08-21T20:00:03+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-21-at-3.29.07 PM-1280x718.jpg",
+          "summary": "System 3 denied the accusation in a blog post, but c'mon man look at that cow"
+        },
+        {
           "title": "Rockstar Games Reportedly Remains In The Dark About Who’s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal",
           "link": "https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726",
           "date": "2026-08-21T19:20:07+00:00",
@@ -1847,13 +1854,6 @@
           "date": "2026-08-21T15:02:02+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/gta6-driving-1280x720.jpg",
           "summary": "Seriously, those puddles"
-        },
-        {
-          "title": "Archive Of Our Own Isn’t Worried About The Wattpad User Exodus And You Shouldn’t Be Either",
-          "link": "https://kotaku.com/archive-of-our-own-wattpad-smut-ban-fanfiction-2000726632",
-          "date": "2026-08-21T14:45:49+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/ao3goated-1280x720.jpg",
-          "summary": "'Users do not need to worry that anyone’s works will be taken down due to a baseless report or a mass-reporting campaign, if one were to occur'"
         }
       ],
       "ok": true,
@@ -1942,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "2 Steam top sellers, 2 simultaneous betas, 2 very different shooters: It's Wardogs & Modern Warfare weekend",
+          "link": "https://www.pcgamer.com/games/fps/2-steam-top-sellers-2-simultaneous-betas-2-very-different-shooters-its-wardogs-and-modern-warfare-weekend/",
+          "date": "2026-08-21T19:55:52+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zx7Pbo5cBieQNp5kAwHddc-1280-80.jpg",
+          "summary": "Which one are you checking out this weekend?"
+        },
+        {
           "title": "Don't tell Nintendo, but I turned GTA 5 into Pokémon Go using a mod",
           "link": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
           "date": "2026-08-21T17:00:00+00:00",
@@ -2003,13 +2010,6 @@
           "date": "2026-08-21T13:31:44+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/TDUwJZywerjBr9g65GBRJR-1280-80.jpg",
           "summary": "That's lucky, because the next generation of GPUs is probably going to start at $600..."
-        },
-        {
-          "title": "Someone has managed to run Zork on the Steam Controller's internal hardware, but it's risky business",
-          "link": "https://www.pcgamer.com/hardware/controllers/someone-has-managed-to-run-zork-on-the-steam-controllers-internal-hardware-but-its-risky-business/",
-          "date": "2026-08-21T13:24:53+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/eodU4CmU7kSxoUnAF2T6HY-1280-80.jpg",
-          "summary": "And not the Tom Cruise kind, either."
         }
       ],
       "ok": true,
@@ -2254,6 +2254,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
+          "link": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
+          "date": "2026-08-21T20:03:39+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8c4848a481c949ae/68fa8cce40f197ecad90d022/luciagta6.jpg?width=720&quality=80&disable=upscale",
+          "summary": "Take-Two is racing to halt a series of GTA VI leaks from an entity known as &quot;Cyberleek&quot; that may have access to a playable build of the game."
+        },
+        {
           "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
           "link": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
           "date": "2026-08-21T14:45:37+00:00",
@@ -2315,13 +2322,6 @@
           "date": "2026-08-18T17:16:55+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltca0dac646390dc34/6a84885e2d5be8ba7c628adb/New_Project(23).png?width=720&quality=80&disable=upscale",
           "summary": "Sony CEO Hiroki Totoki says the company is yet to fix a date for the PlayStation 6 launch."
-        },
-        {
-          "title": "Deus Ex director Warren Spector is retiring after nearly 45 years in game dev",
-          "link": "https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years",
-          "date": "2026-08-18T17:14:19+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1ce92c6e914994fd/6a846d539c7fb38b471f23b6/New_Project(22).png?width=720&quality=80&disable=upscale",
-          "summary": "Spector 'thinks' he's retiring for good, despite having ideas for three games he'd love to make."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,34 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US state soon to get 250,000 MWh of renewable electricity with new 20-year solar deal",
+          "link": "https://interestingengineering.com/energy/us-state-renewable-electricity-solar-deal",
+          "date": "2026-08-21T20:04:18+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/ulp-qogzmdw.jpg",
+          "summary": "In Western Maryland, coal is giving way to clean sun. In a major move for..."
+        },
+        {
+          "title": "ETH engineer develops solar collector that turns sunlight into industrial heat",
+          "link": "https://interestingengineering.com/energy/solar-collector-turns-sunlight-into-industrial-heat",
+          "date": "2026-08-21T19:58:04+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Heat-collector-sunlight.jpg",
+          "summary": "An ETH Zurich engineer is developing a solar thermal collector designed to provide industrial facilities..."
+        },
+        {
+          "title": "New US particle collider gets 1,069 crystals to track electrons after collisions",
+          "link": "https://interestingengineering.com/science/us-particle-collider-crystals-to-track-electrons",
+          "date": "2026-08-21T19:48:15+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Z2_6b77aa.jpg?w=150&h=150&crop=1",
+          "summary": "The world&#8217;s first polarized electron-proton collider, the Electron-Ion-Collider (EIC) which is currently under construction has..."
+        },
+        {
+          "title": "Cancer-fighting medical isotopes’ production gets nuclear authority’s regulatory approval",
+          "link": "https://interestingengineering.com/science/cancer-fighting-medical-isotopes-production-approval",
+          "date": "2026-08-21T19:29:17+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/cancer-fighting-isotope.jpg",
+          "summary": "An Ontario-based company has received approval from the Canadian Nuclear Safety Commission (CNSC) to operate..."
+        },
+        {
           "title": "Micron bets $10B on US lab to develop memory beyond today’s computing chips",
           "link": "https://interestingengineering.com/innovation/micron-10b-us-lab-computing-chips",
           "date": "2026-08-21T18:58:42+00:00",
@@ -2450,34 +2478,6 @@
           "date": "2026-08-21T15:27:49+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Nuclear-Workforce.jpg",
           "summary": "As the United States works to deploy a new generation of advanced nuclear reactors, one..."
-        },
-        {
-          "title": "Energy giants tackle the challenges of building 1.3 GW floating solar power plants",
-          "link": "https://interestingengineering.com/energy/energy-giants-tackle-the-challenges-of-building-1-3-gw-floating-solar-power-plants",
-          "date": "2026-08-21T15:20:08+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Inland-power-plant.jpg",
-          "summary": "South Korea’s three state-owned energy companies have applied to build six floating solar power plants..."
-        },
-        {
-          "title": "Scientists build crystal for nuclear clock that will be up to 10 times more precise",
-          "link": "https://interestingengineering.com/science/crystal-nuclear-clock-10-times-more-precise",
-          "date": "2026-08-21T14:54:12+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/T_4270b4.jpg",
-          "summary": "Scientists at the Vienna Institute of Technology have found the perfect site inside a crystal..."
-        },
-        {
-          "title": "Scientists use oxygen vacancies to drive fast lithium transport in batteries",
-          "link": "https://interestingengineering.com/innovation/thermal-bake-speed-lithium-ion-flow-batteries",
-          "date": "2026-08-21T13:44:32+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-44.jpg",
-          "summary": "In manufacturing, perfection is usually the goal. A single microscopic flaw can ruin a microchip,..."
-        },
-        {
-          "title": "Patrols to missiles: Chinese robots showcase high-risk roles at Beijing show",
-          "link": "https://interestingengineering.com/ai-robotics/wrc-2026-chinese-robots-beijing",
-          "date": "2026-08-21T13:38:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/iml05rhlop8.jpg",
-          "summary": "A host of Chinese companies are showcasing how humanoid and quadruped robots could be deployed..."
         }
       ],
       "ok": true,
@@ -2658,6 +2658,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+          "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+          "date": "2026-08-21T19:32:29+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS-500x500.jpg",
+          "summary": "The private Android-based OS will expand beyond Pixels next year."
+        },
+        {
+          "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+          "date": "2026-08-21T19:04:41+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-500x500.jpg",
+          "summary": "Logitech increased prices by up to 25 percent last year."
+        },
+        {
           "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
           "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
           "date": "2026-08-21T18:07:15+00:00",
@@ -2712,20 +2726,6 @@
           "date": "2026-08-20T21:40:52+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-500x500.jpg",
           "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch."
-        },
-        {
-          "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-          "link": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-          "date": "2026-08-20T21:25:25+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-500x500-1786893438.jpg",
-          "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited ."
-        },
-        {
-          "title": "Roblox must make changes after failing to block adults creeping on kids",
-          "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-          "date": "2026-08-20T17:14:08+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-500x500.jpg",
-          "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act."
         }
       ],
       "ok": true,
