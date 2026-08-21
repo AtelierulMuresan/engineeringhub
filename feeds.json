@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:46:34.309946+00:00",
+  "updated": "2026-08-21T14:36:25.668413+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "European auto sales grow 4.1% in July as Chinese brands hit record market share",
+          "link": "https://www.autonews.com/retail/ane-europe-sales-july-7-months-0821/",
+          "date": "2026-08-21T14:05:29+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/wmDedqtV4JQ4BC2tMAajtRyWMfA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/PXFGF6EKEVDHNGZVNPCZA6IBCI.jpg",
+          "summary": "Led by MG, BYD and Chery, Chinese automakers set a new high for market share at 11.2 percent last month. EV sales surged 51 percent as high fuel prices boosted electrification.…"
+        },
+        {
+          "title": "Dacia Sandero back on top in Europe sales; Tesla Model Y drops to 73rd",
+          "link": "https://www.autonews.com/retail/sales/ane-top-50-sellers-july-7-months-0821/",
+          "date": "2026-08-21T13:48:12+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/HOL2YFGvoL2NkMh0rF8K51IxSnQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/UI6LITF4YVDZRICDHK6O7E2MMQ.jpg",
+          "summary": "The Dacia Sandero reclaimed its position as Europe's bestseller in July while the VW Golf and Mercedes GLC also had a good sales month."
+        },
+        {
           "title": "VW labor chief says CEO Oliver Blume’s targets belong in ‘cloud-cuckoo-land’",
           "link": "https://www.autonews.com/volkswagen/ane-vw-labor-chief-slams-profit-target-0821/",
           "date": "2026-08-21T12:43:23+00:00",
@@ -294,20 +308,6 @@
           "date": "2026-08-21T06:53:33+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/u09KxtVVPUDGqjR4ohEocHzT1WY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/ORKQM7DSIRCQ3CDW6YX4VYAZNY.jpg",
           "summary": "A German importer is selling Audi's China-only electric vehicles despite the automaker saying they're not intended for Europe. Parallel imports carry legal risks, a dealer group…"
-        },
-        {
-          "title": "Daily 5 report for Aug. 20: Automakers race to export cars as China’s sales keep collapsing",
-          "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-china-car-sales-decline-global-competition-0820/",
-          "date": "2026-08-20T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/oO20Y0zCSAv8A2TVsh6OAhcIywk=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4I7FQHQTARH2PMOTX5LDMOXYAE.jpg",
-          "summary": "China's car sales slump is squeezing automaker margins and pushing a record wave of exports that's reshaping global competition."
-        },
-        {
-          "title": "Connecticut Nissan dealership settles FTC lawsuit for $4 million to resolve deceptive fees claims",
-          "link": "https://www.autonews.com/retail/an-ftc-manchester-city-nissan-junk-fees-settlement-0820/",
-          "date": "2026-08-20T18:07:59+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/r0UKTDBMskocBiO-rsVC-ZHbozE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/76CKBKAHG5H7LOQYM4S2CP5Z5I.jpg",
-          "summary": "The settlement is one of several garnered through recent enforcement actions by the FTC."
         }
       ],
       "ok": true,
@@ -956,6 +956,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
+          "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
+          "date": "2026-08-21T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/VZR4eWX4qTpH9wNyu74UhA-1280-80.jpg",
+          "summary": "Stars scattered across the cosmos sparkle in the appropriately named Chandelier Cluster."
+        },
+        {
+          "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
+          "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
+          "date": "2026-08-21T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/jPPCXVGFLKdURbPy85mkzF-1280-80.jpg",
+          "summary": "On Aug. 21, 1914, a total solar eclipse temporarily darkened skies across Europe and Asia."
+        },
+        {
           "title": "My favorite thing in the night sky appears on Aug. 28 — and it proves Earth is a sphere",
           "link": "https://www.space.com/stargazing/my-favorite-thing-in-the-night-sky-appears-on-aug-28-and-it-proves-earth-is-a-sphere",
           "date": "2026-08-21T12:00:00+00:00",
@@ -1010,20 +1024,6 @@
           "date": "2026-08-20T17:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/bwbVvmjXvQWLAGoswdTkrJ-1280-80.jpg",
           "summary": "It could have been a disaster, but \"Star Trek\"'s collaboration with the Jim Henson Company is a hilarious masterpiece"
-        },
-        {
-          "title": "Mars Express orbiter captures detailed new video of the crater where Mark Watney was stranded in 'The Martian'",
-          "link": "https://www.space.com/astronomy/mars/mars-express-orbiter-captures-detailed-new-video-of-the-crater-where-mark-watney-was-stranded-in-the-martian",
-          "date": "2026-08-20T16:58:45+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/bhXw6zy5nPjWS8aDaMZFd5-1280-80.png",
-          "summary": "Europe's Mars Express orbiter has captured stunning telemetry to create a new flyover visualization of the Red Planet's Southern Highlands and Schiaparelli Crater in magnificent…"
-        },
-        {
-          "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
-          "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
-          "date": "2026-08-20T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/PHHuMxZvRwMfFQkQX9yRcJ-1280-80.png",
-          "summary": "This geologic feature has been mesmerizing astronauts since 1965."
         }
       ],
       "ok": true,
@@ -1112,11 +1112,11 @@
       "cat": "space",
       "items": [
         {
-          "title": "Last-minute abort stalls Cape Canaveral Starlink mission",
+          "title": "Live coverage: SpaceX attempts Starlink launch from Cape Canaveral following last-minute scrub",
           "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
           "date": "2026-08-20T09:10:40+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
-          "summary": "The Starlink 10-39 mission includes the 2,000th Starlink satellite to fly this year. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 11:38 a.m. EDT (1538…"
+          "summary": "The Starlink 10-39 mission includes the 2,000th Starlink satellite to fly this year. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 11:14 a.m. EDT…"
         },
         {
           "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
@@ -1552,6 +1552,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Duskbloods’ First Network Test Shut Down, Upcoming Schedule Now In Flux",
+          "link": "https://www.gamespot.com/articles/the-duskbloods-first-network-test-shut-down-upcoming-schedule-now-in-flux/",
+          "date": "2026-08-21T14:13:13+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/025@0.75x.png?w=300",
+          "summary": "Those eager to be the first to play The Duskbloods in its first closed network test were met with widespread login errors, and it appears that server issues were bad enough that…"
+        },
+        {
           "title": "God Of War TV Show Has Found Its New Kratos, And It’s Dave Bautista",
           "link": "https://www.gamespot.com/articles/god-of-war-tv-show-has-found-its-new-kratos-and-its-dave-bautista/",
           "date": "2026-08-21T13:11:04+00:00",
@@ -1613,13 +1620,6 @@
           "date": "2026-08-20T15:53:48+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Vice_City_02.jpg?w=300",
           "summary": "GTA 6 is set for a big reveal on August 27 with an extended trailer coming to Netflix, but ahead of that, alleged gameplay footage is leaking everywhere . The leaks began earlier…"
-        },
-        {
-          "title": "Play Your Cards Right To Get This Week’s Epic Games Store Freebie",
-          "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-          "date": "2026-06-18T15:01:00+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Cardpocalypse.jpg?w=300",
-          "summary": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM…"
         }
       ],
       "ok": true,
@@ -1629,6 +1629,20 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "New Xbox Hardware Release Price Leak Reveals Most Expensive Xbox Yet",
+          "link": "https://www.polygon.com/xbox-series-x-25-year-anniversary-console-price-leak/",
+          "date": "2026-08-21T14:19:28+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/xbox-series-x25-console.jpg",
+          "summary": "Microsoft is releasing a special 25th anniversary green Xbox Series X. Its price may have just leaked, it's going to be quite expensive."
+        },
+        {
+          "title": "Persona 3's Amazing 4-Part Adaptation Is Now Completely Free",
+          "link": "https://www.polygon.com/persona-3-the-movie-streaming-for-free-on-aniplex-youtube/",
+          "date": "2026-08-21T13:54:49+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25261467/persona_3_fes.jpg",
+          "summary": "Persona 3 The Movie is available to stream for free and is a great way to experience Atlus' beloved RPG"
+        },
         {
           "title": "Pokémon Fans Found a Way to Bring Rare Event Pokémon to FireRed and LeafGreen",
           "link": "https://www.polygon.com/pokemon-firered-leafgreen-celebi-custom-event-local-wireless/",
@@ -1684,20 +1698,6 @@
           "date": "2026-08-21T08:00:13+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown.jpg",
           "summary": "Yes, he believes in the Great Pumpkin, but he's not wrong about everything"
-        },
-        {
-          "title": "5 Nintendo Games You Need to Play at Least Once",
-          "link": "https://www.polygon.com/must-play-nintendo-games-switch/",
-          "date": "2026-08-21T08:00:13+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13247865/hero.jpg",
-          "summary": "Nintendo's long history is filled with essential games, but these are the most pivotal, important Nintendo games everyone should play"
-        },
-        {
-          "title": "5 Classic Anime That Will Never Need Remakes",
-          "link": "https://www.polygon.com/classic-anime-perfect-no-remakes-required/",
-          "date": "2026-08-21T08:00:13+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/serial-experiments-lain-anime-of-the-week-v0-i9eehu7ix07d1.webp",
-          "summary": "These anime titles remain widely beloved, flaws and all."
         }
       ],
       "ok": true,
@@ -1707,6 +1707,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The second season of Netflix's Cyberpunk Edgerunners anime releases this year",
+          "link": "https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer",
+          "date": "2026-08-21T14:29:56+00:00",
+          "image": "https://assetsio.gnwcdn.com/cyberpunk-edgerunners-season-2-face.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "The second season of Netflix anime Cyberpunk Edgerunners has a release date, and it's being released this year. We also have a new trailer giving us a peek at the 10-episode run.…"
+        },
         {
           "title": "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
           "link": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
@@ -1769,13 +1776,6 @@
           "date": "2026-08-20T15:32:26+00:00",
           "image": "https://assetsio.gnwcdn.com/bond-poolside-flirt.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "The acclaimed James Bond game 007 First Light continues to find success, with developer IO Interactive announcing today it's passed 4 million sales since launch, just under three…"
-        },
-        {
-          "title": "No, The Duskbloods isn't releasing on 24th September, according to Nintendo",
-          "link": "https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied",
-          "date": "2026-08-20T15:30:08+00:00",
-          "image": "https://assetsio.gnwcdn.com/The-Duskbloods-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-3-7-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Nintendo has denied that The Duskbloods will be releasing on the 24th September, after the date was included in an early preview of the game. Read more"
         }
       ],
       "ok": true,
@@ -1786,7 +1786,14 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Take-Two Subpoenas Microsoft And Discord Records Related To Spread Of GTA 6 Leaks",
+          "title": "Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old",
+          "link": "https://kotaku.com/roblox-legal-court-case-audree-heine-terms-conditions-dismissal-2000726607",
+          "date": "2026-08-21T14:15:26+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/roblox2.jpg",
+          "summary": "The corporation claims a child waived all rights because she clicked 'agree' at 8 years old"
+        },
+        {
+          "title": "Take-Two Subpoenas Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
           "link": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
           "date": "2026-08-21T13:44:20+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/gta-6-e1786038173371-1280x756.jpg",
@@ -1847,13 +1854,6 @@
           "date": "2026-08-20T22:05:18+00:00",
           "image": "https://kotaku.com/app/uploads/2026/06/gta666666-1280x720.jpg",
           "summary": "And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City"
-        },
-        {
-          "title": "Geoff Keighley Explains The Key To Getting In The Gamescom Showcase For Free Is Having Something Exciting To Reveal",
-          "link": "https://kotaku.com/geoff-keighley-explains-the-key-to-getting-in-the-gamescom-showcase-for-free-is-having-something-exciting-to-reveal-2000726290",
-          "date": "2026-08-20T21:30:52+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/GettyImages-2222468006-e1787256246940-1280x719.jpg",
-          "summary": "Publishers with exciting reveals to share can get in for free"
         }
       ],
       "ok": true,
@@ -1942,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Take-Two lost $2.8 billion in market cap after GTA 6 leaks—but what's more shocking to me is it probably barely felt it",
+          "link": "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
+          "date": "2026-08-21T13:50:49+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/csHd3LAqcjtFkUocmzkuME-1280-80.png",
+          "summary": "Small pennies to Zelnick."
+        },
+        {
           "title": "Don't tell Nvidia: 56% of you are willing to pay over $600 for your next graphics card... and 19% would spend over $1000 😮",
           "link": "https://www.pcgamer.com/hardware/graphics-cards/dont-tell-nvidia-56-percent-of-you-are-willing-to-pay-over-usd600-for-your-next-graphics-card-and-19-percent-would-spend-over-usd1000/",
           "date": "2026-08-21T13:31:44+00:00",
@@ -2003,13 +2010,6 @@
           "date": "2026-08-21T00:03:35+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/G6MLc9i8j7WVHTrvjHdfr8-1280-80.jpg",
           "summary": "If the latest GTA 6 leak is legit, its world is clearly unprecedented in scale and density."
-        },
-        {
-          "title": "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years/",
-          "date": "2026-08-20T21:43:32+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/JQcwhVgVfFhYzsz3w7kkzn-1280-80.jpg",
-          "summary": "This, apparently, is pretty normal stuff."
         }
       ],
       "ok": true,
@@ -2098,6 +2098,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Next Week on XBOX: New Games for August 24 to 28",
+          "link": "https://news.xbox.com/en-us/2026/08/21/next-week-on-xbox-new-games-for-august-24-to-28/",
+          "date": "2026-08-21T14:00:00+00:00",
+          "image": "https://store-images.s-microsoft.com/image/apps.40582.14062784469244943.1a8e55a9-6289-4e25-997f-fd26677ab09e.fcdea337-cee7-4a2a-824d-25e3f1623df3?w=400&#038;h=600",
+          "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these…"
+        },
+        {
           "title": "Driving Is Hard: How a Coffee-Break Joke Became a Bathtub Rage Game",
           "link": "https://news.xbox.com/en-us/2026/08/20/driving-is-hard/",
           "date": "2026-08-20T17:30:00+00:00",
@@ -2159,13 +2166,6 @@
           "date": "2026-08-18T19:04:57+00:00",
           "image": "https://store-images.s-microsoft.com/image/apps.31609.13804337398808065.24734659-4c80-49e3-8dd6-40293c8f53c5.6ed8e0e0-7168-41ec-9be4-63e0c976cc6d?w=400&#038;h=600",
           "summary": "The NBA 2K27 Preseason Breakdown Game Reveal provides an in-depth overview of everything new this year. Get the full scoop on brand-new content coming to The City, MyCAREER,…"
-        },
-        {
-          "title": "How The Sinking City 2 Shifts to Survival Horror While Keeping Its Investigation Roots",
-          "link": "https://news.xbox.com/en-us/2026/08/18/the-sinking-city-2-survival-horror/",
-          "date": "2026-08-18T15:00:00+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Arkham-Streets-c767ec4bf295d7ad4f00.jpg",
-          "summary": "Arkham is flooded, and the things that survived the flood are still using the bodies of the people who didn&#8217;t. The Sinking City 2 is a Lovecraftian survival horror game set…"
         }
       ],
       "ok": true,
@@ -2175,6 +2175,27 @@
       "name": "GamesIndustry.biz",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The opportunity cost of Sony's live service pivot is enormous | Opinion",
+          "link": "https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion",
+          "date": "2026-08-21T14:15:36+00:00",
+          "image": "https://assetsio.gnwcdn.com/horizon-hunters-gathering_HXrTa3p.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "The folly of the live service mania that consumed the games business for much of the past decade is pretty well documented by this point . The idea that every game should be a…"
+        },
+        {
+          "title": "IGN Entertainment brings Women In Gaming networking event to Gamescom",
+          "link": "https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom",
+          "date": "2026-08-21T14:00:36+00:00",
+          "image": "https://assetsio.gnwcdn.com/women-in-gaming-gamescom-2026.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "IGN Entertainment is hosting a Women in Gaming networking breakfast at Gamescom, on the morning of Wednesday 26th August. The event is supported by GamesIndustry.biz , and will…"
+        },
+        {
+          "title": "Compulsion Games officially separates from Xbox – \"The team told me we would rather eat rocks and drink gasoline than be split up\"",
+          "link": "https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up",
+          "date": "2026-08-21T13:52:33+00:00",
+          "image": "https://assetsio.gnwcdn.com/south-of-midnight_dyyF8xm.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Compulsion Games is now independent from Xbox, with management acquiring both the studio and its staff. Read more"
+        },
         {
           "title": "Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing",
           "link": "https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing",
@@ -2223,27 +2244,6 @@
           "date": "2026-08-20T14:33:37+00:00",
           "image": "https://assetsio.gnwcdn.com/hr-summit-2025.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "This year's GamesIndustry.biz HR Summit, returning to the Royal Institution on October 1 , will have a new focus on People and Workplaces, with a series of sessions featuring, and…"
-        },
-        {
-          "title": "Makers Fund raises $250m in fourth round to support interactive entertainment startups",
-          "link": "https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups",
-          "date": "2026-08-20T13:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/makers-fund.webp?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Venture capital firm Makers Fund has secured $250 million to invest in startups advancing games and interactive entertainment. This brings its total assets under management to…"
-        },
-        {
-          "title": "Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media",
-          "link": "https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media",
-          "date": "2026-08-20T11:09:56+00:00",
-          "image": "https://assetsio.gnwcdn.com/Grand-Theft-Auto-6-(1).webp?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "A hacker group is is posting daily leaks of what appears to be details and footage from a build of GTA 6. Material posted so far includes various gameplay mechanics and assets, as…"
-        },
-        {
-          "title": "Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence",
-          "link": "https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence",
-          "date": "2026-08-20T11:02:20+00:00",
-          "image": "https://assetsio.gnwcdn.com/scf5pu.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Walking the halls of Gamescom, the biggest, most elaborate booths you'll see will generally have an equally big, familiar name attached. Here's Capcom, Xbox, Sega, EA, Ubisoft,…"
         }
       ],
       "ok": true,
