@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T07:32:35.329439+00:00",
+  "updated": "2026-08-22T08:31:30.029933+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -495,7 +495,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
+      "error": "404 Client Error: Not Found for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -578,80 +578,9 @@
     {
       "name": "NASA News",
       "cat": "space",
-      "items": [
-        {
-          "title": "APOD: 2026 August 22 – Mostly Perseids",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-          "date": "2026-08-22T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg?w=4457&#038;h=4457&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!…"
-        },
-        {
-          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-          "date": "2026-08-21T18:43:40+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/NHQ202608120208.jpg?w=25145&#038;h=17074&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona…"
-        },
-        {
-          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-          "date": "2026-08-21T17:41:00+00:00",
-          "image": null,
-          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a…"
-        },
-        {
-          "title": "Webb Opens Treasure Chest",
-          "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-          "date": "2026-08-21T17:35:11+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg?w=1497",
-          "summary": "NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This…"
-        },
-        {
-          "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-          "date": "2026-08-21T17:06:36+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/artemis-ii-crew-at-wh-aug-19.webp?w=2048",
-          "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the…"
-        },
-        {
-          "title": "Europe’s Scorching Summer",
-          "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-          "date": "2026-08-21T04:01:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300",
-          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe."
-        },
-        {
-          "title": "SmallSat 2026",
-          "link": "https://science.nasa.gov/earth/smallsat-2026/",
-          "date": "2026-08-20T20:05:41+00:00",
-          "image": null,
-          "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose…"
-        },
-        {
-          "title": "Artemis Mission Patches",
-          "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
-          "date": "2026-08-20T15:13:51+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg?w=2048",
-          "summary": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch…"
-        },
-        {
-          "title": "NASA Selects University Teams to Help Advance Aviation Research",
-          "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
-          "date": "2026-08-20T14:57:01+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400",
-          "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes…"
-        },
-        {
-          "title": "The View from Above: The Gemini Visual Acuity Experiments",
-          "link": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
-          "date": "2026-08-20T14:30:00+00:00",
-          "image": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg?w=1920&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/news-release/feed/"
     },
     {
       "name": "NASA JPL",
@@ -734,9 +663,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA Selects University Teams to Help Advance Aviation Research",
+          "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+          "date": "2026-08-20T14:57:01+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400",
+          "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes…"
+        },
+        {
+          "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+          "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+          "date": "2026-08-18T18:03:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500",
+          "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and…"
+        },
+        {
+          "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+          "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+          "date": "2026-08-18T14:00:00+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg?w=2048",
+          "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research…"
+        },
+        {
+          "title": "NASA’s 737 Reveals New Paint",
+          "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "date": "2026-08-13T19:41:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
+          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight…"
+        },
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -970,11 +970,11 @@
       "cat": "space",
       "items": [
         {
-          "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+          "title": "SpaceX launches 100th orbital mission of 2026",
           "link": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
           "date": "2026-08-21T18:53:18+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-          "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC)."
+          "summary": "The Starlink 15-20 mission represented the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East happened at 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC)."
         },
         {
           "title": "SpaceX launches 29 Starlink satellites from Cape Canaveral following last-minute scrub",
@@ -1488,6 +1488,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Taylor Sheridan Meets 'Breaking Bad' in FX's Near-Perfect 10-Part Detective Thriller Series",
+          "link": "https://www.polygon.com/fargo-season-2-binge-watch/",
+          "date": "2026-08-22T08:01:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ted-danson-fargo.jpg",
+          "summary": "Season 2 of Fargo is the best-ever season of the FX drama/comedy mostly because of Kirstin Dunst"
+        },
+        {
+          "title": "Nintendo Blurred the Lines Between Handhelds and Consoles Decades Before the Switch",
+          "link": "https://www.polygon.com/super-game-boy-retrospective/",
+          "date": "2026-08-22T08:01:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg",
+          "summary": "With a special hardware accessory for the SNES, Game Boy games thrived on TV sets around the world."
+        },
+        {
+          "title": "Steven Spielberg’s 115-minute Sci-fi Masterpiece Soars Back to the Top of the Streaming Charts",
+          "link": "https://www.polygon.com/steven-spielberg-et-extra-terrestrial-streaming-success-apple-tv-august-2026/",
+          "date": "2026-08-22T08:01:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23970565/1393011976.jpg",
+          "summary": "More than 40 years after becoming one of the biggest movies of its era, Steven Spielberg’s beloved sci-fi hit is surging again on streaming."
+        },
+        {
           "title": "5 Times Disney’s Sci-Fi Ambitions Crashed and Burned at the Box Office",
           "link": "https://www.polygon.com/disneys-5-biggest-sci-fi-box-office-flops/",
           "date": "2026-08-22T04:00:19+00:00",
@@ -1535,27 +1556,6 @@
           "date": "2026-08-21T19:48:49+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/psychonauts-2.jpg",
           "summary": "After splitting from Xbox, Double Fine is holding a new game jam where Kickstarter backers can vote on the studio's next game."
-        },
-        {
-          "title": "HBO and James Gunn Confirm New 8-Part Action True-Crime Series Spinoff",
-          "link": "https://www.polygon.com/dc-jimmy-olsen-show-people-v-gorilla-grodd-hbo-max/",
-          "date": "2026-08-21T19:09:23+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jimmy-olsen-superman.jpg",
-          "summary": "The People v. Gorilla Grodd is coming to HBO Max, featuring Jimmy Olsen and Gorilla Grodd in a new true crime mockumentary series."
-        },
-        {
-          "title": "3 Years Later, Mark Wahlberg's Suburban Action Film Is Still Dominating Streaming",
-          "link": "https://www.polygon.com/mark-wahlberg-the-family-plan-streaming-success-apple-tv-august-2026/",
-          "date": "2026-08-21T18:53:02+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/family-plan-mark-whalberg.jpg",
-          "summary": "The Family Plan starring Mark Wahlberg and Michelle Monaghan is back near the top of Apple TV’s streaming charts nearly three years later."
-        },
-        {
-          "title": "Nintendo Just Delivered Devastating News to Emulator Users",
-          "link": "https://www.polygon.com/nintendo-emulation-take-downs-piracy/",
-          "date": "2026-08-21T18:49:39+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/switch-vs-switch-2-launch-year.jpg",
-          "summary": "Nintendo just took down over 400 GitHub repositories for Nintendo Switch emulators after issuing a DCMA notice."
         }
       ],
       "ok": true,
@@ -2268,6 +2268,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Octopuses are colorblind, so how do they perfectly match colors they can’t even see",
+          "link": "https://interestingengineering.com/science/octopus-colorblind-camouflage-mystery-skin-light",
+          "date": "2026-08-22T08:22:26+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/octopus_colorblind.jpg",
+          "summary": "An octopus can vanish into its surroundings in about 200 milliseconds, roughly the time it..."
+        },
+        {
           "title": "US to study reliable power from floating nuclear power plants, nuclear-powered commercial ships",
           "link": "https://interestingengineering.com/energy/us-port-nuclear-technology-maritime-sector",
           "date": "2026-08-22T04:35:58+00:00",
@@ -2329,13 +2336,6 @@
           "date": "2026-08-21T21:46:17+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-2270098069.jpg",
           "summary": "China&#8217;s high-tech enterprise CBAK Energy Technology is scaling production of its large cylindrical lithium-ion batteries..."
-        },
-        {
-          "title": "World’s largest pilot training facility adds 86 simulators in $145 million expansion",
-          "link": "https://interestingengineering.com/transportation/united-pilot-training-center-expansion",
-          "date": "2026-08-21T20:36:22+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-22T011531.504.jpg",
-          "summary": "United Airlines has completed the first phase of a major expansion at its Denver Flight..."
         }
       ],
       "ok": true,
