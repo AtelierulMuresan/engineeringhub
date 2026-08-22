@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:25:03.237489+00:00",
+  "updated": "2026-08-22T01:17:48.271811+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "U.S., Canadian trade teams meet again as tariffs deadline looms",
+          "link": "https://www.autonews.com/manufacturing/an-us-canada-trade-talks-deadline-0821/",
+          "date": "2026-08-21T23:28:03+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/G_XCSoDrgoF6eACgmrKKEJ1Orig=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QIV4CKCZVZBGVK7W4BRJ6FXPTI.jpg",
+          "summary": "Even if a deal is reached, Prime Minister Mark Carney could find it hard to sell it to Canadians."
+        },
+        {
           "title": "North America car and truck production by plant, July & YTD 2026",
           "link": "https://www.autonews.com/data-center/manufacturing-data/production-plant/an-north-america-production-plant-july-2026/",
           "date": "2026-08-21T19:41:41+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-21T16:00:30+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/FRkua5jQX3mJXThDq8NLfQID4jI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/UDS7UTVBZZBE3FXEYVPWTO3VOY.png",
           "summary": "Tesla's Model Y dropped to eighth in Europe's July EV sales as Skoda, VW and Renault models advanced. Chinese brands strengthened PHEV presence with four top-eight positions."
-        },
-        {
-          "title": "Interactive data dashboard: Get the latest Europe sales and other key statistics",
-          "link": "https://www.autonews.com/automakers/interactive-data-dashboard-europe-sales/",
-          "date": "2026-08-21T16:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/iT0-5QWZHy9o1u5i3FrTsNfF9no=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/IKJQTP3AOZH2VAXDKVJABGA5SE.jpg",
-          "summary": "An interactive data dashboard for the Europe region."
         }
       ],
       "ok": true,
@@ -1012,18 +1012,18 @@
           "summary": "SpaceX launched yet another Starlink mission today (Aug. 21), sending 29 more of the broadband satellites to orbit from Florida's Space Coast."
         },
         {
-          "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
-          "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
-          "date": "2026-08-21T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/jPPCXVGFLKdURbPy85mkzF-1280-80.jpg",
-          "summary": "On Aug. 21, 1914, a total solar eclipse temporarily darkened skies across Europe and Asia."
-        },
-        {
           "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
           "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
           "date": "2026-08-21T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/VZR4eWX4qTpH9wNyu74UhA-1280-80.jpg",
           "summary": "Stars scattered across the cosmos sparkle in the appropriately named Chandelier Cluster."
+        },
+        {
+          "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
+          "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
+          "date": "2026-08-21T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/jPPCXVGFLKdURbPy85mkzF-1280-80.jpg",
+          "summary": "On Aug. 21, 1914, a total solar eclipse temporarily darkened skies across Europe and Asia."
         }
       ],
       "ok": true,
@@ -1268,6 +1268,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "The CosmoQuest Satellite Will Listen to the Early Universe From the Far Side of the Moon",
+          "link": "https://www.universetoday.com/articles/the-cosmoquest-satellite-will-listen-to-the-early-universe-from-the-far-side-of-the-moon",
+          "date": "2026-08-21T23:33:38+00:00",
+          "image": "https://www.universetoday.com/article_images/CosmoCube_CREDIT_Surrey_Space_Technology_Ltd.jpg_20260821_223505.webp",
+          "summary": "A tiny UK-developed satellite, roughly the size of a small carry-on suitcase, could help answer one of the biggest questions in cosmology: what happened in the roughly 150 million…"
+        },
+        {
           "title": "Strange Signals Called Long-period Radio Transits Come From Cataclysmic Variables",
           "link": "https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables",
           "date": "2026-08-21T19:59:01+00:00",
@@ -1329,13 +1336,6 @@
           "date": "2026-08-19T20:12:54+00:00",
           "image": "https://www.universetoday.com/article_images/Pluto-01_Stern_03_Pluto_Color_TXT_20260812_215944.jpg",
           "summary": "Something's wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good explanation for it. A recent study of…"
-        },
-        {
-          "title": "The Fastest Star in the Milky Way Will Test Relativity",
-          "link": "https://www.universetoday.com/articles/the-fastest-star-in-the-milky-way-will-test-relativity",
-          "date": "2026-08-19T18:30:57+00:00",
-          "image": "https://www.universetoday.com/article_images/eso2612a_20260819_172156.jpg",
-          "summary": "Astronomers have discovered another S star, the population of stars that orbits the Milky Way's SMBH. This one is the fastest of them all, and also comes closest to the SMBH. It…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "5 Must-Play New Steam Games to Try This Weekend",
+          "link": "https://www.polygon.com/new-steam-games-august-21-2026/",
+          "date": "2026-08-22T01:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-sinking-city-2-boat-travel.jpg",
+          "summary": "Steam added a lot of fascinating new games this week, including Mortal Shell 2. These are five to dig into this weekend."
+        },
+        {
+          "title": "'Pokémon' Free August 2026 DLC Confirmed for Pokémon Worlds",
+          "link": "https://www.polygon.com/pokemon-worlds-twitch-drops-how-to-get-tcg-pikachu-card-astronaut/",
+          "date": "2026-08-22T00:00:13+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemonxp.JPG",
+          "summary": "Pokémon Champions, Pokémon Unite, Pokémon Go, and all of the TCG games are celebrating Pokémon Worlds in some way"
+        },
+        {
           "title": "10 New Movies to Watch This Weekend on Netflix, HBO Max, and Hulu (August 21-23)",
           "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-august-21-23/",
           "date": "2026-08-21T21:00:14+00:00",
@@ -1684,20 +1698,6 @@
           "date": "2026-08-21T18:31:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/atomfall-8.jpg",
           "summary": "Uncover the mystery behind this British disaster in Atomfall, one of the most underrated sci-fi post-apocalyptic games from the last few years."
-        },
-        {
-          "title": "HBO Reveals Cast for The Pitt Season 3 in First Trailer",
-          "link": "https://www.polygon.com/the-pitt-season-3-trailer-release-date-2027/",
-          "date": "2026-08-21T18:05:07+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dr-langdon-the-pitt-cast.jpg",
-          "summary": "While HBO's first trailer for The Pitt Season 3 is only a minute and a half long, it answers the most important question on viewers' minds."
-        },
-        {
-          "title": "'Doom' Can Officially Be Played on Another 16-Year-Old Device",
-          "link": "https://www.polygon.com/doom-canon-dslr-550d-magic-lantern-port/",
-          "date": "2026-08-21T18:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/18338619/Switch_DOOM_1993_04.jpg",
-          "summary": "A developer ported Doom to the Canon EOS 550D using open-source Magic Lantern firmware — full sound, working controls, and all."
         }
       ],
       "ok": true,
@@ -1817,7 +1817,7 @@
           "title": "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot",
           "link": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
           "date": "2026-08-21T20:00:03+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-21-at-3.29.07 PM-1280x718.jpg",
+          "image": "https://kotaku.com/app/uploads/2026/08/Jamesponddrmaybe-1280x718.jpg",
           "summary": "System 3 denied the accusation in a blog post, but c'mon man look at that cow"
         },
         {
@@ -1942,6 +1942,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Still more GTA 6 details from the latest leaked video: traffic cameras, car trackers, and drivers that put up a fight",
+          "link": "https://www.pcgamer.com/games/grand-theft-auto/still-more-gta-6-details-from-the-latest-leaked-video-traffic-cameras-car-trackers-and-drivers-that-put-up-a-fight/",
+          "date": "2026-08-21T23:43:08+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/2zxPQhBrjWdS3uMJw9o483-1280-80.jpg",
+          "summary": "With each leaked video we learn a bit more about the game."
+        },
+        {
+          "title": "Rockstar employees frustrated by GTA 6 leaks, though they may have only whet appetites for the reveal",
+          "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-employees-frustrated-by-gta-6-leaks-though-they-may-have-only-whet-appetites-for-the-reveal/",
+          "date": "2026-08-21T23:37:09+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/QhR9yvN9u4shoXm448uV9D-1280-80.jpg",
+          "summary": "The increased security measures following the 2022 hack didn't stop another major leak of GTA 6 gameplay."
+        },
+        {
           "title": "The GTA 6 leaker is selling ads now",
           "link": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-leaker-is-selling-ads-now/",
           "date": "2026-08-21T22:16:19+00:00",
@@ -1996,20 +2010,6 @@
           "date": "2026-08-21T16:10:58+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/hkh73NxKMF6ehnC44bRQQN-1280-80.jpg",
           "summary": "Meanwhile, another new Grand Theft Auto 6 leak dropped today."
-        },
-        {
-          "title": "Dave Bautista is confirmed as the new Kratos for Amazon's God of War series",
-          "link": "https://www.pcgamer.com/movies-tv/dave-bautista-is-confirmed-as-the-new-kratos-for-amazons-god-of-war-series/",
-          "date": "2026-08-21T15:50:49+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/dKs9rSFQy4wKHQDtz4TRJk-1280-80.jpg",
-          "summary": "Dave Bautista is confirmed as the new Kratos for Amazon's God of War series."
-        },
-        {
-          "title": "Thanks to this Final Fantasy 14 roleplayer survey, I know exactly how basic my Warrior of Light's backstory is",
-          "link": "https://www.pcgamer.com/games/mmo/thanks-to-this-final-fantasy-14-roleplayer-survey-i-know-exactly-how-basic-my-warrior-of-lights-backstory-is/",
-          "date": "2026-08-21T15:44:41+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hKNsUztXzucJqhUUSdWfxj-1280-80.png",
-          "summary": "Hey, I'm moderately unique!"
         }
       ],
       "ok": true,
@@ -2410,6 +2410,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "NVIDIA DSX links power, cooling and computing to speed data-center development",
+          "link": "https://interestingengineering.com/energy/nvidia-cloverleaf-dsx-us-data-center-infrastructure",
+          "date": "2026-08-22T00:06:03+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/05/iStock-1533655147.jpg",
+          "summary": "NVIDIA is investing in Cloverleaf Infrastructure as the two companies work to speed up development..."
+        },
+        {
+          "title": "New 2,165-mile CJ4 private jet adds emergency autoland tech to protect solo aviators",
+          "link": "https://interestingengineering.com/transportation/citation-cj4-jet-emergency-autoland",
+          "date": "2026-08-21T23:58:55+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-22T050842.808.jpg",
+          "summary": "Textron Aviation has delivered its 500th Citation CJ4-series business jet, marking a major production milestone..."
+        },
+        {
+          "title": "Auriga Space’s Winnie Lai on the future of electromagnetic weapons",
+          "link": "https://interestingengineering.com/innovation/auriga-spaces-winnie-lai-on-the-future-of-electromagnetic-weapons",
+          "date": "2026-08-21T23:55:42+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/articlemain_bd9684.png",
+          "summary": "In this episode of the podcast, Winnie Lai, founder and CEO of Auriga Space, joins..."
+        },
+        {
           "title": "Food waste becomes membrane with 96.1% higher heat transfer, lasts 1,000 cycles",
           "link": "https://interestingengineering.com/energy/food-waste-biochar-membrane-stores-heat-buildings",
           "date": "2026-08-21T22:40:25+00:00",
@@ -2457,27 +2478,6 @@
           "date": "2026-08-21T19:58:04+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Heat-collector-sunlight.jpg",
           "summary": "An ETH Zurich engineer is developing a solar thermal collector designed to provide industrial facilities..."
-        },
-        {
-          "title": "New US particle collider gets 1,069 crystals to track electrons after collisions",
-          "link": "https://interestingengineering.com/science/us-particle-collider-crystals-to-track-electrons",
-          "date": "2026-08-21T19:48:15+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Z2_6b77aa.jpg?w=150&h=150&crop=1",
-          "summary": "The world&#8217;s first polarized electron-proton collider, the Electron-Ion-Collider (EIC) which is currently under construction has..."
-        },
-        {
-          "title": "Cancer-fighting medical isotopes’ production gets nuclear authority’s regulatory approval",
-          "link": "https://interestingengineering.com/science/cancer-fighting-medical-isotopes-production-approval",
-          "date": "2026-08-21T19:29:17+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/cancer-fighting-isotope.jpg",
-          "summary": "An Ontario-based company has received approval from the Canadian Nuclear Safety Commission (CNSC) to operate..."
-        },
-        {
-          "title": "Micron bets $10B on US lab to develop memory beyond today’s computing chips",
-          "link": "https://interestingengineering.com/innovation/micron-10b-us-lab-computing-chips",
-          "date": "2026-08-21T18:58:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-2189604462.jpg",
-          "summary": "Micron Technology plans to invest $10 billion over the next decade to establish a new..."
         }
       ],
       "ok": true,
@@ -2658,6 +2658,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Trump's space transportation policy calls for new spaceport on federal land",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "date": "2026-08-21T23:32:17+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-500x500.jpg",
+          "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
+        },
+        {
           "title": "Thunder + fiber-optic cabling used for seismic imaging",
           "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
           "date": "2026-08-21T20:26:46+00:00",
@@ -2719,13 +2726,6 @@
           "date": "2026-08-21T11:00:53+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-500x500.jpg",
           "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
-        },
-        {
-          "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-          "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-          "date": "2026-08-21T11:00:36+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-500x500.jpg",
-          "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week."
         }
       ],
       "ok": true,
