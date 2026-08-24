@@ -1,10 +1,17 @@
 {
-  "updated": "2026-08-23T23:21:54.153755+00:00",
+  "updated": "2026-08-24T01:22:02.458654+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Wyndham Clark triumphs at the 20th BMW Championship.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460253EN?language=en",
+          "date": "2026-08-24T00:16:08+00:00",
+          "image": null,
+          "summary": "+++ First Playoff title for Clark following a wire-to-wire victory at Bellerive Country Club +++ Golf fans enjoy a thrilling anniversary tournament +++ All proceeds from the…"
+        },
         {
           "title": "Anniversary in St. Louis: 20th BMW Championship kicks off with Pro-Am in support of Evans Scholars Foundation.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460197EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-08-05T22:01:00+00:00",
           "image": null,
           "summary": "Genuine MINI JCW Accessories give the MINI John Cooper Works 3-Door, painted in Indigo Sunset Blue, an even sportier, more distinctive and individual appearance. Additional…"
-        },
-        {
-          "title": "Turkish contemporary art in international spotlight at Venice Biennale with Borusan Otomotiv. Borusan Otomotiv, BMW’s official importer in Türkiye, is a partner of the Türkiye Pavilion at the 61st International Art Exhibition – La Biennale di Venezia through November 22, 2026.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0459934EN?language=en",
-          "date": "2026-08-05T13:28:00+00:00",
-          "image": null,
-          "summary": "Borusan Otomotiv, BMW's official importer in Türkiye and the brand's largest importer worldwide, is bringing Turkish contemporary art to the global stage as a key partner of the…"
         }
       ],
       "ok": true,
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "How 2 auto tariffs helped sink the Canada-U.S. trade deal",
+          "link": "https://www.autonews.com/manufacturing/automakers/anc-canada-us-trade-talks-breakdown-auto-drivers-0823/",
+          "date": "2026-08-24T01:02:09+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/qKw5eESU8LfuIkRkSGRE_Q22QH8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/AHW2X4FQ5ZBFBCTB5ZAONBE4W4.jpg",
+          "summary": "A pair of unresolved automotive issues were contributing factors in the collapse of Canada-U.S. trade talks Aug. 21, after the two sides nearly came to terms to end a bruising…"
+        },
+        {
           "title": "Carvana charges customers more for streamlined experience — and they are willing to pay",
           "link": "https://www.autonews.com/retail/marketing/an-intersection-carvana-new-car-pricing-0823/",
           "date": "2026-08-23T11:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-08-21T19:03:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/cOaSgLaEAn1XFqzi4xsv0BW6J68=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SRE2SKANHVF3RIP73MUZMD6MZ4.jpg",
           "summary": "The auto safety regulator said it received 499 complaints alleging engine failures."
-        },
-        {
-          "title": "Nissan scraps U.S. bank plan; inside mobile service at a Chevy dealership",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-matt-kostrzewa-nissan-bank/",
-          "date": "2026-08-21T19:01:14+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/-yuPPBaheQNqadw0xMSgbu0AoqI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/D4RWYAAN2Q3TVQKD5A2PE3RRWU.jpg",
-          "summary": "Nissan drops its plan to form an industrial bank. GM is selling its stake in a $3.5 billion battery plant, and a Chevy service manager explains what mobile service actually looks…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "7 Greatest 'Far Side' Comics With No Words",
+          "link": "https://www.polygon.com/7-greatest-far-side-comics-with-no-words/",
+          "date": "2026-08-24T01:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-20-at-2-06-26-pm.jpg",
+          "summary": "Gary Larson's comic strip 'The Far Side' occasionally featured panels with no words at all, ranging from broad, silly jokes to subtle, dark comedy"
+        },
+        {
+          "title": "Every Officially Confirmed Marvel Movie and TV Show Coming Through 2029",
+          "link": "https://www.polygon.com/marvel-mcu-movies-tv-releases-2026-upcoming-releases/",
+          "date": "2026-08-24T00:55:50+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688595/LuciaPham_210623_ecl1087_Marvel.png",
+          "summary": "Marvel Studios full lineup of movies and TV shows coming in 2026 through 2029, as officially confirmed by Marvel."
+        },
+        {
+          "title": "5 Years Ago, Double Fine Boldly Tried to Reimagine the AAA Machine",
+          "link": "https://www.polygon.com/psychonauts-2-retrospective-double-fine-games/",
+          "date": "2026-08-23T23:30:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/psychonauts-2.jpg",
+          "summary": "On Psychonauts 2's fifth birthday, Polygon looks back at Double Fine's bold effort to reshape what AAA video games could be"
+        },
+        {
           "title": "18 Years Later, the Best 'XKCD' Comic Strip Quote Still Lives in My Head Rent Free",
           "link": "https://www.polygon.com/xkcd-best-quote-duty-calls/",
           "date": "2026-08-23T20:00:14+00:00",
@@ -1677,27 +1698,6 @@
           "date": "2026-08-23T15:12:47+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-23-at-11-03-51-am.jpeg",
           "summary": "Yoshitaka Amano designed new Loki and Shamrock cards for One Piece Card Game"
-        },
-        {
-          "title": "'It Ends' Director Alex Ullom Reveals the Movie's Meaning and His Surprising Sequel Plan",
-          "link": "https://www.polygon.com/it-ends-director-interview-alex-ullom/",
-          "date": "2026-08-23T15:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/still-1-_phinehas-yoon-akira-jackson-noah-toth-in-it-ends_courtesy-of-neon-1.jpeg",
-          "summary": "The director of It Ends talks liminal spaces, Gen Z horror, the 3-hour cut he had to scrap, and his plans for a sequel"
-        },
-        {
-          "title": "Nintendo’s Forgotten ‘90s Mario Spinoff Deserves a Switch 2 Reboot",
-          "link": "https://www.polygon.com/super-nintendo-35th-anniversary-mario-paint-switch-2/",
-          "date": "2026-08-23T14:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mario-paint-key-art.jpg",
-          "summary": "Unlike Mario Kart and Mario Party, one of Nintendo's SNES-era spinoffs has never quite gotten the same opportunity to blossom into something bigger."
-        },
-        {
-          "title": "One Piece Will Get Two More Movies Before The End Of The Decade",
-          "link": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
-          "date": "2026-08-23T13:55:06+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/one-piece-luffy-eating.avif",
-          "summary": "One Piece fans have new movies to look forward to: God Valley in 2027 and Baad in 2029"
         }
       ],
       "ok": true,
