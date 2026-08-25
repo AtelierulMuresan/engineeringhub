@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:36:26.658452+00:00",
+  "updated": "2026-08-25T10:34:29.590115+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -162,6 +162,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "VW job cuts could reach 140,000 as capacity falls further",
+          "link": "https://www.automotiveworld.com/news/vw-job-cuts-could-reach-140000-as-capacity-falls-further/",
+          "date": "2026-08-25T10:14:30+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Volkswagen’s original agreement to cut 50,000 jobs was unprecedented at the time, but now comes across as a moderate option. By Stewart Burnett The post VW job cuts could reach…"
+        },
+        {
           "title": "German auto production has a problem; is Berlin listening?",
           "link": "https://www.automotiveworld.com/analysis/german-auto-production-has-a-problem-is-berlin-listening/",
           "date": "2026-08-25T07:29:35+00:00",
@@ -223,13 +230,6 @@
           "date": "2026-08-24T05:38:57+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Your weekly roundup of the key developments shaping automotive software, electronics, and software-defined vehicles. Part of the Automotive World Intelligence Feed. News on…"
-        },
-        {
-          "title": "Automotive Manufacturing Newsletter – August 24 2026",
-          "link": "https://www.automotiveworld.com/newsletters/automotive-manufacturing-newsletter-august-24-2026/",
-          "date": "2026-08-24T05:32:28+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Your weekly roundup of the key developments in automotive manufacturing, production and materials. Part of the Automotive World Intelligence Feed. News on Mondays. Analysis on…"
         }
       ],
       "ok": true,
@@ -240,11 +240,32 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "The Ford and Apple Maps partnership isn’t just about navigation. It’s a sign of big tech’s onward march",
+          "link": "https://www.autonews.com/technology/mobility/an-ford-apple-maps-big-tech-0825/",
+          "date": "2026-08-25T10:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/yz-bjKuPEpznxFG2TsBb0abH7tE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/DSWTP4G3TBESZI4HNTHROX6ZH4.webp",
+          "summary": "Ford's new Apple Maps partnership gives the iPhone maker a bigger role in vehicle operations. The shift reflects automakers' evolving comfort with big tech partners despite…"
+        },
+        {
+          "title": "Lawsuit says Mercedes seats tattooed drivers with hot metal AMG logo on sunny days",
+          "link": "https://www.autonews.com/mercedes-benz/an-mercedes-amg-logo-lawsuit-burns-0825/",
+          "date": "2026-08-25T10:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/vuRXNkdQJiSM9JfkqPY13RVhwqc=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5Z75M5GHAJD6NJRLEAXOAU5TL4.png",
+          "summary": "The plaintiffs both say their injuries happened while wearing clothing that didn’t cover their neck and shoulders."
+        },
+        {
+          "title": "Hyundai, union reach wage deal to end strike; will discuss AI, robotics job security",
+          "link": "https://www.autonews.com/hyundai/ane-hyundai-strike-agreement-0825/",
+          "date": "2026-08-25T09:53:20+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0yCXVfvt9doTV48pROCk3b_HrI8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3XO2HHZJ2JGI5GQXPH2H4L2UJA.JPG",
+          "summary": "The union staged its first full strike in a decade on Aug. 21, demanding higher bonuses, an increase in the retirement age and job protections against artificial intelligence and…"
+        },
+        {
           "title": "Jaguar Land Rover said to delay Defender redesign, pushing electric version to early 2030s",
           "link": "https://www.autonews.com/jaguar-land-rover/ane-land-rover-defender-electric-delay-0825/",
           "date": "2026-08-25T09:02:38+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/mKgsm4844o32omxu5VEv551skAA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/B6ICTJTP3FDEHDFEMACDXYZ7UM.png",
-          "summary": "JLR is delaying its Defender redesign as tariffs and uncertain EV demand complicate planning. The off-roader accounts for a third of company sales."
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/P7nMvhAgt5-jP0gOcD0nB9G5MRU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FYZDWRBTCRDW7OPKSQP32DSB2M.jpg",
+          "summary": "JLR is delaying its Defender redesign as tariffs and uncertain EV demand complicate planning, according to news reports. The off-roader accounts for a third of company sales."
         },
         {
           "title": "VW CEO Oliver Blume faces workers angry over his plan to cut 100,000 jobs",
@@ -287,27 +308,6 @@
           "date": "2026-08-24T19:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/jCkiYoCHQxy5St1MGMqcK5JwKds=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FQREB6FYXNB35KPKTSLAUTINKI.jpg",
           "summary": "President Donald Trump threatened 50 percent tariffs on Canadian autos and parts starting Jan. 1 after talks collapsed over heavy-duty truck exemptions."
-        },
-        {
-          "title": "First Shift: Ford taps Geely platform for Spain-built SUV",
-          "link": "https://www.autonews.com/video/first-shift-ford-taps-geely-platform-for-spain-built-suv/",
-          "date": "2026-08-24T18:57:13+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/LqD2G_ENunUlv21K8QRnDJCu1kc=/0x800/d3qtc8km8dvw1x.cloudfront.net/08-24-2026/t_06df7c6fa2ef4bc3bdcfb6eaf299178d_name_Geely_EX5_a.jpg",
-          "summary": "Nissan chases “China speed” with truck plans | Canada holds the line on emissions | Hyundai union strikes over pay, AI fears"
-        },
-        {
-          "title": "U.S.-Canada trade talks collapse; Trump threatens 50% auto tariffs",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-us-canada-talks-08-24/",
-          "date": "2026-08-24T17:09:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/kMHgMSZzL49B9xeBzHfdLmjjDv8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/KY4XPDUJ2RFCNEBIYAGQE5U564.jpg",
-          "summary": "U.S.-Canada trade talks collapse and President Trump escalates. Unifor and GM reach a deal in Ontario. Plus, the Mitsubishi Pajero is back."
-        },
-        {
-          "title": "Chinese automakers forecast to build 1.5 million cars in Europe, bringing risks",
-          "link": "https://www.autonews.com/manufacturing/automakers/ane-china-europe-production-forecast-0824/",
-          "date": "2026-08-24T16:46:12+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/6bQLPbfjE2u4zdgaP1pWaowpvJ0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/43JZNOY6MBF7XODDDAHIJZM2UA.png",
-          "summary": "Economists say plans by Chinese automakers to build cars in Europe could bring car assembly jobs without creating industrial value."
         }
       ],
       "ok": true,
@@ -1630,6 +1630,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "It's the End of an Era for This Star Wars Character",
+          "link": "https://www.polygon.com/star-wars-unlimited-cad-bane-ban/",
+          "date": "2026-08-25T10:29:27+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25371116/shadows_first_look_star_wars_unlimited.jpg",
+          "summary": "Another Star Wars character bites the dust in Fantasy Flight Games' Star Wars Unlimited."
+        },
+        {
+          "title": "Metal Gear Solid Partners up With the Only Thing Stealthier Than Snake",
+          "link": "https://www.polygon.com/metal-gear-solid-mgs-catcon-exclusive-merch/",
+          "date": "2026-08-25T10:21:45+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4680283/mgs5.jpg",
+          "summary": "Cat merch is coming your way, Metal Gear Solid fans, but it will only be available for two days at CatCon and OKS Gear Shop."
+        },
+        {
           "title": "Ridley Scott's Canceled 2-Part Sci-Fi Streaming Series Is \"Westworld Meets Blade Runner\"",
           "link": "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/",
           "date": "2026-08-25T08:00:14+00:00",
@@ -1684,20 +1698,6 @@
           "date": "2026-08-24T22:13:43+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bmep.JPG",
           "summary": "Steal an Egg, the hottest game on Roblox, has been pulled for unknown reasons — but not before unsettling millions on social media"
-        },
-        {
-          "title": "Tom Hardy’s $478M Sci-Fi Action Movie Officially Surges to #2 on Netflix",
-          "link": "https://www.polygon.com/venom-3-the-last-dance-tom-hardy-streaming-success-netflix/",
-          "date": "2026-08-24T20:05:32+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdveth_sp031.jpg",
-          "summary": "Tom Hardy's Venom: The Last Dance is a streaming hit on Netflix"
-        },
-        {
-          "title": "38 Years Later, The Best 'Calvin and Hobbes' Mom Quote Is Still Unmatched in Comic Strip History",
-          "link": "https://www.polygon.com/best-quote-mom-calvin-hobbes/",
-          "date": "2026-08-24T20:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-24-at-12-23-33-pm.jpg",
-          "summary": "Calvin's mom from Bill Watterson's Calvin and Hobbes is not as beloved by fans as his dad, but she can he hilarious. Here is her best-ever line."
         }
       ],
       "ok": true,
@@ -1864,6 +1864,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Discord have yet to receive a GTA 6 leak subpoena from Take-Two, says marketing director, but they will \"evaluate the validity and scope\" if they do",
+          "link": "https://www.rockpapershotgun.com/discord-have-yet-to-receive-a-gta-6-leak-subpoena-from-take-two-says-marketing-director-but-they-will-evaluate-the-validity-and-scope-if-they-do",
+          "date": "2026-08-25T10:03:28+00:00",
+          "image": "https://assetsio.gnwcdn.com/gta-6-discord-respond-potential-subpoena-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Last week, Rockstar Games' parent company Take-Two were filed subpoenas asking for info from Microsoft and Discord to help uncover the identity of the hacker or hackers behind the…"
+        },
+        {
           "title": "How to Fish is Steam's latest cursed co-op sensation, now updated with private lobbies, eight player support, and anti-griefer measures",
           "link": "https://www.rockpapershotgun.com/how-to-fish-is-steams-latest-cursed-co-op-sensation-now-updated-with-private-lobbies-eight-player-support-and-anti-griefer-measures",
           "date": "2026-08-24T17:04:45+00:00",
@@ -1925,13 +1932,6 @@
           "date": "2026-08-23T08:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Sometimes, Sundays are only for rounding up videogame criticism and journalism. I try to cast a wider net when my turn comes to deliver the Papers, because I figure you've…"
-        },
-        {
-          "title": "Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator",
-          "link": "https://www.rockpapershotgun.com/raise-up-a-mech-pilot-and-make-sure-she-doesnt-get-evangelion-level-depressed-in-the-sci-fi-visual-novel-valkyrie-iteration-mecha-pilot-raising-pocket-simulator",
-          "date": "2026-08-22T21:52:12+00:00",
-          "image": "https://assetsio.gnwcdn.com/Valkyrie-Iteration-Mecha-Pilot-Raising-Pocket-Simulator.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Raising sims aren't a genre I've partaken in, partially because so many of them are geared towards a sort of father, daughter vibe that doesn't quite fit me. Raising a mech pilot,…"
         }
       ],
       "ok": true,
@@ -1941,6 +1941,13 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "How to watch Gamescom Opening Night Live 2026",
+          "link": "https://www.pcgamer.com/gaming-industry/events-conferences/gamescom-opening-night-live-2026-how-to-watch/",
+          "date": "2026-08-25T10:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/hyB9RbNtR7KhegiGxkJz6g-1280-80.webp",
+          "summary": "Here's when and where to watch the live showcase opener to this year's Gamescom event."
+        },
         {
           "title": "How to Fish: Strategies for beating the Pufferfish",
           "link": "https://www.pcgamer.com/games/sim/how-to-fish-pufferfish/",
@@ -2003,13 +2010,6 @@
           "date": "2026-08-24T16:52:01+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/EhSthkSscGVzbZ78QNNiGD-1280-80.jpg",
           "summary": "The Cyberleek debacle is no Hot Coffee."
-        },
-        {
-          "title": "The Witcher 4 is 'targeting' a 2028 release",
-          "link": "https://www.pcgamer.com/games/the-witcher/the-witcher-4-is-targeting-a-2028-release/",
-          "date": "2026-08-24T16:11:59+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/qC25EMQMhVatGEy8CA7uHW-1280-80.jpg",
-          "summary": "CD Projekt dropped a few details ahead of Gamescom's Opening Night Live."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "1,112°F: New silicon carbide transistor could be used for electronics in extreme heat",
+          "link": "https://interestingengineering.com/innovation/silicon-carbide-transistor-electronics-extreme-heat",
+          "date": "2026-08-25T09:51:18+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/g8qav3viv9s.jpg",
+          "summary": "Researchers at Kyoto University have developed a silicon carbide (SiC) transistor designed to operate at..."
+        },
+        {
+          "title": "Tesla’s Robotaxi runs an hour late, misses pickup, leaves riders stranded in multiple glitches",
+          "link": "https://interestingengineering.com/ai-robotics/tesla-robotaxi-complaints-texas",
+          "date": "2026-08-25T09:42:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Tesla-Robotaxi.jpg",
+          "summary": "A ride that should have taken minutes instead came with a 66-minute time estimate, and..."
+        },
+        {
           "title": "Transparent solar panels built to replace window glasses without blocking out light",
           "link": "https://interestingengineering.com/energy/transparent-organic-solar-panel-slot-die",
           "date": "2026-08-25T09:34:00+00:00",
@@ -2464,20 +2478,6 @@
           "date": "2026-08-24T20:26:40+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-25T013019.689.jpg",
           "summary": "Chariot Defense has won a $7.6 million Defense Innovation Unit contract to deploy its software-defined..."
-        },
-        {
-          "title": "Lithium-sulfur battery tech with 2x energy density enters US Army testing for drones",
-          "link": "https://interestingengineering.com/energy/lithium-sulfur-batteries-us-army-drone-testing",
-          "date": "2026-08-24T20:20:48+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-2286424264.jpg",
-          "summary": "Australian battery developer Li-S Energy has delivered its lithium-sulfur battery cells to the US Army..."
-        },
-        {
-          "title": "Heat-defying purple fabric reflects 88% sunlight, keeps skin 14°F cooler, repels water",
-          "link": "https://interestingengineering.com/science/purple-fabric-reflects-sunlight-stays-cooler",
-          "date": "2026-08-24T18:54:36+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/pjq57fwj9d4.jpg",
-          "summary": "An international team of researchers has unveiled a purple fabric that reflects up to 88..."
         }
       ],
       "ok": true,
