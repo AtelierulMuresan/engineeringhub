@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:43:42.199107+00:00",
+  "updated": "2026-08-25T09:36:26.658452+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -162,6 +162,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "German auto production has a problem; is Berlin listening?",
+          "link": "https://www.automotiveworld.com/analysis/german-auto-production-has-a-problem-is-berlin-listening/",
+          "date": "2026-08-25T07:29:35+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "German automotive has big problems: too much capacity, falling demand, uncompetitive cost structures and Chinese OEMs at the gates of Europe. By Ian Henry The post German auto…"
+        },
+        {
           "title": "VW workers slam board’s communication on restructuring",
           "link": "https://www.automotiveworld.com/news/vw-workers-slam-boards-communication-on-restructuring/",
           "date": "2026-08-24T17:11:48+00:00",
@@ -223,13 +230,6 @@
           "date": "2026-08-24T05:32:28+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Your weekly roundup of the key developments in automotive manufacturing, production and materials. Part of the Automotive World Intelligence Feed. News on Mondays. Analysis on…"
-        },
-        {
-          "title": "Commercial Vehicle Newsletter – August 24 2026",
-          "link": "https://www.automotiveworld.com/newsletters/commercial-vehicle-newsletter-august-24-2026/",
-          "date": "2026-08-24T05:25:18+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Your weekly roundup of the key developments across the global commercial vehicle industry. Part of the Automotive World Intelligence Feed. News on Mondays. Analysis on Thursdays.…"
         }
       ],
       "ok": true,
@@ -239,6 +239,13 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Jaguar Land Rover said to delay Defender redesign, pushing electric version to early 2030s",
+          "link": "https://www.autonews.com/jaguar-land-rover/ane-land-rover-defender-electric-delay-0825/",
+          "date": "2026-08-25T09:02:38+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/mKgsm4844o32omxu5VEv551skAA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/B6ICTJTP3FDEHDFEMACDXYZ7UM.png",
+          "summary": "JLR is delaying its Defender redesign as tariffs and uncertain EV demand complicate planning. The off-roader accounts for a third of company sales."
+        },
         {
           "title": "VW CEO Oliver Blume faces workers angry over his plan to cut 100,000 jobs",
           "link": "https://www.autonews.com/volkswagen/ane-vw-workers-protest-job-cuts-0825/",
@@ -301,13 +308,6 @@
           "date": "2026-08-24T16:46:12+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/6bQLPbfjE2u4zdgaP1pWaowpvJ0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/43JZNOY6MBF7XODDDAHIJZM2UA.png",
           "summary": "Economists say plans by Chinese automakers to build cars in Europe could bring car assembly jobs without creating industrial value."
-        },
-        {
-          "title": "Trump threatens 50% tariffs on all Canada-made cars, trucks",
-          "link": "https://www.autonews.com/canada/anc-trump-50-percent-auto-tariffs-threat-reuters-0824/",
-          "date": "2026-08-24T16:29:25+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/H8qOSBd5qF-8Ufb6MaWRUWqr2bg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TBAIO5YGHZGZJPXYL2NECL75CY.jpg",
-          "summary": "The two ​countries ⁠failed to reach a trade deal late Aug. 21, ​with each side blaming the ​other ⁠as Canada readied tariffs on some U.S. goods in retaliation for 50 percent…"
         }
       ],
       "ok": true,
@@ -486,9 +486,80 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://3dprintingindustry.com/feed/"
+      "items": [
+        {
+          "title": "Norwegian AM Producer Cuts Documentation Time From 8 Hours to Under 2 After Adopting Quality Software",
+          "link": "https://3dprintingindustry.com/news/norwegian-am-producer-cuts-documentation-time-from-8-hours-to-under-2-after-adopting-quality-software-254063/?utm_source=rss&utm_medium=rss&utm_campaign=norwegian-am-producer-cuts-documentation-time-from-8-hours-to-under-2-after-adopting-quality-software",
+          "date": "2026-08-25T08:01:50+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "AM North, a Norwegian additive manufacturing company, has adopted amsight&#8216;s production-level quality management software, cutting documentation work per project from roughly…"
+        },
+        {
+          "title": "Vertico Installs Largest 3D Concrete Printing System to Date at Portuguese Precast Facility",
+          "link": "https://3dprintingindustry.com/news/vertico-installs-largest-3d-concrete-printing-system-to-date-at-portuguese-precast-facility-254066/?utm_source=rss&utm_medium=rss&utm_campaign=vertico-installs-largest-3d-concrete-printing-system-to-date-at-portuguese-precast-facility",
+          "date": "2026-08-25T07:13:30+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Dutch 3D concrete printing company Vertico has completed its largest installation to date, deploying a full two-component (2K) printing system at the facility of Portuguese…"
+        },
+        {
+          "title": "Formnext Asia Shenzhen Opens Its Largest Edition This Week",
+          "link": "https://3dprintingindustry.com/news/formnext-asia-shenzhen-opens-its-largest-edition-this-week-254058/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-asia-shenzhen-opens-its-largest-edition-this-week",
+          "date": "2026-08-25T06:35:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Formnext Asia Shenzhen will open on 26 August 2026 as its biggest edition to date, spanning 20,000 sq.m. of Hall 15 at the Shenzhen World Exhibition &#38; Convention Center and…"
+        },
+        {
+          "title": "Full V8 Engine Block Printed as Single Piece on Nikon SLM’s NXG XII 600",
+          "link": "https://3dprintingindustry.com/news/full-v8-engine-block-printed-as-single-piece-on-nikon-slms-nxg-xii-600-254020/?utm_source=rss&utm_medium=rss&utm_campaign=full-v8-engine-block-printed-as-single-piece-on-nikon-slms-nxg-xii-600",
+          "date": "2026-08-24T11:38:28+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Bosch&#8216;s manufacturing consulting arm Bosch Industry Consulting and German metal 3D printer manufacturer Nikon SLM Solutions have produced a complete V8 engine block as a…"
+        },
+        {
+          "title": "HVE Completes Tool-Free 3D Printing Process for Rail Components",
+          "link": "https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/?utm_source=rss&utm_medium=rss&utm_campaign=hve-completes-tool-free-3d-printing-process-for-rail-components",
+          "date": "2026-08-24T10:40:35+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "HÖRMANN Vehicle Engineering (HVE) and its research partners have completed a 34-month project developing a tool-free, fully recyclable manufacturing process for large-format…"
+        },
+        {
+          "title": "Materialise Produces Certified Titanium Latch for Lufthansa Technik",
+          "link": "https://3dprintingindustry.com/news/materialise-produces-certified-titanium-latch-for-lufthansa-technik-254014/?utm_source=rss&utm_medium=rss&utm_campaign=materialise-produces-certified-titanium-latch-for-lufthansa-technik",
+          "date": "2026-08-24T07:07:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Internationally licensed maintenance, production and development organization Lufthansa Technik has replaced a damage-prone polymer latch on Airbus A330, A340, and A380 roller…"
+        },
+        {
+          "title": "How HP Engineered the Innovative HP MJF 1200 3D Printer for Every Workspace",
+          "link": "https://3dprintingindustry.com/news/how-hp-engineered-the-innovative-hp-mjf-1200-3d-printer-for-every-workspace-254038/?utm_source=rss&utm_medium=rss&utm_campaign=how-hp-engineered-the-innovative-hp-mjf-1200-3d-printer-for-every-workspace",
+          "date": "2026-08-24T06:25:25+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "How many engineering decisions have been delayed by three to five business days because a functional prototype was sitting in a service bureau’s queue? It’s something nobody…"
+        },
+        {
+          "title": "Formlabs Overhauls Board: Riccio Joins as Linder Steps Down After 15 Years",
+          "link": "https://3dprintingindustry.com/news/formlabs-overhauls-board-riccio-joins-as-linder-steps-down-after-15-years-253870/?utm_source=rss&utm_medium=rss&utm_campaign=formlabs-overhauls-board-riccio-joins-as-linder-steps-down-after-15-years",
+          "date": "2026-08-21T07:47:52+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Supplier of professional SLA and SLS 3D printing systems Formlabs has appointed Dan Riccio, Apple&#8216;s former Senior Vice President of Hardware Engineering, as a strategic…"
+        },
+        {
+          "title": "Gregorio Marañón Hospital Implants World’s First Personalized Metamaterial Bone Prosthesis",
+          "link": "https://3dprintingindustry.com/news/gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis-253969/?utm_source=rss&utm_medium=rss&utm_campaign=gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis",
+          "date": "2026-08-21T07:14:59+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Advanced Planning and 3D Manufacturing Unit (UPAM3D) at Gregorio Marañón University General Hospital, part of the Community of Madrid, has reportedly designed, manufactured…"
+        },
+        {
+          "title": "Fusetec and Adelaide University Announce $800,000 Project to 3D Print Dental Models That Respond Like Real Tissue",
+          "link": "https://3dprintingindustry.com/news/fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue-253939/?utm_source=rss&utm_medium=rss&utm_campaign=fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue",
+          "date": "2026-08-21T06:36:41+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Australian medical training device company Fusetec, Adelaide University, and the Additive Manufacturing Cooperative Research Centre (AMCRC) have embarked on an $800,000…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Dassault 3DS Blog",
@@ -734,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA Selects University Teams to Help Advance Aviation Research",
+          "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+          "date": "2026-08-20T14:57:01+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400",
+          "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes…"
+        },
+        {
+          "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+          "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+          "date": "2026-08-18T18:03:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500",
+          "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and…"
+        },
+        {
+          "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+          "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+          "date": "2026-08-18T14:00:00+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg?w=2048",
+          "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research…"
+        },
+        {
+          "title": "NASA’s 737 Reveals New Paint",
+          "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "date": "2026-08-13T19:41:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
+          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight…"
+        },
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        },
+        {
+          "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+          "date": "2026-07-15T21:56:38+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg",
+          "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at…"
+        },
+        {
+          "title": "NASA Jets Turn Red, White, and Blue",
+          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
+          "date": "2026-07-14T17:13:53+00:00",
+          "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -1486,9 +1628,80 @@
     {
       "name": "Polygon",
       "cat": "gaming",
-      "items": [],
-      "ok": false,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "items": [
+        {
+          "title": "Ridley Scott's Canceled 2-Part Sci-Fi Streaming Series Is \"Westworld Meets Blade Runner\"",
+          "link": "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/",
+          "date": "2026-08-25T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tcdraby_h7097.jpg",
+          "summary": "With The Dog Stars bringing Ridley Scott back to sci-fi, revisit the ambitious HBO Max series that deserved a third season."
+        },
+        {
+          "title": "27 Years Ago, The Last True Star Wars Masterpiece Arrived a Month After Phantom Menace",
+          "link": "https://www.polygon.com/star-wars-weird-al-parody/",
+          "date": "2026-08-25T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/msdstwa_fe086.jpg",
+          "summary": "Weird Al Yankovic's 1999 song \"The Saga Begins\" is a musical masterpiece. It's a wonderful parody of \"American Pie\" and Star Wars: The Phantom Menace"
+        },
+        {
+          "title": "Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Free to Watch on Streaming",
+          "link": "https://www.polygon.com/big-fish-tim-burton-movies-free-streaming-august-2026/",
+          "date": "2026-08-25T04:00:19+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdbifi_ec008.jpg",
+          "summary": "Perhaps it's underrated because it barely even feels like a Tim Burton movie, but Big Fish is one of the director's best"
+        },
+        {
+          "title": "Akira Officially Returns to Theaters in IMAX and 4K for One Day Only",
+          "link": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
+          "date": "2026-08-25T01:34:30+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6998201/akira.jpg",
+          "summary": "1998 anime classic Akira returns to movie theaters in IMAX and 4K in September, thanks to Crunchyroll and Sony. Tickets are on sale now."
+        },
+        {
+          "title": "41 Years, the Most Inventive Sci-Fi Thriller of the '80s Is Officially Free to Watch on Streaming",
+          "link": "https://www.polygon.com/re-animator-1985-zombie-movie-tubi/",
+          "date": "2026-08-25T01:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/re-animator-3.jpg",
+          "summary": "This cult classic remains one of the most inventive zombie movies ever made."
+        },
+        {
+          "title": "The Mandalorian and Grogu digital release date and Blu-ray announced",
+          "link": "https://www.polygon.com/star-wars-mandalorian-and-grogu-digital-release-date-4k-blu-ray/",
+          "date": "2026-08-25T00:48:31+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/star-wars-the-mandalorian-and-grogu-anzellans.jpg",
+          "summary": "Star Wars: The Mandalorian and Grogu is coming to digital and on 4K/Blu-ray starting July 21, Lucasfilm and Disney have announced."
+        },
+        {
+          "title": "$7 Billion Dragon Ball Z Theme Park Officially in the Works",
+          "link": "https://www.polygon.com/dragon-ball-z-manga-theme-park-paris/",
+          "date": "2026-08-24T22:18:07+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mv5bnmjmzty3nwqtnza2mi00ywniltkwymitmgzjzgm3mwu3mtu3xkeyxkfqcgc-_v1_.jpg",
+          "summary": "France and Saudi Arabia have agreed to build a $7 billion theme outside Paris. It will be inspired by manga like Dragon Ball Z."
+        },
+        {
+          "title": "The 'Black Mirror' of Roblox Games Disappears After Hitting No. 1",
+          "link": "https://www.polygon.com/steal-an-egg-roblox-what-happened-discord-black-mirror-netflix/",
+          "date": "2026-08-24T22:13:43+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bmep.JPG",
+          "summary": "Steal an Egg, the hottest game on Roblox, has been pulled for unknown reasons — but not before unsettling millions on social media"
+        },
+        {
+          "title": "Tom Hardy’s $478M Sci-Fi Action Movie Officially Surges to #2 on Netflix",
+          "link": "https://www.polygon.com/venom-3-the-last-dance-tom-hardy-streaming-success-netflix/",
+          "date": "2026-08-24T20:05:32+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdveth_sp031.jpg",
+          "summary": "Tom Hardy's Venom: The Last Dance is a streaming hit on Netflix"
+        },
+        {
+          "title": "38 Years Later, The Best 'Calvin and Hobbes' Mom Quote Is Still Unmatched in Comic Strip History",
+          "link": "https://www.polygon.com/best-quote-mom-calvin-hobbes/",
+          "date": "2026-08-24T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-24-at-12-23-33-pm.jpg",
+          "summary": "Calvin's mom from Bill Watterson's Calvin and Hobbes is not as beloved by fans as his dad, but she can he hilarious. Here is her best-ever line."
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Eurogamer",
@@ -1963,6 +2176,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Newzoo: Global games market to generate $213.9bn in 2026, up 6.1% YoY",
+          "link": "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy",
+          "date": "2026-08-25T09:14:43+00:00",
+          "image": "https://assetsio.gnwcdn.com/gta-6-lucia-jason-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Newzoo projects the global games market will grow 6.1% to $213.9 billion, with over half of consumer spending originating from China and the US. Read more"
+        },
+        {
           "title": "Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem",
           "link": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
           "date": "2026-08-25T08:00:00+00:00",
@@ -2024,13 +2244,6 @@
           "date": "2026-08-21T13:52:33+00:00",
           "image": "https://assetsio.gnwcdn.com/south-of-midnight_dyyF8xm.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Compulsion Games is now independent from Xbox, with management acquiring both the studio and its staff. Read more"
-        },
-        {
-          "title": "Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing",
-          "link": "https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing",
-          "date": "2026-08-21T13:26:55+00:00",
-          "image": "https://assetsio.gnwcdn.com/rovers-tale-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Team17 is no longer publishing Observer Interactive's debut title Rover's Tale . Read more"
         }
       ],
       "ok": true,
@@ -2197,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Transparent solar panels built to replace window glasses without blocking out light",
+          "link": "https://interestingengineering.com/energy/transparent-organic-solar-panel-slot-die",
+          "date": "2026-08-25T09:34:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/semi-transparent-pv_3e358a.jpg",
+          "summary": "German researchers have built a transparent solar panel that lets almost half the light through..."
+        },
+        {
           "title": "US explores 1 MW nuclear batteries that fit inside 20-foot shipping containers",
           "link": "https://interestingengineering.com/energy/us-explores-1-mw-nuclear-batteries-that-fit-inside-20-foot-shipping-containers",
           "date": "2026-08-25T01:36:14+00:00",
@@ -2258,13 +2478,6 @@
           "date": "2026-08-24T18:54:36+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/pjq57fwj9d4.jpg",
           "summary": "An international team of researchers has unveiled a purple fabric that reflects up to 88..."
-        },
-        {
-          "title": "New orbital power grid targets 10x boost for space-based computing and data centers",
-          "link": "https://interestingengineering.com/ai-robotics/orbital-power-grid-space-computing-data-centers",
-          "date": "2026-08-24T18:27:28+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/aethero-star-catcher.jpg",
-          "summary": "US-based space tech firms Star Catcher Industries and Aethero have partnered to scale high-performance computing..."
         }
       ],
       "ok": true,
@@ -2367,6 +2580,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Welcome to the spiderverse, a world measured through webs",
+          "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+          "date": "2026-08-25T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
+          "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species.…"
+        },
+        {
+          "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+          "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+          "date": "2026-08-25T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
+          "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology…"
+        },
+        {
           "title": "How to encourage smarter AI use in the classroom",
           "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
           "date": "2026-08-24T14:20:19+00:00",
@@ -2421,20 +2648,6 @@
           "date": "2026-08-20T15:42:39+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
           "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.…"
-        },
-        {
-          "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-          "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-          "date": "2026-08-20T12:10:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MIT_Opener_final2.jpg?fit=2128,1196",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help…"
-        },
-        {
-          "title": "The next big thing in hydrogen could be underground",
-          "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-          "date": "2026-08-20T10:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in…"
         }
       ],
       "ok": true,
