@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T22:49:55.245168+00:00",
+  "updated": "2026-08-27T04:21:27.784512+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -84,6 +84,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Professional motorsport without compromise: the new 911 Challenge",
+          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-911-challenge-customer-motorsport-43118.html",
+          "date": "2026-08-26T06:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338953&w=1080&h=609&crop=1&public=1&cs=fb941554f15ec039",
+          "summary": "Dr. Ing. h.c. F. Porsche AG is opening up a new approach to customer motorsport: The 911 Challenge combines the DNA of the current 911 GT3 with that of a racing car."
+        },
+        {
           "title": "Icon: The Spherical Fuel Tank of the Porsche 909 Bergspyder",
           "link": "https://newsroom.porsche.com/en/2026/history/porsche-lightweight-spherical-fuel-tank-909-bergspyder-43109.html",
           "date": "2026-08-25T07:00:00+00:00",
@@ -145,13 +152,6 @@
           "date": "2026-08-16T19:00:00+00:00",
           "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338784&w=1080&h=609&crop=1&public=1&cs=365c3b3fa0bcd0c4",
           "summary": "Pascal Wehrlein claimed his second ABB FIA Formula E Drivers’ World Championship in Sunday’s London E-Prix despite missing out on the points. The Porsche factory driver finished…"
-        },
-        {
-          "title": "Porsche’s most successful single-seater crosses the finish line for the final time",
-          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-99x-electric-most-successful-porsche-single-seater-43062.html",
-          "date": "2026-08-16T17:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338785&w=1080&h=609&crop=1&public=1&cs=01e58f904b7009d9",
-          "summary": "The Porsche 99X Electric is the most successful single-seater racing car in the history of Dr. Ing. h.c. F. Porsche AG and is now leaving the racetrack."
         }
       ],
       "ok": true,
@@ -1034,6 +1034,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
+          "link": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/",
+          "date": "2026-08-27T01:54:19+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&amp;ssl=1",
+          "summary": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground.…"
+        },
+        {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
           "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
           "date": "2026-08-26T16:12:57+00:00",
@@ -1095,13 +1102,6 @@
           "date": "2026-08-24T12:00:00+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
           "summary": "Houston — World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week…"
-        },
-        {
-          "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
-          "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
-          "date": "2026-08-21T19:48:14+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
-          "summary": "Paris, France &#124; August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as…"
         }
       ],
       "ok": true,
@@ -1268,6 +1268,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA’s Webb Telescope Rules Out Two New Dyson Sphere Candidates",
+          "link": "https://www.universetoday.com/articles/nasas-webb-telescope-rules-out-two-new-dyson-sphere-candidates",
+          "date": "2026-08-27T03:32:00+00:00",
+          "image": "https://www.universetoday.com/article_images/Dyson_Swarm_realistic_representation_cropped_20260827_035246.jpg",
+          "summary": "Recent searches for the technosignatures of hypothetical Dyson Spheres again turn up empty."
+        },
+        {
+          "title": "AI Spots Hidden Solar Storm Signs 9 Hours Early",
+          "link": "https://www.universetoday.com/articles/ai-spots-hidden-solar-storm-signs-9-hours-early",
+          "date": "2026-08-27T01:16:25+00:00",
+          "image": "https://www.universetoday.com/article_images/14972_Active_Region_Short_Horiz_ProRes_1920x1080_2997_ed.jpg_750_20260827_011316.jpg",
+          "summary": "When we think of weather forecasts, we instinctively think of weather on Earth like rain or shine. However, we rarely consider weather forecasts from outside of the Earth, also…"
+        },
+        {
           "title": "Scientists Melted A Diamond and Cracked a Secret of Ice Giants",
           "link": "https://www.universetoday.com/articles/scientists-melted-a-diamond-and-cracked-a-secret-of-ice-giants",
           "date": "2026-08-26T19:27:47+00:00",
@@ -1322,20 +1336,6 @@
           "date": "2026-08-23T22:19:31+00:00",
           "image": "https://www.universetoday.com/article_images/cq5dam.web.2560.1440_20260823_214012.jpeg",
           "summary": "An international team observed a magnetar known as 1E 1547.0–5408 using NASA’s Imaging X-ray Polarimetry Explorer (IXPE), leading to what could be the first detection of vacuum…"
-        },
-        {
-          "title": "NASA Highlights Next-Gen Cargo Landers Paving the Way for a Moon Base",
-          "link": "https://www.universetoday.com/articles/nasa-highlights-next-gen-cargo-landers-paving-the-way-for-a-moon-base",
-          "date": "2026-08-23T13:01:35+00:00",
-          "image": "https://www.universetoday.com/article_images/moon-base-update-slate_20260823_130110.webp",
-          "summary": "NASA and its commercial partners are making progress on their way to a permanent human presence on the Moon. As part of that, a recent press release and accompanying YouTube video…"
-        },
-        {
-          "title": "White Dwarf-Red Dwarf Binaries Power Cosmic Lasers",
-          "link": "https://www.universetoday.com/articles/synchronized-stars-power-cosmic-radio-laser",
-          "date": "2026-08-22T23:02:54+00:00",
-          "image": "https://www.universetoday.com/article_images/WD_MD.original_20260822_182847.png",
-          "summary": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects they observed come…"
         }
       ],
       "ok": true,
@@ -1467,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "The crisis in cosmology continues: Critical problems in a recent defense of cosmic acceleration",
+          "link": "https://phys.org/news/2026-08-crisis-cosmology-critical-problems-defense.html",
+          "date": "2026-08-27T00:00:01+00:00",
+          "image": null,
+          "summary": "Doubts about the standard model of cosmology are deepening after a new study identified fundamental problems in a recent analysis that defended the conventional view that the…"
+        },
+        {
           "title": "Thermal anomaly discovered below Mars' south pole",
           "link": "https://phys.org/news/2026-08-thermal-anomaly-mars-south-pole.html",
           "date": "2026-08-26T20:20:08+00:00",
@@ -1528,13 +1535,6 @@
           "date": "2026-08-25T18:10:01+00:00",
           "image": null,
           "summary": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite…"
-        },
-        {
-          "title": "Lunar soil reads as a cosmic time capsule for exploding stars",
-          "link": "https://phys.org/news/2026-08-lunar-soil-cosmic-capsule-stars.html",
-          "date": "2026-08-25T17:40:05+00:00",
-          "image": null,
-          "summary": "When a star reaches its final stages of life, it ends in a bright, powerful explosion called a supernova and scatters material across the universe. A new study led by a University…"
         }
       ],
       "ok": true,
@@ -1551,6 +1551,13 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "It’s A Good Week If You Like Games That Let You Play As An Animal",
+          "link": "https://www.gamespot.com/articles/its-a-good-week-if-you-like-games-that-let-you-play-as-an-animal/",
+          "date": "2026-08-26T23:59:35+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Amphibian.jpg?w=300",
+          "summary": "After Gamescom Opening Night Live and the Future Games Show, we can't help noticing that there are multiple titles coming up that let players either assume control of an animal or…"
+        },
         {
           "title": "Portal-Like Shooter Splitgate Died Once, And It’s Dying Again … Kind Of",
           "link": "https://www.gamespot.com/articles/portal-like-shooter-splitgate-died-once-and-its-dying-again-kind-of/",
@@ -1613,13 +1620,6 @@
           "date": "2026-08-26T19:01:57+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/BHL-Large.jpeg?w=300",
           "summary": "Savage Planet series developer Raccoon Logic announced a new game at Gamescom today, and it's not what anyone would expect. Breakaway Hockey League is a new \"high-skill\" 4v4 ice…"
-        },
-        {
-          "title": "The Biggest Gaming Show In The West Continues To Grow",
-          "link": "https://www.gamespot.com/articles/the-biggest-gaming-show-in-the-west-continues-to-grow/",
-          "date": "2026-08-26T18:58:22+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-1.57.39-PM.png?w=300",
-          "summary": "One of the world's biggest gaming shows, Gamescom , is now underway in Cologne, Germany, and hundreds of thousands of people are expected to attend. The organizers sold out the…"
         }
       ],
       "ok": true,
@@ -1629,6 +1629,20 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Tom Cruise's Unforgettable 10/10 Action Movie is Officially Free to Watch on YouTube",
+          "link": "https://www.polygon.com/tropic-thunder-tom-cruise-free-youtube-streaming/",
+          "date": "2026-08-27T04:00:19+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdknan_fe012.jpg",
+          "summary": "Tropic Thunder gave Tom Cruise the wildest role of his career as Les Grossman. Now the outrageous Hollywood satire is streaming free on YouTube."
+        },
+        {
+          "title": "Michael B. Jordan’s Near-Perfect Action Trilogy Is About to Leave Netflix",
+          "link": "https://www.polygon.com/creed-trilogy-leaving-netflix-action-movie-august-2026/",
+          "date": "2026-08-27T01:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdcree_ec136.jpg",
+          "summary": "Creed, Creed II, and Creed III are all about to leave Netflix. Catch the Michael B. Jordan movies, featuring Sylvester Stallone as Rocky Balboa"
+        },
         {
           "title": "David Fincher and Quentin Tarantino's Once Upon a Time in Hollywood Sequel Gets Official Release Update",
           "link": "https://www.polygon.com/once-upon-a-time-in-hollywood-sequel-cliff-booth-quentin-tarantion-netflix/",
@@ -1684,20 +1698,6 @@
           "date": "2026-08-26T19:00:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24826244/baldurs_gate_3_astarion_vampire.jpg",
           "summary": "A new Baldur's Gate 3: Astarion audiobook sample gave fans their first-ever chance to hear Astarion's surname spoken aloud. We're now confused"
-        },
-        {
-          "title": "GTA 6's First Official Preview Reveals 5 Juicy New Details",
-          "link": "https://www.polygon.com/gta-6-dazed-magazine-preview-npc-honor-realism-gameplay/",
-          "date": "2026-08-26T18:52:59+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/untitled-design-9.jpg",
-          "summary": "GTA 6 upgrades many of Red Dead Redemption 2's stellar mechanics with a more complex honor system and more realistic NPCs"
-        },
-        {
-          "title": "Amazon Closes in on Officially Casting Its New James Bond",
-          "link": "https://www.polygon.com/james-bond-26-next-007-actor-shortlist/",
-          "date": "2026-08-26T18:44:03+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22910713/bond_25_B25_37397_RC2_rgb.jpg",
-          "summary": "Casting the new James Bond has hit a major milestone, with six young actors shortlisted to take over for Daniel Craig as 007."
         }
       ],
       "ok": true,
@@ -1786,6 +1786,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Gnosia Is Streaming Its Among Us-Like, Fully Improvised Stage Show For Free",
+          "link": "https://kotaku.com/gnosia-is-streaming-its-among-us-like-improvised-theater-adaptation-2000728172",
+          "date": "2026-08-27T02:00:29+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-26-at-15.15.36-1280x883.jpg",
+          "summary": "The Japanese improvised theater adaptation is available on YouTube for a limited time"
+        },
+        {
+          "title": "Some Early Star Wars Zero Company Reviews Call It A Potential GOTY Contender",
+          "link": "https://kotaku.com/some-early-star-wars-zero-company-reviews-call-it-a-potential-goty-contender-2000728547",
+          "date": "2026-08-26T23:00:19+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/star-wars-1280x720.jpg",
+          "summary": "XCOM meets the Clone Wars sounds like a recipe for something pretty cool"
+        },
+        {
           "title": "One Shot From The New GTA 6 Leak Already Has Some Fans Yelling About A Downgrade",
           "link": "https://kotaku.com/one-shot-from-the-new-gta-6-leak-already-has-some-fans-yelling-about-a-downgrade-2000728565",
           "date": "2026-08-26T22:30:39+00:00",
@@ -1840,20 +1854,6 @@
           "date": "2026-08-26T18:00:00+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/GoT-WfW--1280x720.jpg",
           "summary": "But it could stand to be a little more robust"
-        },
-        {
-          "title": "GTA 6 Doesn’t Take Kindly To Open Carry",
-          "link": "https://kotaku.com/gta-6-doesnt-take-kindly-to-open-carry-2000728483",
-          "date": "2026-08-26T17:55:18+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-artwork-3-jason-lucia-1-1280x720.jpg",
-          "summary": "No machine guns on the beach, thanks"
-        },
-        {
-          "title": "Xbox CEO Won’t Say If Project Helix Has A Disc Drive: ‘We Have To Be Thinking About Efficiency And Affordability’",
-          "link": "https://kotaku.com/xbox-ceo-wont-say-if-project-helix-has-a-disc-drive-we-have-to-be-thinking-about-efficiency-and-affordability-2000728488",
-          "date": "2026-08-26T17:50:13+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/xboxs-1-1280x724.jpg",
-          "summary": "Asha Sharma dodged the biggest question around next-generation consoles at the moment"
         }
       ],
       "ok": true,
@@ -1942,6 +1942,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Brütal Legend is available free in honor of Tim Curry",
+          "link": "https://www.pcgamer.com/games/rts/brutal-legend-is-available-free-in-honor-of-tim-curry/",
+          "date": "2026-08-27T01:09:20+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/uJLZYMWqzdSwjBpbEsyHbf-1280-80.jpg",
+          "summary": "\"The Tainted Coil shall rule forever!\""
+        },
+        {
+          "title": "How many games can you identify just from a screenshot of their water?",
+          "link": "https://www.pcgamer.com/games/how-many-games-can-you-identify-just-from-a-screenshot-of-their-water/",
+          "date": "2026-08-26T23:23:10+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/mTieP6hqckWffgSjqnJYFf-1280-80.jpg",
+          "summary": "Will you sink or swim?"
+        },
+        {
           "title": "Tim Curry, Red Alert 3 star and camp icon of stage and screen, dies aged 80",
           "link": "https://www.pcgamer.com/gaming-industry/tim-curry-red-alert-3-star-and-camp-icon-of-stage-and-screen-dies-aged-80/",
           "date": "2026-08-26T20:32:02+00:00",
@@ -1996,20 +2010,6 @@
           "date": "2026-08-26T18:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/KvSYBzEA4dF4xpVx5p5ZfB-1280-80.png",
           "summary": "A by-the-numbers RTS based on a TV show that ended seven years ago."
-        },
-        {
-          "title": "I got my greasy mitts on a host of RTX Spark laptops running, what else, games at Gamescom 2026—and there's a couple I really want to take home",
-          "link": "https://www.pcgamer.com/hardware/gaming-laptops/i-got-my-greasy-mitts-on-a-host-of-rtx-spark-laptops-running-what-else-games-at-gamescom-2026-and-theres-a-couple-i-really-want-to-take-home/",
-          "date": "2026-08-26T17:58:28+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/kHymdVVWmSDm4w5bYUD32o-1280-80.jpg",
-          "summary": "Although I doubt I'm going to want to pay the MSRP..."
-        },
-        {
-          "title": "New GTA 6 character swapping details revealed: Jason and Lucia can 'play as a couple, or go off and cause chaos independently'",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/big-new-gta-6-gameplay-details-revealed-including-specifics-about-jason-and-lucia-character-swapping-play-as-a-couple-or-go-off-and-cause-chaos-independently/",
-          "date": "2026-08-26T17:47:40+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/EhSthkSscGVzbZ78QNNiGD-1280-80.jpg",
-          "summary": "An interview published in Dazed magazine provides some juicy new details about GTA 6's design and development."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,48 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "New stereo vision algorithm gives humanoid robots more humanlike depth perception",
+          "link": "https://interestingengineering.com/ai-robotics/new-stereo-vision-algorithm-gives-humanoid-robots-more-humanlike-depth-perception",
+          "date": "2026-08-27T02:20:08+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/d9br0hd6juw_a11672.jpg",
+          "summary": "Researchers have developed a new vision algorithm that lets humanoid robots perceive depth more like..."
+        },
+        {
+          "title": "US harnesses 4,352°F plasma to make cement 100x faster without fossil fuels",
+          "link": "https://interestingengineering.com/energy/us-plasma-cement-faster-fossil-fuels",
+          "date": "2026-08-27T00:23:27+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/n2gtctkicw4.jpg",
+          "summary": "Researchers in the US have developed a new electric plasma heating method that could significantly..."
+        },
+        {
+          "title": "New $51M deal unleashes Switchblade loitering munition for 70+ mile precision strikes",
+          "link": "https://interestingengineering.com/military/aerovironment-51m-switchblade-600-deal",
+          "date": "2026-08-26T23:58:29+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-27T044717.683.jpg",
+          "summary": "The U.S. Army has ordered another $51 million worth of AeroVironment&#8217;s Switchblade 600 loitering munition..."
+        },
+        {
+          "title": "Battery energy storage system uses diagnostics to predict risks before failures",
+          "link": "https://interestingengineering.com/energy/battery-diagnostics-system-predicts-bess-risks",
+          "date": "2026-08-26T23:57:06+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design271.jpg",
+          "summary": "ELECTRA AI and South Korean battery diagnostics company MinTech are working on a system designed..."
+        },
+        {
+          "title": "40,500-ton warship USS Boxer gets massive $150 million Navy combat upgrade",
+          "link": "https://interestingengineering.com/military/bae-systems-uss-boxer-150m-upgrade",
+          "date": "2026-08-26T23:52:32+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-27T041146.919.jpg",
+          "summary": "BAE Systems has secured a $149.8 million U.S. Navy contract to repair and modernize the..."
+        },
+        {
+          "title": "All-solid-state battery withstands temperatures up to 302°F with wireless charging",
+          "link": "https://interestingengineering.com/energy/maxell-1-2aa-solid-state-battery-wireless-charging",
+          "date": "2026-08-26T23:50:30+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-1691520417.jpg",
+          "summary": "Maxell has developed an all-solid-state battery module that fits the same 1/2AA size as batteries..."
+        },
+        {
           "title": "Blackbeard Mach 5 hypersonic missile wins $90M US Navy deal, targets $500K per round",
           "link": "https://interestingengineering.com/military/blackbeard-hypersonic-missile-90m-navy-deal",
           "date": "2026-08-26T22:23:54+00:00",
@@ -2436,48 +2478,6 @@
           "date": "2026-08-26T20:00:00+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/d9br0hd6juw_dca8f7.jpg",
           "summary": "Researchers have developed a new framework that enables humanoid robots to perform agile, humanlike movements..."
-        },
-        {
-          "title": "Water-based system slashes harsh chemical use to separate rare earths at 99.9% purity",
-          "link": "https://interestingengineering.com/energy/maglut-water-based-rare-earths-seperation",
-          "date": "2026-08-26T19:26:46+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-2026-08-26T234903.473.jpg",
-          "summary": "A separation technology refined for decades by the biotech industry could soon find a new..."
-        },
-        {
-          "title": "Tiny atomic changes could make future wireless devices smarter and more efficient",
-          "link": "https://interestingengineering.com/science/wireless-devices-highly-tunable-frequencies",
-          "date": "2026-08-26T18:00:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GettyImages-166103292.jpg",
-          "summary": "Scientists at the Queen Mary University of London have found a new way to build..."
-        },
-        {
-          "title": "Scientists may have found the world’s first-ever brand on 3,200-year-old pottery",
-          "link": "https://interestingengineering.com/culture/world-first-ever-brand-pottery",
-          "date": "2026-08-26T16:38:32+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Thumbnails-for-IE-Qurayyah-Painted-Ware.jpg",
-          "summary": "Distinctive pottery made in an Arabian oasis more than 3,000 years ago may have developed..."
-        },
-        {
-          "title": "New nuclear plant targets 440 MW output with 8 small lead-cooled reactors",
-          "link": "https://interestingengineering.com/energy/nuclear-plant-targets-440-mw-output",
-          "date": "2026-08-26T16:30:16+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Blykalla.jpg",
-          "summary": "Swedish nuclear developer Blykalla has submitted an application to the government to build an eight-unit..."
-        },
-        {
-          "title": "Scientists achieve 30.3% efficiency in perovskite-silicon tandem solar cells",
-          "link": "https://interestingengineering.com/energy/perovskite-silicon-tandem-solar-cells",
-          "date": "2026-08-26T15:37:31+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/unnamed-file-55.jpg",
-          "summary": "Helmholtz-Zentrum Berlin (HZB) in Germany has revealed a simple way to boost the performance and..."
-        },
-        {
-          "title": "US missile hits millionth-inch precision to support submarine-based nuclear deterrent",
-          "link": "https://interestingengineering.com/military/us-missile-supports-submarine-based-nuclear-deterrent",
-          "date": "2026-08-26T15:32:37+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/missile-submarine.jpg",
-          "summary": "Scientists in the United States have achieved a key quality control for the Trident II..."
         }
       ],
       "ok": true,
@@ -2658,11 +2658,18 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+          "date": "2026-08-26T22:13:15+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-500x500-1754745298.jpg",
+          "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range."
+        },
+        {
           "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
           "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
           "date": "2026-08-26T21:25:27+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg",
-          "summary": "Reuters report shows Meta's challenges replacing people with AI agents."
+          "summary": "Report shows Meta's challenges replacing people with AI agents."
         },
         {
           "title": "New Twitter launches, says Musk's X gave up the name",
@@ -2719,13 +2726,6 @@
           "date": "2026-08-26T15:00:34+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-500x500.jpg",
           "summary": "Messing with the genetic code might have gotten a bit easier to do."
-        },
-        {
-          "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-          "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-          "date": "2026-08-26T14:14:52+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/interlune-500x457.jpg",
-          "summary": "\"We're living in this world of scarcity with the Moon.\""
         }
       ],
       "ok": true,
