@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T19:06:04.452388+00:00",
+  "updated": "2026-08-30T22:28:19.504755+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -84,6 +84,27 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Sunday Drives: Kristin Lätt in a Macan in Estonia",
+          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-estonia-kristin-laett-43148.html",
+          "date": "2026-08-28T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=339167&w=1080&h=609&crop=1&public=1&cs=66d186f86a9f4511",
+          "summary": "Kristin Lätt’s Sundays were once defined by pressure, performance and podiums. Now, the two-time disc golf world champion has traded competition for calm, rediscovering the joy of…"
+        },
+        {
+          "title": "Raceborn: Motorsport Is Customer Racing",
+          "link": "https://newsroom.porsche.com/en/2026/history/porsche-motorsport-customer-racing-raceborn-43141.html",
+          "date": "2026-08-27T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=335234&w=1080&h=609&crop=1&public=1&cs=16dd22a3f23f68a4",
+          "summary": "75 years of Porsche Motorsport has seen countless highlights, from Le Mans to the 550 Spyder. But it all traces back to that first magical moment in 1951 – and to customer racing…"
+        },
+        {
+          "title": "Professional motorsport without compromise: the new 911 Challenge",
+          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-911-challenge-customer-motorsport-43118.html",
+          "date": "2026-08-26T06:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338953&w=1080&h=609&crop=1&public=1&cs=fb941554f15ec039",
+          "summary": "Dr. Ing. h.c. F. Porsche AG is opening up a new approach to customer motorsport: The 911 Challenge combines the DNA of the current 911 GT3 with that of a racing car."
+        },
+        {
           "title": "Icon: The Spherical Fuel Tank of the Porsche 909 Bergspyder",
           "link": "https://newsroom.porsche.com/en/2026/history/porsche-lightweight-spherical-fuel-tank-909-bergspyder-43109.html",
           "date": "2026-08-25T07:00:00+00:00",
@@ -131,27 +152,6 @@
           "date": "2026-08-19T07:00:00+00:00",
           "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338836&w=1080&h=609&crop=1&public=1&cs=95fdfa46efaab219",
           "summary": "From bespoke factory one-offs to enthusiast-focused sports cars and cinematic storytelling, Porsche showcased a broad spectrum of automotive passion at Monterey Car Week 2026."
-        },
-        {
-          "title": "Meet the life-saving doctor and his rapid-response Porsche Macan",
-          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-dr-john-ferries-macan-gts-43075.html",
-          "date": "2026-08-18T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338611&w=1080&h=609&crop=1&public=1&cs=dd3833ff46e2e611",
-          "summary": "In one of Britain’s most remote and unpredictable landscapes, emergency medic Dr John Ferris brings critical care to the mountains – often arriving long before an ambulance can.…"
-        },
-        {
-          "title": "Pascal Wehrlein becomes Formula E World Champion with Porsche again",
-          "link": "https://newsroom.porsche.com/en/ppdb/2026/08/pascal-wehrlein-becomes-formula-e-world-champion-with-porsche-again.html",
-          "date": "2026-08-16T19:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338784&w=1080&h=609&crop=1&public=1&cs=365c3b3fa0bcd0c4",
-          "summary": "Pascal Wehrlein claimed his second ABB FIA Formula E Drivers’ World Championship in Sunday’s London E-Prix despite missing out on the points. The Porsche factory driver finished…"
-        },
-        {
-          "title": "Porsche’s most successful single-seater crosses the finish line for the final time",
-          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-99x-electric-most-successful-porsche-single-seater-43062.html",
-          "date": "2026-08-16T17:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338785&w=1080&h=609&crop=1&public=1&cs=01e58f904b7009d9",
-          "summary": "The Porsche 99X Electric is the most successful single-seater racing car in the history of Dr. Ing. h.c. F. Porsche AG and is now leaving the racetrack."
         }
       ],
       "ok": true,
@@ -1194,7 +1194,7 @@
           "link": "https://skyandtelescope.org/astronomy-news/nasa-launches-nancy-grace-roman-space-telescope/",
           "date": "2026-08-30T12:00:49+00:00",
           "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
-          "summary": "NASA has a new telescope headed into space. A SpaceX Falcon Heavy rocket roared to life at launch pad LC-39A at the Kennedy Space Center shortly after sunrise early Sunday…"
+          "summary": "Launched on August 30th, NASA’s newest flagship space observatory will go a long way toward filling in our understanding of questions on the forefront of astronomy and cosmology…"
         },
         {
           "title": "Stellafane or Bust",
@@ -1268,6 +1268,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Roman Rises! Five Things to Know About NASA's New Space Telescope",
+          "link": "https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope",
+          "date": "2026-08-30T18:57:00+00:00",
+          "image": "https://www.universetoday.com/article_images/260830-roman1_20260830_190545.jpg",
+          "summary": "NASA's newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets — months ahead…"
+        },
+        {
           "title": "A Tool for Measuring the Mass of the Stars, Galaxies, and the Universe Gets a Tweak",
           "link": "https://www.universetoday.com/articles/measuring-the-mass-of-the-universe-isnt-as-simple-as-astronomers-thought",
           "date": "2026-08-30T13:30:00+00:00",
@@ -1329,13 +1336,6 @@
           "date": "2026-08-27T19:40:25+00:00",
           "image": "https://www.universetoday.com/article_images/heic1603b_20260827_182724.jpg",
           "summary": "The discovery of lava worlds with atmospheres is challenging our theories of how atmospheres escape, and calling into question the idea of the cosmic shoreline. Stanford…"
-        },
-        {
-          "title": "Hubble Solves a Mystery About the Milky Way's Early Years",
-          "link": "https://www.universetoday.com/articles/hubble-solves-a-mystery-about-the-milky-ways-early-years",
-          "date": "2026-08-27T16:48:59+00:00",
-          "image": "https://www.universetoday.com/article_images/For-Display-Half-Res_20260827_164823.jpg",
-          "summary": "New data from NASA’s Hubble Space Telescope shows definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "55 Years Later, Lucy's Best Quote In 'Peanuts' History Proves She's The Real Star",
+          "link": "https://www.polygon.com/lucy-peanuts-best-line/",
+          "date": "2026-08-30T20:00:13+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lucy-van-pelt-peanuts.jpg",
+          "summary": "Reading this article about Lucy Van Pelt will cost you a nickel"
+        },
+        {
+          "title": "10 Years Later, Anime's Forgotten WWII Epic Is Waiting to be Rediscovered on Prime Video",
+          "link": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
+          "date": "2026-08-30T20:00:13+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/in_this_corner.jpg",
+          "summary": "In This Corner of the World is a heart-wrenching masterpiece about the ordinary people caught in the gears of history."
+        },
+        {
           "title": "11 Replay Ideas to Make Stardew Valley Feel New Again",
           "link": "https://www.polygon.com/stardew-valley-replay-ideas-challenge-runs/",
           "date": "2026-08-30T19:01:13+00:00",
@@ -1684,20 +1698,6 @@
           "date": "2026-08-30T15:15:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-00-05-pm.jpg",
           "summary": "Sega has updated the Persona 6 announcement page and revealed some interesting details about its release."
-        },
-        {
-          "title": "CBS's Legendary 82-Episode Sci-Fi Action Series is Officially Free to Watch on Streaming",
-          "link": "https://www.polygon.com/incredible-hulk-1978-free-on-tubi/",
-          "date": "2026-08-30T15:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/t8dinhu_ec001.jpg",
-          "summary": "The 1978 CBS series The Incredible Hulk was the first show to take an adult approach to a Marvel comic book charcter"
-        },
-        {
-          "title": "Fable Will Officially Be 20 Hours Long, Xbox Confirms In New Interview",
-          "link": "https://www.polygon.com/fable-game-length-interview-xbox/",
-          "date": "2026-08-30T14:42:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/2026-01-22-13_58_53-4k-developer_direct-2026-youtube.png",
-          "summary": "We learned how long it will take to beat Fable, although Playground Games noted that the life sim components are ‘limitless.'"
         }
       ],
       "ok": true,
@@ -1786,7 +1786,14 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Pokémon Worlds Pin Rally Reportedly Shut Down By Fire Marshal After Immense Overcrowding",
+          "title": "‘LARPtubers’ Recreating Bygone YouTubers Dredge Up Conflicting Memories For Original Creators",
+          "link": "https://kotaku.com/larptubers-recreating-bygone-youtubers-dredge-up-conflicting-memories-for-original-creators-2000729699",
+          "date": "2026-08-30T22:13:47+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/08/larptuber.jpg",
+          "summary": "A new deep dive from Steven Asarch explores the world of nostalgic content creators impersonating decade old videos, humiliating and hurting in the process"
+        },
+        {
+          "title": "Pokémon Worlds Pin Rally Reportedly Shut Down By Fire Marshal Over Immense Overcrowding And The eBay Scalper Listings Are Already Flooding In",
           "link": "https://kotaku.com/pokemon-worlds-pin-rally-reportedly-shut-down-by-fire-marshal-after-immense-overcrowding-2000729679",
           "date": "2026-08-30T17:54:09+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/magmarattack.jpg",
@@ -1847,13 +1854,6 @@
           "date": "2026-08-29T13:58:52+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/asha-sharma-xbox-1280x723.jpg",
           "summary": "Microsoft's gaming division was tight-lipped at Gamescom"
-        },
-        {
-          "title": "Gamescom Says Stolen Laptops ‘Make Us Very Sad,’ But Says Exhibitors Have To Protect Against Theft: ‘This Is Noted In The Terms And Conditions’",
-          "link": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
-          "date": "2026-08-29T13:39:18+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/08/Gamescom-meeting-area-official-image-from-Gamescom-website.jpg",
-          "summary": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand the frustration of affected exhibitors,' there's also options to pay extra for…"
         }
       ],
       "ok": true,
@@ -1942,6 +1942,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "'Sidequests are almost my reason for doing videogames in the first place:' The dev behind one of the coolest upcoming RPGs says its word count is ballooning because they just love side stories so much",
+          "link": "https://www.pcgamer.com/games/rpg/sidequests-are-almost-my-reason-for-doing-videogames-in-the-first-place-the-dev-behind-one-of-the-coolest-upcoming-rpgs-says-its-word-count-is-ballooning-because-they-just-love-side-stories-so-much/",
+          "date": "2026-08-30T22:24:56+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ujcTtJVfcFUuqEbqfDGttb-1280-80.jpg",
+          "summary": "You won't see me complaining"
+        },
+        {
+          "title": "A Star Wars Galaxies community server was allegedly hacked with AI assistance by a Reddit moderator harboring a primeval grudge",
+          "link": "https://www.pcgamer.com/games/mmo/a-star-wars-galaxies-community-server-was-allegedly-hacked-with-ai-assistance-by-a-reddit-moderator-harboring-a-primeval-grudge/",
+          "date": "2026-08-30T20:02:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/MghpXT92BorehH86qFuZNX-1280-80.jpg",
+          "summary": "\"We’re obviously bothered by this, but there isn’t much we can do outside of being up front with all of you and staying focused on what makes Legends great.\""
+        },
+        {
+          "title": "Star Wars Zero Company's permadeath makes it a better RPG than most RPGs, even though it's not really an RPG",
+          "link": "https://www.pcgamer.com/games/rpg/star-wars-zero-companys-permadeath-makes-it-a-better-rpg-than-most-rpgs-even-though-its-not-really-an-rpg/",
+          "date": "2026-08-30T19:14:12+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/kLYSToeskvffSL8CuWh9Nf-1280-80.jpg",
+          "summary": "Choice and consequence vs. death and consequence."
+        },
+        {
           "title": "Total War: Warhammer 40,000 wins best PC game at Gamescom",
           "link": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/",
           "date": "2026-08-30T18:57:09+00:00",
@@ -1989,27 +2010,6 @@
           "date": "2026-08-30T13:32:48+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/wxQgc5fPJdJ7BhMNP78gPb-1280-80.jpg",
           "summary": "Hieronymus invites you to step into artworks like The Garden of Earthly Delights."
-        },
-        {
-          "title": "A massive cache of Valve data has reportedly leaked online, appearing to include Portal 2's elusive beta build and a potential weapon from Half-Life 2: Episode 3",
-          "link": "https://www.pcgamer.com/games/fps/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
-          "date": "2026-08-30T11:41:11+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/VrZsFJMgUJrMXFZLYZmGCQ-1280-80.jpg",
-          "summary": "The leak purportedly includes files that date between 2003 and 2013."
-        },
-        {
-          "title": "Activision serves cease and desist to infamous Call of Duty cheat maker—and films the whole thing: 'We will find you'",
-          "link": "https://www.pcgamer.com/games/call-of-duty/activision-serves-cease-and-desist-to-infamous-call-of-duty-cheat-maker-and-films-the-whole-thing-we-will-find-you/",
-          "date": "2026-08-30T10:05:20+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/cVjMH6DYTqWjxyLVZXJrj6-1280-80.jpg",
-          "summary": "The publisher says it has disrupted 375 reseller operations so far."
-        },
-        {
-          "title": "Peter Cullen, voice of Optimus Prime in The Transformers, dies aged 85",
-          "link": "https://www.pcgamer.com/movies-tv/peter-cullen-voice-of-optimus-prime-in-the-transformers-dies-aged-85/",
-          "date": "2026-08-30T04:46:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/XXmcCerdANMd4z7thRqwua-1280-80.jpg",
-          "summary": "The prolific voice actor also appeared in Knight Rider, Gremlins, King Kong, Crystal Crisis, and plenty more."
         }
       ],
       "ok": true,
@@ -2410,6 +2410,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "100% hair restored: Arthritis drug proves efficacy, some patients report hair regrowth in trial",
+          "link": "https://interestingengineering.com/science/drug-used-for-arthritis-restore-hair",
+          "date": "2026-08-30T19:41:14+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/1imyjkmwy2u.jpg",
+          "summary": "An oral drug originally developed to treat arthritis has shown significant potential for people with..."
+        },
+        {
           "title": "In a first, scientists spot a table-tennis-like force hiding inside a focused laser beam",
           "link": "https://interestingengineering.com/science/optical-magnus-effect",
           "date": "2026-08-30T17:59:34+00:00",
@@ -2471,13 +2478,6 @@
           "date": "2026-08-30T06:46:17+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/laser-new.jpg",
           "summary": "Two powerful high energy laser systems have been delivered to the U.S. Army. Developed by..."
-        },
-        {
-          "title": "From surgery to therapy: 5 robots changing modern medicine",
-          "link": "https://interestingengineering.com/lists/the-rise-of-the-medical-robot-5-machines-already-saving-lives",
-          "date": "2026-08-30T02:01:58+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/paro-robot.jpg",
-          "summary": "For decades, the idea of a robot working inside an operating room belonged more to..."
         }
       ],
       "ok": true,
@@ -2754,7 +2754,7 @@
           "link": "https://www.enr.com/articles/63573-maine-regulator-oks-800-mw-onshore-wind-project-111-mile-transmission-line",
           "date": "2026-08-28T23:00:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/08/29/MarsHillWind_Farm_Wikimediajpg.webp?t=1788014361",
-          "summary": "State utility commission estimated a $1.8B project cost over 30-year period as five New England states plan process to share power delivery expense."
+          "summary": "State utility commission estimated project cost at $1.8B over 30-year period as five New England states plan process to share power delivery expense."
         },
         {
           "title": "Tampa Bay Rays $2.36B Ballpark Clears Final Hurdle After Marathon Public Hearings",
