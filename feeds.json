@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T03:25:07.030267+00:00",
+  "updated": "2026-09-02T08:30:54.354191+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -84,13 +84,6 @@
       "cat": "automotive",
       "items": [
         {
-          "title": "Next Generation: The development of the Porsche 975 RSE",
-          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-975-rse-formula-e-gen4-technic-43154.html",
-          "date": "2026-08-31T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332846&w=1080&h=609&crop=1&public=1&cs=e440cddd7c623a8b",
-          "summary": "Porsche Formula E pilots will have a new model, the 975 RSE, for the coming season. The Porsche Newsroom took a deep dive into the technical development of the GEN4 race car at…"
-        },
-        {
           "title": "Sunday Drives: Kristin Lätt in a Macan in Estonia",
           "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-estonia-kristin-laett-43148.html",
           "date": "2026-08-28T07:00:00+00:00",
@@ -152,6 +145,13 @@
           "date": "2026-08-20T07:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Thumbnails/Pitboard_RacingForCharity_16zu9_2.jpg/jcr:content/Pitboard_RacingForCharity_16zu9_2.jpg",
           "summary": "Dr. Ing. h.c. F. Porsche AG is donating 500,000 euros to seriously ill children worldwide as part of its “Racing for Charity” initiative. The Stuttgart sports car manufacturer is…"
+        },
+        {
+          "title": "Monterey Car Week 2026: Porsche presents exclusive highlights",
+          "link": "https://newsroom.porsche.com/en/2026/products/porsche-flachbau-rs-monterey-car-week-2026-43079.html",
+          "date": "2026-08-19T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338836&w=1080&h=609&crop=1&public=1&cs=95fdfa46efaab219",
+          "summary": "From bespoke factory one-offs to enthusiast-focused sports cars and cinematic storytelling, Porsche showcased a broad spectrum of automotive passion at Monterey Car Week 2026."
         }
       ],
       "ok": true,
@@ -161,6 +161,41 @@
       "name": "Automotive World",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Mitsubishi Motors unveils the all-new Pajero in Thailand",
+          "link": "https://www.automotiveworld.com/news/mitsubishi-motors-unveils-the-all-new-pajero-in-thailand/",
+          "date": "2026-09-02T05:00:47+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Mitsubishi Motors is betting on heritage and off-road pedigree to compete in a premium SUV segment that has only grown in its absence The post Mitsubishi Motors unveils the…"
+        },
+        {
+          "title": "Range Rover goes electric with 550PS twin-motor SUV",
+          "link": "https://www.automotiveworld.com/news/range-rover-goes-electric-with-550ps-twin-motor-suv/",
+          "date": "2026-09-02T04:55:55+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Range Rover Electric's £154,070 starting price tests how far premium buyers will stretch for electrified off-road heritage The post Range Rover goes electric with 550PS twin-motor…"
+        },
+        {
+          "title": "Waymo opens public rides in Denver, San Diego and Tampa",
+          "link": "https://www.automotiveworld.com/news/waymo-opens-public-rides-in-denver-san-diego-and-tampa/",
+          "date": "2026-09-02T04:50:59+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Waymo's simultaneous launch in three cities tests whether its autonomous ride-hailing model scales as quickly as its ambitions suggest The post Waymo opens public rides in Denver,…"
+        },
+        {
+          "title": "Zoox expands autonomous testing to Houston and San Diego",
+          "link": "https://www.automotiveworld.com/news/zoox-expands-autonomous-testing-to-houston-and-san-diego/",
+          "date": "2026-09-02T04:45:03+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Zoox's expansion to Houston and San Diego tests its AV technology against two of the US's most challenging urban environments The post Zoox expands autonomous testing to Houston…"
+        },
+        {
+          "title": "Polestar adds an SUV body style to the Polestar 4 range",
+          "link": "https://www.automotiveworld.com/news/polestar-adds-an-suv-body-style-to-the-polestar-4-range/",
+          "date": "2026-09-02T04:30:52+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Polestar's SUV variant of the Polestar 4 coupé signals a deliberate push for volume beyond its core performance audience The post Polestar adds an SUV body style to the Polestar 4…"
+        },
         {
           "title": "Slate opens its new cargo van kit to any buyer, not fleets",
           "link": "https://www.automotiveworld.com/news/slate-opens-its-new-cargo-van-kit-to-any-buyer-not-fleets/",
@@ -195,41 +230,6 @@
           "date": "2026-09-01T05:25:43+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "The Lexus NX's silicon carbide inverter marks the point where hybrid efficiency stops being a compromise and starts being an advantage The post Lexus NX world premiere brings SiC…"
-        },
-        {
-          "title": "Renesas joins Autoware to open up ADAS software stack",
-          "link": "https://www.automotiveworld.com/news/renesas-joins-autoware-to-open-up-adas-software-stack/",
-          "date": "2026-09-01T05:15:23+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Renesas' move into Autoware signals a broader shift in how the industry thinks about ADAS software ownership and supply chain control The post Renesas joins Autoware to open up…"
-        },
-        {
-          "title": "Nexperia and Aurobay in GaN and SiC powertrain alliance",
-          "link": "https://www.automotiveworld.com/news/nexperia-and-aurobay-in-gan-and-sic-powertrain-alliance/",
-          "date": "2026-09-01T05:10:52+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Nexperia-Aurobay tie-up signals growing pressure on semiconductor firms to engage earlier in powertrain design cycles The post Nexperia and Aurobay in GaN and SiC powertrain…"
-        },
-        {
-          "title": "TUM challenges EU CO₂ regulation’s tailpipe standard",
-          "link": "https://www.automotiveworld.com/news/tum-challenges-eu-co%e2%82%82-regulations-tailpipe-standard/",
-          "date": "2026-09-01T05:05:47+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The tailpipe metric does not merely fail to reward green steel and circularity; it actively discourages them from being financed The post TUM challenges EU CO₂ regulation&#8217;s…"
-        },
-        {
-          "title": "Kia PV7 global debut confirmed for IAA Transportation",
-          "link": "https://www.automotiveworld.com/news/kia-pv7-global-debut-confirmed-for-iaa-transportation/",
-          "date": "2026-09-01T05:00:28+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Staging the PV7 at a commercial vehicle show signals Kia's intent to compete on fleet logic as much as lifestyle appeal The post Kia PV7 global debut confirmed for IAA…"
-        },
-        {
-          "title": "Polyblend invests €4m in recycled compound output",
-          "link": "https://www.automotiveworld.com/news/polyblend-invests-e4m-in-recycled-compound-output/",
-          "date": "2026-09-01T04:55:40+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Polyblend's €4 million bet on recycled compounds positions TotalEnergies for a mandatory recycled-content future in automotive The post Polyblend invests €4m in recycled compound…"
         }
       ],
       "ok": true,
@@ -239,6 +239,41 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Ford expands China export strategy with electric van shipments to Europe",
+          "link": "https://www.autonews.com/ford/an-ford-transit-city-china-global-export-hub-electric-vehicle-van-europe-0902/",
+          "date": "2026-09-02T07:54:22+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/WLoxdpwinOtG_aNH68k0ffh0iBM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/VFZULNCNRNE7LD6C2HRR4ULZNE.jpg",
+          "summary": "Ford is shipping China-made Transit City electric vans to European markets, expanding exports from its Jiangling Motors joint venture as part of 'In China, For the World' strategy."
+        },
+        {
+          "title": "Honda tells suppliers to cut costs in $9 billion push to fend off China, report says",
+          "link": "https://www.autonews.com/manufacturing/suppliers/ane-honda-urges-supplier-cost-cuts-0902/",
+          "date": "2026-09-02T07:49:50+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/OOmw7r6RbRQxv6HDYu2ywXXJ224=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QZJ24W7TDZHLFIG3E3PCEMB6JY.jpg",
+          "summary": "Honda is said to have instructed suppliers to drastically reduce prices as it grapples with Chinese competition and EV losses."
+        },
+        {
+          "title": "BYD’s overseas business powers 30% quarterly profit gain despite domestic sales drop",
+          "link": "https://www.autonews.com/byd/an-byd-quarterly-profit-rebound-on-exports-electric-vehicles-0902/",
+          "date": "2026-09-02T07:03:02+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/2Q1SCmOp1hVssukSLI9gO9q3q4s=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4GWD4KDEKFFZLKFBPBGI5MY53M.png",
+          "summary": "BYD, China's largest automaker, rebounded from the previous quarter's 55% profit decline as international deliveries climbed 82% and overseas operations reached 19.5% margins…"
+        },
+        {
+          "title": "Reborn Mitsubishi Pajero goes premium in pursuit of Toyota Land Cruiser, Nissan Patrol, with 2 baby sibling off-roaders on the way",
+          "link": "https://www.autonews.com/mitsubishi/an-mitsubishi-pajero-montero-suv-launch-revival-next-generation-crossover-0902/",
+          "date": "2026-09-02T04:15:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Ja0cWSOV7IOpq0PgzCMyhvb07oo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/EUNZSC7JXRAXLKL6CNANS354VE.jpeg",
+          "summary": "Mitsubishi is betting the reborn Pajero, now a more luxurious three-row off-roader, can challenge the Toyota Land Cruiser and Nissan Patrol while rekindling flagging sales in key…"
+        },
+        {
+          "title": "Unifor presses Stellantis to fill Brampton plant, maintain Canadian footprint for post-Trump era",
+          "link": "https://www.autonews.com/stellantis/anc-unifor-stellantis-start-tense-bargaining-0901/",
+          "date": "2026-09-02T03:36:06+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/7TFQ2euA6ej-Jh37-ikGwxxHJzI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/6G7VRCHKSRAOTOW7TEZCZPTZA4.jpg",
+          "summary": "Union President Lana Payne said Unifor is not “blind to the economic challenges” U.S. tariffs present, but the trade tension will not last forever and it has not precluded Ford…"
+        },
         {
           "title": "Automotive News Video | Land Rover’s $138,000 Range Rover Electric",
           "link": "https://www.autonews.com/video/automotive-news-video-land-rovers-138000-range-rover-electric/",
@@ -273,41 +308,6 @@
           "date": "2026-09-01T20:07:41+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/TPnwnjtnEEvFxGH9BbcGQeMDkOM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BMT7OI7UJZGZHA2J5IT6C2Z46Y.webp",
           "summary": "The Roger Beasley Automotive Group started in 1972 with one Mazda store."
-        },
-        {
-          "title": "First Shift: Sodium ion batteries enter auto market",
-          "link": "https://www.autonews.com/video/first-shift-sodium-ion-batteries-enter-auto-market/",
-          "date": "2026-09-01T19:10:24+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/yAl-tKHN57vrxK0MkGdyHcEaUVM=/0x800/d3qtc8km8dvw1x.cloudfront.net/09-01-2026/t_1eb81bcd886d46a9b8fc2caa72989951_name_file_960x540_1600_v4_.jpg",
-          "summary": "August U.S. sales: Honda up, Hyundai slips | What 50% tariff could mean for Toyota, Honda | China cracks down on fast car development"
-        },
-        {
-          "title": "Daily 5 report for Sept. 1: A guessed car payment today could be a dealer’s FTC headache tomorrow",
-          "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-dealer-payment-quote-lender-gap-ftc-0901/",
-          "date": "2026-09-01T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/kxFRZKjnSBM7pdoCNnCJAhDAV1Q=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5UGY5MFBZFEYBFS6PCP6MFJLBE.jpg",
-          "summary": "Dealers may face FTC risk over the gap between quoted car payments and the terms lenders actually approve."
-        },
-        {
-          "title": "Talk from the Top: Toyota’s Ted Ogawa on affordability, incentives and trade",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-toyota-ted-ogawa-talk-from-the-top-0901/",
-          "date": "2026-09-01T17:21:46+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/HlGGJ21rrmIAhEWoMjRFQa45t4c=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5G32VMNOO5B2TF67PQMYSRPVIM.jpg",
-          "summary": "Ted Ogawa, CEO of Toyota Motor North America, talks about affordability, incentives and trade. Canada’s China EV quota resets. Plus, Nissan fast-tracks the Rogue hybrid again."
-        },
-        {
-          "title": "Honda, Kia, Subaru sales edge up; Toyota, Hyundai, Mazda slip; hybrids surge again",
-          "link": "https://www.autonews.com/retail/sales/an-august-us-auto-sales-0901/",
-          "date": "2026-09-01T17:17:22+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/GTg6y0mLYHmoR-lWWPxrQgFitdk=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SUC56NWCB5HODN5MWP74XIYCNA.jpg",
-          "summary": "Toyota's biggest sellers had a mixed August, while Honda brand sales rose for the fifth straight month, as overall industry volume was expected to slip."
-        },
-        {
-          "title": "Carney says U.S. wants Canadian industries, such as auto, ‘wiped out’ or made subsidiaries",
-          "link": "https://www.autonews.com/manufacturing/anc-carney-says-us-wants-auto-ndustry-wiped-out-cp-0901/",
-          "date": "2026-09-01T15:54:33+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/2uHyLghtoYmilmV-SEbvrysCdq8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/H2H324CL3JF6LHOPRSASZIUSKA.jpg",
-          "summary": "Prime Minister Mark Carney says there were “mutually beneficial” elements of a deal in place before talks broke down last month."
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "This Study Covered 500,000 EV Batteries. Some Models Aged Much Better Than Others",
+          "link": "https://insideevs.com/news/806798/ev-battery-aging-study-2026/",
+          "date": "2026-09-02T08:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/pb3V7W/s3/2025-hyundai-ioniq-5-xrt-limited.jpg",
+          "summary": "EV diagnostics company Aviloo released the results of thousands of battery health checks for 20 popular EVs. One stood out."
+        },
+        {
+          "title": "The New Polestar 4 SUV Is An Electric Wagon In Disguise",
+          "link": "https://insideevs.com/news/806837/polestar-4-suv-official-specs-range-price/",
+          "date": "2026-09-02T07:54:47+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/NGPrA2/s3/polestar-4-suv.jpg",
+          "summary": "It gets a proper rear window, a big trunk, and a new Camping mode—perfect for those family road trips."
+        },
         {
           "title": "I Drove The $138,000 Range Rover Electric Off-Road. It Was Exceptional",
           "link": "https://insideevs.com/news/806401/range-rover-electric-specs-drive/",
@@ -372,20 +386,6 @@
           "date": "2026-08-31T18:57:22+00:00",
           "image": "https://cdn.motor1.com/images/mgl/8A3Avq/s3/2027-honda-insight.jpg",
           "summary": "The companies will develop common hardware and software for vehicles coming in 2029 and beyond."
-        },
-        {
-          "title": "Nissan's 'Home Run' Hybrid SUV Arrives In November To Rival Toyota RAV4, Honda CR-V",
-          "link": "https://insideevs.com/news/806636/nissan-rogue-epower-hybrid-suv-launch-america/",
-          "date": "2026-08-31T17:41:10+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/Qe77m7/s3/2027-nissan-rogue-hybrid.jpg",
-          "summary": "The Japanese automaker has missed out on the hybrid sales boom. That could soon change with the Rogue e:Power."
-        },
-        {
-          "title": "Here's Our Best Look Yet At The Volkswagen ID.4 Successor",
-          "link": "https://insideevs.com/news/806623/vw-id4-makeover-id-tiguan/",
-          "date": "2026-08-31T16:44:10+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/g4OZ8g/s3/id.-tiguan.jpg",
-          "summary": "A boxier face, normal door handles, updated underpinnings and a new (but familiar) name are all coming to VW’s electric SUV."
         }
       ],
       "ok": true,
@@ -892,11 +892,11 @@
           "summary": ""
         },
         {
-          "title": "Watch live: BepiColombo begins its arrival at Mercury",
-          "link": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury",
-          "date": "2026-08-27T05:17:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-          "summary": "After eight years,&nbsp;the ESA/JAXA&nbsp; BepiColombo &nbsp;mission&nbsp;is about to enter its&nbsp;Mercury Arrival Phase.&nbsp;On 3 September 2026, ESA’s Mercury Transfer Module…"
+          "title": "ESA’s first lunar rover rolls forward",
+          "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
+          "date": "2026-09-02T07:00:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
+          "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the…"
         },
         {
           "title": "Samba’s fiery farewell recorded",
@@ -934,18 +934,18 @@
           "summary": "Image: NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST…"
         },
         {
-          "title": "Watch Sophie Adenot’s third spacewalk live",
-          "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_s_third_spacewalk_live",
-          "date": "2026-08-28T14:00:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
-          "summary": "After two successful spacewalks on 18 August (EVA-97) and 25 August (EVA-98), watch ESA astronaut Sophie Adenot venture into the vacuum of space for the third time on Tuesday 1…"
-        },
-        {
           "title": "Week in images: 24-28 August 2026",
           "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
           "date": "2026-08-28T13:10:00+00:00",
           "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
           "summary": "Week in images: 24-28 August 2026 Discover our week through the lens"
+        },
+        {
+          "title": "Observing Samba and Tango’s reentries",
+          "link": "https://www.esa.int/Space_Safety/Space_Debris/Observing_Samba_and_Tango_s_reentries",
+          "date": "2026-08-28T09:03:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/08/cluster_satellite_reentering_earth_s_atmosphere/26283034-1-eng-GB/Cluster_satellite_reentering_Earth_s_atmosphere_card_full.jpg",
+          "summary": "The final two of ESA's pioneering Cluster spacecraft, Samba and Tango, will end their journeys as they burn up in our atmosphere on 31 August and 1 September respectively. Their…"
         }
       ],
       "ok": true,
@@ -1116,7 +1116,7 @@
           "link": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
           "date": "2026-09-01T20:56:22+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-          "summary": "Liftoff from Vandenberg Space Force Base in California is currently scheduled for 1:18 a.m. PDT (4:18 a.m. EDT / 0818 UTC)."
+          "summary": "Liftoff from Vandenberg Space Force Base in California is currently scheduled for 1:42 a.m. PDT (4:42 a.m. EDT / 0842 UTC)."
         },
         {
           "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ launched",
@@ -1318,6 +1318,34 @@
       "cat": "space",
       "items": [
         {
+          "title": "Breaking in: how ultrasound smuggles drugs past the blood–brain barrier",
+          "link": "https://physicsworld.com/a/breaking-in-how-ultrasound-smuggles-drugs-past-the-blood-brain-barrier/",
+          "date": "2026-09-02T08:00:18+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2026/09/1-09-26-fus-bbb-fig5.jpg",
+          "summary": "A creative spin on MRI technology measures the amount of drug delivered to a brain tumour The post Breaking in: how ultrasound smuggles drugs past the blood–brain barrier appeared…"
+        },
+        {
+          "title": "Resolving an exciton debate",
+          "link": "https://physicsworld.com/a/resolving-an-exciton-debate/",
+          "date": "2026-09-02T07:29:19+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Researchers disentangle two competing mechanisms that govern how a promising semiconductor material responds to light The post Resolving an exciton debate appeared first on…"
+        },
+        {
+          "title": "Tuning frustrated magnetism with stress",
+          "link": "https://physicsworld.com/a/tuning-frustrated-magnetism-with-stress/",
+          "date": "2026-09-02T07:24:01+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Uniaxial stress induces a new magnetic phase in PdCrO₂, revealing strong coupling between magnetic order, electronic structure and lattice elasticity The post Tuning frustrated…"
+        },
+        {
+          "title": "Probing quantum critical points",
+          "link": "https://physicsworld.com/a/probing-quantum-critical-points/",
+          "date": "2026-09-02T07:22:26+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2026/09/2026-september-researchconcept-Liao.png",
+          "summary": "A new Quantum Monte Carlo method reveals distinct entanglement signatures of different quantum critical points The post Probing quantum critical points appeared first on Physics…"
+        },
+        {
           "title": "Take this quiz to test your knowledge of science on stage",
           "link": "https://physicsworld.com/a/take-this-quiz-to-test-your-knowledge-of-science-on-stage/",
           "date": "2026-09-01T13:30:27+00:00",
@@ -1358,34 +1386,6 @@
           "date": "2026-08-31T10:00:01+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-grad-careers-career-plan-skills-audit-1263990765-istock-layla-bird.jpg",
           "summary": "Tushna Commissariat and Matin Durrani guide physics students through the maze of career options The post From student to scientist – how to build a career with physics appeared…"
-        },
-        {
-          "title": "No show again for mirror neutrons",
-          "link": "https://physicsworld.com/a/no-show-again-for-mirror-neutrons/",
-          "date": "2026-08-31T08:40:49+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "For now, the existence of a mirror universe cannot be confirmed, say physicists at the PSI The post No show again for mirror neutrons appeared first on Physics World ."
-        },
-        {
-          "title": "Quiz of the week: how will the new ‘AstroRad’ vest be of benefit to astronauts?",
-          "link": "https://physicsworld.com/a/quiz-of-the-week-how-will-the-new-astrorad-vest-be-of-benefit-to-astronauts/",
-          "date": "2026-08-28T12:23:44+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Have you been keeping up to date with physics news? Try our short quiz to find out The post Quiz of the week: how will the new &#8216;AstroRad&#8217; vest be of benefit to…"
-        },
-        {
-          "title": "Magnetic field first kills superconductor, then brings it back to life",
-          "link": "https://physicsworld.com/a/magnetic-field-first-kills-superconductor-then-brings-it-back-to-life/",
-          "date": "2026-08-28T11:00:10+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2026/08/interface-resistance-vs-magnetic-field-635x616.jpg",
-          "summary": "“Re-entrant” superconductivity discovered in a 2D material for the first time The post Magnetic field first kills superconductor, then brings it back to life appeared first on…"
-        },
-        {
-          "title": "With e-MERLIN facing the axe, what next for Jodrell Bank and UK astronomy?",
-          "link": "https://physicsworld.com/a/with-e-merlin-facing-the-axe-what-next-for-jodrell-bank-and-uk-astronomy/",
-          "date": "2026-08-28T09:30:18+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Exploring the fallout from STFC funding cuts that have left one of the UK’s most iconic scientific facilities facing an uncertain future The post With e-MERLIN facing the axe,…"
         }
       ],
       "ok": true,
@@ -1559,6 +1559,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "D&D Could Go Back to the Underdark Soon With a New Campaign",
+          "link": "https://www.polygon.com/dnd-underdark-new-campaign-dungeons-dragons/",
+          "date": "2026-09-02T08:30:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/battle-in-the-underdark.jpg",
+          "summary": "New playtest subclasses and the return of a beloved author point toward an upcoming Underdark-focused D&amp;D product."
+        },
+        {
+          "title": "28 Years Later, This Remains the Most Near-Perfect WWII Movie of All Time",
+          "link": "https://www.polygon.com/saving-private-ryan-near-perfect-wwii-28-years-later/",
+          "date": "2026-09-02T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/saving-private-ryan-dreamworks-paramount-pictures.jpg",
+          "summary": "Explore why Saving Private Ryan remains a near-perfect WWII film even after 28 years, focusing on humanity in war."
+        },
+        {
+          "title": "Onimusha Way of the Sword release time in your time zone",
+          "link": "https://www.polygon.com/onimusha-way-of-the-sword-release-time-when-edt-pdt/",
+          "date": "2026-09-02T04:01:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/onimusha.jpg",
+          "summary": "Here's when Onimusha: Way of the Sword releases in different time zones, and what you can get from pre-ordering and buying the different editions"
+        },
+        {
+          "title": "63 Years Later, the Creepiest Episode of 'The Twilight Zone' is Still Nightmare Fuel",
+          "link": "https://www.polygon.com/creepiest-episode-twilight-zone-living-doll/",
+          "date": "2026-09-02T04:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25029356/twilight_zone_serling_1_1680131303374.jpg",
+          "summary": "\"Living Doll\" is a season 5 episode of The Twilight Zone, Rod Serling's influencial anthology series. It remains the show's scariest episode"
+        },
+        {
           "title": "Mario Kart 8 Just Got a Game-Changing Update for Nintendo Switch 2",
           "link": "https://www.polygon.com/mario-kart-8-deluxe-switch-2-update-patch-notes-nintendo/",
           "date": "2026-09-02T02:03:35+00:00",
@@ -1599,34 +1627,6 @@
           "date": "2026-09-01T20:37:47+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/pokemon-sleep-pikachu.jpg",
           "summary": "Google is giving Fitbit Air a Pokémon makeover with a new Pokémon Sleep-themed wearable."
-        },
-        {
-          "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update",
-          "link": "https://www.polygon.com/gta-5-nopixel-beta-when-is-roleplay-customization-new-gameplay/",
-          "date": "2026-09-01T20:34:29+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta5world.jpg",
-          "summary": "Grand Theft Auto 5 will introduce a revamped world with better NPCs in addition to other improvements, Rockstar says"
-        },
-        {
-          "title": "11 Best Anime You Can Stream Completely Free of Charge Right Now",
-          "link": "https://www.polygon.com/best-free-anime-to-stream-watch-on-pluto-tv-roku-tubi/",
-          "date": "2026-09-01T20:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/anime-giorno-giovanna-7b5jfntnxlihhhpi.jpg",
-          "summary": "Stream 11 of the best anime for absolutely free right now, from action-packed favorites to acclaimed classics and hidden gems."
-        },
-        {
-          "title": "New Transformers Film with Peter Cullen's Final Performance Announced",
-          "link": "https://www.polygon.com/transformers-optimus-prime-awakening-peter-cullen-final-performance/",
-          "date": "2026-09-01T19:05:06+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/transformers-awakening-art.jpg",
-          "summary": "Transformers: The Movie's 40th anniversary rerelease will include a new short film, Optimus Prime: Awakening, Peter Cullen's final performance."
-        },
-        {
-          "title": "14 Years Later, 'Skyrim' Fans Can't Believe Bethesda's \"Diabolical\" Default Character Build",
-          "link": "https://www.polygon.com/skyrim-elder-scrolls-demo-todd-howard-default-build-meme/",
-          "date": "2026-09-01T18:54:28+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/01/skyrim.jpg",
-          "summary": "Most people didn't notice what type of Skyrim character Todd Howard played in the RPG's original E3 gameplay demo"
         }
       ],
       "ok": true,
@@ -1793,6 +1793,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The adult game crackdown is \"ridiculous for our art form\", say Hellraiser devs, but they think they'll survive thanks to that Clive Barker association",
+          "link": "https://www.rockpapershotgun.com/the-adult-game-crackdown-is-ridiculous-for-our-art-form-say-hellraiser-devs-but-they-think-theyll-survive-thanks-to-that-clive-barker-association",
+          "date": "2026-09-02T08:15:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/clive-barker's-hellraiser-the-revival-pinhead-close-up.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Last year, Australian anti-porn group Collective Shout pressured payment processors , such as Mastercard, Paypal, Visa, and Paysafe Limited to withdraw their services from Steam…"
+        },
+        {
           "title": "\"It's just such a huge galaxy to fill\": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox",
           "link": "https://www.rockpapershotgun.com/its-just-such-a-huge-galaxy-to-fill-dont-expect-any-total-war-warhammer-40000-sequels-but-do-expect-lots-of-updates-that-builds-upon-its-sandbox",
           "date": "2026-09-01T21:54:40+00:00",
@@ -1854,13 +1861,6 @@
           "date": "2026-09-01T11:44:31+00:00",
           "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-devs-furloughed-01.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Prior to releasing Star Wars Zero Company last week, developers Bit Reactor reportedly furloughed \"most\" of the team who made it, seemingly leaving said staff in limbo. Read more"
-        },
-        {
-          "title": "Skyblivion \"will not be shadow dropping after over a decade of hard work\", say modders still planning a regular release date reveal despite delays",
-          "link": "https://www.rockpapershotgun.com/skyblivion-will-not-be-shadow-dropping-after-over-a-decade-of-hard-work-say-modders-still-planning-a-regular-release-date-reveal-despite-delays",
-          "date": "2026-09-01T09:33:24+00:00",
-          "image": "https://assetsio.gnwcdn.com/skyblivion-not-show-dropping-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Skyblivion won't be following the lead of Bethesda's Oblivion Remastered with a sudden shadow drop of its own, the folks behind the massive Oblivion remake mod have confirmed.…"
         }
       ],
       "ok": true,
@@ -1870,6 +1870,13 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Alienware aims at 'more price points people can actually reach,' announces a tandem OLED gaming monitor at a much lower price than our current top pick",
+          "link": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aims-at-more-price-points-people-can-actually-reach-announces-a-tandem-oled-gaming-monitor-at-a-much-lower-price-than-our-current-top-pick/",
+          "date": "2026-09-02T07:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Mu8yvZMCZYnEgvmW9sGtr-1280-80.jpg",
+          "summary": "*Squinting* The future looks bright."
+        },
         {
           "title": "Former id Software producer says the team faced the 'worst crunch' in the series' history on Doom: The Dark Ages – Revelations: 'There were days where I didn't see my son'",
           "link": "https://www.pcgamer.com/gaming-industry/former-id-software-producer-says-the-team-faced-the-worst-crunch-in-the-series-history-on-doom-the-dark-ages-revelations-there-were-days-where-i-didnt-see-my-son/",
@@ -1932,13 +1939,6 @@
           "date": "2026-09-01T19:39:14+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/dDu7UmE5UcCkQy8z6g8ZoW-1280-80.jpg",
           "summary": "Outside of the story, however, you'll be free to swap whenever."
-        },
-        {
-          "title": "August was a milestone month if you love watching robots completely eat it",
-          "link": "https://www.pcgamer.com/hardware/august-was-a-milestone-month-if-you-love-watching-robots-completely-eat-it/",
-          "date": "2026-09-01T18:42:18+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hDTEJS3RpU2vr4rtWSRiZh-1280-80.jpg",
-          "summary": "The World Robot Humanoid Games gave us more footage of malfunctioning robots than we know what to do with."
         }
       ],
       "ok": true,
@@ -2105,6 +2105,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week",
+          "link": "https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week",
+          "date": "2026-09-02T07:51:21+00:00",
+          "image": "https://assetsio.gnwcdn.com/lucia-jason-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "The extended look of Grand Theft Auto 6 was the most-viewed title on Netflix last week, reaching 31.1 million views in four days. Read more"
+        },
+        {
+          "title": "IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026",
+          "link": "https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026",
+          "date": "2026-09-02T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/james-bond-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "IO Interactive CEO Hakan Abrak will host a 007 First Light session at Game Republic New Horizons. Read more"
+        },
+        {
           "title": "The Big Picture: What you need to know about the ongoing games industry reset",
           "link": "https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset",
           "date": "2026-09-01T16:19:14+00:00",
@@ -2159,20 +2173,6 @@
           "date": "2026-08-28T14:27:12+00:00",
           "image": "https://assetsio.gnwcdn.com/gta-6-key-art_edited.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "When the hype engine for GTA 6 roared into top gear this week, there was a quietly touching aspect amid the excitement that will stay with me for a while. As the 27 minute long…"
-        },
-        {
-          "title": "Limbic Entertainment on life after Bandai Namco",
-          "link": "https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco",
-          "date": "2026-08-28T12:05:08+00:00",
-          "image": "https://assetsio.gnwcdn.com/Corsair-Cove-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "In December 2025, German developer Limbic Entertainment was sold by Bandai Namco to a \"private investor\" . This news came just over three years after the Japanese giant acquired a…"
-        },
-        {
-          "title": "Cloud Imperium delays Squadron 42 to 2027 – \"There is no way I want to launch into the attention buzz saw of GTA 6\"",
-          "link": "https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6",
-          "date": "2026-08-28T11:17:59+00:00",
-          "image": "https://assetsio.gnwcdn.com/squadron-42.webp?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The release of Star Citizen spin-off Squadron 42 has been postponed to Q2 2027 to avoid \"launching into the attention buzz saw of Grand Theft Auto 6.\" Read more"
         }
       ],
       "ok": true,
@@ -2339,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Engineers develop single-element speaker that beams audio to specific listeners",
+          "link": "https://interestingengineering.com/innovation/speaker-beams-audio-to-specific-listeners",
+          "date": "2026-09-02T04:16:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/unnamed-file-2.jpg",
+          "summary": "Looks like once-futuristic private sound could soon become an everyday reality. A new kind of..."
+        },
+        {
           "title": "Formula 1 race-tested electronics power nuclear microreactors into fast-lane deployment",
           "link": "https://interestingengineering.com/energy/formula-1-race-tested-electronics-microreactors",
           "date": "2026-09-02T00:11:05+00:00",
@@ -2400,13 +2407,6 @@
           "date": "2026-09-01T17:58:22+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/transportable-nuclear-plant.jpg",
           "summary": "A transportable nuclear power plant capable of generating up to 50 megawatts is being proposed..."
-        },
-        {
-          "title": "7800-ton nuclear submarine returns to USN fleet after first ever Block III overhaul",
-          "link": "https://interestingengineering.com/military/uss-north-dakota-returns-to-us-navy-fleet",
-          "date": "2026-09-01T16:16:07+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design307.jpg",
-          "summary": "The U.S. Navy has returned the Virginia-class attack submarine USS North Dakota (SSN 784) to..."
         }
       ],
       "ok": true,
@@ -2679,6 +2679,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Records Show File Transfers in Oracle-Procore Intellectual Property Dispute",
+          "link": "https://www.enr.com/articles/63592-records-show-file-transfers-in-oracle-procore-intellectual-property-dispute",
+          "date": "2026-09-02T05:05:07+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/09/01/Oracle-Downloads.webp?t=1788286039",
+          "summary": "New evidence released in the ongoing lawsuit between the construction tech giants shows a possible transfer of proprietary data regarding Textura's software integration…"
+        },
+        {
           "title": "Broadway Electric Settles With Justice Dept. Over Phony Disabled/Veteran-Owned Contracts",
           "link": "https://www.enr.com/articles/63596-broadway-electric-settles-with-justice-dept-over-phony-disabled-veteran-owned-contracts",
           "date": "2026-09-01T20:55:26+00:00",
@@ -2740,13 +2747,6 @@
           "date": "2026-09-01T13:28:26+00:00",
           "image": "https://www.enr.com/ext/resources/2026/09/01/Transcanyon-Waterline-Damaged.webp?t=1788270070",
           "summary": "Grand Canyon flooding struck a watershed where federal officials had projected increased post-fire runoff, damaging infrastructure as a major waterline replacement neared…"
-        },
-        {
-          "title": "Broking and Risk Transfer Solutions for Construction Projects",
-          "link": "https://www.enr.com/articles/63538-broking-and-risk-transfer-solutions-for-construction-projects",
-          "date": "2026-09-01T04:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/08/20/AON_ENR_PH_FP2_Image.webp?t=1788279631",
-          "summary": "The risks impacting construction projects are constantly evolving."
         }
       ],
       "ok": true,
