@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-03T03:26:44.320029+00:00",
+  "updated": "2026-09-03T08:39:18.629399+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Superbike World Championship: Miguel Oliveira continues with the ROKiT BMW Motorrad WorldSBK Team.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460473EN?language=en",
+          "date": "2026-09-03T08:00:31+00:00",
+          "image": null,
+          "summary": "+++ Miguel Oliveira will contest his second WorldSBK season aboard the BMW M 1000 RR in 2027. +++ Successful WorldSBK debut season with four podium finishes to date. +++ Sven…"
+        },
         {
           "title": "BMW M Motorsport News, 1st September 2026.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460416EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-08-18T09:20:00+00:00",
           "image": null,
           "summary": "+++ Top topic: Intense Nürburgring programme with BMW M3 Touring 24H, BMW M2 Cup, and ADAC GT4 Germany +++ NLS: Overall podium and eight class victories +++ M News compact: More…"
-        },
-        {
-          "title": "DTM: Victory and Podium! Marco Wittmann is back in the title race at the Nürburgring.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460114EN?language=en",
-          "date": "2026-08-16T15:14:46+00:00",
-          "image": null,
-          "summary": "+++ Marco Wittmann celebrates the 20th DTM victory of his career in the Sunday race at the Nürburgring +++ Wittmann was already celebrating on Saturday, finishing third on the…"
         }
       ],
       "ok": true,
@@ -83,13 +83,6 @@
       "name": "Porsche Newsroom",
       "cat": "automotive",
       "items": [
-        {
-          "title": "Next Generation: The development of the Porsche 975 RSE",
-          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-975-rse-formula-e-gen4-technic-43154.html",
-          "date": "2026-08-31T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332846&w=1080&h=609&crop=1&public=1&cs=e440cddd7c623a8b",
-          "summary": "Porsche Formula E pilots will have a new model, the 975 RSE, for the coming season. The Porsche Newsroom took a deep dive into the technical development of the GEN4 race car at…"
-        },
         {
           "title": "Sunday Drives: Kristin Lätt in a Macan in Estonia",
           "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-estonia-kristin-laett-43148.html",
@@ -152,6 +145,13 @@
           "date": "2026-08-20T07:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Thumbnails/Pitboard_RacingForCharity_16zu9_2.jpg/jcr:content/Pitboard_RacingForCharity_16zu9_2.jpg",
           "summary": "Dr. Ing. h.c. F. Porsche AG is donating 500,000 euros to seriously ill children worldwide as part of its “Racing for Charity” initiative. The Stuttgart sports car manufacturer is…"
+        },
+        {
+          "title": "Monterey Car Week 2026: Porsche presents exclusive highlights",
+          "link": "https://newsroom.porsche.com/en/2026/products/porsche-flachbau-rs-monterey-car-week-2026-43079.html",
+          "date": "2026-08-19T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338836&w=1080&h=609&crop=1&public=1&cs=95fdfa46efaab219",
+          "summary": "From bespoke factory one-offs to enthusiast-focused sports cars and cinematic storytelling, Porsche showcased a broad spectrum of automotive passion at Monterey Car Week 2026."
         }
       ],
       "ok": true,
@@ -161,6 +161,13 @@
       "name": "Automotive World",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Uber-Wayve partnership takes autonomous rides to London",
+          "link": "https://www.automotiveworld.com/news/uber-wayve-partnership-takes-autonomous-rides-to-london/",
+          "date": "2026-09-03T04:45:36+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Uber's 12-market expansion plan puts London's Wayve launch in context as a first step in a much larger AV land-grab The post Uber-Wayve partnership takes autonomous rides to…"
+        },
         {
           "title": "BYD closes the export gap with Chery, hits BEV sales record",
           "link": "https://www.automotiveworld.com/news/byd-closes-the-export-gap-with-chery-hits-bev-sales-record/",
@@ -223,13 +230,6 @@
           "date": "2026-09-02T05:10:22+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Chinese brands' clean sweep of five Euro NCAP stars challenges European and Korean rivals to demonstrate equivalent safety leadership The post Three Chinese EVs top Euro…"
-        },
-        {
-          "title": "ZF outlines software roadmap for commercial vehicles",
-          "link": "https://www.automotiveworld.com/news/zf-outlines-software-roadmap-for-commercial-vehicles/",
-          "date": "2026-09-02T05:05:16+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "ZF's truck-trailer link concept tests how deeply vehicle software must integrate before the SdCV model delivers real fleet value The post ZF outlines software roadmap for…"
         }
       ],
       "ok": true,
@@ -247,7 +247,7 @@
           "summary": "Unit sales of cars and light trucks by nameplate in the U.S. listed alphabetically under brand and automaker for the current and previous year periods; table reflects U.S. sales…"
         },
         {
-          "title": "Uber, Wayve launch London’s first robotaxi service with Ford Mustang Mach-e fleet",
+          "title": "Uber, Wayve launch London’s first robotaxi service with Ford Mustang Mach-E fleet",
           "link": "https://www.autonews.com/manufacturing/suppliers/ane-wayve-uber-london-robotaxi-0103/",
           "date": "2026-09-02T23:01:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/IrpDKc85TGj_I1SyX5eaxHv6vyg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/7REAQSB3FJDLTFC7G7MYWYXSDU.jpg",
@@ -318,6 +318,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Uber And Wayve Beat Waymo To London With UK’s First Robotaxi Service",
+          "link": "https://insideevs.com/news/806984/uber-wayve-robotaxi-london-uk-first/",
+          "date": "2026-09-03T08:11:05+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/Mk6WY6/s3/uber-and-wayve-s-autonomous-ford-mustang-mach-e-in-london-uk.jpg",
+          "summary": "The first Ford Mustang Mach-E EVs fitted with Wayve’s autonomous driving tech can now be hailed in London on the Uber app."
+        },
+        {
+          "title": "Ford Wants To Sell 100,000 Fathom Electric Pickups In Year One. That’s A Huge Goal",
+          "link": "https://insideevs.com/news/806974/ford-fathom-ev-sales-plan/",
+          "date": "2026-09-03T07:13:20+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/JONJlg/s3/ford-fathom-prototypes-in-las-vegas.jpg",
+          "summary": "If successful, Ford’s plan would put it right next to Tesla. But it won’t be easy."
+        },
+        {
           "title": "Scout Reveals Two New Traveler SUV Concepts As Production Nears",
           "link": "https://insideevs.com/news/806941/scout-traveler-electric-concepts/",
           "date": "2026-09-02T22:10:50+00:00",
@@ -372,20 +386,6 @@
           "date": "2026-09-02T08:00:00+00:00",
           "image": "https://cdn.motor1.com/images/mgl/pb3V7W/s3/2025-hyundai-ioniq-5-xrt-limited.jpg",
           "summary": "EV diagnostics company Aviloo released the results of thousands of battery health checks for 20 popular EVs. One stood out."
-        },
-        {
-          "title": "The New Polestar 4 SUV Is An Electric Wagon In Disguise",
-          "link": "https://insideevs.com/news/806837/polestar-4-suv-official-specs-range-price/",
-          "date": "2026-09-02T07:54:47+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/NGPrA2/s3/polestar-4-suv.jpg",
-          "summary": "It gets a proper rear window, a big trunk, and a new Camping mode—perfect for those family road trips."
-        },
-        {
-          "title": "I Drove The $138,000 Range Rover Electric Off-Road. It Was Exceptional",
-          "link": "https://insideevs.com/news/806401/range-rover-electric-specs-drive/",
-          "date": "2026-09-01T23:04:38+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/nAlOeG/s3/2027-range-rover-electric-off-road.jpg",
-          "summary": "Five years after Range Rover first announced its all-electric model, it's finally here. We have all the details."
         }
       ],
       "ok": true,
@@ -488,6 +488,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
+          "link": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
+          "date": "2026-09-03T07:06:27+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European…"
+        },
+        {
+          "title": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
+          "link": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
+          "date": "2026-09-03T06:35:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers.…"
+        },
+        {
           "title": "From Novelty to Volume: Adidas Bets on 3D Printed Scale With Futurecool",
           "link": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool",
           "date": "2026-09-02T09:55:58+00:00",
@@ -542,20 +556,6 @@
           "date": "2026-08-29T11:45:59+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/240710-N-EO225-1138-150x100.avif",
           "summary": "The U.S. Navy released new technical requirements Aug. 11 designed to rapidly scale metallic 3D printing across the submarine enterprise, stripping away administrative and…"
-        },
-        {
-          "title": "AI-Guided 3D Printing Targets Nuclear Manufacturing Supply Gap",
-          "link": "https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123/?utm_source=rss&utm_medium=rss&utm_campaign=ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap",
-          "date": "2026-08-29T11:38:28+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Oak Ridge National Laboratory (ORNL) and Idaho National Laboratory (INL) announced a new collaboration to expand the domestic supply chain for industrial pressure vessels using…"
-        },
-        {
-          "title": "From Print Lab to Test Fire: Chromatic 3D Materials’ New Camp Ripley Facility",
-          "link": "https://3dprintingindustry.com/news/from-print-lab-to-test-fire-chromatic-3d-materials-new-camp-ripley-facility-254203/?utm_source=rss&utm_medium=rss&utm_campaign=from-print-lab-to-test-fire-chromatic-3d-materials-new-camp-ripley-facility",
-          "date": "2026-08-29T11:15:47+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Minneapolis-based company Chromatic 3D Materials has established a rocket propellant test-firing capability at Camp Ripley, a 53,000-acre Minnesota National Guard training…"
         }
       ],
       "ok": true,
@@ -651,6 +651,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
+          "date": "2026-09-03T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg?w=1638&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
+          "title": "Peatland Fires Darken Skies in Indonesia",
+          "link": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+          "date": "2026-09-03T04:01:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/peatland-fires-darken-skies-in-indonesia/indonesiafires_amo_20260901.jpg",
+          "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground."
+        },
+        {
           "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
           "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
           "date": "2026-09-02T19:01:05+00:00",
@@ -705,20 +719,6 @@
           "date": "2026-09-01T17:30:35+00:00",
           "image": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
           "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that…"
-        },
-        {
-          "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
-          "date": "2026-09-01T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg?w=0&#038;h=0&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
-        },
-        {
-          "title": "Ice Island Survives Run-In With Joe Island",
-          "link": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
-          "date": "2026-09-01T04:00:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg",
-          "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way."
         }
       ],
       "ok": true,
@@ -892,6 +892,13 @@
           "summary": ""
         },
         {
+          "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing",
+          "date": "2026-09-02T16:08:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_being_sealed_from_view/27447417-4-eng-GB/FLEX_and_Sentinel-3C_being_sealed_from_view_card_full.jpg",
+          "summary": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages. FLEX and Copernicus…"
+        },
+        {
           "title": "Third spacewalk completed for Sophie Adenot",
           "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot",
           "date": "2026-09-02T11:00:00+00:00",
@@ -911,13 +918,6 @@
           "date": "2026-09-02T07:00:00+00:00",
           "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
           "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the…"
-        },
-        {
-          "title": "Samba’s fiery farewell recorded",
-          "link": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded",
-          "date": "2026-09-01T09:05:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-2-eng-GB/Samba_s_reentry_recorded_card_full.png",
-          "summary": "Yesterday, on 31 August 2026, Samba reentered Earth’s atmosphere at 21:39:38 UTC / 23:39:38 CEST as the third of the four Cluster satellites.&nbsp;Samba had been lined up for a…"
         },
         {
           "title": "Media briefing: BepiColombo's next milestone towards Mercury",
@@ -1318,6 +1318,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Plasmonic metamaterial makes a photonic time crystal",
+          "link": "https://physicsworld.com/a/plasmonic-metamaterial-makes-a-photonic-time-crystal/",
+          "date": "2026-09-03T08:00:02+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "New nanostructure could be used to make lasers that work in the terahertz frequency range The post Plasmonic metamaterial makes a photonic time crystal appeared first on Physics…"
+        },
+        {
           "title": "Two-dimensional material shows promise for long-term memory, thanks to slow electrons",
           "link": "https://physicsworld.com/a/two-dimensional-material-shows-promise-for-long-term-memory-thanks-to-slow-electrons/",
           "date": "2026-09-02T14:30:19+00:00",
@@ -1379,13 +1386,6 @@
           "date": "2026-09-01T10:00:51+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2026/09/2026-09-sinclair-the-devil-and-dr-faustus-meet-wellcome.jpg",
           "summary": "Chris Sinclair explores the plays that are bringing physics to new audiences The post Theatre is bringing physics to new audiences but what is the definitive science play?…"
-        },
-        {
-          "title": "Sliding water droplets corrode Teflon-coated metal",
-          "link": "https://physicsworld.com/a/sliding-water-droplets-corrode-coated-metals/",
-          "date": "2026-09-01T07:19:50+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Effect could damage outdoor equipment and monuments The post Sliding water droplets corrode Teflon-coated metal appeared first on Physics World ."
         }
       ],
       "ok": true,
@@ -1481,6 +1481,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "PlayStation State Of Play September 2026: Start Time, How To Watch, And What To Expect",
+          "link": "https://www.gamespot.com/articles/playstation-state-of-play-september-2026-start-time-how-to-watch-and-what-to-expect/",
+          "date": "2026-09-03T04:00:00+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/State-of-Play.jpg?w=300",
+          "summary": "Just when you thought there would be a post-Gamescom break&nbsp;for video game livestreams, Sony dropped notice that&nbsp;the State of Play broadcast was returning with two…"
+        },
+        {
           "title": "CD Projekt Red Is Still Raking In The Cash As We Wait For The Witcher 4",
           "link": "https://www.gamespot.com/articles/cd-projekt-red-is-still-raking-in-the-cash-as-we-wait-for-the-witcher-4/",
           "date": "2026-09-02T19:56:05+00:00",
@@ -1542,13 +1549,6 @@
           "date": "2026-09-02T14:42:54+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch_SuperSmashBrosUltimate_Sora_reveal_screenshot_03.jpg?w=300",
           "summary": "In what feels like a monkey's paw situation, Super Smash Bros. Ultimate unexpectedly received a new patch--but unlike recent updates for other major Nintendo games, this Smash…"
-        },
-        {
-          "title": "Don’t Care About GTA 6’s Romance System? Don’t Use It, Dev Says",
-          "link": "https://www.gamespot.com/articles/dont-care-about-gta-6s-romance-system-dont-use-it-dev-says/",
-          "date": "2026-09-02T14:36:15+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-10.09.57-AM.png?w=300",
-          "summary": "GTA 6 's Jason and Lucia can be romantically involved , or they can just be partners in crime. If you're not interested in the game's romance system, don't use it, Rockstar's Rob…"
         }
       ],
       "ok": true,
@@ -1558,6 +1558,41 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Clint Eastwood's Forgotten Western That Redefined His Career Is Officially Free to Watch on YouTube",
+          "link": "https://www.polygon.com/clint-eastwood-hang-em-high-streaming-free-youtube/",
+          "date": "2026-09-03T08:15:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-02-at-12-12-24-pm.jpg",
+          "summary": "Clint Eastwood's 1068 Western Hang 'Em High is a violent, gritty western about vengeance in the old West. It's currently free on YouTube"
+        },
+        {
+          "title": "Dragon Ball Super Shares Release Date and Spectacular Trailer Full of New Details",
+          "link": "https://www.polygon.com/dragon-ball-super-beerus-release-date-surge-trailer/",
+          "date": "2026-09-03T08:10:52+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/goku-trnasforms-in-super-saiyan-god-in-dragon-ball-super-beerus-trailer.png",
+          "summary": "Dragon Ball Super: Beerus shares its release date with a spectacular trailer showcasing the anime's impressive visuals and new scenes."
+        },
+        {
+          "title": "11 Best MAPPA Anime That Aren’t 'Jujutsu Kaisen' or 'Chainsaw Man'",
+          "link": "https://www.polygon.com/best-anime-from-jujutsu-kaisen-chainsaw-man-studio-mappa/",
+          "date": "2026-09-03T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/ha-cwvlbyaa7yaz-1.jpg",
+          "summary": "MAPPA may be best known for Jujutsu Kaisen and Chainsaw Man, but the studio has plenty of other great shows and movies."
+        },
+        {
+          "title": "31 Years Later, the Smartest 'Calvin and Hobbes' Character Still Doesn't Get the Recognition They Deserve",
+          "link": "https://www.polygon.com/calvin-hobbes-susie-best-quote/",
+          "date": "2026-09-03T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/susie-derkins-calvin-and-hobbes.jpg",
+          "summary": "Well, the book-smartest, anyway"
+        },
+        {
+          "title": "Guy Ritchie’s Netflix Crime Thriller Just Got Even More Ambitious",
+          "link": "https://www.polygon.com/the-gentlemen-season-2-review-guy-ritchie/",
+          "date": "2026-09-03T07:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/aaaaqtfamorhe3iojzrpzf8ka6-ojfy52prcwvfrgf8suqwebxajeviuoxfzfyy6xeze52bgejaskjija4kuzotlk21cqfb7op9gju8kh-bm1crfnablx8p4ltnaz9cgykkzfhfh26obgxzucnhxhj8v0s6p.jpg",
+          "summary": "The Gentlemen season 2 tries to be The Godfather, and mostly fails"
+        },
         {
           "title": "The 12 Best Star Wars Video Games of All Time, Ranked",
           "link": "https://www.polygon.com/best-star-wars-games-ranked/",
@@ -1592,41 +1627,6 @@
           "date": "2026-09-02T22:01:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/coen-laslea_tbd.jpg",
           "summary": "There's only so much time before mass in The Blood of Dawnwalker. Here's which quests you should focus on, and how to start them."
-        },
-        {
-          "title": "'Someone Needs A Lesson' quest walkthrough in The Blood of Dawnwalker",
-          "link": "https://www.polygon.com/blood-of-dawnwalker-someone-needs-a-lesson-quest-walkthrough-vasil-atanas/",
-          "date": "2026-09-02T22:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/blood-of-dawnwalker-someone-needs-a-lesson-quest-walkthrough-header.jpg",
-          "summary": "A complete walkthrough for the \"Someone Needs A Lesson\" quest during the prologue in The Blood of Dawnwalker."
-        },
-        {
-          "title": "10 The Blood of Dawnwalker beginner's tips to help you defeat Brencis",
-          "link": "https://www.polygon.com/blood-of-dawnwalker-beginners-tips-tricks/",
-          "date": "2026-09-02T22:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-tips-1.jpg",
-          "summary": "The Blood of Dawnwalker is a challenging and open-ended game. Here are 10 tips and tricks to help you survive the night."
-        },
-        {
-          "title": "Court system in The Blood of Dawnwalker, explained",
-          "link": "https://www.polygon.com/blood-of-dawnwalker-court-system-explained-infamy-boyars/",
-          "date": "2026-09-02T22:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-court-system-1.jpg",
-          "summary": "Here's how to use the court system by raising your infamy and angering the Vrakhiri in The Blood of Dawnwalker"
-        },
-        {
-          "title": "How to level up corruption in The Blood of Dawnwalker",
-          "link": "https://www.polygon.com/blood-of-dawnwalker-corruption-how-to-level-up-vampire-skills/",
-          "date": "2026-09-02T22:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/coen-bloody-face_tbd.jpg",
-          "summary": "Corruption dictates which vampirism skills you can use in The Blood of Dawnwalker. Here's how to level up corruption."
-        },
-        {
-          "title": "How the time system works in The Blood of Dawnwalker.",
-          "link": "https://www.polygon.com/blood-of-dawnwalker-time-system-explained-how-works/",
-          "date": "2026-09-02T22:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-time-system-1.jpg",
-          "summary": "Here's how the time system works in The Blood of Dawnwalker, including tips on spending time segments and using the day/night cycle."
         }
       ],
       "ok": true,
@@ -1636,6 +1636,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers",
+          "link": "https://www.eurogamer.net/sony-microsoft-no-refunds-us-tariff-lawsuits",
+          "date": "2026-09-03T08:16:40+00:00",
+          "image": "https://assetsio.gnwcdn.com/l-intro-1669228211.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Lawyers representing Sony and Microsoft have argued, in two separate lawsuits, that the platform holders are not obligated to pass tariff refunds back to consumers. Sony and…"
+        },
         {
           "title": "Kingdom Hearts almost led to Disney making its own version of Super Smash Bros, former dev says",
           "link": "https://www.eurogamer.net/kingdom-hearts-disney-making-own-version-super-smash-bros",
@@ -1698,13 +1705,6 @@
           "date": "2026-09-02T13:25:42+00:00",
           "image": "https://assetsio.gnwcdn.com/RuneScape-Dragonwilds-Weapons-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "The first wave of games coming to PC and Xbox Game Pass in September have been revealed, and it's a little barren. Probably the highlight is the arrival of new RuneScape co-op…"
-        },
-        {
-          "title": "Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways",
-          "link": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview",
-          "date": "2026-09-02T13:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/Tomb-Raider-Legacy-of-Atlantis-(1).png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tomb Raider: Anniversary . Both, it turns out, are enormously…"
         }
       ],
       "ok": true,
@@ -1714,6 +1714,20 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "After Withheld Funding, Hospitalization, Cult-Hit Japanese Thriller’s Development Might Be Back On Track",
+          "link": "https://kotaku.com/after-withheld-funding-hospitalization-cult-hit-japanese-thrillers-development-might-be-back-on-track-2000730670",
+          "date": "2026-09-03T08:00:30+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/Screenshot-2026-09-03-at-12.04.53-1280x871.jpg",
+          "summary": "But more crowdfunding might be needed to deliver the game while legal drama continues"
+        },
+        {
+          "title": "DEI-Free Lollipop Chainsaw Sequel Teases A Big Unveiling At Tokyo Game Show",
+          "link": "https://kotaku.com/dei-free-lollipop-chainsaw-sequel-teases-a-big-unveiling-at-tokyo-game-show-2000730673",
+          "date": "2026-09-03T06:00:52+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/kiss.jpg",
+          "summary": "Planned Tokyo Game Show unveiling lists a new development team"
+        },
         {
           "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
           "link": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
@@ -1769,20 +1783,6 @@
           "date": "2026-09-02T18:30:06+00:00",
           "image": "https://kotaku.com/app/uploads/2025/04/a5e14d5e495e02c0eb2d7561356814ef-1280x720.jpg",
           "summary": "Despite being almost 30 years old, Starcraft remains in the top 10 most played games in South Korean internet cafes"
-        },
-        {
-          "title": "Rockstar Is Finally Ditching ‘Tap X To Sprint’ In GTA 6, But Not Everyone Is Happy: ‘I’m Honestly A Little Disappointed’",
-          "link": "https://kotaku.com/rockstar-is-finally-ditching-tap-x-to-sprint-in-gta-6-but-not-everyone-is-happy-im-honestly-a-little-disappointed-2000730560",
-          "date": "2026-09-02T18:00:39+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/Jason_and_Lucia_03.15z--1280x720.jpg",
-          "summary": "For some players, this is good news; for others, it's the end of an era"
-        },
-        {
-          "title": "No Rest For The Wicked Director Calls Video Game Critics Who Have Different Opinions ‘Untrustworthy’",
-          "link": "https://kotaku.com/no-rest-for-the-wicked-thomas-mahler-ori-video-games-critic-2000730551",
-          "date": "2026-09-02T17:30:45+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/no-rest-1280x720.jpg",
-          "summary": "Pay attention, because his new site is 'the one source of truth for gamers'"
         }
       ],
       "ok": true,
@@ -1885,6 +1885,34 @@
           "summary": "The Vrakhiri's reign makes it hard to find a merchant buying silver."
         },
         {
+          "title": "Should you invite Ambrus in The Blood of Dawnwalker?",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-should-you-invite-ambrus-in/",
+          "date": "2026-09-02T22:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/f3tPHPb9yPH7CrWe8Xz2DP-1280-80.jpg",
+          "summary": "Send this Vrakhir to hell or keep him around."
+        },
+        {
+          "title": "How to prepare Anca's recipe in The Blood of Dawnwalker",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-ancas-recipe-instructions/",
+          "date": "2026-09-02T22:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Rtt4rdwpUag9HysopBLwZM-1280-80.jpg",
+          "summary": "Fix your mother's medicine with the right steps."
+        },
+        {
+          "title": "Can you beat Brencis in The Blood of Dawnwalker's prologue?",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-brencis-prologue/",
+          "date": "2026-09-02T22:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/9F6AdmiaYa4j2ghDi6bGuC-1280-80.jpg",
+          "summary": "Face the big bad a little earlier than expected."
+        },
+        {
+          "title": "I've spent over 80 hours in The Blood of Dawnwalker—here are my top 20 quick tips to survive Vale Sangora",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-tips/",
+          "date": "2026-09-02T22:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/UyPkx27rQ7fixw27odnigB-1280-80.jpg",
+          "summary": "Help Coen rescue his family from Vrakhiri clutches."
+        },
+        {
           "title": "How to drink Vrakhir blood in The Blood of Dawnwalker",
           "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-vrakhir-blood-abilities/",
           "date": "2026-09-02T22:00:00+00:00",
@@ -1892,53 +1920,25 @@
           "summary": "Chow down to unlock new vampiric abilities."
         },
         {
-          "title": "How to complete The Gilded Gauntlet in The Blood of Dawnwalker",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-the-gilded-gauntlet-walkthrough/",
+          "title": "Should you let Anca use The Font in The Blood of Dawnwalker?",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-should-you-let-anca-use-the-font/",
           "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/aphgg3i7w3FpbXz5K6LYt5-1280-80.jpg",
-          "summary": "Face Ambrus in (im)mortal combat"
+          "image": "https://cdn.mos.cms.futurecdn.net/JAZhSX8q27quRGGck5dkRT-1280-80.jpg",
+          "summary": "Cleanse the herbalist's curse or use it yourself."
         },
         {
-          "title": "How to complete Echoes of Silenced Bells in The Blood of Dawnwalker",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-echoes-of-silenced-bells-walkthrough-burn-notes/",
+          "title": "How to complete The Heart Wants What It Wants in The Blood of Dawnwalker",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-the-heart-wants-what-it-wants-walkthrough/",
           "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/edSSo8CvDotpodx9Jx2em8-1280-80.jpg",
-          "summary": "And whether you should burn the notes."
+          "image": "https://cdn.mos.cms.futurecdn.net/tvvf7HpatmKEVqZCLgEhCP-1280-80.jpg",
+          "summary": "Help Ocha and Nora find a new life."
         },
         {
-          "title": "Should you spare Xanthe in The Blood of Dawnwalker?",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-should-you-spare-xanthe/",
+          "title": "How to complete A Bulwark Against Darkness in The Blood of Dawnwalker",
+          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-a-bulwark-against-darkness-walkthrough-arbiter-set/",
           "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/nEe7KHGDBcGopnwQe5uRQG-1280-80.jpg",
-          "summary": "Make a deal with this ancient Vrakhiri or send her packing."
-        },
-        {
-          "title": "How to beat the Ravenous Bear and complete Into the Den in The Blood of Dawnwalker",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-ravenous-bear-into-the-den/",
-          "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/eK7jw3yEQVACEvZUqfhpg3-1280-80.jpg",
-          "summary": "Kill this hangry boss and find the flat stone marked with X."
-        },
-        {
-          "title": "All Swordmastery ability manual locations in The Blood of Dawnwalker",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-swordmastery-ability-manual-locations/",
-          "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/k4mfKmvAzoHskvG6AUtB4N-1280-80.jpg",
-          "summary": "Unlock these blade skills early."
-        },
-        {
-          "title": "All Witchcraft ability manual locations in The Blood of Dawnwalker",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-witchcraft-ability-manual-locations/",
-          "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Te4w68Z24e9cAt5rRCVxNC-1280-80.jpg",
-          "summary": "Learn these hexes to confound your enemies."
-        },
-        {
-          "title": "Full prologue walkthrough and quest order for The Blood of Dawnwalker",
-          "link": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-prologue-quests-order/",
-          "date": "2026-09-02T22:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/U3g4qqV7Qw4tLuHbaXrc6S-1280-80.jpg",
-          "summary": "Use this ideal quest order to get the least bloody mass because there's not enough time to do it all and lives are on the line."
+          "image": "https://cdn.mos.cms.futurecdn.net/99XUFoQeNEbSpWEDXDPBH4-1280-80.jpg",
+          "summary": "Track down the Arbiter armor components to forge it."
         }
       ],
       "ok": true,
@@ -2105,6 +2105,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Planet Coaster studio Frontier Developments announces new title based on Disney IP",
+          "link": "https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip",
+          "date": "2026-09-03T08:04:49+00:00",
+          "image": "https://assetsio.gnwcdn.com/planet-coaster.webp?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Frontier Developments has entered into an agreement with Disney to work on a new title based on its portfolio and IP. Read more"
+        },
+        {
+          "title": "\"This is the worst crash we've seen since the 1980s,\" says Tim Sweeney",
+          "link": "https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney",
+          "date": "2026-09-03T07:29:48+00:00",
+          "image": "https://assetsio.gnwcdn.com/playstation-controller-glowing-red.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Epic Games CEO Tim Sweeney says the industry is going through its biggest crash since the 1980s in the latest issue of Edge magazine. Read more"
+        },
+        {
           "title": "CD Projekt Red sees profit climb 37% in H1 2026",
           "link": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
           "date": "2026-09-02T19:44:30+00:00",
@@ -2159,20 +2173,6 @@
           "date": "2026-09-02T07:51:21+00:00",
           "image": "https://assetsio.gnwcdn.com/lucia-jason-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "The extended look of Grand Theft Auto 6 was the most-viewed title on Netflix last week, reaching 31.1 million views in four days. Read more"
-        },
-        {
-          "title": "IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026",
-          "link": "https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026",
-          "date": "2026-09-02T07:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/james-bond-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "IO Interactive CEO Hakan Abrak will host a 007 First Light session at Game Republic New Horizons. Read more"
-        },
-        {
-          "title": "The Big Picture: What you need to know about the ongoing games industry reset",
-          "link": "https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset",
-          "date": "2026-09-01T16:19:14+00:00",
-          "image": "https://assetsio.gnwcdn.com/reset-button-NES-black-background.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The games industry is undergoing a reset. That was the message of Gamescom Dev's opening keynote, delivered by Amir Satvat, who until a few days ago was business development…"
         }
       ],
       "ok": true,
@@ -2339,6 +2339,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Wind assisted propulsion could power large fleet of commercial shipping with new project",
+          "link": "https://interestingengineering.com/transportation/wind-assisted-propulsion-commercial-shipping",
+          "date": "2026-09-03T07:58:48+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/wind-powered-shipping-.jpg",
+          "summary": "A new innovation project has been launched to accelerate the adoption of wind propulsion in..."
+        },
+        {
+          "title": "World’s largest independent EV battery study launched, smaller vehicles show faster degradation",
+          "link": "https://interestingengineering.com/transportation/world-largest-independent-ev-battery-study",
+          "date": "2026-09-03T06:08:05+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/EV-battery-new.jpg",
+          "summary": "An Austria-based company has launched the world&#8217;s largest independent study of battery health in used..."
+        },
+        {
           "title": "Solid-state battery hits 381 Wh/kg as mass production begins at Taiwan factory",
           "link": "https://interestingengineering.com/energy/prologium-solid-state-battery-mass-production-381-wh-kg",
           "date": "2026-09-03T00:13:41+00:00",
@@ -2393,20 +2407,6 @@
           "date": "2026-09-02T19:57:21+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-03T002506.245.jpg",
           "summary": "A Wisconsin utility has taken a financial stake in a fusion developer as both sides..."
-        },
-        {
-          "title": "Einstein was right: Quantum object falling does feel gravity, finds new research",
-          "link": "https://interestingengineering.com/science/einstein-right-quantum-object-falling-feel-gravity",
-          "date": "2026-09-02T18:24:25+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Atom.jpg",
-          "summary": "Scientists at the University of Ulm, the University of Oxford, and the Ben-Gurion University of..."
-        },
-        {
-          "title": "Fusion energy, extreme environment materials could be built easily as US develops key system",
-          "link": "https://interestingengineering.com/energy/materials-for-fusion-energy-extreme-environment",
-          "date": "2026-09-02T18:22:04+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/fusion-new.jpg",
-          "summary": "Researchers in the United States are developing a new refractory metal powder atomization system that..."
         }
       ],
       "ok": true,
