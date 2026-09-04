@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T20:25:09.708804+00:00",
+  "updated": "2026-09-04T22:50:11.668616+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -84,6 +84,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Next Generation: The development of the Porsche 975 RSE",
+          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-975-rse-formula-e-gen4-technic-43154.html",
+          "date": "2026-08-31T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332846&w=1080&h=609&crop=1&public=1&cs=e440cddd7c623a8b",
+          "summary": "Porsche Formula E pilots will have a new model, the 975 RSE, for the coming season. The Porsche Newsroom took a deep dive into the technical development of the GEN4 race car at…"
+        },
+        {
           "title": "Sunday Drives: Kristin Lätt in a Macan in Estonia",
           "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-estonia-kristin-laett-43148.html",
           "date": "2026-08-28T07:00:00+00:00",
@@ -145,13 +152,6 @@
           "date": "2026-08-20T07:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Thumbnails/Pitboard_RacingForCharity_16zu9_2.jpg/jcr:content/Pitboard_RacingForCharity_16zu9_2.jpg",
           "summary": "Dr. Ing. h.c. F. Porsche AG is donating 500,000 euros to seriously ill children worldwide as part of its “Racing for Charity” initiative. The Stuttgart sports car manufacturer is…"
-        },
-        {
-          "title": "Monterey Car Week 2026: Porsche presents exclusive highlights",
-          "link": "https://newsroom.porsche.com/en/2026/products/porsche-flachbau-rs-monterey-car-week-2026-43079.html",
-          "date": "2026-08-19T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338836&w=1080&h=609&crop=1&public=1&cs=95fdfa46efaab219",
-          "summary": "From bespoke factory one-offs to enthusiast-focused sports cars and cinematic storytelling, Porsche showcased a broad spectrum of automotive passion at Monterey Car Week 2026."
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "3DCP Group Completes 36 3D Printed Student Apartments Below Denmark’s Subsidized Housing Cost Cap",
-          "link": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap",
-          "date": "2026-09-04T11:18:13+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "3DCP Group, a construction business combining engineering, architecture, and building services, has completed 36 3D printed student apartments in Holstebro, Denmark, with the…"
-        },
-        {
-          "title": "Wall Colmonoy Oklahoma City Wins USAF Contract for F-16 Heat Exchanger Remanufacturing",
-          "link": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/?utm_source=rss&utm_medium=rss&utm_campaign=wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing",
-          "date": "2026-09-04T05:00:53+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Wall Colmonoy Oklahoma City, a manufacturer and repair provider for military and commercial aerospace components, has secured a multi-year, multi-million-dollar contract from the…"
-        },
-        {
-          "title": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
-          "link": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
-          "date": "2026-09-04T04:48:07+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility…"
-        },
-        {
-          "title": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
-          "link": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
-          "date": "2026-09-03T11:50:55+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to…"
-        },
-        {
-          "title": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
-          "link": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
-          "date": "2026-09-03T11:28:59+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for…"
-        },
-        {
-          "title": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
-          "link": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
-          "date": "2026-09-03T11:02:47+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance…"
-        },
-        {
-          "title": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
-          "link": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
-          "date": "2026-09-03T07:06:27+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European…"
-        },
-        {
-          "title": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
-          "link": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
-          "date": "2026-09-03T06:35:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers.…"
-        },
-        {
-          "title": "From Novelty to Volume: Adidas Bets on 3D Printed Scale With Futurecool",
-          "link": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool",
-          "date": "2026-09-02T09:55:58+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Adidas has unveiled Futurecool, a fully 3D printed sneaker built on the brand&#8217;s Climacool ventilation legacy. A limited run of 400 individually numbered pairs went up for…"
-        },
-        {
-          "title": "QUB Researchers 3D Print a Dissolving Patch to Treat Skin Cancer",
-          "link": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/?utm_source=rss&utm_medium=rss&utm_campaign=qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer",
-          "date": "2026-09-02T09:51:29+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Queen&#8217;s University Belfast researchers have developed a dissolvable, 3D printed patch that delivers two anti-cancer drugs directly through the skin using microneedles too…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -956,6 +885,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
+          "link": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+          "date": "2026-09-04T21:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/gYNgfNcGHL3rFwHxd6MVWF-1280-80.png",
+          "summary": "Astronomers have used the MeerKAT radio telescope to detect hydrogen gas located billions of light-years away, from a period when the cosmos was billions of years younger."
+        },
+        {
           "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
           "link": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
           "date": "2026-09-04T19:00:00+00:00",
@@ -1017,13 +953,6 @@
           "date": "2026-09-03T20:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/T7NWmKYtMqfJzaLUtGzgoP-1280-80.jpg",
           "summary": "Sega and Creative Assembly's long-awaited survival horror sequel hits the ground running with a new cast of characters and a fast-paced prologue."
-        },
-        {
-          "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do",
-          "link": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
-          "date": "2026-09-03T18:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/X7aomcFSXbUu6dCikuzsAV-1280-80.jpg",
-          "summary": "After an 8-year trek to Mercury, BepiColombo will finally split into two spacecraft ready to track down the secrets of the least-explored planet in the inner solar system."
         }
       ],
       "ok": true,
@@ -1197,6 +1126,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "The DESI Legacy Imaging Survey Releases the Largest 2-D Map of the Universe",
+          "link": "https://www.universetoday.com/articles/the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe",
+          "date": "2026-09-04T21:30:12+00:00",
+          "image": "https://www.universetoday.com/article_images/noirlab2408a_20260904_195751.jpg",
+          "summary": "The newest DESI Legacy Imaging Surveys map covers three-quarters of the sky and catalogs nearly four billion objects. This publicly-available database contains stars, galaxies,…"
+        },
+        {
           "title": "The 20th Data Release (DR 20) of the Sloan Digital Sky Survey (SDSS) is Here!",
           "link": "https://www.universetoday.com/articles/the-20th-data-release-dr-20-of-the-sloan-digital-sky-survey-sdss-is-here",
           "date": "2026-09-04T18:40:15+00:00",
@@ -1258,13 +1194,6 @@
           "date": "2026-09-02T14:46:07+00:00",
           "image": "https://www.universetoday.com/article_images/Low-Res__4_20260902_144238.png",
           "summary": "Spacecraft famously have small bits of them disintegrate on reentry. That’s by design, as it is one of the easiest solutions to absorbing the incredible amounts of energy they…"
-        },
-        {
-          "title": "SuperCDMS SNOLAB Starts Its Dark Matter Hunt",
-          "link": "https://www.universetoday.com/articles/supercdms-snolab-starts-its-dark-matter-hunt",
-          "date": "2026-09-02T13:30:07+00:00",
-          "image": "https://www.universetoday.com/article_images/20260414-shield-2_20260902_133000.jpg",
-          "summary": "The search for dark matter has reached another milestone - in this case the start of science for one of the world’s newest detectors. The Super Cryogenic Dark Matter Search…"
         }
       ],
       "ok": true,
@@ -1559,6 +1488,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "10 Near-Perfect Switch Games Nobody Played",
+          "link": "https://www.polygon.com/10-switch-hidden-gems/",
+          "date": "2026-09-04T22:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/switch-vs-switch-2-launch-year.jpg",
+          "summary": "The Switch game library is massive, but a lot of people overlook 10 amazing hidden gems."
+        },
+        {
+          "title": "'Star Wars: Revenge of the Sith' Officially Gets a New Sequel, and It's a 10/10 Masterpiece",
+          "link": "https://www.polygon.com/star-wars-andor-prequel-10/10/",
+          "date": "2026-09-04T21:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24103560/litup_ties.jpg",
+          "summary": "Rebecca Roanhorse's Star Wars novel 'Edge of the Abyss' holds up a mirror to the modern world's most disturbing reality."
+        },
+        {
+          "title": "8 New TV Shows to Watch This Weekend on Netflix, Prime Video, and Hulu (September 4-6)",
+          "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-september-4-6/",
+          "date": "2026-09-04T20:30:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcdgent_zx086.jpg",
+          "summary": "In this week's column, we include newly released TV shows alongside other series that have been made available on platforms like Netflix."
+        },
+        {
           "title": "Tetris Maker Officially Responds to White House's Hateful Tetris Clone",
           "link": "https://www.polygon.com/tetris-white-house-arcade-game-copyright-infringement-trump/",
           "date": "2026-09-04T20:19:48+00:00",
@@ -1606,27 +1556,6 @@
           "date": "2026-09-04T18:05:12+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/override-console_fn.jpg",
           "summary": "Match overrides change the way you play Fortnite in Chapter 7 Season 4. Here are all the match overrides and where to find override consoles."
-        },
-        {
-          "title": "Resident Evil 2 Director Thinks There’s a Chance His Canceled Xbox-Exclusive Will Still Happen",
-          "link": "https://www.polygon.com/xbox-exclusive-scalebound-still-possible-hopes-hideki-kamiya/",
-          "date": "2026-09-04T18:04:22+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3945830/scalebound-gamescom-2015-comrades.0.jpg",
-          "summary": "Bayonetta and Okami creator Hideki Kamiy still has hope his canceled Xbox game Scalebound will happen"
-        },
-        {
-          "title": "Miami Wants To Turn The City Into 'GTA 6' And Cops Aren't Happy About It",
-          "link": "https://www.polygon.com/gta-6-miami-dade-rockstar-marketing-proposal-where-is-located/",
-          "date": "2026-09-04T18:01:26+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_duval_07.jpg",
-          "summary": "Miami-Dade officials proposed a massive GTA 6 partnership with Rockstar, but some county reps aren't having it"
-        },
-        {
-          "title": "Silo Season 4 Gets First Trailer and Surprise Release Date Announcement",
-          "link": "https://www.polygon.com/silo-season-4-release-date-trailer/",
-          "date": "2026-09-04T17:50:19+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/silo_photo_030204.jpg",
-          "summary": "Silo season 4 just got its first trailer and fans won't have to wait long until this sci-fi series returns."
         }
       ],
       "ok": true,
@@ -1715,6 +1644,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Tim Schafer Calls Double Fine Leaving Xbox A ‘Creative Awakening’: ‘Asha’s Not Going To Shoot My Dog’",
+          "link": "https://kotaku.com/tim-schafer-calls-double-fine-leaving-xbox-a-creative-awakening-ashas-not-going-to-shoot-my-dog-2000731428",
+          "date": "2026-09-04T22:00:21+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/07/image-11-1-1280x720.jpg",
+          "summary": "The CEO said he had a bad feeling once Phil Spencer retired"
+        },
+        {
+          "title": "Star Wars Zero Company: The Kotaku Review",
+          "link": "https://kotaku.com/star-wars-zero-company-review-is-it-good-performance-ps5-xcom-2000731426",
+          "date": "2026-09-04T21:40:42+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/Star-Wars-ZC-top-1280x720.jpg",
+          "summary": "EA’s latest Star Wars game is more than just an XCOM clone, but it's a bit rough around the edges"
+        },
+        {
           "title": "The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom",
           "link": "https://kotaku.com/the-1001-threads-of-mizan-director-avoids-answering-a-simple-question-at-gamescom-2000731406",
           "date": "2026-09-04T20:20:33+00:00",
@@ -1736,7 +1679,7 @@
           "summary": "CS2 Tracker's 'Slur Tracking' detection feature has only emboldened homophobes and racists, who are now competing to reach the top of Counter-Strike 2 's slur-related leaderboards"
         },
         {
-          "title": "Anne Rice’s Vampires Watch Me Play The First 7 Hours Of The Blood Of Dawnwalker",
+          "title": "Anne Rice’s Vampires Comment On My First 7 Hours Of The Blood Of Dawnwalker",
           "link": "https://kotaku.com/blood-of-the-dawnwalker-interview-with-the-vampire-crossover-2000731322",
           "date": "2026-09-04T18:46:11+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/interviewdawnwalker-1280x720.jpg",
@@ -1769,20 +1712,6 @@
           "date": "2026-09-04T17:00:32+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/image-2026-09-04T100400.919-1280x720.jpg",
           "summary": "It's just as complicated as its tabletop counterpart, and I love it"
-        },
-        {
-          "title": "Rockstar Censors Smoking, Dancing, And Boobs In GTA 6 Trailer For China",
-          "link": "https://kotaku.com/rockstar-censors-smoking-dancing-and-boobs-in-gta-6-trailer-for-china-2000731331",
-          "date": "2026-09-04T16:30:44+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/GTa-6-censorhip-1280x720.jpg",
-          "summary": "Grand Theft Auto 6 's extended trailer looks different if you watch it on China's version of YouTube"
-        },
-        {
-          "title": "Buying A Fat Stack Of Physical Games Still Feels Amazing",
-          "link": "https://kotaku.com/buying-a-fat-stack-of-physical-games-still-feels-amazing-2000731286",
-          "date": "2026-09-04T16:00:57+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/phyiscal-games-1280x735.jpg",
-          "summary": "A new feature is reviving my Xbox game library"
         }
       ],
       "ok": true,
@@ -1871,6 +1800,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Celebrate Labor Day by playing Civilization 7 for free",
+          "link": "https://www.pcgamer.com/games/strategy/celebrate-labor-day-by-playing-civilization-7-for-free/",
+          "date": "2026-09-04T22:22:17+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/PuAfzvCW24RrHX7GDNYgug-1280-80.png",
+          "summary": "There's actually no connection to Labor Day that I can see, but Civ 7 is free to play until September 10, and it's on sale too."
+        },
+        {
+          "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
+          "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-is-a-videogame-franchise-built-around-criminal-activity-miami-dade-county-sheriff-comes-out-hard-against-a-proposed-gta-6-collab-with-rockstar/",
+          "date": "2026-09-04T21:54:43+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/NVz7VbqHAgnCEszydtCSpW-1280-80.jpg",
+          "summary": "It actually sounds like a really good idea, but of course the cops are against it."
+        },
+        {
+          "title": "After a massive 2021 office expansion, Bungie is now trying to sublease its 211,000 square foot headquarters",
+          "link": "https://www.pcgamer.com/gaming-industry/after-a-massive-2021-office-expansion-bungie-is-now-trying-to-sublease-its-211-000-square-foot-headquarters/",
+          "date": "2026-09-04T21:21:31+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/H3DtMJLCb54BQL2GF8KfrJ-1280-80.jpg",
+          "summary": "Bungie says it \"will continue to maintain a physical office presence in Bellevue.\""
+        },
+        {
+          "title": "The White House launches online 'arcade' with its own takes on Tetris and other popular games, and it's as rotten as you'd expect",
+          "link": "https://www.pcgamer.com/games/the-white-house-launches-online-arcade-with-its-own-takes-on-tetris-and-other-popular-games-and-its-as-rotten-as-youd-expect/",
+          "date": "2026-09-04T21:11:38+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/TQh5VrxYE6jQaWTBoMCmQK-1280-80.jpg",
+          "summary": "The arcade currently includes games based on Tetris, Flappy Bird, and Snake, and of course a healthy dose of racism and pro-Trump propaganda."
+        },
+        {
           "title": "Me: You can now run DLSS 5 on AMD GPUs. My RX 9070 XT: Please stop, it hurts us",
           "link": "https://www.pcgamer.com/hardware/graphics-cards/me-you-can-now-run-dlss-5-on-amd-gpus-my-rx-9070-xt-please-stop-it-hurts-us/",
           "date": "2026-09-04T20:10:48+00:00",
@@ -1911,34 +1868,6 @@
           "date": "2026-09-04T15:46:27+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/Zbbikwa27fL5JwK3627fSR-1280-80.jpg",
           "summary": "PC gaming sure ain't cheap."
-        },
-        {
-          "title": "Silent Hill: Townfall is the most Scottish game I've ever played and the most effective horror game I've seen in ages: 'It made sense for us to dig deep into our upbringings, into our past, and try and build a place that felt believable'",
-          "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-most-scottish-game-ive-ever-played-and-the-most-effective-horror-game-ive-seen-in-ages-it-made-sense-for-us-to-dig-deep-into-our-upbringings-into-our-past-and-try-and-build-a-place-that-felt-believable/",
-          "date": "2026-09-04T15:44:34+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wnsabQM4kzSP22VJmdx6zZ-1280-80.jpg",
-          "summary": "And not just because of the foul weather."
-        },
-        {
-          "title": "'That criticism is justified': Gamescom apologizes for its callous response to developer hardware thefts",
-          "link": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
-          "date": "2026-09-04T14:27:54+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/N26NhyeTtbkfws7KhYUQ3V-1280-80.jpg",
-          "summary": "Gamescom said it is \"committed to jointly reviewing and further improving security,\" but doesn't mention any compensation for affected exhibitors."
-        },
-        {
-          "title": "In a sea of failed live service games, I'm shocked to see someone trying to make a MOBA",
-          "link": "https://www.pcgamer.com/games/moba/in-a-sea-of-failed-live-service-games-im-shocked-to-see-someone-trying-to-make-a-moba/",
-          "date": "2026-09-04T14:21:04+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/dR35x4h8LcEdw3YN7rSr4W-1280-80.jpg",
-          "summary": "Project Zeta is trying to crack a near-impenetrable market."
-        },
-        {
-          "title": "Age Twisters is a simple yet charming spin on the co-op adventure that aims to feel like watching a Pixar movie",
-          "link": "https://www.pcgamer.com/games/adventure/age-twisters-is-a-simple-yet-charming-spin-on-the-co-op-adventure-that-aims-to-feel-like-watching-a-pixar-movie/",
-          "date": "2026-09-04T13:15:14+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/yUVaTzLPXrFBatGGTJJdVn-1280-80.png",
-          "summary": "The puzzles won't stump you, but Piccolo Studios says they're not supposed to."
         }
       ],
       "ok": true,
@@ -2339,6 +2268,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Advanced nuclear fuel layers lose hardness after irradiation, US lab tests show",
+          "link": "https://interestingengineering.com/energy/ornl-irradiated-haleu-triso-fuel-mechanical-properties",
+          "date": "2026-09-04T22:40:16+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-650945848.jpg",
+          "summary": "Researchers at the US Department of Energy’s Oak Ridge National Laboratory have measured the mechanical..."
+        },
+        {
+          "title": "Niobium-tin superconductors scale up for fusion magnets reaching peak 20-tesla fields",
+          "link": "https://interestingengineering.com/energy/niobium-tin-superconductors-fusion-magnets",
+          "date": "2026-09-04T22:17:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-05T025326.387.jpg",
+          "summary": "Fusion&#8217;s push toward commercial power is creating a new challenge for the industry to produce..."
+        },
+        {
+          "title": "Here’s why the future of bricklaying might just be robots",
+          "link": "https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots",
+          "date": "2026-09-04T22:12:31+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain.png",
+          "summary": "In our latest episode of Lexicon, Monumental founder and CEO Salar al Khafaji joined us..."
+        },
+        {
           "title": "US nuclear push links microreactors, HALEU fuel and deployment infrastructure",
           "link": "https://interestingengineering.com/energy/nano-nuclear-enveniam-microreactor-fuel-cycle-us",
           "date": "2026-09-04T19:14:32+00:00",
@@ -2386,27 +2336,6 @@
           "date": "2026-09-04T14:50:39+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/BWXT.jpg",
           "summary": "Engineers are designing a modular production unit to replace decades-old infrastructure used for lithium manufacturing..."
-        },
-        {
-          "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
-          "link": "https://interestingengineering.com/energy/nuclear-reactor-advance-with-quantum-breakthrough",
-          "date": "2026-09-04T14:29:08+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Nuclear-reactor.jpg",
-          "summary": "Physicists modeling nuclear systems have long faced a basic computing problem: particles do not move..."
-        },
-        {
-          "title": "US benefits as Finland builds its own F-35 engines for NATO’s northern flank",
-          "link": "https://interestingengineering.com/military/finland-patria-f135-engine-f-35-linnavuori",
-          "date": "2026-09-04T13:51:23+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/F-35s.jpg",
-          "summary": "Finland has completed its first domestically assembled fighter jet engine, weeks before its own F-35s..."
-        },
-        {
-          "title": "In a first, scientists identify origin of ‘beating’ signal hidden in  quantum material",
-          "link": "https://interestingengineering.com/science/scientists-identify-origin-beating-signal-hidden-quantum-material",
-          "date": "2026-09-04T13:37:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design313.jpg",
-          "summary": "Researchers at the Korea Research Institute of Standards and Science (KRISS) and the Gwangju Institute..."
         }
       ],
       "ok": true,
@@ -2587,6 +2516,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+          "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+          "date": "2026-09-04T20:22:41+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-500x500-1729196863.jpg",
+          "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\""
+        },
+        {
+          "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+          "date": "2026-09-04T19:46:34+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/disney-logo-500x500-1788550010.jpg",
+          "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses."
+        },
+        {
           "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
           "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
           "date": "2026-09-04T19:01:02+00:00",
@@ -2641,20 +2584,6 @@
           "date": "2026-09-04T15:59:47+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1552425754-500x500-1788533995.jpg",
           "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name."
-        },
-        {
-          "title": "Trump White House just tossed a grenade into international space relations",
-          "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-          "date": "2026-09-04T15:46:33+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1164167940-500x500.jpg",
-          "summary": "\"Let me be clear: America is not only welcome—we want you there.\""
-        },
-        {
-          "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-          "date": "2026-09-04T12:48:36+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-500x500.jpg",
-          "summary": "Two of Europe's leading launch startups announced new fundraising this week."
         }
       ],
       "ok": true,
