@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:50:11.668616+00:00",
+  "updated": "2026-09-05T00:40:23.341016+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -84,13 +84,6 @@
       "cat": "automotive",
       "items": [
         {
-          "title": "Next Generation: The development of the Porsche 975 RSE",
-          "link": "https://newsroom.porsche.com/en/2026/motorsports/porsche-975-rse-formula-e-gen4-technic-43154.html",
-          "date": "2026-08-31T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332846&w=1080&h=609&crop=1&public=1&cs=e440cddd7c623a8b",
-          "summary": "Porsche Formula E pilots will have a new model, the 975 RSE, for the coming season. The Porsche Newsroom took a deep dive into the technical development of the GEN4 race car at…"
-        },
-        {
           "title": "Sunday Drives: Kristin Lätt in a Macan in Estonia",
           "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-estonia-kristin-laett-43148.html",
           "date": "2026-08-28T07:00:00+00:00",
@@ -152,6 +145,13 @@
           "date": "2026-08-20T07:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Thumbnails/Pitboard_RacingForCharity_16zu9_2.jpg/jcr:content/Pitboard_RacingForCharity_16zu9_2.jpg",
           "summary": "Dr. Ing. h.c. F. Porsche AG is donating 500,000 euros to seriously ill children worldwide as part of its “Racing for Charity” initiative. The Stuttgart sports car manufacturer is…"
+        },
+        {
+          "title": "Monterey Car Week 2026: Porsche presents exclusive highlights",
+          "link": "https://newsroom.porsche.com/en/2026/products/porsche-flachbau-rs-monterey-car-week-2026-43079.html",
+          "date": "2026-08-19T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=338836&w=1080&h=609&crop=1&public=1&cs=95fdfa46efaab219",
+          "summary": "From bespoke factory one-offs to enthusiast-focused sports cars and cinematic storytelling, Porsche showcased a broad spectrum of automotive passion at Monterey Car Week 2026."
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "3DCP Group Completes 36 3D Printed Student Apartments Below Denmark’s Subsidized Housing Cost Cap",
+          "link": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap",
+          "date": "2026-09-04T11:18:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3DCP Group, a construction business combining engineering, architecture, and building services, has completed 36 3D printed student apartments in Holstebro, Denmark, with the…"
+        },
+        {
+          "title": "Wall Colmonoy Oklahoma City Wins USAF Contract for F-16 Heat Exchanger Remanufacturing",
+          "link": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/?utm_source=rss&utm_medium=rss&utm_campaign=wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing",
+          "date": "2026-09-04T05:00:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Wall Colmonoy Oklahoma City, a manufacturer and repair provider for military and commercial aerospace components, has secured a multi-year, multi-million-dollar contract from the…"
+        },
+        {
+          "title": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
+          "link": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
+          "date": "2026-09-04T04:48:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility…"
+        },
+        {
+          "title": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
+          "link": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
+          "date": "2026-09-03T11:50:55+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to…"
+        },
+        {
+          "title": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
+          "link": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
+          "date": "2026-09-03T11:28:59+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for…"
+        },
+        {
+          "title": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
+          "link": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
+          "date": "2026-09-03T11:02:47+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance…"
+        },
+        {
+          "title": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
+          "link": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
+          "date": "2026-09-03T07:06:27+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European…"
+        },
+        {
+          "title": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
+          "link": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
+          "date": "2026-09-03T06:35:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers.…"
+        },
+        {
+          "title": "From Novelty to Volume: Adidas Bets on 3D Printed Scale With Futurecool",
+          "link": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool",
+          "date": "2026-09-02T09:55:58+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Adidas has unveiled Futurecool, a fully 3D printed sneaker built on the brand&#8217;s Climacool ventilation legacy. A limited run of 400 individually numbered pairs went up for…"
+        },
+        {
+          "title": "QUB Researchers 3D Print a Dissolving Patch to Treat Skin Cancer",
+          "link": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/?utm_source=rss&utm_medium=rss&utm_campaign=qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer",
+          "date": "2026-09-02T09:51:29+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Queen&#8217;s University Belfast researchers have developed a dissolvable, 3D printed patch that delivers two anti-cancer drugs directly through the skin using microneedles too…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1644,6 +1715,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Double Fine Boss Says ‘We Never Actively Tried To Make A Game We Thought Was Going To Lose Money’",
+          "link": "https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429",
+          "date": "2026-09-04T23:00:27+00:00",
+          "image": "https://kotaku.com/app/uploads/2025/10/ss_c4b029f04f93d637dbec49173affa-1280x720.jpg",
+          "summary": "Setting the record straight on making artsy games vs. ones that sell"
+        },
+        {
           "title": "Tim Schafer Calls Double Fine Leaving Xbox A ‘Creative Awakening’: ‘Asha’s Not Going To Shoot My Dog’",
           "link": "https://kotaku.com/tim-schafer-calls-double-fine-leaving-xbox-a-creative-awakening-ashas-not-going-to-shoot-my-dog-2000731428",
           "date": "2026-09-04T22:00:21+00:00",
@@ -1705,13 +1783,6 @@
           "date": "2026-09-04T17:30:58+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/fortunes-run-1-1280x720.jpg",
           "summary": "A complex situation with accusations of abuse has left the project in a very precarious position"
-        },
-        {
-          "title": "Total War: Warhammer 40,000 Feels Like The Perfect Strategy Game For 40K Sickos",
-          "link": "https://kotaku.com/total-war-warhammer-40000-feels-like-the-perfect-strategy-game-for-40k-sickos-2000731282",
-          "date": "2026-09-04T17:00:32+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/image-2026-09-04T100400.919-1280x720.jpg",
-          "summary": "It's just as complicated as its tabletop counterpart, and I love it"
         }
       ],
       "ok": true,
@@ -1800,6 +1871,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "As Wardogs blows past 200k Steam concurrents, its developers are prepared for the day 'hype dies down'",
+          "link": "https://www.pcgamer.com/games/fps/as-wardogs-blows-past-200k-steam-concurrents-its-developers-are-prepared-for-the-day-hype-dies-down/",
+          "date": "2026-09-04T23:22:45+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/t9Y89d7jTDuX9WgqPbwKiR-1280-80.jpg",
+          "summary": "\"Doesn't make it a bad game, or even a problem.\""
+        },
+        {
           "title": "Celebrate Labor Day by playing Civilization 7 for free",
           "link": "https://www.pcgamer.com/games/strategy/celebrate-labor-day-by-playing-civilization-7-for-free/",
           "date": "2026-09-04T22:22:17+00:00",
@@ -1861,13 +1939,6 @@
           "date": "2026-09-04T16:40:09+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/fSYKm4VBSatx9jjtTyPFc7-1280-80.jpg",
           "summary": "I've been hankering after a Curse of Strahd adaptation for a long time."
-        },
-        {
-          "title": "Great, now motherboard prices might be next to spike thanks to component costs increasing by up to 50%",
-          "link": "https://www.pcgamer.com/hardware/motherboards/great-now-motherboard-prices-might-be-next-to-spike-thanks-to-component-costs-increasing-by-up-to-50-percent/",
-          "date": "2026-09-04T15:46:27+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Zbbikwa27fL5JwK3627fSR-1280-80.jpg",
-          "summary": "PC gaming sure ain't cheap."
         }
       ],
       "ok": true,
@@ -2268,6 +2339,34 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Graphene superconductivity switched off, showing electron interactions drive it",
+          "link": "https://interestingengineering.com/science/graphene-superconductivity-switched-off-electron-interactions",
+          "date": "2026-09-05T00:20:42+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-05T054514.828.jpg",
+          "summary": "Researchers have completely switched off superconductivity in magic-angle graphene by weakening interactions between electrons, providing..."
+        },
+        {
+          "title": "All-civilian US workforce completes historic overhaul of 15,000-mph nuclear missile",
+          "link": "https://interestingengineering.com/military/minuteman-iii-nuclear-missile-overhaul",
+          "date": "2026-09-05T00:08:24+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-05T045737.534.jpg",
+          "summary": "Air Force maintenance crews have completed an unusual overhaul of a Minuteman III missile component,..."
+        },
+        {
+          "title": "Superconductor showdown: Two fusion magnet rivals face intense radiation test",
+          "link": "https://interestingengineering.com/energy/superconductors-fusion-magnets-radiation-test",
+          "date": "2026-09-05T00:05:25+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-05T035644.243.jpg",
+          "summary": "A superconducting material being considered for future fusion magnets turned amorphous under intense electron irradiation,..."
+        },
+        {
+          "title": "New metasurface boosts light conversion in tiny semiconductor device by 1,000x",
+          "link": "https://interestingengineering.com/innovation/metasurface-boosts-semiconductor-light-conversion",
+          "date": "2026-09-04T23:51:57+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-1667261219.jpg",
+          "summary": "Researchers have developed a tiny semiconductor device that can change the frequency, or color, of..."
+        },
+        {
           "title": "Advanced nuclear fuel layers lose hardness after irradiation, US lab tests show",
           "link": "https://interestingengineering.com/energy/ornl-irradiated-haleu-triso-fuel-mechanical-properties",
           "date": "2026-09-04T22:40:16+00:00",
@@ -2308,34 +2407,6 @@
           "date": "2026-09-04T18:25:33+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-04T233550.464.jpg",
           "summary": "A group of OpenAI-linked agents reportedly took control of a German website this spring, turning..."
-        },
-        {
-          "title": "New composite material could make trains and airplanes easier to recycle",
-          "link": "https://interestingengineering.com/innovation/epoxy-material-combines-recyclingfire-safety",
-          "date": "2026-09-04T17:04:08+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-New-Composite-Material.jpg",
-          "summary": "A new flame-retardant epoxy composite developed by researchers at Empa could help address one of..."
-        },
-        {
-          "title": "New 100-megawatt battery storage center in Texas set to boost US power grid",
-          "link": "https://interestingengineering.com/energy/100-megawatt-battery-storage",
-          "date": "2026-09-04T16:13:55+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-85.jpg",
-          "summary": "Equinor has started commercial operations at its largest battery energy storage project in the U.S.,..."
-        },
-        {
-          "title": "Watch: YouTuber tests 50,000-volt system to pull drinking water from Namibia’s fog",
-          "link": "https://interestingengineering.com/innovation/youtuber-tests-50000-volt-system",
-          "date": "2026-09-04T15:57:13+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/46glzbh3kyu.jpg",
-          "summary": "A 50,000-volt machine designed to extract water from desert fog delivered promising results in garage..."
-        },
-        {
-          "title": "Critical lithium component production for US nuclear stockpile shifts to modular design",
-          "link": "https://interestingengineering.com/innovation/lithium-component-for-us-nuclear-stockpile",
-          "date": "2026-09-04T14:50:39+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/BWXT.jpg",
-          "summary": "Engineers are designing a modular production unit to replace decades-old infrastructure used for lithium manufacturing..."
         }
       ],
       "ok": true,
@@ -2516,6 +2587,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+          "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+          "date": "2026-09-04T22:49:17+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-500x500.jpg",
+          "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
+        },
+        {
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+          "date": "2026-09-04T22:17:36+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
+          "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+        },
+        {
           "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
           "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
           "date": "2026-09-04T20:22:41+00:00",
@@ -2570,20 +2655,6 @@
           "date": "2026-09-04T16:24:24+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-500x500.jpeg",
           "summary": "Every neuron and connection in the brain of a fly has been mapped—twice."
-        },
-        {
-          "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-          "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-          "date": "2026-09-04T16:22:18+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-500x500.jpg",
-          "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
-        },
-        {
-          "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-          "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-          "date": "2026-09-04T15:59:47+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1552425754-500x500-1788533995.jpg",
-          "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name."
         }
       ],
       "ok": true,
@@ -2607,6 +2678,13 @@
       "name": "ENR",
       "cat": "engineering",
       "items": [
+        {
+          "title": "ECHO Introduces Light Towers, Volvo CE's First US-Built Excavators, Deere Settles Right-to-Repair Lawsuit",
+          "link": "https://www.enr.com/articles/63621-echo-introduces-light-towers-volvo-ces-first-us-built-excavators-deere-settles-right-to-repair-lawsuit",
+          "date": "2026-09-05T00:31:48+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/09/04/echo-light-tower.webp?t=1788568332",
+          "summary": "New products from ECHO, Volvo CE shifts production of some equipment stateside and Deere launches the website for the settlement resulting from a right-to-repair lawsuit."
+        },
         {
           "title": "In August, Specialty Trade Contractors Again Led Construction Industry's Hiring",
           "link": "https://www.enr.com/articles/63625-in-august-specialty-trade-contractors-again-led-construction-industrys-hiring",
@@ -2669,13 +2747,6 @@
           "date": "2026-09-03T18:35:17+00:00",
           "image": "https://www.enr.com/ext/resources/2026/09/03/Utah---Aragon.webp?t=1788460074",
           "summary": "Award to Jacobs and Bowen Collins & Associates will involve project engineering to enclose a century-old open-water canal into a pressurized pipeline system."
-        },
-        {
-          "title": "Upcoming Events Will Keep ENR Events Manager Andrea Pinyan Very Busy",
-          "link": "https://www.enr.com/articles/63616-upcoming-events-will-keep-enr-events-manager-andrea-pinyan-very-busy",
-          "date": "2026-09-03T18:25:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/03/1A_2025-Best-Projects-77_ENRready.webp?t=1788462673",
-          "summary": "The manager of ENR's Best Projects awards gatherings and three Infrastructure Forums spoke with Managing Editor Scott Judy about how these events support the publication in…"
         }
       ],
       "ok": true,
