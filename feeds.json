@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T05:36:29.165620+00:00",
+  "updated": "2026-09-06T10:28:20.199419+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -91,18 +91,18 @@
           "summary": "Leon Baldinger’s life revolves around bicycles and cars. In his case, the two worlds come together perfectly – right down to the finest detail."
         },
         {
-          "title": "How IT is driving innovation, resilience, and AI at BRP",
-          "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-brp-innovation-resilience-ai-43196.html",
-          "date": "2026-09-03T10:00:00+00:00",
-          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Company/Consulting-BRP-KI/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg/jcr:content/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg",
-          "summary": "Interview with BRP’s CIO: Stéphane Bilodeau shares how BRP turns digital capabilities into measurable business impact."
-        },
-        {
           "title": "Between fairways and driving pleasure: Porsche Switzerland at the 2026 Omega European Masters",
           "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-schweiz-omega-european-masters-2026-43201.html",
           "date": "2026-09-03T10:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/CH-local/2026/Sport-und-Gesellschaft/Omega-European-Master/Headerbild.jpg/jcr:content/Headerbild.jpg",
           "summary": "World-class international golf, current Porsche models and a varied programme on and around the course: Porsche Switzerland is the main sponsor and official vehicle partner of the…"
+        },
+        {
+          "title": "How IT is driving innovation, resilience, and AI at BRP",
+          "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-brp-innovation-resilience-ai-43196.html",
+          "date": "2026-09-03T10:00:00+00:00",
+          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Company/Consulting-BRP-KI/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg/jcr:content/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg",
+          "summary": "Interview with BRP’s CIO: Stéphane Bilodeau shares how BRP turns digital capabilities into measurable business impact."
         },
         {
           "title": "Roxy vs. Grello: a thrilling battle",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Analysts predicted a tariff-driven autos apocalypse. Why didn’t that happen?",
+          "link": "https://www.autonews.com/podcasts/shift/an-shift-podcast-lenny-larocca-kpmg-0906/",
+          "date": "2026-09-06T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/zoFC7Bj46Tya5x-nKfMmNQ4VGZo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JM2ITMSPKRBWJK7GSVU2LEMQXQ.jpg",
+          "summary": "The auto industry tariff meltdown hasn't materialized as expected."
+        },
+        {
           "title": "Ford depends on experts and it pays off with quality gains",
           "link": "https://www.autonews.com/ford/an-ford-quality-technical-specialists-0905/",
           "date": "2026-09-05T13:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-04T16:51:11+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/dhVHJSIMR_m341O2wHzsa87zrQo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/OYKK7W5REVHELLRY4ALT5D5RT4.jpg",
           "summary": "Volkswagen announced the plans as part of what it's calling a dedicated North American strategy. U.S. dealers have asked for a VW pickup for years."
-        },
-        {
-          "title": "Amazon Ads’ Director of Automotive on the future of full-funnel advertising for auto",
-          "link": "https://www.autonews.com/sponsored/publishing-partners/an-amazon-ads-director-auto-future-full-funnel/",
-          "date": "2026-09-04T16:17:51+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/J2mkkGP8yXkOJmQguvKIIkU3YS8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/377BPSXHGFBVZJEVYWNKGYCBPQ.jpg",
-          "summary": "Explore how Amazon Ads is driving automotive growth with innovative ad solutions. Learn about what's next for auto advertising from our Director of Automotive."
         }
       ],
       "ok": true,
@@ -317,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "More Plugs, Less Power? The Surprising Math Behind Better EV Charging",
+          "link": "https://insideevs.com/news/807034/more-ev-charging-plugs-lower-power-better/",
+          "date": "2026-09-05T11:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/nAbvNk/s3/costco-dc-fast-charging-station.jpg",
+          "summary": "Ultra-fast EV chargers make for great headlines, but they won’t survive long if the companies installing them aren’t making any money."
+        },
         {
           "title": "The Tesla Cybercab Is Already Being Investigated For Not Having A Steering Wheel",
           "link": "https://insideevs.com/news/807187/tesla-cybercab-nhtsa-fed-investigation/",
@@ -379,13 +386,6 @@
           "date": "2026-09-03T22:16:59+00:00",
           "image": "https://cdn.motor1.com/images/mgl/nAlKLE/s3/the-slate-pickup-truck.jpg",
           "summary": "Not all customers who preordered trucks will get them in December, but a select few might."
-        },
-        {
-          "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
-          "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
-          "date": "2026-09-03T20:52:49+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/xqPX1G/s3/2026-tesla-model-3-standard.jpg",
-          "summary": "In a study that tested the battery longevity of half a million EVs, Tesla came in near the bottom of the pack."
         }
       ],
       "ok": true,
@@ -956,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA expands Deep Space Network with giant new dish in California desert",
+          "link": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
+          "date": "2026-09-06T10:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/WDGAhPnN8z3RyRwnfyMKFZ-1280-80.jpg",
+          "summary": "The new antenna will boost capacity on NASA's increasingly strained deep-space communications network as Artemis and other missions drive up demand."
+        },
+        {
           "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
           "link": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can",
           "date": "2026-09-05T15:00:00+00:00",
@@ -1017,13 +1024,6 @@
           "date": "2026-09-04T18:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/fWJb98JcQ896PGHAtDVSte-1280-80.jpg",
           "summary": "Venus is sinking into the sunset as it catches up with Earth — and a small telescope now reveals something the naked eye never can: another planet going through phases."
-        },
-        {
-          "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
-          "link": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
-          "date": "2026-09-04T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/FiG6647SJbKCiciF5NHMUd-1280-80.png",
-          "summary": "Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute…"
         }
       ],
       "ok": true,
@@ -1396,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
+          "link": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html",
+          "date": "2026-09-06T08:00:01+00:00",
+          "image": null,
+          "summary": "Germany's Isar Aerospace launched a rocket into orbit from Norway on Saturday as Europe races to boost its ability to economically send satellites into space independently of the…"
+        },
+        {
           "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
           "link": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html",
           "date": "2026-09-05T18:40:02+00:00",
@@ -1457,13 +1464,6 @@
           "date": "2026-09-03T20:40:05+00:00",
           "image": null,
           "summary": "There are myriad ways of \"being a star,\" and scientists spend years trying to uncover and understand them. One unusual type is the so-called hot subdwarf—small stars that burn…"
-        },
-        {
-          "title": "Perseverance rover watches Earth vanish behind Martian moon",
-          "link": "https://phys.org/news/2026-09-perseverance-rover-earth-martian-moon.html",
-          "date": "2026-09-03T20:40:03+00:00",
-          "image": null,
-          "summary": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA's Perseverance Mars rover. Earth appears as a point of light in the Martian sky,…"
         }
       ],
       "ok": true,
@@ -1559,6 +1559,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "3 Games Where Your Choices Truly Matter",
+          "link": "https://www.polygon.com/best-games-where-choices-matter/",
+          "date": "2026-09-06T10:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/games-where-choices-matter.jpg",
+          "summary": "Games where choices matter often narrow what matters to character death or branching endings. These narrative-driven games do it differently"
+        },
+        {
+          "title": "GTA Cheat Codes Taught a Generation How Much Fun It Is to Break a Video Game",
+          "link": "https://www.polygon.com/gta-ps2-cheat-codes/",
+          "date": "2026-09-06T09:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23008734/san_andreas_definitive.jpg",
+          "summary": "For PS2-era gamers, Grand Theft Auto's extensive cheats were a key part of the fun."
+        },
+        {
+          "title": "8 Years Later, the Most-Near-Perfect Mystery Thriller of the Century is Officially Free on Streaming",
+          "link": "https://www.polygon.com/free-streaming-series-tv-under-the-silver-lake-september-2026/",
+          "date": "2026-09-06T08:06:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/under-the-silver-lake.jpg",
+          "summary": "Under the Silver Lake pokes fun at our obsessive puzzle-solving tendencies."
+        },
+        {
           "title": "Netflix's Near-Perfect 9-Part Gothic Thriller Is So Good You'll Finish in One Weekend",
           "link": "https://www.polygon.com/netflix-haunting-bly-manor-perfect-binge-september-2026/",
           "date": "2026-09-06T03:46:14+00:00",
@@ -1606,27 +1627,6 @@
           "date": "2026-09-05T22:00:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rotta-the-hutt-holds-two-axes-in-a-gladitorial-arena-in-the-mandalorian-and-grogu.jpg",
           "summary": "A behind-the-scenes look at Rotta the Hutt and making Martin Scorsese an alien chef."
-        },
-        {
-          "title": "5 Huge Reveals To Expect From Nintendo’s Zelda Anniversary Direct",
-          "link": "https://www.polygon.com/zelda-direct-what-to-expect/",
-          "date": "2026-09-05T21:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake-future-of-zelda-games.jpg",
-          "summary": "We have a good idea of what could appear at Nintendo's Zelda 40th Anniversary Direct thanks to leaks and a few educated guesses."
-        },
-        {
-          "title": "'The Gentlemen' Season 3 Confirmed? Potential Release Date, and Everything You Need to Know",
-          "link": "https://www.polygon.com/guy-richie-the-gentlemen-season-3-release-date-plot/",
-          "date": "2026-09-05T20:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/eddie-theo-james-leans-out-of-a-sports-car-in-the-gentlemen-season-2.jpg",
-          "summary": "Here’s what you can expect from the next chapter of Guy Ritchie's crime drama"
-        },
-        {
-          "title": "7 R-Rated Action Movies That Are 10/10, No Notes",
-          "link": "https://www.polygon.com/r-rated-action-movies-perfect-no-notes/",
-          "date": "2026-09-05T19:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/heat_screencap_010_webp-1.webp",
-          "summary": "From The Matrix to John Wick, these seven R-rated action movies pair spectacular violence with compelling characters and genuine stakes."
         }
       ],
       "ok": true,
@@ -1636,6 +1636,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Age Twisters is a genuinely charming co-op game hoping to bridge the generation divide - and one of my loveliest surprises at Gamescom",
+          "link": "https://www.eurogamer.net/age-twisters-preview-gamescom",
+          "date": "2026-09-06T09:09:56+00:00",
+          "image": "https://assetsio.gnwcdn.com/AgeTwisters_Screenshot_01.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Despite the horrors its name might imply, Age Twisters it's a surprisingly nifty little thing. I had the opportunity to check it out at Gamescom, and to my delight its co-op…"
+        },
         {
           "title": "Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it",
           "link": "https://www.eurogamer.net/xbox-cloud-gaming-hourly-cap-break-even-point",
@@ -1698,13 +1705,6 @@
           "date": "2026-09-04T18:38:14+00:00",
           "image": "https://assetsio.gnwcdn.com/nms-emoji-header.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Yes, it's time to brace yourself once more, No Man's Sky fans: Sean Murray is delving into his big bag of emojis, indicating - with reliable certainty - the exploratory space…"
-        },
-        {
-          "title": "Nearly a decade on, legendary director Hideki Kamiya says he's \"100% serious\" about reviving Xbox's canned Scalebound",
-          "link": "https://www.eurogamer.net/director-hideki-kamiya-serious-reviving-xbox-canned-scalebound",
-          "date": "2026-09-04T18:22:42+00:00",
-          "image": "https://assetsio.gnwcdn.com/Scalebound_YeLk9nc.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Hideki Kamiya was being super serious about resurrecting Scalebound , PlatinumGames' dragon-filled romp that was cancelled by Xbox nearly a decade ago. Read more"
         }
       ],
       "ok": true,
@@ -1793,6 +1793,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Sunday Papers",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-826",
+          "date": "2026-09-06T09:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sundays are for luxuriating in the chill of the September air and hoping for more of the drenching rain that's ended the summer heat. Though, it's a luxuriating that's quickly…"
+        },
+        {
           "title": "Deliver packages in foresty mountains and avoid thieving boars in the Death Stranding-adjacent and quite calm-looking Pinetrail",
           "link": "https://www.rockpapershotgun.com/deliver-packages-in-foresty-mountains-and-avoid-thieving-boars-in-the-death-stranding-adjacent-and-quite-calm-looking-pinetrail",
           "date": "2026-09-05T21:53:46+00:00",
@@ -1854,13 +1861,6 @@
           "date": "2026-09-04T15:02:08+00:00",
           "image": "https://assetsio.gnwcdn.com/Exodus-Redeemer.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Full disclosure: I did not get to play Exodus with the grumpy mecha octopus sniper . \"Where&rsquo;s the octopus sniper?\", I whispered, confusion melting into sadness as the two…"
-        },
-        {
-          "title": "Former PlayStation indie boss Shuhei Yoshida and the founder of TIGSource are throwing a Game Poem jam that \"challenges traditional boundaries between art forms\"",
-          "link": "https://www.rockpapershotgun.com/former-playstation-indie-boss-shuhei-yoshida-and-the-founder-of-tigsource-are-throwing-a-game-poem-jam-that-challenges-traditional-boundaries-between-art-forms",
-          "date": "2026-09-04T13:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/Shuhei-yoshida_eZou60v.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "What are you doing across Monday 7th to Tuesday 8th September? If your answer isn't \"weaving sick rhymes for PlayStation's former indie gaming boss Shuhei Yoshida and original…"
         }
       ],
       "ok": true,
@@ -2339,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US aircraft engine supplier to build next-gen test bed for hypersonic systems",
+          "link": "https://interestingengineering.com/military/us-military-accelerate-hypersonic-flight",
+          "date": "2026-09-06T05:36:51+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/83gxpdw6u5y.jpg",
+          "summary": "US aircraft engine supplier GE Aerospace has received a new contract from the Defense Innovation..."
+        },
+        {
           "title": "Too round and it bends, too flat and it snaps: The physics behind a rose thorn",
           "link": "https://interestingengineering.com/science/rose-prickle-oval-shape-mechanics-study",
           "date": "2026-09-05T19:36:12+00:00",
@@ -2400,13 +2407,6 @@
           "date": "2026-09-05T15:06:18+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ovj1xykfwdi.jpg",
           "summary": "New Zealand’s Seasats reports it has had a very good month in terms of sales..."
-        },
-        {
-          "title": "7 Deadliest laser weapons built for modern combat",
-          "link": "https://interestingengineering.com/innovation/deadliest-laser-weapons-built-for-modern-combat",
-          "date": "2026-09-05T14:16:44+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Airborne-laser-YAL.jpg?w=150&h=150&crop=1",
-          "summary": "Laser weapons are moving beyond experimental laboratories and becoming practical tools for destroying drones, rockets,..."
         }
       ],
       "ok": true,
