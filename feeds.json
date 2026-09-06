@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:55:01.919715+00:00",
+  "updated": "2026-09-06T21:07:59.095799+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Jaguar Land Rover said to cut 4,000 jobs amid tariffs, falling sales",
+          "link": "https://www.autonews.com/jaguar-land-rover/ane-jaguar-land-rover-4000-job-cuts-0906/",
+          "date": "2026-09-06T19:59:13+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/PAlQtmfkMzmhS2uWC-UjNekGtMo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/EK4NP6QHC5E4TI65DJB5RD7YKQ.png",
+          "summary": "Jaguar Land Rover plans to cut 12 percent of its U.K. workforce as the British automaker confronts U.S. tariffs and falling revenue, The Times of London reported."
+        },
+        {
           "title": "Many dealers still vulnerable to auto finance fraud",
           "link": "https://www.autonews.com/retail/marketing/an-intersection-auto-finance-fraud-0906/",
           "date": "2026-09-06T11:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-04T17:24:07+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/kFFvMItyhg40AjZizrrLPTn192g=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3WJ5G2DU5VCJZIN5HZCZZO7AQU.png",
           "summary": "Automotive News Classifieds"
-        },
-        {
-          "title": "First Shift: Alabama dealership helps kids pay less to play sports",
-          "link": "https://www.autonews.com/video/first-shift-alabama-dealership-helps-kids-pay-less-to-play-sports/",
-          "date": "2026-09-04T17:17:19+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/bnxlDUT6fWrmtqtSf6oDYgYLphs=/0x800/d3qtc8km8dvw1x.cloudfront.net/09-04-2026/t_7504192b093747b889c2c07f002ce7fd_name_file_960x540_1600_v4_.jpg",
-          "summary": "Jeep and Ram extended-range EVs delayed | Automakers to Congress: China ban needed soon | London’s first robotaxi service"
         }
       ],
       "ok": true,
@@ -339,7 +339,7 @@
           "summary": "Rivian just rolled out its newest software update across its older R1 fleet, bringing new features to its R1 platform."
         },
         {
-          "title": "Here’s How Tesla FSD Handles Europe’s Tight City Streets",
+          "title": "This Tesla FSD Ride Through Brussels Went Well. Mostly",
           "link": "https://insideevs.com/news/807281/tesla-fsd-drives-through-burssels/",
           "date": "2026-09-06T13:12:24+00:00",
           "image": "https://cdn.motor1.com/images/mgl/lE4oVE/s3/fsd-in-brussels.jpg",
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "3DCP Group Completes 36 3D Printed Student Apartments Below Denmark’s Subsidized Housing Cost Cap",
+          "link": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap",
+          "date": "2026-09-04T11:18:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3DCP Group, a construction business combining engineering, architecture, and building services, has completed 36 3D printed student apartments in Holstebro, Denmark, with the…"
+        },
+        {
+          "title": "Wall Colmonoy Oklahoma City Wins USAF Contract for F-16 Heat Exchanger Remanufacturing",
+          "link": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/?utm_source=rss&utm_medium=rss&utm_campaign=wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing",
+          "date": "2026-09-04T05:00:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Wall Colmonoy Oklahoma City, a manufacturer and repair provider for military and commercial aerospace components, has secured a multi-year, multi-million-dollar contract from the…"
+        },
+        {
+          "title": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
+          "link": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
+          "date": "2026-09-04T04:48:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility…"
+        },
+        {
+          "title": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
+          "link": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
+          "date": "2026-09-03T11:50:55+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to…"
+        },
+        {
+          "title": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
+          "link": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
+          "date": "2026-09-03T11:28:59+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for…"
+        },
+        {
+          "title": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
+          "link": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
+          "date": "2026-09-03T11:02:47+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance…"
+        },
+        {
+          "title": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
+          "link": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
+          "date": "2026-09-03T07:06:27+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European…"
+        },
+        {
+          "title": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
+          "link": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
+          "date": "2026-09-03T06:35:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers.…"
+        },
+        {
+          "title": "From Novelty to Volume: Adidas Bets on 3D Printed Scale With Futurecool",
+          "link": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool",
+          "date": "2026-09-02T09:55:58+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Adidas has unveiled Futurecool, a fully 3D printed sneaker built on the brand&#8217;s Climacool ventilation legacy. A limited run of 400 individually numbered pairs went up for…"
+        },
+        {
+          "title": "QUB Researchers 3D Print a Dissolving Patch to Treat Skin Cancer",
+          "link": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/?utm_source=rss&utm_medium=rss&utm_campaign=qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer",
+          "date": "2026-09-02T09:51:29+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Queen&#8217;s University Belfast researchers have developed a dissolvable, 3D printed patch that delivers two anti-cancer drugs directly through the skin using microneedles too…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1126,6 +1197,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Astronomers Hear the Faint Whispers of Cosmic Hydrogen from the Distant Past.",
+          "link": "https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past",
+          "date": "2026-09-06T21:03:35+00:00",
+          "image": "https://www.universetoday.com/article_images/South-Africas-MeerKAT-peers-deep-into-the-Universe-2_20260905_232345.jpg",
+          "summary": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light years away, demonstrating a powerful new way to map the Universe."
+        },
+        {
           "title": "A Pair of White Dwarfs Locked in a Six-Minute Orbit Might One Day Be Observed By Gravitational Waves",
           "link": "https://www.universetoday.com/articles/a-pair-of-white-dwarfs-locked-in-a-six-minute-orbit-might-one-day-be-observed-by-gravitational-waves",
           "date": "2026-09-06T15:30:42+00:00",
@@ -1187,13 +1265,6 @@
           "date": "2026-09-03T16:01:47+00:00",
           "image": "https://www.universetoday.com/article_images/centaur_20260903_160025.jpg",
           "summary": "In 1992, Centaur 450P/LONEOS had a close encounter with Saturn, shifting its orbit closer to the Sun. Now astronomers can observe how a small icy body transforms into a comet over…"
-        },
-        {
-          "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
-          "link": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
-          "date": "2026-09-02T20:55:00+00:00",
-          "image": "https://www.universetoday.com/article_images/Runaway-black-hole-illustration-cropped-NASA_20260829_222940.jpg",
-          "summary": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space."
         }
       ],
       "ok": true,
@@ -1488,6 +1559,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "New 85% on Metacritic Fantasy Action Game Just Shot Up to No. 1 on Steam Overnight",
+          "link": "https://www.polygon.com/steam-ominusha-way-of-the-sword-number-1-game/",
+          "date": "2026-09-06T20:11:13+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/onimusha-way-of-the-sword-feather-battle.jpg",
+          "summary": "Fans have waited 20 years for a new installment of Capcom's action game."
+        },
+        {
+          "title": "5 Most Exciting Thriller Movies of All Time",
+          "link": "https://www.polygon.com/most-exciting-thrillers-all-time-ranked/",
+          "date": "2026-09-06T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/b1e56a16-fd5f-451c-8131-367c2762c8bd_xl.jpg",
+          "summary": "From The Silence of the Lambs to Jaws, these five essential thriller movies deliver unforgettable suspense, shocking twists, and gripping mysteries."
+        },
+        {
+          "title": "Cult Classic Platformer Rain World Is Getting A Definitive Release On Nintendo Switch 2",
+          "link": "https://www.polygon.com/cult-classic-platformer-rain-world-is-getting-a-definitive-release-on-nintendo-switch-2/",
+          "date": "2026-09-06T19:30:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rain-world.jpg",
+          "summary": "Rain World Anthology Edition, Airframe Ultra's release date, Bonespire, and more were announced in the first-ever Akupara Direct"
+        },
+        {
           "title": "Official Backrooms 2 Announcement Reportedly Happening Soon, With Kane Parsons Returning",
           "link": "https://www.polygon.com/backrooms-sequel-kane-parsons-director-report/",
           "date": "2026-09-06T17:31:58+00:00",
@@ -1535,27 +1627,6 @@
           "date": "2026-09-06T14:01:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mcdinte_ec206.jpg",
           "summary": "Before Christopher Nolan directed the 2014 film Interstellar, it was going to be made by Steven Spielberg. It would have been much different."
-        },
-        {
-          "title": "55 Years Later, Stanley Kubrick's Gritty Sci-Fi Masterpiece Is Officially Back on Streaming",
-          "link": "https://www.polygon.com/a-clockwork-orange-streaming-on-hbo-max-september-2026/",
-          "date": "2026-09-06T14:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image-1.png",
-          "summary": "A Clockwork Orange remains one of Stanley Kubrick's most unpleasant films to watch — and one of his most entertaining. It's now streaming on HBO Max."
-        },
-        {
-          "title": "BG3's Best Evil Playthrough Replacement Is Waiting to Be Rediscovered on Steam",
-          "link": "https://www.polygon.com/tyranny-crpg-obsidian-baldurs-gate-3-evil-playthrough/",
-          "date": "2026-09-06T13:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-04-at-10-08-43-am.jpg",
-          "summary": "Tyranny casts you as an enforcer for a god-emperor who already won the war. If Baldur's Gate 3's evil playthroughs left you wanting more, play this"
-        },
-        {
-          "title": "GOTY 2026 is the Weakest Field in Years",
-          "link": "https://www.polygon.com/goty-2026-game-awards-blood-dawnwalker-onimusha-orbitals/",
-          "date": "2026-09-06T12:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the_blood_of_dawnwalker_launch_screenshot_-3.png",
-          "summary": "In the shadow of GTA 6, other 2026 GOTY contenders like The Blood of Dawnwalker keep missing the mark."
         }
       ],
       "ok": true,
@@ -1644,6 +1715,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Kalshi Prematurely Pays Out Millions In Wagers For Losing College Football Team",
+          "link": "https://kotaku.com/kalshi-prematurely-pays-out-millions-in-wagers-for-losing-college-football-team-2000731695",
+          "date": "2026-09-06T20:09:12+00:00",
+          "image": "https://kotaku.com/app/uploads/2024/07/f063ad6a80e17117fd413b1da6831644.jpg",
+          "summary": "The legal standings of speculation markets only gets dumber as Kalshi accidentally made the wrong call in the very state its being sued by"
+        },
+        {
+          "title": "Buddy The Unicorn Kicked Out Of Universal Studios’ Halloween Horror Nights",
+          "link": "https://kotaku.com/buddy-the-unicorn-kicked-out-of-universal-studios-halloween-horror-nights-2000731690",
+          "date": "2026-09-06T19:00:57+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/buddyhhn.jpg",
+          "summary": "The theme park’s increasingly popular Halloween season continues to amass more and more movie maniacs, assuming they’re invited"
+        },
+        {
           "title": "Final Fantasy 7 Revelation Devs Don’t Want The Ending ‘Explained To You By Someone Else’",
           "link": "https://kotaku.com/final-fantasy-7-revelation-devs-dont-want-the-ending-explained-to-you-by-someone-else-2000731678",
           "date": "2026-09-06T18:00:58+00:00",
@@ -1698,20 +1783,6 @@
           "date": "2026-09-05T17:56:53+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/falloutstern.jpg",
           "summary": "The largest pinball company delves further into the video game themes, albeit with one largely taking inspiration from its TV adaptation"
-        },
-        {
-          "title": "Granblue Fantasy Relink Company Announces New Publishing Label Aimed At Releasing Smaller Games Faster",
-          "link": "https://kotaku.com/granblue-fantasy-relink-company-announces-new-publishing-label-aimed-at-releasing-smaller-games-faster-2000731080",
-          "date": "2026-09-05T16:30:23+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/Screenshot-2026-09-04-at-12.12.01-1280x803.jpg",
-          "summary": "Their first game, Where the Seeds Fall , will release in November"
-        },
-        {
-          "title": "It’s Curtains For Spider-Noir Season Two, See, The Big Rolled Up Newspaper",
-          "link": "https://kotaku.com/its-curtains-for-spider-noir-season-two-see-the-big-rolled-up-newspaper-2000731553",
-          "date": "2026-09-05T16:17:12+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/02/HA1o565a4AAms80-1280x720.jpg",
-          "summary": "Despite picking up 11 Emmy nominations, the live action Nicolas Cage Spider-Man spinoff will be sleeping with the fishes after just one season"
         }
       ],
       "ok": true,
@@ -1800,6 +1871,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "18 years after Metal Gear Solid 4 first launched, a modder has shown off its first modded map, MGS3's Groznyj Grad",
+          "link": "https://www.pcgamer.com/games/action/18-years-after-metal-gear-solid-4-first-launched-a-modder-has-shown-off-its-first-modded-map-mgs3s-groznyj-grad/",
+          "date": "2026-09-06T20:40:31+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/4jTrzsSpGr9xMQCxRaX7bm-1280-80.jpg",
+          "summary": "Groznyj Grad? The mountain redoubt of GRU Colonel Volgin?"
+        },
+        {
+          "title": "The Blood of Dawnwalker sold 1 million copies in just 3 days",
+          "link": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sold-1-million-copies-in-just-3-days/",
+          "date": "2026-09-06T19:52:51+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/vzeYHFmAoT86gjAVgVSNYk-1280-80.jpg",
+          "summary": "None too shabby."
+        },
+        {
+          "title": "'There is absolutely no generative AI in Space Marine 3' promises Saber Interactive executive",
+          "link": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/",
+          "date": "2026-09-06T19:15:07+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/iMNxBmUjzkvgDjxgbdv4v3-1280-80.jpg",
+          "summary": "The Machine Spirits lie silent."
+        },
+        {
           "title": "Saber CCO Tim Willits is still bullish on AI, but concerned about its environmental impact: 'Elon wants to put servers in space. That could be the answer, right?'",
           "link": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-is-still-bullish-on-ai-but-concerned-about-its-environmental-impact-elon-wants-to-put-servers-in-space-that-could-be-the-answer-right/",
           "date": "2026-09-06T18:27:34+00:00",
@@ -1847,27 +1939,6 @@
           "date": "2026-09-06T13:34:25+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/GcA5zNG6zmPkhFyUwEVAPj-1280-80.jpg",
           "summary": "Playing the demo for Deficit was far from a net loss."
-        },
-        {
-          "title": "Here's 10 more minutes of the most interesting game shown at this year's Opening Night Live",
-          "link": "https://www.pcgamer.com/games/horror/heres-10-more-minutes-of-the-most-interesting-game-shown-at-this-years-opening-night-live/",
-          "date": "2026-09-06T12:27:26+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/GwYHwW92uf99D6czpkxudQ-1280-80.jpg",
-          "summary": "Rat's entertainment."
-        },
-        {
-          "title": "Civilization 7 will finally enter the atomic age in 2027, via a free update Firaxis says will be 'even bigger in scope' than last year's Test of Time",
-          "link": "https://www.pcgamer.com/games/strategy/civilization-7-will-finally-enter-the-atomic-age-in-2027-via-a-free-update-firaxis-says-will-be-even-bigger-in-scope-than-last-years-test-of-time/",
-          "date": "2026-09-06T11:00:21+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/eTmGTsuoAmDTFuhwgoaRYi-1280-80.jpg",
-          "summary": "First expansion \"Earthrise\" also announced."
-        },
-        {
-          "title": "Ex-BioWare designer says doom and gloom about the next Mass Effect is overstated: 'I think that they can do it'",
-          "link": "https://www.pcgamer.com/games/rpg/ex-bioware-designer-says-doom-and-gloom-about-the-next-mass-effect-is-overstated-i-think-that-they-can-do-it/",
-          "date": "2026-09-06T02:43:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/F3eXTFDWsp68CubFBo3KVg-1280-80.jpg",
-          "summary": "\"I think BioWare can do it if we just leave them alone to do what they do best.\""
         }
       ],
       "ok": true,
@@ -2268,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US boosts its on-orbit threat inspection capability with new successful demonstration",
+          "link": "https://interestingengineering.com/space/us-boosts-on-orbit-threat-inspection",
+          "date": "2026-09-06T18:55:19+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/threat-detection.jpg",
+          "summary": "The United States has taken a significant step toward developing faster and more responsive capabilities..."
+        },
+        {
           "title": "Hyundai targets 2.7 million metric tons of steel production with US plant launch",
           "link": "https://interestingengineering.com/innovation/hyundai-launches-5-8b-steel-mill",
           "date": "2026-09-06T17:31:19+00:00",
@@ -2329,13 +2407,6 @@
           "date": "2026-09-06T12:36:32+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ORNL.jpg",
           "summary": "New research has concluded that retrofitting selected non-powered dams across the United States could produce..."
-        },
-        {
-          "title": "US military nails GPS-free navigation in 4-hour ocean flight using quantum sensors",
-          "link": "https://interestingengineering.com/military/us-military-nails-gps-free-navigation",
-          "date": "2026-09-06T12:29:08+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/fu_py2stwta.jpg",
-          "summary": "A successful flight test demonstrated that aircraft can navigate over the open ocean without relying..."
         }
       ],
       "ok": true,
