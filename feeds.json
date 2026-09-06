@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-06T16:54:12.013251+00:00",
+  "updated": "2026-09-06T18:55:01.919715+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "ROKiT BMW Motorrad WorldSBK Team falls short of its own expectations.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460513EN?language=en",
+          "date": "2026-09-06T18:27:14+00:00",
+          "image": null,
+          "summary": "+++ Ninth round of the 2026 FIM Superbike World Championship at Magny-Cours. +++ Difficult race weekend for Miguel Oliveira and Danilo Petrucci following a promising test. +++…"
+        },
         {
           "title": "Anniversary exhibition “BMW ART CARS – 20 ARTISTS, 50 YEARS OF INNOVATION. REUNITED AT BMW WELT” concluded on 31 August with a record-breaking attendance of over 120,000 visitors.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460481EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-08-19T15:22:00+00:00",
           "image": null,
           "summary": "+++ Juliya Tabaka named seventh BMW Hole-in-One Scholar +++ Top 50 golfers on PGA TOUR go head-to-head for just 30 spots at the season final +++ A first: two BMW Hole-in-One cars…"
-        },
-        {
-          "title": "The MINI John Cooper Works Convertible: Top Performance under the open sky.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0459797EN?language=en",
-          "date": "2026-08-18T22:01:00+00:00",
-          "image": null,
-          "summary": "The MINI John Cooper Works Convertible with Sunny Side Yellow paintwork is made for summer: open, sporty and full of energy. As the most powerful MINI Convertible variant, it…"
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "3DCP Group Completes 36 3D Printed Student Apartments Below Denmark’s Subsidized Housing Cost Cap",
-          "link": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap",
-          "date": "2026-09-04T11:18:13+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "3DCP Group, a construction business combining engineering, architecture, and building services, has completed 36 3D printed student apartments in Holstebro, Denmark, with the…"
-        },
-        {
-          "title": "Wall Colmonoy Oklahoma City Wins USAF Contract for F-16 Heat Exchanger Remanufacturing",
-          "link": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/?utm_source=rss&utm_medium=rss&utm_campaign=wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing",
-          "date": "2026-09-04T05:00:53+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Wall Colmonoy Oklahoma City, a manufacturer and repair provider for military and commercial aerospace components, has secured a multi-year, multi-million-dollar contract from the…"
-        },
-        {
-          "title": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
-          "link": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
-          "date": "2026-09-04T04:48:07+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility…"
-        },
-        {
-          "title": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
-          "link": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
-          "date": "2026-09-03T11:50:55+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to…"
-        },
-        {
-          "title": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
-          "link": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
-          "date": "2026-09-03T11:28:59+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for…"
-        },
-        {
-          "title": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
-          "link": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
-          "date": "2026-09-03T11:02:47+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance…"
-        },
-        {
-          "title": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
-          "link": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
-          "date": "2026-09-03T07:06:27+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European…"
-        },
-        {
-          "title": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
-          "link": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
-          "date": "2026-09-03T06:35:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers.…"
-        },
-        {
-          "title": "From Novelty to Volume: Adidas Bets on 3D Printed Scale With Futurecool",
-          "link": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool",
-          "date": "2026-09-02T09:55:58+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Adidas has unveiled Futurecool, a fully 3D printed sneaker built on the brand&#8217;s Climacool ventilation legacy. A limited run of 400 individually numbered pairs went up for…"
-        },
-        {
-          "title": "QUB Researchers 3D Print a Dissolving Patch to Treat Skin Cancer",
-          "link": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/?utm_source=rss&utm_medium=rss&utm_campaign=qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer",
-          "date": "2026-09-02T09:51:29+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Queen&#8217;s University Belfast researchers have developed a dissolvable, 3D printed patch that delivers two anti-cancer drugs directly through the skin using microneedles too…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -566,7 +495,7 @@
       "cat": "automotive",
       "items": [],
       "ok": false,
-      "error": "500 Server Error: Internal Server Error for url: https://blog.3ds.com/feed/"
+      "error": "404 Client Error: Not Found for url: https://blog.3ds.com/feed/"
     },
     {
       "name": "CATI 3DEXPERIENCE",
@@ -1559,6 +1488,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Official Backrooms 2 Announcement Reportedly Happening Soon, With Kane Parsons Returning",
+          "link": "https://www.polygon.com/backrooms-sequel-kane-parsons-director-report/",
+          "date": "2026-09-06T17:31:58+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdback_ec082.jpg",
+          "summary": "Report indicates that A24 has signed Backrooms director and web series creator Kane Parsons to take charge of the sequel."
+        },
+        {
+          "title": "Farming Sims Are Finally Changing After 10 Years of Stagnation",
+          "link": "https://www.polygon.com/farming-sims-2026-trends/",
+          "date": "2026-09-06T17:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/grave-seasons.jpg",
+          "summary": "Since Stardew Valley, farming sims have stuck to a formula for a decade. Now, with a crop of new entries, the genre is fresher than ever."
+        },
+        {
           "title": "Sony Can't Hide Forever",
           "link": "https://www.polygon.com/patch-notes-sony-playstation-state-of-play-no-disc-no-buy/",
           "date": "2026-09-06T16:00:14+00:00",
@@ -1613,20 +1556,6 @@
           "date": "2026-09-06T12:00:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the_blood_of_dawnwalker_launch_screenshot_-3.png",
           "summary": "In the shadow of GTA 6, other 2026 GOTY contenders like The Blood of Dawnwalker keep missing the mark."
-        },
-        {
-          "title": "5 Most Shocking Anime Deaths Of The 21st Century",
-          "link": "https://www.polygon.com/most-shocking-character-deaths-anime-21st-century/",
-          "date": "2026-09-06T11:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jujutsu-kaisen-movie-usa-1.jpg",
-          "summary": "These anime deaths completely changed the trajectory of these stories."
-        },
-        {
-          "title": "3 Games Where Your Choices Truly Matter",
-          "link": "https://www.polygon.com/best-games-where-choices-matter/",
-          "date": "2026-09-06T10:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/games-where-choices-matter.jpg",
-          "summary": "Games where choices matter often narrow what matters to character death or branching endings. These narrative-driven games do it differently"
         }
       ],
       "ok": true,
@@ -1715,6 +1644,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Final Fantasy 7 Revelation Devs Don’t Want The Ending ‘Explained To You By Someone Else’",
+          "link": "https://kotaku.com/final-fantasy-7-revelation-devs-dont-want-the-ending-explained-to-you-by-someone-else-2000731678",
+          "date": "2026-09-06T18:00:58+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/sephiroths-1280x738.jpg",
+          "summary": "No spoilers, please"
+        },
+        {
+          "title": "Marvel’s Wolverine Ending Leaks Online In Final Stretch Ahead Of Launch",
+          "link": "https://kotaku.com/marvels-wolverine-ending-leaks-online-in-final-stretch-ahead-of-launch-2000731676",
+          "date": "2026-09-06T17:00:23+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/553216626_1334020291424867_3066626384045331465_n-1280x720.jpg",
+          "summary": "The embattled X-Man began with leaked footage in 2023 and it seems PlayStation's biggest exclusive of the year will have to weather one last online attack"
+        },
+        {
           "title": "Resident Evil Director Zach Cregger Feels Like He’s Been On An ‘Apology Tour,’ But The Movie Will ‘Speak For Itself’",
           "link": "https://kotaku.com/resident-evil-director-zach-cregger-feels-like-hes-been-on-an-apology-tour-but-the-movie-will-speak-for-itself-2000731673",
           "date": "2026-09-06T16:30:41+00:00",
@@ -1769,20 +1712,6 @@
           "date": "2026-09-05T16:17:12+00:00",
           "image": "https://kotaku.com/app/uploads/2026/02/HA1o565a4AAms80-1280x720.jpg",
           "summary": "Despite picking up 11 Emmy nominations, the live action Nicolas Cage Spider-Man spinoff will be sleeping with the fishes after just one season"
-        },
-        {
-          "title": "Bungie Is ‘Exploring’ Subleasing Parts Of Its Massive 210,984 Sq. Ft. Studio After Laying Off More Than 600 People In Just Three Years",
-          "link": "https://kotaku.com/bungie-is-exploring-subleasing-parts-of-its-massive-210984-sq-ft-studio-after-laying-off-more-than-600-people-in-just-three-years-2000731541",
-          "date": "2026-09-05T15:30:01+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/05/destiny2a-1280x720.jpg",
-          "summary": "Some see the big expansion as emblematic of the studio's mismanagement"
-        },
-        {
-          "title": "Beloved Evil Dead Star Bruce Campbell Says He Has Five Years Left To Live",
-          "link": "https://kotaku.com/beloved-evil-dead-star-bruce-campbell-says-he-has-five-years-left-to-live-2000731534",
-          "date": "2026-09-05T14:47:42+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/armyofdarkness.jpg",
-          "summary": "The iconic cult movie actor gave an update on his earlier cancer prognosis, which prompted a startling retirement from film and the convention circuit earlier this year"
         }
       ],
       "ok": true,
@@ -1871,6 +1800,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Saber CCO Tim Willits is still bullish on AI, but concerned about its environmental impact: 'Elon wants to put servers in space. That could be the answer, right?'",
+          "link": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-is-still-bullish-on-ai-but-concerned-about-its-environmental-impact-elon-wants-to-put-servers-in-space-that-could-be-the-answer-right/",
+          "date": "2026-09-06T18:27:34+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/3LxA2h8d8uE3JQ6RtYiCXe-1280-80.jpg",
+          "summary": "\"I mean, it's funny, but why not?\""
+        },
+        {
+          "title": "Do you ever listen to videogame music in your day-to-day life?",
+          "link": "https://www.pcgamer.com/games/do-you-ever-listen-to-videogame-music-in-your-day-to-day-life/",
+          "date": "2026-09-06T17:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/kqftNUVHH2sJpaqvfmJXbN-1280-80.jpg",
+          "summary": "Or should videogame music stay *inside* the game?"
+        },
+        {
+          "title": "GSC Game World says there's a reason it didn't give Stalker 2 more time in the oven: 'To make something better, you need to receive feedback, and this feedback should be fresh'",
+          "link": "https://www.pcgamer.com/games/survival-crafting/gsc-game-world-says-theres-a-reason-it-didnt-give-stalker-2-more-time-in-the-oven-to-make-something-better-you-need-to-receive-feedback-and-this-feedback-should-be-fresh/",
+          "date": "2026-09-06T16:51:58+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/XaneWEcSn7sm765nWxjBJS-1280-80.jpg",
+          "summary": "\"Every developer would like to have an infinite amount of time, but … the market state is not very promising.\""
+        },
+        {
           "title": "The Halloween game has a sex minigame in it, except no it doesn't, because it was apparently removed",
           "link": "https://www.pcgamer.com/games/horror/the-halloween-game-has-a-sex-minigame-in-it-except-no-it-doesnt-because-it-was-apparently-removed/",
           "date": "2026-09-06T16:24:44+00:00",
@@ -1918,27 +1868,6 @@
           "date": "2026-09-06T02:43:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/F3eXTFDWsp68CubFBo3KVg-1280-80.jpg",
           "summary": "\"I think BioWare can do it if we just leave them alone to do what they do best.\""
-        },
-        {
-          "title": "Peak studio Aggro Crab is publishing a sick-looking platformer about a blue collar guy doing dirty work on an alien world",
-          "link": "https://www.pcgamer.com/games/action/peak-studio-aggro-crab-is-publishing-a-sick-looking-platformer-about-a-blue-collar-guy-doing-dirty-work-on-an-alien-world/",
-          "date": "2026-09-05T20:32:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/xXJ4mEt7aUMpVwRRNi26uh-1280-80.png",
-          "summary": "That's what's up."
-        },
-        {
-          "title": "Saber CCO says the studio isn't changing up its comms strategy after recent controversies: 'There's always some dust up'",
-          "link": "https://www.pcgamer.com/gaming-industry/saber-cco-says-the-studio-isnt-changing-up-its-comms-strategy-after-recent-controversies-theres-always-some-dust-up/",
-          "date": "2026-09-05T20:13:22+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/4ZpyyPxBnPLU6EPFmTsHkD-1280-80.png",
-          "summary": "\"The games will speak for themselves.\""
-        },
-        {
-          "title": "Dwarf Fortress co-creator Tarn Adams was amazed other devs had heard of his game the first time he went to a convention: 'I didn't know that anyone knew what we were doing'",
-          "link": "https://www.pcgamer.com/games/sim/dwarf-fortress-co-creator-tarn-adams-was-amazed-other-devs-had-heard-of-his-game-the-first-time-he-went-to-a-convention-i-didnt-know-that-anyone-knew-what-we-were-doing/",
-          "date": "2026-09-05T19:14:22+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/BX9YmZcnqHauLqvvbfyLWm-1280-80.jpg",
-          "summary": "\"I try to have good moral qualities, but I am apparently subject to all forms of flattery and vanity and such.\""
         }
       ],
       "ok": true,
@@ -2339,6 +2268,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Hyundai targets 2.7 million metric tons of steel production with US plant launch",
+          "link": "https://interestingengineering.com/innovation/hyundai-launches-5-8b-steel-mill",
+          "date": "2026-09-06T17:31:19+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/q-hr-qc4dz0_e860a8.jpg",
+          "summary": "Hyundai Steel officially broke ground this week on its $5.8 billion Electric Arc Furnace-based integrated..."
+        },
+        {
           "title": "China puts missile-armed jets to operate over contested area, move could intimidate Philippines",
           "link": "https://interestingengineering.com/military/china-puts-missile-armed-trainer-jets-to-work-over-scarborough-shoal",
           "date": "2026-09-06T16:27:25+00:00",
@@ -2400,13 +2336,6 @@
           "date": "2026-09-06T12:29:08+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/fu_py2stwta.jpg",
           "summary": "A successful flight test demonstrated that aircraft can navigate over the open ocean without relying..."
-        },
-        {
-          "title": "US aircraft engine supplier to build next-gen test bed for hypersonic systems",
-          "link": "https://interestingengineering.com/military/us-military-accelerate-hypersonic-flight",
-          "date": "2026-09-06T05:36:51+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/83gxpdw6u5y.jpg",
-          "summary": "US aircraft engine supplier GE Aerospace has received a new contract from the Defense Innovation..."
         }
       ],
       "ok": true,
