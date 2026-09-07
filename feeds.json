@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-06T23:34:20.132728+00:00",
+  "updated": "2026-09-07T03:26:29.087735+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "FIA WEC: #15 BMW M Hybrid V8 finishes in the points at the Lone Star Le Mans in Austin.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460517EN?language=en",
+          "date": "2026-09-07T03:17:07+00:00",
+          "image": null,
+          "summary": "+++ Challenging weekend for the BMW M Team WRT at the start of the second half of the FIA WEC season +++ #15 BMW M Hybrid V8 finishes eighth this time after the victory in São…"
+        },
         {
           "title": "ROKiT BMW Motorrad WorldSBK Team falls short of its own expectations.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460513EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-08-24T00:16:00+00:00",
           "image": null,
           "summary": "+++ First Playoff title for Clark following a wire-to-wire victory at Bellerive Country Club +++ Golf fans enjoy a thrilling anniversary tournament +++ All proceeds from the…"
-        },
-        {
-          "title": "Anniversary in St. Louis: 20th BMW Championship kicks off with Pro-Am in support of Evans Scholars Foundation.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460197EN?language=en",
-          "date": "2026-08-19T15:22:00+00:00",
-          "image": null,
-          "summary": "+++ Juliya Tabaka named seventh BMW Hole-in-One Scholar +++ Top 50 golfers on PGA TOUR go head-to-head for just 30 spots at the season final +++ A first: two BMW Hole-in-One cars…"
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "3DCP Group Completes 36 3D Printed Student Apartments Below Denmark’s Subsidized Housing Cost Cap",
+          "link": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap",
+          "date": "2026-09-04T11:18:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3DCP Group, a construction business combining engineering, architecture, and building services, has completed 36 3D printed student apartments in Holstebro, Denmark, with the…"
+        },
+        {
+          "title": "Wall Colmonoy Oklahoma City Wins USAF Contract for F-16 Heat Exchanger Remanufacturing",
+          "link": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/?utm_source=rss&utm_medium=rss&utm_campaign=wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing",
+          "date": "2026-09-04T05:00:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Wall Colmonoy Oklahoma City, a manufacturer and repair provider for military and commercial aerospace components, has secured a multi-year, multi-million-dollar contract from the…"
+        },
+        {
+          "title": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
+          "link": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
+          "date": "2026-09-04T04:48:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility…"
+        },
+        {
+          "title": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
+          "link": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
+          "date": "2026-09-03T11:50:55+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to…"
+        },
+        {
+          "title": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
+          "link": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
+          "date": "2026-09-03T11:28:59+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for…"
+        },
+        {
+          "title": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
+          "link": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
+          "date": "2026-09-03T11:02:47+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance…"
+        },
+        {
+          "title": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
+          "link": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
+          "date": "2026-09-03T07:06:27+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European…"
+        },
+        {
+          "title": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
+          "link": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
+          "date": "2026-09-03T06:35:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers.…"
+        },
+        {
+          "title": "From Novelty to Volume: Adidas Bets on 3D Printed Scale With Futurecool",
+          "link": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool",
+          "date": "2026-09-02T09:55:58+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Adidas has unveiled Futurecool, a fully 3D printed sneaker built on the brand&#8217;s Climacool ventilation legacy. A limited run of 400 individually numbered pairs went up for…"
+        },
+        {
+          "title": "QUB Researchers 3D Print a Dissolving Patch to Treat Skin Cancer",
+          "link": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/?utm_source=rss&utm_medium=rss&utm_campaign=qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer",
+          "date": "2026-09-02T09:51:29+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Queen&#8217;s University Belfast researchers have developed a dissolvable, 3D printed patch that delivers two anti-cancer drugs directly through the skin using microneedles too…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1488,6 +1559,41 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "How to Watch Nintendo's Zelda 40th Anniversary Direct",
+          "link": "https://www.polygon.com/nintendo-zelda-direct-date-time-september-2026/",
+          "date": "2026-09-07T03:16:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24100929/Link.jpg",
+          "summary": "A new Nintendo Direct about The Legend of Zelda arrives on Sept. 8, promising details on the Ocarina of Time remake and 2027's Legend of Zelda movie."
+        },
+        {
+          "title": "8 Best Games Like The Witcher 3",
+          "link": "https://www.polygon.com/witcher-3-best-games-like/",
+          "date": "2026-09-07T03:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/games-like-witcher-3-header.jpg",
+          "summary": "If you're craving something like The Witcher 3, these eight games are the best at matching CD Projekt Red's masterpiece in terms of story, structure,"
+        },
+        {
+          "title": "'Hereditary' Meets 'Parasite' in This Unforgettable Mystery Thriller That’s Free on Streaming",
+          "link": "https://www.polygon.com/hope-is-the-perfect-excuse-to-revisit-na-hong-jins-best-movie/",
+          "date": "2026-09-07T03:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-wailing.jpg",
+          "summary": "Na Hong-jin’s The Wailing remains a strange, supernatural mystery worth revisiting after his latest movie, Hope."
+        },
+        {
+          "title": "Lanterns Episode 4 Explained: Who Is Hector Hammond?",
+          "link": "https://www.polygon.com/lanterns-hector-hammond-explainer/",
+          "date": "2026-09-07T02:00:24+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/john-stewart-aaron-pierre-sits-in-a-tower-in-lanterns.jpg",
+          "summary": "The villain from the 2011 Ryan Reynolds film returns"
+        },
+        {
+          "title": "Fans Suspect DC's Official Wonder Woman Replacement Has Been Revealed",
+          "link": "https://www.polygon.com/wonder-woman-dcu-james-gunn-adria-arjona-maxima/",
+          "date": "2026-09-07T01:04:34+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/01/wonder_woman-1.jpg",
+          "summary": "Adria Arjona is playing Wonder Woman, fans believe, not the obscure alien Maxima in 2027's Superman sequel, Man of Tomorrow."
+        },
+        {
           "title": "Christopher Nolan's Greatest Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube",
           "link": "https://www.polygon.com/christopher-nolan-sci-fi-inception-free-on-youtube/",
           "date": "2026-09-06T22:00:14+00:00",
@@ -1521,41 +1627,6 @@
           "date": "2026-09-06T17:31:58+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdback_ec082.jpg",
           "summary": "Report indicates that A24 has signed Backrooms director and web series creator Kane Parsons to take charge of the sequel."
-        },
-        {
-          "title": "Farming Sims Are Finally Changing After 10 Years of Stagnation",
-          "link": "https://www.polygon.com/farming-sims-2026-trends/",
-          "date": "2026-09-06T17:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/grave-seasons.jpg",
-          "summary": "Since Stardew Valley, farming sims have stuck to a formula for a decade. Now, with a crop of new entries, the genre is fresher than ever."
-        },
-        {
-          "title": "Sony Can't Hide Forever",
-          "link": "https://www.polygon.com/patch-notes-sony-playstation-state-of-play-no-disc-no-buy/",
-          "date": "2026-09-06T16:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/ghost-of-yotei-legends.jpg",
-          "summary": "PlayStation is trying to ride out the protests over its decision to end production of physical games. It's not working."
-        },
-        {
-          "title": "Final Fantasy 7 Revelation Devs Say Ending Is Best 'Not Explained To You By Someone Else'",
-          "link": "https://www.polygon.com/final-fantasy-7-revelation-ending-pax-west/",
-          "date": "2026-09-06T15:56:23+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ffvii_revelation_june_screenshots_-16.jpg",
-          "summary": "Final Fantasy 7 Revelation developers reveal details about Cid and Vincent, the FITS System, and advise a spoiler-free experience."
-        },
-        {
-          "title": "51 Years Later, Sylvester Stallone's Gritty Action Sci-Fi Classic Is Officially Free on Streaming",
-          "link": "https://www.polygon.com/death-race-2000-free-tubi/",
-          "date": "2026-09-06T15:15:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcddera_ec029.jpg",
-          "summary": "Celebrating 51 years of twisted metal"
-        },
-        {
-          "title": "Persona 4 Revival Finds Its Kanji, And It Isn't Troy Baker Or Matt Mercer",
-          "link": "https://www.polygon.com/persona-4-revival-kanji-tatsumi/",
-          "date": "2026-09-06T14:45:32+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/persona-4-revival-kanji-1.jpg",
-          "summary": "Daman Mills is the new voice actor for Kanji Tatsumi in Persona 4 Revival"
         }
       ],
       "ok": true,
@@ -1800,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "'If you're designing an RPG, you have to go back to the source:' The post-apocalyptic RPG Entropy takes notes from Fallout and a long-abandoned Warhammer spinoff",
+          "link": "https://www.pcgamer.com/games/rpg/if-youre-designing-an-rpg-you-have-to-go-back-to-the-source-the-post-apocalyptic-rpg-entropy-takes-notes-from-fallout-and-a-long-abandoned-warhammer-spinoff/",
+          "date": "2026-09-07T01:50:45+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Rp4V2urGC4eQ4DLu5kdBdF-1280-80.png",
+          "summary": "Consulting the foundational texts."
+        },
+        {
+          "title": "The Tetris Company confirms it had nothing to do with the White House's racist rip-off: 'we believe in the power of connection and bringing people together, not dividing them'",
+          "link": "https://www.pcgamer.com/gaming-industry/the-tetris-company-confirms-it-had-nothing-to-do-with-the-white-houses-racist-rip-off-we-believe-in-the-power-of-connection-and-bringing-people-together-not-dividing-them/",
+          "date": "2026-09-06T23:53:12+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/4cqz6PSMDtuDVvDK8LEGy5-1280-80.png",
+          "summary": "Also, \"We take copyright infringement very seriously.\""
+        },
+        {
           "title": "A hobby dev built a free, 3D galaxy map for Warhammer 40K that loads like lightning in your browser",
           "link": "https://www.pcgamer.com/games/rpg/a-hobby-dev-built-a-free-3d-galaxy-map-for-warhammer-40k-that-loads-like-lightning-in-your-browser/",
           "date": "2026-09-06T22:11:09+00:00",
@@ -1854,20 +1939,6 @@
           "date": "2026-09-06T16:24:44+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/cXhCq7JNN7JwTtV7p2rtv-1280-80.jpg",
           "summary": "Some perverse pairings may be the culprit."
-        },
-        {
-          "title": "Onimusha: Way of the Sword proves the parry formula is far from stale, you just need to get freaky with it",
-          "link": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-proves-the-parry-formula-is-far-from-stale-you-just-need-to-get-freaky-with-it/",
-          "date": "2026-09-06T15:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/sMU5atdMCr6yfvGBJa5s9F-1280-80.jpg",
-          "summary": "Parry fatigue? Not me."
-        },
-        {
-          "title": "I never thought a fishing sim could be this fun, but How to Fish proves me wrong with its ridiculous physics, killer spider crabs, and classic co-op chaos",
-          "link": "https://www.pcgamer.com/games/sim/i-never-thought-a-fishing-sim-could-be-this-fun-but-how-to-fish-proves-me-wrong-with-its-ridiculous-physics-killer-spider-crabs-and-classic-co-op-chaos/",
-          "date": "2026-09-06T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/MJNFqUmQNN2tGm5zFkbWZK-1280-80.jpg",
-          "summary": "I now know How to Fish, kinda."
         }
       ],
       "ok": true,
@@ -2268,6 +2339,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "China’s chip giant AMEC launches 6 new machines to boost semiconductor production",
+          "link": "https://interestingengineering.com/innovation/china-chip-giant-amec-semiconductor-production",
+          "date": "2026-09-07T03:22:03+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ianwera63b0.jpg",
+          "summary": "Chinese semiconductor equipment manufacturer Advanced Micro-Fabrication Equipment (AMEC) has unveiled six new chip-making machines as..."
+        },
+        {
+          "title": "2,400-ton powerful submarine with air-independent propulsion set to boost US ally’s naval power",
+          "link": "https://interestingengineering.com/military/2400-ton-submarine-air-independent-propulsion-power",
+          "date": "2026-09-07T02:39:05+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/tkms-submarine-new.jpg",
+          "summary": "A Kiel-based company has successfully delivered a powerful submarine with air-independent propulsion to the Israeli..."
+        },
+        {
           "title": "US boosts its on-orbit threat inspection capability with new successful demonstration",
           "link": "https://interestingengineering.com/space/us-boosts-on-orbit-threat-inspection",
           "date": "2026-09-06T18:55:19+00:00",
@@ -2322,20 +2407,6 @@
           "date": "2026-09-06T13:07:24+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/fpesyiyurgk.jpg",
           "summary": "John Hopkins APL&nbsp;researchers have found a way to dramatically speed up the way that carbon-carbon..."
-        },
-        {
-          "title": "Air-dropped acoustic sensors could provide early warning of dangerous Arctic ice changes",
-          "link": "https://interestingengineering.com/science/vibrations-from-arctic-icequakes-reveal-changes",
-          "date": "2026-09-06T12:43:31+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/9ctfvm4lrfg.jpg",
-          "summary": "The Arctic Ocean is full of sounds—sea ice cracking, beluga whales calling, and ships moving..."
-        },
-        {
-          "title": "Powering 1.4 million US homes: Untapped dams could generate 15.2 TWh electricity",
-          "link": "https://interestingengineering.com/energy/untapped-us-dams-power-1-4-million-homes",
-          "date": "2026-09-06T12:36:32+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ORNL.jpg",
-          "summary": "New research has concluded that retrofitting selected non-powered dams across the United States could produce..."
         }
       ],
       "ok": true,
