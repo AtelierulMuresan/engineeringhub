@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-07T19:39:34.623702+00:00",
+  "updated": "2026-09-07T22:35:28.146562+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Cool as ICE, hot on the track: the new BMW 3 Series with four- and six-cylinder engines completes its final round of summer driving dynamics testing in Miramas.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460493EN?language=en",
+          "date": "2026-09-07T22:01:00+00:00",
+          "image": null,
+          "summary": "Camouflaged prototypes lap the test tracks at BMW Group’s proving grounds in southern France as part of high-intensity tuning drives. The latest edition of the successful, iconic…"
+        },
         {
           "title": "BMW Group is expanding collection of image data from BMW customer vehicles in Europe to drive continuous product improvement and enhance road safety.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460397EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-08-27T07:00:00+00:00",
           "image": null,
           "summary": "New active safety functions support drivers in critical driving, parking and exit scenarios. The enhanced Exit Warning function can actively delay door opening, helping to prevent…"
-        },
-        {
-          "title": "MINI 1965 Victory Edition: special edition continues a rich motorsport legacy.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460255EN?language=en",
-          "date": "2026-08-25T22:01:00+00:00",
-          "image": null,
-          "summary": "+++ MINI 1965 Victory Edition celebrates the 1965 Monte Carlo Rally victory +++ Special edition available for the MINI Cooper S, MINI John Cooper Works and MINI John Cooper Works…"
         }
       ],
       "ok": true,
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "U.S. new car and light-truck inventories, on Sept. 1, 2026",
+          "link": "https://www.autonews.com/data-center/sales-data/an-us-new-car-and-light-truck-inventories-on-sept-1-2026/",
+          "date": "2026-09-07T19:56:57+00:00",
+          "image": null,
+          "summary": "Unit inventory and days’ supply of cars and light trucks in the U.S. for automakers that report monthly sales and inventory"
+        },
+        {
           "title": "VW ID Polo, Skoda Epiq face 10-month waits as affordable EVs prove market appetite",
           "link": "https://www.autonews.com/volkswagen/ane-vw-id-polo-skoda-epiq-waiting-list-0907/",
           "date": "2026-09-07T10:33:27+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-04T19:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/WurZW1vjh_N6nGrP2-WOWhKe1hI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/7EOLYRJAIRHQTPPB7RAATN2ITY.jpg",
           "summary": "VW's board unanimously approved Oliver Blume's overhaul plan after brokered talks softened plant closures and dropped a VW brand spinoff."
-        },
-        {
-          "title": "Tesla’s Cybercab launches; the fraud threatening your showroom",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-tesla-cybercab-fraud-0904/",
-          "date": "2026-09-04T18:53:50+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/hB70o3P6iuXqi8bDnMdmpr6B5NU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/X2ILOQSXIVEFBZETNACGQJ6YK4.jpg",
-          "summary": "Fraud is surging, and dealerships are vulnerable. Volkswagen Group’s restructuring takes a step forward. Plus, Tesla’s Cybercab officially launches, but it has a long way to catch…"
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "[Review] Meshy AI Tested Across Six Practical 3D Modelling Tests",
+          "link": "https://3dprintingindustry.com/news/review-meshy-ai-tested-across-six-practical-3d-modelling-tests-254447/?utm_source=rss&utm_medium=rss&utm_campaign=review-meshy-ai-tested-across-six-practical-3d-modelling-tests",
+          "date": "2026-09-07T12:03:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Turning an idea into a usable 3D model can still require considerable time, modelling knowledge and specialist software.&#160; Generative AI has introduced a different route,…"
+        },
+        {
+          "title": "Study Reveals Better Electrode Geometry for Flow Batteries",
+          "link": "https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444/?utm_source=rss&utm_medium=rss&utm_campaign=study-reveals-better-electrode-geometry-for-flow-batteries",
+          "date": "2026-09-07T09:01:08+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers from Eindhoven University of Technology and the University of Waterloo have used a $350 3D printer to manufacture battery electrodes with precisely engineered internal…"
+        },
+        {
+          "title": "Hike Medical raises $22.5M to expand vertically integrated orthotics platform",
+          "link": "https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433/?utm_source=rss&utm_medium=rss&utm_campaign=hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform",
+          "date": "2026-09-07T07:01:18+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Hike Medical, a San Francisco-based medical device company combining clinical software with in-house manufacturing, has raised $22.5 million in seed and Series A funding to expand…"
+        },
+        {
+          "title": "New Liqcreate Tray Resin Simplifies Custom Dental Tray Production",
+          "link": "https://3dprintingindustry.com/news/new-liqcreate-tray-resin-simplifies-custom-dental-tray-production-254423/?utm_source=rss&utm_medium=rss&utm_campaign=new-liqcreate-tray-resin-simplifies-custom-dental-tray-production",
+          "date": "2026-09-07T06:28:54+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Netherlands-based independent 3D printing resin manufacturer Liqcreate has introduced Liqcreate Tray, a CE Class 1 certified biocompatible resin designed for 3D printing custom…"
+        },
+        {
+          "title": "3DCP Group Completes 36 3D Printed Student Apartments Below Denmark’s Subsidized Housing Cost Cap",
+          "link": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap",
+          "date": "2026-09-04T11:18:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3DCP Group, a construction business combining engineering, architecture, and building services, has completed 36 3D printed student apartments in Holstebro, Denmark, with the…"
+        },
+        {
+          "title": "Wall Colmonoy Oklahoma City Wins USAF Contract for F-16 Heat Exchanger Remanufacturing",
+          "link": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/?utm_source=rss&utm_medium=rss&utm_campaign=wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing",
+          "date": "2026-09-04T05:00:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Wall Colmonoy Oklahoma City, a manufacturer and repair provider for military and commercial aerospace components, has secured a multi-year, multi-million-dollar contract from the…"
+        },
+        {
+          "title": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
+          "link": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
+          "date": "2026-09-04T04:48:07+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility…"
+        },
+        {
+          "title": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
+          "link": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
+          "date": "2026-09-03T11:50:55+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to…"
+        },
+        {
+          "title": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
+          "link": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
+          "date": "2026-09-03T11:28:59+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for…"
+        },
+        {
+          "title": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
+          "link": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
+          "date": "2026-09-03T11:02:47+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -885,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
+          "link": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
+          "date": "2026-09-07T20:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/EyTMyDyBtGRh8UiYLWaD7L-1280-80.jpg",
+          "summary": "Dive into this diverting sandbox adventure from Introversion before another microsecond lapses."
+        },
+        {
           "title": "The moon will hide Jupiter in broad daylight on Sept.8 — here's how to see it",
           "link": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
           "date": "2026-09-07T16:00:00+00:00",
@@ -946,13 +1024,6 @@
           "date": "2026-09-06T15:54:11+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/imDS9PFBXeyCh9pHYKrrsD-1280-80.jpg",
           "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast."
-        },
-        {
-          "title": "Feel the Force with these 10 out-of-this-world Lego Star Wars starships",
-          "link": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships",
-          "date": "2026-09-06T15:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/RuoUHocDfVG68bsYK3ebk6-1280-80.jpg",
-          "summary": "Whether you're a Jedi or a Sith, if you love Star Wars' iconic vessels you'll want to own these ten Lego Star Wars starships."
         }
       ],
       "ok": true,
@@ -1126,6 +1197,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
+          "link": "https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field",
+          "date": "2026-09-07T22:21:00+00:00",
+          "image": "https://www.universetoday.com/article_images/noirlab2618a_20260907_195017.jpeg",
+          "summary": "A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region of sky known as the COSMOS field."
+        },
+        {
           "title": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form",
           "link": "https://www.universetoday.com/articles/quiet-black-holes-with-a-stellar-companion-raise-questions-about-how-they-form",
           "date": "2026-09-07T16:03:56+00:00",
@@ -1187,13 +1265,6 @@
           "date": "2026-09-03T20:30:16+00:00",
           "image": "https://www.universetoday.com/article_images/gsecara_Dark_matter_is_a_universe_map_structure_of_matter_distr_a243d4ed-7ee0-4e8e-bcfc-fcf7ef241792_20260828_030736.png",
           "summary": "Cross-disciplinary research at Perimeter Institute and University of Maryland shows that dark photons could be lurking in more places than previously thought."
-        },
-        {
-          "title": "Penultimate Lunar Occultations Inbound for Jupiter, Venus and More in September",
-          "link": "https://www.universetoday.com/articles/penultimate-lunar-occultations-inbound-for-jupiter-venus-and-more-in-september",
-          "date": "2026-09-03T19:34:00+00:00",
-          "image": "https://www.universetoday.com/article_images/52904206092_60ee2f3cbd_c_20260903_145434.jpg",
-          "summary": "The Moon is busy in September. Coming off of eclipse season in August, the Moon visits no less than two planets, two bright stars and one open cluster in September, as it heads…"
         }
       ],
       "ok": true,
@@ -1488,6 +1559,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Where to Play Every Grand Theft Auto Game in 2026",
+          "link": "https://www.polygon.com/gta-games-grand-theft-auto-where-to-play-all-2026/",
+          "date": "2026-09-07T21:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-6-promo-shot.jpg",
+          "summary": "Rockstar Games GTA might be the most popular game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every game"
+        },
+        {
+          "title": "Cemetery Boys Sequel Reveals a Critical Role Connection New Reveal",
+          "link": "https://www.polygon.com/cemetery-boys-espiritu-excerpt-aiden-thomas/",
+          "date": "2026-09-07T20:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cemetery-boys-cover.jpg",
+          "summary": "Aiden Thomas's supernatural romance is here. Celebrate by listening to an audiobook excerpt from Critical Role's Vico Ortiz."
+        },
+        {
           "title": "Lovecraft Horror Meets Snowpiercer in One of 2026’s Biggest Hidden Gems",
           "link": "https://www.polygon.com/dreadline-express-preview-gamescom-2026/",
           "date": "2026-09-07T19:00:14+00:00",
@@ -1542,20 +1627,6 @@
           "date": "2026-09-07T13:00:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cg_dessert-devil_pralina.png",
           "summary": "We spoke to the developer of Food Devils to learn more about the strategy game alongside the announcement of its Nov. 5 release date"
-        },
-        {
-          "title": "Slay the Spire Fans Need to Devour This New Game for Art Alone",
-          "link": "https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/",
-          "date": "2026-09-07T12:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/megashroom4.png",
-          "summary": "Shroom and Gloom is ready for Early Access release in September 2026 and our preview shows off all the art."
-        },
-        {
-          "title": "Mr. Jambo's Kyle Gordon Reveals His Terrible Video Game Inspirations",
-          "link": "https://www.polygon.com/mr-jambo-kyle-gordon-shelf-quest/",
-          "date": "2026-09-07T12:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/kylegordonnotext.jpg",
-          "summary": "Planet of the Bass creator Kyle Gordon has a new album in fall 2026. Before that, he joined Shelf Quest."
         }
       ],
       "ok": true,
@@ -1644,6 +1715,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Radical Dreamers Is A Short But Fun Reunion With Chrono Characters",
+          "link": "https://kotaku.com/radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters-2000731448",
+          "date": "2026-09-07T22:00:29+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/radicaldreamers01-e1788789361220.jpg",
+          "summary": "The visual novel offered satisfying connective tissue between two beloved games"
+        },
+        {
+          "title": "How Ys VIII’s Unique Take On The Apocalypse Made It So Compelling",
+          "link": "https://kotaku.com/how-ys-viiis-unique-take-on-the-apocalypse-made-it-so-compelling-2000730391",
+          "date": "2026-09-07T21:00:35+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/IMG_2253.jpg",
+          "summary": "Ys VIII is one of the best action RPGs of the past generation"
+        },
+        {
+          "title": "World End Syndrome Has A Fascinating Story If You Can Get Past Its Frustrating Game Mechanics",
+          "link": "https://kotaku.com/world-end-syndrome-has-a-fascinating-story-if-you-can-get-past-its-frustrating-game-mechanics-2000730975",
+          "date": "2026-09-07T20:00:19+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/worldend-1280x719.jpg",
+          "summary": "A powerful narrative marred by some odd game mechanics."
+        },
+        {
           "title": "The History of Ultima VII, One Of The Greatest RPGs Ever Made",
           "link": "https://kotaku.com/the-history-of-ultima-vii-one-of-the-greatest-rpgs-ever-made-2000731070",
           "date": "2026-09-07T19:00:48+00:00",
@@ -1691,27 +1783,6 @@
           "date": "2026-09-07T13:45:03+00:00",
           "image": "https://kotaku.com/app/uploads/2024/10/d74a354ba956b171695e83d34f33ef9b-1280x720.jpg",
           "summary": "A new Nintendodogs is also claimed to be on the way"
-        },
-        {
-          "title": "Sony Is Reportedly Bringing Killzone Back Over A Decade Later",
-          "link": "https://kotaku.com/sony-is-reportedly-bringing-killzone-back-over-a-decade-later-2000731870",
-          "date": "2026-09-07T13:03:43+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/killzone-1280x760.jpg",
-          "summary": "But what form it will take is still unclear"
-        },
-        {
-          "title": "Former Capcom Employee Says Western Studios Spend Too Much Time On Jira",
-          "link": "https://kotaku.com/former-capcom-employee-says-western-studios-spend-too-much-time-on-jira-2000731698",
-          "date": "2026-09-06T21:08:58+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/megamandrlight.jpg",
-          "summary": "In a comprehensive breakdown of Capcom’s new golden age, one former staffer says their micromanaging competition might be missing the forest for the trees"
-        },
-        {
-          "title": "Kalshi Prematurely Pays Out Millions In Wagers For Losing College Football Team",
-          "link": "https://kotaku.com/kalshi-prematurely-pays-out-millions-in-wagers-for-losing-college-football-team-2000731695",
-          "date": "2026-09-06T20:09:12+00:00",
-          "image": "https://kotaku.com/app/uploads/2024/07/f063ad6a80e17117fd413b1da6831644.jpg",
-          "summary": "The legal standings of speculation markets only gets dumber as Kalshi accidentally made the wrong call in the very state it's being sued by"
         }
       ],
       "ok": true,
@@ -1956,6 +2027,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Survive Together in the Strange Worlds: Once Human (F2P) Is Available Now on XBOX Series X|S With Game Pass!",
+          "link": "https://news.xbox.com/en-us/2026/09/07/once-human-on-game-pass/",
+          "date": "2026-09-07T20:00:00+00:00",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/become-anomalous-6fe4fad519c0f89dc69d-1024x576.jpg",
+          "summary": "We are incredibly excited to announce that Once Human, our free-to-play strange worlds survival shooter, is now officially available on XBOX Series X&#124;S! Since our launch on…"
+        },
+        {
           "title": "Five Reasons to Race into HOT WHEELS Infinite Rush, Out in Early Access Today",
           "link": "https://news.xbox.com/en-us/2026/09/07/hot-wheels-infinite-rush-early-access-xbox/",
           "date": "2026-09-07T15:00:00+00:00",
@@ -2017,13 +2095,6 @@
           "date": "2026-09-03T16:58:00+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2019/12/Nexus_GRN_on_WHT2.png",
           "summary": "Beginning in November, we’re changing how cloud gaming is included with XBOX Game Pass. Game Pass plans will include a set number of cloud gaming hours each month: Today, eligible…"
-        },
-        {
-          "title": "From 4X to 4R: BioEden Trades Domination for Restoration",
-          "link": "https://news.xbox.com/en-us/2026/09/03/bioeden-4x-to-4r/",
-          "date": "2026-09-03T16:00:00+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/BIOMES_SCREENSHOT_01-a13f2d2ebcc2220c754e-1024x683.jpg",
-          "summary": "A genre built for a post-capitalist world BioEden is set in a post-apocalyptic future shaped by solarpunk ideals, a speculative movement imagining a hopeful world powered by…"
         }
       ],
       "ok": true,
@@ -2268,6 +2339,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "China backs Trump’s battleship plan, claims large-caliber guns can counter drone swarms",
+          "link": "https://interestingengineering.com/military/china-naval-guns-drone-swarms-trump",
+          "date": "2026-09-07T21:40:35+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-08T024952.123.jpg",
+          "summary": "Donald Trump&#8217;s proposed battleship fleet has drawn plenty of ridicule. Now, an unexpected voice from..."
+        },
+        {
+          "title": "Huawei’s new chip design tackles overheating with 55% higher transistor density",
+          "link": "https://interestingengineering.com/energy/huawei-tau-scaling-law-kirin-chip-heat",
+          "date": "2026-09-07T21:21:36+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/GettyImages-1413577536.jpg",
+          "summary": "Huawei says a new vertically stacked semiconductor design can address one of the biggest problems..."
+        },
+        {
+          "title": "China builds giant desert hangars at secretive Lop Nur base for J-36, stealth bombers",
+          "link": "https://interestingengineering.com/military/china-lop-nur-desert-base-j-36-hangars",
+          "date": "2026-09-07T20:55:18+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-08T003206.753.jpg",
+          "summary": "China is rapidly reshaping a remote desert airfield into a major test center for its..."
+        },
+        {
           "title": "Lithium manganese-rich battery cuts gas buildup, retains 92.2% energy after 883 cycles",
           "link": "https://interestingengineering.com/energy/lmr-battery-gas-generation-large-format-cells",
           "date": "2026-09-07T19:13:28+00:00",
@@ -2315,27 +2407,6 @@
           "date": "2026-09-07T14:57:06+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/broo89hfta4.jpg",
           "summary": "DEEP Robotics has released footage showing its Lynx wheel-legged robot series navigating harsh desert terrain,..."
-        },
-        {
-          "title": "China completes 690-foot tunnel on 310-mile railway linking three countries in Asia",
-          "link": "https://interestingengineering.com/transportation/china-completes-690-foot-tunnel",
-          "date": "2026-09-07T13:51:48+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-96.jpg",
-          "summary": "China has reached a key construction milestone on the long-delayed China-Kyrgyzstan-Uzbekistan (CKU) railway, with workers..."
-        },
-        {
-          "title": "‘World-first’ AI-backed ultrasound robot congenital heart surgery completed in China",
-          "link": "https://interestingengineering.com/science/world-first-ai-backed-ultrasound-robot-congenital-heart-surgery-completed-in-china",
-          "date": "2026-09-07T13:12:31+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/unnamed-file-14.jpg",
-          "summary": "A Chinese medical team achieved a world first by successfully using an AI-driven, ultrasound-guided robot..."
-        },
-        {
-          "title": "China to send 30 backpack-sized CubeSats to build 3D satellite network near moon",
-          "link": "https://interestingengineering.com/space/china-cislunar-cubesat-network-space-weather",
-          "date": "2026-09-07T13:12:01+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/image-1920x1080-2025-11-16T144146.856.png",
-          "summary": "China has begun an international project to build a three-dimensional satellite network stretching between Earth..."
         }
       ],
       "ok": true,
