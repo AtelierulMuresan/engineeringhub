@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T20:36:51.098070+00:00",
+  "updated": "2026-09-09T23:00:25.420571+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -318,6 +318,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Vossen Wasted No Time Putting Its Wheels On The Ferrari Luce",
+          "link": "https://insideevs.com/news/807731/ferrari-luce-vossen-wheels/",
+          "date": "2026-09-09T22:50:36+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/ojEjYy/s3/ferrar-luce-vossen-wheels-1.jpg",
+          "summary": "The massive wheels can stay but the fixed rear wing needs to go."
+        },
+        {
           "title": "More And More Americans Are Interested In EVs: Study",
           "link": "https://insideevs.com/news/807725/americans-want-more-evs/",
           "date": "2026-09-09T20:23:53+00:00",
@@ -379,13 +386,6 @@
           "date": "2026-09-09T05:58:57+00:00",
           "image": "https://cdn.motor1.com/images/mgl/ko8oyn/s3/tesla-cybercab-unboxed-production-line.jpg",
           "summary": "By building the two-door EV in modules on parallel lines, Tesla says it can cut the overall line size in half."
-        },
-        {
-          "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company",
-          "link": "https://insideevs.com/news/807596/ford-china-trump-administration-catl/",
-          "date": "2026-09-09T00:30:51+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/NGKmqj/s3/ford-blueoval-battery-park-michigan.jpg",
-          "summary": "Transportation Secretary Sean Duffy pressed Ford CEO Jim Farley to stop working with Chinese companies in a letter on Tuesday."
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Gastronology Signs Belgian Distribution Deal for Its Dysphagia Food Line",
-          "link": "https://3dprintingindustry.com/news/gastronology-signs-belgian-distribution-deal-for-its-dysphagia-food-line-254553/?utm_source=rss&utm_medium=rss&utm_campaign=gastronology-signs-belgian-distribution-deal-for-its-dysphagia-food-line",
-          "date": "2026-09-09T11:08:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Dutch food 3D printing company Gastronology has partnered with Belgian distributor Revogan to bring its products into Belgian care homes and hospitals, with orders opening in…"
-        },
-        {
-          "title": "Formnext Asia Shenzhen 2026 Attendance Rises 65%",
-          "link": "https://3dprintingindustry.com/news/formnext-asia-shenzhen-2026-attendance-rises-65-254544/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-asia-shenzhen-2026-attendance-rises-65",
-          "date": "2026-09-09T09:15:01+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Formnext Asia Shenzhen concluded its 2026 edition on August 28 in Shenzhen, China, with organizers reporting 34,202 visitors from 113 countries and regions to the additive…"
-        },
-        {
-          "title": "AMUG Opens Registration for 2027 Conference, Adds Two New Tracks",
-          "link": "https://3dprintingindustry.com/news/amug-opens-registration-for-2027-conference-adds-two-new-tracks-254540/?utm_source=rss&utm_medium=rss&utm_campaign=amug-opens-registration-for-2027-conference-adds-two-new-tracks",
-          "date": "2026-09-09T09:12:06+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The Additive Manufacturing Users Group (AMUG) has opened registration for its 2027 Education and Training Conference on September 1, 2026. The event will run March 14 to 18, 2027,…"
-        },
-        {
-          "title": "Earthseed Dome Brings 3D Printed Living Soil to ICA",
-          "link": "https://3dprintingindustry.com/news/earthseed-dome-brings-3d-printed-living-soil-to-ica-254534/?utm_source=rss&utm_medium=rss&utm_campaign=earthseed-dome-brings-3d-printed-living-soil-to-ica",
-          "date": "2026-09-09T09:09:41+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Botanical artist Lily Kwong has created Earthseed Dome, a site-responsive 3D printed structure inside Transamerica Redwood Park in San Francisco, presented by the Institute of…"
-        },
-        {
-          "title": "3devo Launches Filament Maker X10: Technical Specification and Pricing",
-          "link": "https://3dprintingindustry.com/news/3devo-launches-filament-maker-x10-technical-specification-and-pricing-254528/?utm_source=rss&utm_medium=rss&utm_campaign=3devo-launches-filament-maker-x10-technical-specification-and-pricing",
-          "date": "2026-09-09T09:01:19+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Utrecht, Netherlands-based 3devo has launched the Filament Maker X10 (FMX10), a filament production system built for continuous, unattended operation on powders, regrinds, and…"
-        },
-        {
-          "title": "Quantum Cyber Installs 80-Unit 3D Printing Drone Farm at Connecticut Facility",
-          "link": "https://3dprintingindustry.com/news/quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility-254512/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility",
-          "date": "2026-09-08T07:23:15+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Autonomous defense technology company Quantum Cyber has completed the purchase and physical installation of all 80 units of its 3D printing drone production farm at its roughly…"
-        },
-        {
-          "title": "USC Team 3D Prints Custom MRI Sensors for Infants in Under 10 Minutes",
-          "link": "https://3dprintingindustry.com/news/usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes-254504/?utm_source=rss&utm_medium=rss&utm_campaign=usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes",
-          "date": "2026-09-08T07:03:06+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "University of Southern California (USC) researchers have developed flexible, 3D printed MRI sensors that can be custom-made for individual infants and children in under 10 minutes…"
-        },
-        {
-          "title": "Phase3D Names Phillips Federal Exclusive Defense Channel Partner in North America",
-          "link": "https://3dprintingindustry.com/news/phase3d-names-phillips-federal-exclusive-defense-channel-partner-in-north-america-254501/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-names-phillips-federal-exclusive-defense-channel-partner-in-north-america",
-          "date": "2026-09-08T06:29:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Chicago-based 3D printing quality assurance software developer Phase3D and U.S.-based supplier of manufacturing technology and services Phillips Federal have entered a partnership…"
-        },
-        {
-          "title": "New Liqcreate Tray Resin Simplifies Custom Dental Tray Production",
-          "link": "https://3dprintingindustry.com/news/new-liqcreate-tray-resin-simplifies-custom-dental-tray-production-254423/?utm_source=rss&utm_medium=rss&utm_campaign=new-liqcreate-tray-resin-simplifies-custom-dental-tray-production",
-          "date": "2026-09-07T13:28:54+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Netherlands-based independent 3D printing resin manufacturer Liqcreate has introduced Liqcreate Tray, a CE Class 1 certified biocompatible resin designed for 3D printing custom…"
-        },
-        {
-          "title": "[Review] Meshy AI Tested Across Six Practical 3D Modelling Tests",
-          "link": "https://3dprintingindustry.com/news/review-meshy-ai-tested-across-six-practical-3d-modelling-tests-254447/?utm_source=rss&utm_medium=rss&utm_campaign=review-meshy-ai-tested-across-six-practical-3d-modelling-tests",
-          "date": "2026-09-07T12:03:07+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Turning an idea into a usable 3D model can still require considerable time, modelling knowledge and specialist software.&#160; Generative AI has introduced a different route,…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -956,6 +885,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
+          "link": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
+          "date": "2026-09-09T21:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/89bXRebTWdkhCUefY85kji-1280-80.png",
+          "summary": "A \"forbidden\" merger between two black holes may not have been quite as impossible as previously thought. New research that suggests the black holes involved were smaller than…"
+        },
+        {
           "title": "International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary",
           "link": "https://www.space.com/space-exploration/international-space-station-astronaut-gives-out-of-this-world-tribute-to-honor-star-treks-60th-anniversary",
           "date": "2026-09-09T20:00:00+00:00",
@@ -991,18 +927,18 @@
           "summary": "United States Space Command just held its first-ever \"Apollo Maneuvers\" exercise, which saw spacecraft maneuvering in orbit through simulated contested environments."
         },
         {
-          "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
-          "date": "2026-09-09T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/2cWUtuasaoqcpN8k9i4oif-1280-80.jpg",
-          "summary": "On Sept. 9, 1982, the first private rocket, Conestoga 1, launched into space from a Texas cattle ranch. Here's why it mattered."
-        },
-        {
           "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
           "link": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
           "date": "2026-09-09T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/eSkRL7TyA9sdqzdh5oDgug-1280-80.jpg",
           "summary": "Anak Krakatau erupted, and satellites were watching."
+        },
+        {
+          "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
+          "date": "2026-09-09T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/2cWUtuasaoqcpN8k9i4oif-1280-80.jpg",
+          "summary": "On Sept. 9, 1982, the first private rocket, Conestoga 1, launched into space from a Texas cattle ranch. Here's why it mattered."
         },
         {
           "title": "A photon from the biggest cosmic explosion since the Big Bang appears to have defied Einstein. Scientists may finally know how",
@@ -1017,13 +953,6 @@
           "date": "2026-09-09T12:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/yrEFYbeDj48M37rBXUj97j-1280-80.jpg",
           "summary": "Love Guardians of the Galaxy? Get $14 off this Lego Marvel Baby Rocket's Ship at Walmart and make your own adventures. You'll have to hurry, though, this retired set is going fast."
-        },
-        {
-          "title": "A ghostly pyramid of light is about to appear before dawn — here's how to see it",
-          "link": "https://www.space.com/stargazing/a-ghostly-pyramid-of-light-is-about-to-appear-before-dawn-heres-how-to-see-the-zodiacal-light-2026",
-          "date": "2026-09-09T12:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/NxiHF2Uoto7cH4nVWUsAU6-1280-80.jpg",
-          "summary": "A ghostly \"false dawn\" is about to light up the predawn sky — if you know where to look."
         }
       ],
       "ok": true,
@@ -1098,6 +1027,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+          "link": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
+          "date": "2026-09-09T22:32:04+00:00",
+          "image": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+          "summary": "The mission, dubbed USSF-153 mission, will launch an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled…"
+        },
+        {
           "title": "SpaceX launches 80th Starlink mission of 2026",
           "link": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
           "date": "2026-09-05T22:06:47+00:00",
@@ -1159,13 +1095,6 @@
           "date": "2026-08-18T20:13:57+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260818_antanna_stowed.jpeg",
           "summary": "It was the 282nd EVA devoted to station assembly and maintenance, the fifth so far this year, the second for Menon and the first for Adenot, now the first French woman to walk in…"
-        },
-        {
-          "title": "SpaceX exceeds 11,000 satellites in low Earth orbit",
-          "link": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/",
-          "date": "2026-08-18T13:13:09+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260819_Starlink_17-50_liftoff.jpeg",
-          "summary": "The Starlink 17-50 mission added another 24 broadband satellites to the company’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base happened at 9:01 p.m. PDT…"
         }
       ],
       "ok": true,
@@ -1382,6 +1311,34 @@
       "cat": "space",
       "items": [
         {
+          "title": "Tiny salt crevices could act as miniature 'Greenhouses' for Martian microbes",
+          "link": "https://phys.org/news/2026-09-tiny-salt-crevices-miniature-greenhouses.html",
+          "date": "2026-09-09T23:00:02+00:00",
+          "image": null,
+          "summary": "We've been searching for life on Mars for a long time, but so far we've come up empty. The fundamental problem is a Catch-22 involving two of the key ingredients for life. Life as…"
+        },
+        {
+          "title": "Beryllium signal identifies stars that have swallowed rocky planets",
+          "link": "https://phys.org/news/2026-09-beryllium-stars-swallowed-rocky-planets.html",
+          "date": "2026-09-09T21:30:01+00:00",
+          "image": null,
+          "summary": "An international team led by researchers from the University of São Paulo (USP) in Brazil has developed an innovative method to identify stars that have consumed the planets…"
+        },
+        {
+          "title": "Chandra uncovers 'hypersoft X-ray sources' that may solve two astrophysical puzzles",
+          "link": "https://phys.org/news/2026-09-chandra-uncovers-hypersoft-ray-sources.html",
+          "date": "2026-09-09T21:20:09+00:00",
+          "image": null,
+          "summary": "Using NASA's Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted…"
+        },
+        {
+          "title": "If alien civilizations use hyper-efficient computers, they will have a distinct energy signal we can detect",
+          "link": "https://phys.org/news/2026-09-alien-civilizations-hyper-efficient-distinct.html",
+          "date": "2026-09-09T21:20:04+00:00",
+          "image": null,
+          "summary": "Love it or hate it, artificial intelligence is likely here to stay. Its ravenous need for computational power has overwhelmed chip manufacturers and power companies alike. While…"
+        },
+        {
           "title": "What to know about Europe's push to compete in space",
           "link": "https://phys.org/news/2026-09-europe-space.html",
           "date": "2026-09-09T19:50:01+00:00",
@@ -1422,34 +1379,6 @@
           "date": "2026-09-09T15:00:11+00:00",
           "image": null,
           "summary": "A few hundred million years after the Big Bang, the first stars ignited—literally the \"let there be light\" moment for the universe. Now known to astronomers as Population III, or…"
-        },
-        {
-          "title": "As African space race heats up, Senegal pursues homemade satellites",
-          "link": "https://phys.org/news/2026-09-african-space-senegal-pursues-homemade.html",
-          "date": "2026-09-09T14:20:12+00:00",
-          "image": null,
-          "summary": "Senegalese engineers in hairnets and white gloves are carefully assembling a nanosatellite at a French lab—another step toward fostering their own space industry back home."
-        },
-        {
-          "title": "A wandering black hole caught feeding on the run",
-          "link": "https://phys.org/news/2026-08-black-hole-caught.html",
-          "date": "2026-09-09T11:30:02+00:00",
-          "image": null,
-          "summary": "Astronomers have found the first direct evidence that a wandering black hole can feed itself by dragging gas along in its wake as it moves through its galaxy. It's the first…"
-        },
-        {
-          "title": "Some black holes grow much faster than their galaxies",
-          "link": "https://phys.org/news/2026-09-black-holes-faster-galaxies.html",
-          "date": "2026-09-09T00:40:01+00:00",
-          "image": null,
-          "summary": "Nearly every galaxy has a supermassive black hole. The few that don't have had theirs ejected during a galactic collision. That's because galaxies and their black holes have…"
-        },
-        {
-          "title": "A new mission could rendezvous with Halley's Comet in 2061",
-          "link": "https://phys.org/news/2026-09-mission-rendezvous-halley-comet.html",
-          "date": "2026-09-08T23:00:05+00:00",
-          "image": null,
-          "summary": "Halley's Comet captures the imagination in a way that few other astronomical objects do. When it last made its approach toward the sun (admittedly when this author, who is now…"
         }
       ],
       "ok": true,
@@ -1545,6 +1474,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Xbox Gets Exclusive Call of Duty Gun Skin PlayStation Players Can't See",
+          "link": "https://www.polygon.com/call-of-duty-modern-warfare-4-xbox-exclusive-gun-skin/",
+          "date": "2026-09-09T21:56:50+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-youtube-modernwarfare4pre-orderbonusinnercircuitm4blueprint-youtube-0-07.jpg",
+          "summary": "The latest battle in the console wars is happening in Call of Duty, where Xbox players are getting a gun skin that looks different on every other plat"
+        },
+        {
+          "title": "Zelda: Ocarina of Time Is the Last Game That Needs a Jump Button",
+          "link": "https://www.polygon.com/zelda-ocarina-of-time-doesnt-need-a-jump-button/",
+          "date": "2026-09-09T21:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-ocarina-of-time-chicken-flying.JPG",
+          "summary": "The Legend of Zelda: Ocarina of Time is coming back with a new feature it could do without: a dedicated jump button."
+        },
+        {
+          "title": "New Professor Layton Game Finally Gets a Release Date After Years of Delays",
+          "link": "https://www.polygon.com/professor-layton-new-world-of-steam-release-date-nintendo-direct-reveal/",
+          "date": "2026-09-09T20:44:33+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-and-the-new-world-of-steam.jpg",
+          "summary": "The release date for Professor Layton and the New World of Steam has finally been announced at the September Nintendo Direct."
+        },
+        {
           "title": "Nintendo Direct Just Proved Fans Will Be Eating Good in 2027",
           "link": "https://www.polygon.com/nintendo-direct-eating-2027/",
           "date": "2026-09-09T20:28:27+00:00",
@@ -1592,27 +1542,6 @@
           "date": "2026-09-09T19:31:48+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/community-movie.jpg",
           "summary": "Danny Pudi remains hopeful that the long-awaited Community movie will happen, four years after Peacock announced the project."
-        },
-        {
-          "title": "Usual June Preview: Gaming's Secret Tastemakers Are Back with Spectral Crab Action",
-          "link": "https://www.polygon.com/usual-june-fall-preview/",
-          "date": "2026-09-09T19:30:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/usual-june_keyart_4k_no-logo.png",
-          "summary": "Finji has published some of the biggest indie games ever. Usual June is the company's next game, developed in-house, and looks awesome."
-        },
-        {
-          "title": "'Nosferatu' Director's New Gothic Thriller Is Already the Biggest Horror Movie of 2026",
-          "link": "https://www.polygon.com/robert-eggers-interview-werwulf/",
-          "date": "2026-09-09T19:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdwerw_uc001.jpg",
-          "summary": "Nosferatu's Robert Eggers goes deeper into the darkness with Werwulf: 'The forest has its own rules'"
-        },
-        {
-          "title": "New Pokémon Confirmed For 'Pokémon Pokopia' In Stylish New Preview",
-          "link": "https://www.polygon.com/pokemon-pokopia-dlc-nintendo-direct-switch-2-new-monsters-items/",
-          "date": "2026-09-09T18:48:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_pokemonpokopiaexpa_scrn_03.jpg",
-          "summary": "Switch 2 owners who purchase the Pokopia Expansion Pass have much to look forward to in the DLC according to the recent Nintendo DIrect"
         }
       ],
       "ok": true,
@@ -1701,6 +1630,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Sinking City 2 Is A Flawed But Fantastic Survival Horror Game Inspired By Modern Resident Evil",
+          "link": "https://kotaku.com/the-sinking-city-2-is-a-flawed-but-fantastic-survival-horror-game-inspired-by-modern-resident-evil-2000732947",
+          "date": "2026-09-09T21:51:06+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/Sinking-City-2-review-kotaku-1280x720.jpg",
+          "summary": "It is also a game that was created during a war by developers facing an uncertain future"
+        },
+        {
           "title": "Silent Hill f Just Collaborated With Japan’s Biggest Indie Game Of 2025",
           "link": "https://kotaku.com/silent-hill-f-urban-myth-dissolution-center-crossover-collaboration-free-minigame-2000732691",
           "date": "2026-09-09T19:00:55+00:00",
@@ -1762,13 +1698,6 @@
           "date": "2026-09-09T16:00:11+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/bloodofthedawnwalker-1280x720.jpg",
           "summary": "I'm begging for the developers to add some kind of map shortcut"
-        },
-        {
-          "title": "Everything We Saw At The September Nintendo Direct",
-          "link": "https://kotaku.com/nintendo-direct-september-kirby-metroid-mario-danganronpa-2000732730",
-          "date": "2026-09-09T15:11:02+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/kirby-1280x720.jpg",
-          "summary": "The Legend of Zelda had its moment, but there are plenty other games coming to Switch 2"
         }
       ],
       "ok": true,
@@ -1857,6 +1786,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Steam now requires Australian users to have a credit card to purchase R18+ games, and no, a simple bank debit card won't work",
+          "link": "https://www.pcgamer.com/gaming-industry/steam-now-requires-australian-users-to-have-a-credit-card-to-purchase-r18-games-and-no-a-simple-bank-debit-card-wont-work/",
+          "date": "2026-09-09T22:40:41+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/3pvieJXWXvMd225ogy8hTm-1280-80.jpg",
+          "summary": "If you don't have a credit card, you don't play adult games."
+        },
+        {
+          "title": "Ikea made a Skyrim mod starring Matt Berry as a sentient shelf named Kallax Storageborn",
+          "link": "https://www.pcgamer.com/games/the-elder-scrolls/ikea-made-a-skyrim-mod-starring-matt-berry-as-a-sentient-shelf-named-kallax-storageborn/",
+          "date": "2026-09-09T21:45:53+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/hRE2EZuN8rkGYDkreqx9mY-1280-80.png",
+          "summary": "The mod includes a new quest, companion, and items—and as marketing stunts go, it looks pretty good."
+        },
+        {
+          "title": "How to make money fast in Wardogs",
+          "link": "https://www.pcgamer.com/games/fps/wardogs-money-farm/",
+          "date": "2026-09-09T21:32:31+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/t9Y89d7jTDuX9WgqPbwKiR-1280-80.jpg",
+          "summary": "An early guide to farming cash in Wardogs."
+        },
+        {
           "title": "'We are no longer using that one red pipe asset we weren't supposed to use': The Blood of Dawnwalker hotfix clears up one of the game's more charming mistakes",
           "link": "https://www.pcgamer.com/games/rpg/we-are-no-longer-using-that-one-red-pipe-asset-we-werent-supposed-to-use-the-blood-of-dawnwalker-hotfix-clears-up-one-of-the-games-more-charming-mistakes/",
           "date": "2026-09-09T19:43:55+00:00",
@@ -1904,27 +1854,6 @@
           "date": "2026-09-09T16:24:42+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/Vmhmhycwkn6YrhJ8EMDcK3-1280-80.png",
           "summary": "So nothing to worry about, then?"
-        },
-        {
-          "title": "Control Resonant should run well on mid-tier PCs, but you're going to have to clear out some serious SSD space",
-          "link": "https://www.pcgamer.com/games/action/control-resonant-pc-system-requirements/",
-          "date": "2026-09-09T16:19:26+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/KQ6cG89U29ex86AmjaTAck-1280-80.jpg",
-          "summary": "The PC system requirements are out."
-        },
-        {
-          "title": "Here's the Wardogs release time for your region",
-          "link": "https://www.pcgamer.com/games/fps/wardogs-release-date-launch-times/",
-          "date": "2026-09-09T16:05:08+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/F9dGodPYWRBfu5k7w7qmQU-1280-80.jpg",
-          "summary": "Back to make a buck on the battlefield."
-        },
-        {
-          "title": "Zach Cregger admits 'I was naive' and pre-apologises for his upcoming Resident Evil film, but I don't think he owes us anything",
-          "link": "https://www.pcgamer.com/movies-tv/zach-cregger-admits-i-was-naive-and-pre-apologises-for-his-upcoming-resident-evil-film-but-i-dont-think-he-owes-us-anything/",
-          "date": "2026-09-09T15:28:44+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wzY6X9dJWXAqxcc3QkH2Ke-1280-80.jpg",
-          "summary": "This is why we can't have nice things."
         }
       ],
       "ok": true,
@@ -2013,6 +1942,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "XBOX @ Tokyo Game Show 2026",
+          "link": "https://news.xbox.com/en-us/2026/09/09/xbox-tokyo-game-show-broadcast-announce-2026/",
+          "date": "2026-09-09T22:00:00+00:00",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2019/12/Nexus_GRN_on_WHT2.png",
+          "summary": "As XBOX marks 25 years of play, we’re pleased to commemorate over 20 years of XBOX in Japan. To celebrate the players, developers, and creators who have been part of the journey,…"
+        },
+        {
           "title": "Fable: How Playground Games is Building Albion for a New Generation | Official XBOX Podcast",
           "link": "https://news.xbox.com/en-us/2026/09/09/fable-how-playground-games-is-building-albion-for-a-new-generation-official-xbox-podcast/",
           "date": "2026-09-09T20:05:00+00:00",
@@ -2074,13 +2010,6 @@
           "date": "2026-09-07T15:00:00+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/HotWheelsHighresScreenshot00122-05addd764f9fd2557df1-1024x576.jpg",
           "summary": "Hello everyone! Today marks the Early Access launch of HOT WHEELS Infinite Rush, a high-speed arcade racing experience set in dynamic, freely explorable environments, all…"
-        },
-        {
-          "title": "Rack up Points in Arcade Hit Railbreak DX, Out Now on XBOX Series X|S & XPA",
-          "link": "https://news.xbox.com/en-us/2026/09/04/rack-up-points-in-arcade-hit-railbreak-dx/",
-          "date": "2026-09-04T18:30:00+00:00",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/RBDXScreen1-9b7e86c778df1e321915-1024x576.jpg",
-          "summary": "Hello and welcome to the highest-octane arcade experience of your life! I’m Julia Wolbach, and I’m stoked to tell you all about Railbreak DX, a gore-geous on-rails shooter…"
         }
       ],
       "ok": true,
@@ -2325,6 +2254,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "New Anthem long-range missile breaks cover with 440+ pound payload, 5,000+ units goal",
+          "link": "https://interestingengineering.com/military/anthem-long-range-missile-5000-units",
+          "date": "2026-09-09T22:58:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-10T030000.569.jpg",
+          "summary": "Covenant has emerged from stealth with Anthem, a long-range strike weapon designed around a problem..."
+        },
+        {
+          "title": "China unveils Gen-III+ nuclear reactor with 66% more automation, 33% less installation",
+          "link": "https://interestingengineering.com/energy/hualong-one-2-0-nuclear-power-safety-upgrade",
+          "date": "2026-09-09T21:26:59+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-10T024526.812.jpg",
+          "summary": "China has unveiled Hualong One 2.0, an upgraded Gen-III+ nuclear power technology designed to improve..."
+        },
+        {
           "title": "iPhone Duo, Apple’s first foldable phone, packs a 7.6-inch display and A20 Pro chip",
           "link": "https://interestingengineering.com/culture/apple-iphone-duo-foldable-1999-76-inch-display",
           "date": "2026-09-09T18:48:14+00:00",
@@ -2379,20 +2322,6 @@
           "date": "2026-09-09T13:53:40+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Satellite-Platforms.jpg",
           "summary": "Eclipse Space has unveiled three satellite platforms designed to let nations and companies build and..."
-        },
-        {
-          "title": "How spacecraft survive the trip back to Earth after leaving the planet",
-          "link": "https://interestingengineering.com/space/re-entry-of-rockets-explained",
-          "date": "2026-09-09T13:07:47+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Rockets.jpg",
-          "summary": "Most rocket launches are watched on the way up. Engines ignite, the vehicle climbs through..."
-        },
-        {
-          "title": "Google-backed 615 MW nuclear plant set for 2029 return to power 500,000 homes",
-          "link": "https://interestingengineering.com/energy/google-backed-nuclear-plant-to-return",
-          "date": "2026-09-09T13:02:05+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-118.jpg",
-          "summary": "The Trump administration is putting $1.9 billion toward restarting a nuclear plant in Iowa as..."
         }
       ],
       "ok": true,
