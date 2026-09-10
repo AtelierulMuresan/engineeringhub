@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:31:49.824073+00:00",
+  "updated": "2026-09-10T22:57:43.780224+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Copart to acquire wholesale digital marketplace company ACV Auctions for $1.9 billion",
+          "link": "https://www.autonews.com/retail/used-cars/an-copart-to-acquire-acv-auction-0910/",
+          "date": "2026-09-10T21:47:17+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/RN5WHd6KdkXgeMk6yjl7bY_0E2U=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MVJE5EWTHNCKJITM5CB4V5X5B4.jpg",
+          "summary": "ACV will continue as an independent subsidiary of Copart and retain its existing leadership team, the companies said."
+        },
+        {
           "title": "Europe’s auto workforce shrinks faster than new electrification, software jobs can provide relief",
           "link": "https://www.autonews.com/manufacturing/automakers/ane-europe-auto-job-losses-alarming-0908/",
           "date": "2026-09-10T19:59:10+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-10T15:37:55+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Cr-XDpCdYuCWEG_NYlp-CvSQv2k=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/Z7QVN76CEJCZPA3ZX32RX7GO2Q.jpg",
           "summary": "Rather than spending on a big ad campaign, Rivian is relying on test drives and word of mouth to sell its first mass-market vehicle."
-        },
-        {
-          "title": "Live talk at noon EDT Sept. 15: Rising Stars on AI and emerging tech",
-          "link": "https://www.autonews.com/technology/an-ai-technology-live-talk-0909/",
-          "date": "2026-09-10T14:38:51+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/opCtufZq4MgDBYV8JR0vJ38mfMs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/WGZL24ZNENHXTEESRVHG3QJBLE.jpg",
-          "summary": "Join Automotive News' Hannah Lutz and 2026 AN Rising Stars William Hotchkiss of GM, Jody Suzuki of Honda and Melody Ayeli of Toyota for a live talk Sept. 15 on AI and emerging…"
         }
       ],
       "ok": true,
@@ -651,6 +651,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+          "date": "2026-09-10T21:11:32+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
+          "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory.…"
+        },
+        {
+          "title": "NASA Answers President’s Call to Establish United States Space Academy",
+          "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+          "date": "2026-09-10T20:26:52+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp?w=1919",
+          "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the…"
+        },
+        {
           "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
           "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
           "date": "2026-09-10T20:12:39+00:00",
@@ -705,20 +719,6 @@
           "date": "2026-09-09T16:00:00+00:00",
           "image": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
           "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries,…"
-        },
-        {
-          "title": "Artemis II Crew at NASA Marshall",
-          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
-          "date": "2026-09-09T15:31:44+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg?w=2048",
-          "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited…"
-        },
-        {
-          "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
-          "link": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
-          "date": "2026-09-09T13:24:37+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/glover-and-wiseman-announcement-sept-9.jpg?w=1920",
-          "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at…"
         }
       ],
       "ok": true,
@@ -1453,11 +1453,11 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Wardogs Has A Massive Start On Steam, But Players Face Brutal Server Queues",
+          "title": "Wardogs’ Massive Start On Steam Undercut By Brutal Server Queues [Update]",
           "link": "https://www.gamespot.com/articles/wardogs-has-a-massive-start-on-steam-but-players-face-brutal-sever-queues/",
           "date": "2026-09-10T18:03:59+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WD.jpg?w=300",
-          "summary": "A big new military FPS, Wardogs (not to be confused with the 2016 Jonah Hill/Miles Teller crime-comedy War Dogs) launched today in early access on Steam, and it's off to a hot…"
+          "summary": "Update: A hotfix has now been released for Wardogs that targets the ongoing server issues. If you're logged in and stuck in a queue, you'll need to close the game to download the…"
         },
         {
           "title": "Amazon Prime Members Get Doom Eternal And 10 More Games For Free In September",
@@ -1531,6 +1531,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "What's Free on Steam This Weekend (Sept. 11-14)",
+          "link": "https://www.polygon.com/free-on-steam-this-weekend-sept-11-2026-borderlands-4/",
+          "date": "2026-09-10T21:17:01+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/borderlands-4-characters-classes-amon-1.jpg",
+          "summary": "Play Borderlands 4 and four other games for free on Steam this weekend, with discounts of up to 90% if you decide to buy them."
+        },
+        {
           "title": "PS5 Heist Shooter Fairgames Makes Surprising Return Under New Name",
           "link": "https://www.polygon.com/sony-fairgames-ps5-project-espresso-playtest-haven-studios/",
           "date": "2026-09-10T20:09:46+00:00",
@@ -1592,13 +1599,6 @@
           "date": "2026-09-10T17:41:33+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/josh-hartnett-below-2026.JPG",
           "summary": "Netflix’s Below follows Josh Hartnett as a Newfoundland fisherman battling a mysterious sea creature in the new six-episode horror thriller."
-        },
-        {
-          "title": "American Horror Story Season 13 Teases an Avengers-Level Crossover",
-          "link": "https://www.polygon.com/american-horror-story-season-13-trailer/",
-          "date": "2026-09-10T17:28:30+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/08/american-horror-story.jpg",
-          "summary": "FX teases a massive series crossover in first trailer for American Horror Story season 13"
         }
       ],
       "ok": true,
@@ -1687,6 +1687,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
+          "link": "https://kotaku.com/someone-recreated-the-weirdest-looking-moment-from-the-big-gta-6-trailer-in-real-life-2000733323",
+          "date": "2026-09-10T22:00:59+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/backflip-real-1280x720.jpg",
+          "summary": "Turns out Jason's odd backflip is possible, if you are a skilled athlete who loves flipping"
+        },
+        {
+          "title": "I Played A Game That Turns Tetris Into Doom, And It’s For Babies",
+          "link": "https://kotaku.com/i-played-a-game-that-turns-tetris-into-doom-and-its-for-babies-2000733317",
+          "date": "2026-09-10T21:25:17+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/blocks-for-babies-4-1280x720.jpg",
+          "summary": "A child could do it, if you gave them a gun"
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The ‘Fidelity’ And ‘Quality’",
+          "link": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319",
+          "date": "2026-09-10T20:53:59+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/09_Aerith_re_FIX-1-1280x720.jpg",
+          "summary": "Director Naoki Hamaguchi defended the move amid the current uproar over physical games"
+        },
+        {
           "title": "A Mystery Playtest Could Be For PlayStation’s Fairgames, Giving Us Our First New Look At The MIA Shooter In Over Three Years",
           "link": "https://kotaku.com/sonys-next-live-service-game-is-holding-playtests-giving-us-our-first-look-at-the-mia-shooter-2000733297",
           "date": "2026-09-10T20:00:50+00:00",
@@ -1734,27 +1755,6 @@
           "date": "2026-09-10T17:23:12+00:00",
           "image": "https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1280x720.jpg",
           "summary": "The Madden publisher's acquisition was finalized in August"
-        },
-        {
-          "title": "StarCraft, ‘Camelot,’ And More: Everything We Expect And Hope To See At BlizzCon 2026",
-          "link": "https://kotaku.com/everything-we-expect-blizzcon-2026-2000733212",
-          "date": "2026-09-10T17:02:01+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/01/midnight-1280x715.jpg",
-          "summary": "A big year for the Crafts"
-        },
-        {
-          "title": "Marvel’s Wolverine Is Currently Sony’s Lowest Scoring Game Of The PS5 Era",
-          "link": "https://kotaku.com/marvels-wolverine-reviews-ps5-playstation-sony-insomniac-metascore-2000733246",
-          "date": "2026-09-10T16:30:40+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/wolverine-reviews-1280x720.jpg",
-          "summary": "With a Metacritic score of just 77, the in-house game is scoring worse than Sackboy: A Big Adventure"
-        },
-        {
-          "title": "Chun-Li’s Stunt Double In The Street Fighter Movie Had To Wear Butt Pads To Match Actor Callina Liang’s Thunder Thighs",
-          "link": "https://kotaku.com/street-fighter-movie-chun-li-actor-callina-liang-thighs-butt-pad-2000733206",
-          "date": "2026-09-10T16:00:13+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/chunli-1280x720.jpg",
-          "summary": "Callina Liang underwent rigorous training to match the fighter's physique"
         }
       ],
       "ok": true,
@@ -1764,6 +1764,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Do a bit of visual programming and watch your party of heroes conquer an evil tower in Dungeon Automata",
+          "link": "https://www.rockpapershotgun.com/do-a-bit-of-visual-programming-and-watch-your-party-of-heroes-conquer-an-evil-tower-in-dungeon-automata",
+          "date": "2026-09-10T21:54:53+00:00",
+          "image": "https://assetsio.gnwcdn.com/dungeon-automata.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "The beautiful thing about people that like dungeon crawlers is that they're all sickos. Every single one of them! This is not a genre that's for the faint of heart. It is often…"
+        },
         {
           "title": "Shroom and Gloom is a positively mycelial roguelike double deckbuilder that's now out in early access",
           "link": "https://www.rockpapershotgun.com/shroom-and-gloom-is-a-positively-mycelial-roguelike-double-deckbuilder-thats-now-out-in-early-access",
@@ -1826,13 +1833,6 @@
           "date": "2026-09-10T13:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/castlevania-belmont's-curse-rose-close-up_ciReaLS.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "\"You're not the last Belmont anymore\", Trevor reminds his daughter Rose, as they gently sail into a Paris ablaze and ripped apart by monsters. Rose knows it well, as do indie…"
-        },
-        {
-          "title": "Steam beta update adds a new Big Picture view, screensavers, and a little treat for desktop Steam Machines",
-          "link": "https://www.rockpapershotgun.com/steam-beta-update-adds-a-new-big-picture-view-screensavers-and-a-little-treat-for-desktop-steam-machines",
-          "date": "2026-09-10T11:30:51+00:00",
-          "image": "https://assetsio.gnwcdn.com/Steam-client-Big-Art-update.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "There&rsquo;s a new Steam client beta update out, and for SteamOS devices like the Steam Deck or Steam Machine &ndash; or just the Windows client's Big Picture Mode &ndash;…"
         }
       ],
       "ok": true,
@@ -1843,7 +1843,49 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Wardogs servers go down as over 300,000 people rush to play on launch day",
+          "title": "Ubisoft is 'testing' making its games far less annoying to launch on Steam",
+          "link": "https://www.pcgamer.com/gaming-industry/ubisoft-is-testing-making-its-games-far-less-annoying-to-launch-on-steam/",
+          "date": "2026-09-10T22:39:47+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/DfzVoRQMPnh9veZzHEZUHo-1280-80.png",
+          "summary": "Ubisoft Connect, your time is up."
+        },
+        {
+          "title": "How to use Battle Idols and Protection Idols in Valheim, and where to find the Forge of Potential",
+          "link": "https://www.pcgamer.com/games/survival-crafting/how-to-use-battle-idols-and-protection-idols-in-valheim-and-where-to-find-the-forge-of-potential/",
+          "date": "2026-09-10T22:34:16+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/6WY5uY6MP62w6y65SGRF9i-1280-80.jpg",
+          "summary": "Valheim 1.0 has added a new way to upgrade your gear."
+        },
+        {
+          "title": "Dave the Diver has now sold more than 10 million copies, Mintrocket 'can't wait to share our future plans'",
+          "link": "https://www.pcgamer.com/games/life-sim/dave-the-diver-has-now-sold-more-than-10-million-copies-mintrocket-cant-wait-to-share-our-future-plans/",
+          "date": "2026-09-10T21:52:16+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/NirYTGgk2dAjzh2caAMRYf-1280-80.jpg",
+          "summary": "In the Jungle, the expansion released earlier this year, is also putting up big numbers."
+        },
+        {
+          "title": "Steam's latest beta brings 'Big Art' to Big Picture Mode and Steam Deck, and customizable screensavers too",
+          "link": "https://www.pcgamer.com/games/steams-latest-beta-brings-big-art-to-big-picture-mode-and-steam-deck-and-customizable-screensavers-too/",
+          "date": "2026-09-10T20:57:26+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZEKQcqkA52xe2tpByenpLa-1280-80.jpg",
+          "summary": "The update makes a number of less flashy changes too."
+        },
+        {
+          "title": "Electronic Arts admits to using AI voices in NHL 27: 'This process allows us to bring more variety to the game'",
+          "link": "https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/",
+          "date": "2026-09-10T20:49:19+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Peqo72mqxSjLkxrFVRc7FY-1280-80.jpg",
+          "summary": "EA says the AI voices were developed with \"full consent and active collaboration\" from in-game announcers John Buccigross and Darren Pang."
+        },
+        {
+          "title": "10 beginner tips to not suck at Wardogs",
+          "link": "https://www.pcgamer.com/games/fps/10-beginner-tips-to-not-suck-at-wardogs/",
+          "date": "2026-09-10T20:33:25+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-1280-80.jpg",
+          "summary": "Before you blow all of your cash, here's some advice."
+        },
+        {
+          "title": "Wardogs servers go down as over 300,000 people rush to play on launch day [Update: I think we're back]",
           "link": "https://www.pcgamer.com/games/fps/wardogs-servers-go-down-as-over-300-000-people-rush-to-play-on-launch-day/",
           "date": "2026-09-10T19:59:28+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/8bXdtpmYfKdkTKxbKBQCiX-1280-80.jpg",
@@ -1869,48 +1911,6 @@
           "date": "2026-09-10T17:22:33+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/6hSVCvQtZvTZHFswBLGHdQ-1280-80.jpg",
           "summary": "\"Why do we need more graphics? Because they just cost a ton.\""
-        },
-        {
-          "title": "'The modern workplace runs on fear ... today we are fighting fear': Fired Grand Theft Auto 6 dev calls out Rockstar in impassioned pre-trial speech",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/the-modern-workplace-runs-on-fear-today-we-are-fighting-fear-fired-grand-theft-auto-6-dev-calls-out-rockstar-in-impassioned-pre-trial-speech/",
-          "date": "2026-09-10T15:59:30+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/h6jVhnAAam4T2JfbDv5AZc-1280-80.jpg",
-          "summary": "The final hearing in the dispute between Rockstar and 31 employees who were fired in 2025 begins today."
-        },
-        {
-          "title": "Koorui G2741L review",
-          "link": "https://www.pcgamer.com/hardware/gaming-monitors/koorui-g2741l-review/",
-          "date": "2026-09-10T15:15:55+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/aMUs6Dj53aCFhCZNHy3qJg-1280-80.jpg",
-          "summary": "Smart compromises make for a punchy monitor on a budget."
-        },
-        {
-          "title": "Where to find the Ito region Treasure Hunt in Forza Horizon 6",
-          "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-ito-location/",
-          "date": "2026-09-10T15:07:12+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ZZBCEkLikBMe7xMJ7f4EJm-1280-80.jpg",
-          "summary": "Find this chest in a… well, field."
-        },
-        {
-          "title": "TSMC continues to rake it in from the 'multi-year AI megatrend,' making a record-breaking $16.35 billion in August alone",
-          "link": "https://www.pcgamer.com/hardware/tsmc-continues-to-rake-it-in-from-the-multi-year-ai-megatrend-making-a-record-breaking-usd16-35-billion-in-august-alone/",
-          "date": "2026-09-10T14:45:20+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/K9uYnQH7zFqsKZ4cLofDfn-1280-80.jpg",
-          "summary": "Is the bubble too big to pop?"
-        },
-        {
-          "title": "Finalmouse claims its mouse has the absolute fastest click, quicker than the Logitech Superstrike and Razer Viper V4 Pro",
-          "link": "https://www.pcgamer.com/hardware/gaming-mice/finalmouse-claims-its-mouse-has-the-absolute-fastest-click-quicker-than-the-logitech-superstrike-and-razer-viper-v4-pro/",
-          "date": "2026-09-10T13:59:32+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/6jYXrvnXLgusqHLuEzUZTo-1280-80.jpg",
-          "summary": "\"The fastest button input we've measured in a consumer electronic device.\""
-        },
-        {
-          "title": "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards",
-          "link": "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
-          "date": "2026-09-10T13:25:57+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/KpLCJsAdeUZxuompAAsdK9-1280-80.png",
-          "summary": "That includes doing the neural rendering dance all over videos and photos."
         }
       ],
       "ok": true,
@@ -2311,6 +2311,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "World’s first zinc Hall-effect thruster fires in space on its maiden attempt",
+          "link": "https://interestingengineering.com/innovation/zinc-hall-effect-thruster-fires-in-space",
+          "date": "2026-09-10T21:54:47+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-11T015021.107.jpg",
+          "summary": "A satellite has fired a Hall-effect thruster fueled by solid zinc in orbit for the..."
+        },
+        {
           "title": "20-foot nuclear reactor lowered 100 feet underground using commercial drilling gear",
           "link": "https://interestingengineering.com/energy/deep-fission-tests-underground-nuclear-reactor-canister",
           "date": "2026-09-10T19:44:57+00:00",
@@ -2372,13 +2379,6 @@
           "date": "2026-09-10T14:32:23+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/aircraft-system.jpg",
           "summary": "A Los Angeles-based company is developing a low-cost, expendable ramjet-powered vehicle designed for launch from..."
-        },
-        {
-          "title": "China builds world’s first testing ground for lunar navigation systems on Earth",
-          "link": "https://interestingengineering.com/space/gdut-lunar-navigation-simulation-verification-platform",
-          "date": "2026-09-10T13:48:13+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/platform-for-lunar-satellite-navigation-system.jpeg",
-          "summary": "China has unveiled what researchers describe as the world&#8217;s first publicly released platform for testing..."
         }
       ],
       "ok": true,
@@ -2559,6 +2559,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+          "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+          "date": "2026-09-10T20:55:29+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-500x500-1789072067.jpg",
+          "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation."
+        },
+        {
           "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
           "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
           "date": "2026-09-10T19:09:29+00:00",
@@ -2620,13 +2627,6 @@
           "date": "2026-09-09T20:27:40+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-500x500.jpg",
           "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\""
-        },
-        {
-          "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-          "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-          "date": "2026-09-09T20:06:28+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-500x500-1788979944.jpg",
-          "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
         }
       ],
       "ok": true,
