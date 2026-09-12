@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:48:47.720710+00:00",
+  "updated": "2026-09-12T08:27:26.736448+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
+          "link": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
+          "date": "2026-09-10T17:28:13+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg?w=2048",
+          "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to…"
+        },
+        {
+          "title": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/",
+          "date": "2026-08-26T17:33:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406812.jpg?w=1536",
+          "summary": "During the Aug. 12 total solar eclipse&#160;over&#160;Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its…"
+        },
+        {
+          "title": "NASA Selects University Teams to Help Advance Aviation Research",
+          "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+          "date": "2026-08-20T14:57:01+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400",
+          "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes…"
+        },
+        {
+          "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+          "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+          "date": "2026-08-18T18:03:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500",
+          "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and…"
+        },
+        {
+          "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+          "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+          "date": "2026-08-18T14:00:00+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg?w=2048",
+          "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research…"
+        },
+        {
+          "title": "NASA’s 737 Reveals New Paint",
+          "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "date": "2026-08-13T19:41:23+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
+          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight…"
+        },
+        {
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "date": "2026-07-31T17:11:14+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance…"
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "date": "2026-07-22T18:47:05+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research…"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "date": "2026-07-20T18:54:44+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform…"
+        },
+        {
+          "title": "NASA Pushes New Wing Design to Find Structural Limits",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+          "date": "2026-07-17T23:08:33+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+          "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -996,13 +1067,6 @@
           "date": "2026-08-31T13:30:43+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Astronaut001-headerImage-1200x930-1.webp?fit=1024%2C519&amp;ssl=1",
           "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company…"
-        },
-        {
-          "title": "The electronics ‘under the hood’ of space networking",
-          "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
-          "date": "2026-08-27T14:50:34+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-innoflight-smallsat26-scaled.jpg?fit=1024%2C768&amp;ssl=1",
-          "summary": "In this episode, SpaceNews&#8217; Mike Gruss interviews Jeff Janicik, founder and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the…"
         }
       ],
       "ok": true,
@@ -1382,6 +1446,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "BlizzCon 2026 Opening Ceremony: Start Time, How To Watch, And What To Expect",
+          "link": "https://www.gamespot.com/articles/blizzcon-2026-opening-ceremony-start-time-how-to-watch-and-what-to-expect/",
+          "date": "2026-09-12T05:30:00+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/BlizzCon.jpg?w=300",
+          "summary": "It's almost time for the first BlizzCon event in two years, as Blizzard prepares to celebrate its past, present, and future with its traditional opening ceremony. This leads into…"
+        },
+        {
           "title": "GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game’s Secrets Safe",
           "link": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/",
           "date": "2026-09-11T17:12:00+00:00",
@@ -1443,13 +1514,6 @@
           "date": "2026-09-10T18:03:59+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WD.jpg?w=300",
           "summary": "Update: A hotfix has now been released for Wardogs that targets the ongoing server issues. If you're logged in and stuck in a queue, you'll need to close the game to download the…"
-        },
-        {
-          "title": "Amazon Luna Introduces Its Most Ambitious Feature Yet In A Rough Month For Cloud Gaming",
-          "link": "https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/",
-          "date": "2026-09-10T17:00:00+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Amazon-Luna-games.png?w=300",
-          "summary": "As part of its September update, Amazon Luna introduced a Remote Play feature that lets people play games together, even if they aren't in the same room. If you haven't heard of…"
         }
       ],
       "ok": true,
@@ -1459,6 +1523,41 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess",
+          "link": "https://www.polygon.com/steps-netflix-interview/",
+          "date": "2026-09-12T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lilith-stands-next-to-a-storybook-with-cinderella-on-the-cover-in-steps.jpg",
+          "summary": "The twisted fairy tale steps focuses on Cinderella’s misunderstood stepsister"
+        },
+        {
+          "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
+          "link": "https://www.polygon.com/best-nintendo-nes-games/",
+          "date": "2026-09-12T07:00:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6823649/nes-classic-trailer-screencap_1920.jpg",
+          "summary": "A lot of old NES games have something to offer modern players, but only a select few of them are fun from beginning to end."
+        },
+        {
+          "title": "Stephen King's Next Book is the Long-Awaited Conclusion To A 42-Year-Old Trilogy",
+          "link": "https://www.polygon.com/stephen-king-talisman-3-trilogy/",
+          "date": "2026-09-12T05:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screenshot-2026-04-07-at-11-11-29-am.png",
+          "summary": "Jack Sawyer returns in the second sequel to 1984's The Talisman"
+        },
+        {
+          "title": "34 Years Later, the Best 'Calvin and Hobbes’ Quote About the Meaning of Life Is Still Second to None",
+          "link": "https://www.polygon.com/calvin-and-hobbes-best-quote-meaning-of-life/",
+          "date": "2026-09-12T04:30:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/calvin_and_hobbes_under_tree.webp",
+          "summary": "The comic strip Calvin and Hobbes could often be profound in its words. This is the best strip examining the meaning of life"
+        },
+        {
+          "title": "62 Years Later, Clint Eastwood's Genre-Redefining Western Is Officially Free on Streaming",
+          "link": "https://www.polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream/",
+          "date": "2026-09-12T04:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-11-at-10-20-13-am.jpg",
+          "summary": "The 1964 Spaghetti Western A Fistful of Dollars is availble for free on Youtube. Catch the genre-redefining film that made Clint Eastwood a star"
+        },
         {
           "title": "Fallout 5 and Classic Fallout Remasters Coming from Bethesda and Obsidian",
           "link": "https://www.polygon.com/new-fallout-games-remasters-bethesda-softworks/",
@@ -1493,41 +1592,6 @@
           "date": "2026-09-11T21:09:42+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/chronoscript-endless-end-preview-1.jpg",
           "summary": "Chronoscript: The Endless End mixes Hollow Knight combat with an eye-catching hand-drawn art style"
-        },
-        {
-          "title": "One of Nintendo's Greatest '80s Games Is Still the Perfect Weekend Obsession",
-          "link": "https://www.polygon.com/best-retro-80s-games-nintendo/",
-          "date": "2026-09-11T21:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/zelda-2-key-art.webp",
-          "summary": "For a weekend retro gaming session, one of the best games from the 1980s isn't what some players originally expected at all."
-        },
-        {
-          "title": "10 New Movies to Watch This Weekend on Netflix, HBO Max, and Hulu (September 11-13)",
-          "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-september-11-13/",
-          "date": "2026-09-11T21:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jake-gyllenhaal-eiza-gonzales-henry-cavill-in-the-grey-1.jpeg",
-          "summary": "This week's column features new releases on streaming and digital rentals, including Disney's latest live-action and the latest DC movie."
-        },
-        {
-          "title": "GTA 6 Is About to Take Over Miami IRL",
-          "link": "https://www.polygon.com/gta-6-miami-marketing-campaign-vice-city/",
-          "date": "2026-09-11T20:53:50+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_vice_city_style_01.jpg",
-          "summary": "Miami has approved Rockstar's $3 million marketing campaign for GTA 6 that'll turn the city into an IRL version of Vice City."
-        },
-        {
-          "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO Max, and Apple TV (September 11-13)",
-          "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-september-11-13/",
-          "date": "2026-09-11T20:31:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/aaaaqfv3ecbvfxpkyyze6hwqadivr34s1ux8qygqvekcjubs_nee68ll_aqrkey4umjpgksc9pdwf1vkskhpvyicc5l-qh9jkjnrsmxhwpmnha4ctberjqjzljlch4zrapngjf9chvmuuedwkpoqblolcfgold8.jpg",
-          "summary": "In this weekend's column, we have a sequel to one of the most beloved TV shows ever, the new DC animated cartoon, and more."
-        },
-        {
-          "title": "Pokémon TCG Gets Special Mewtwo 30th Anniversary Card With Limited Release",
-          "link": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/",
-          "date": "2026-09-11T20:04:28+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/1-mewtwo.jpg",
-          "summary": "The Mewtwo promo card drops later this year at select retailers like Best Buy and GameStop"
         }
       ],
       "ok": true,
@@ -1537,6 +1601,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What we've been playing - \"I don't think this is this game's biggest problem\"",
+          "link": "https://www.eurogamer.net/what-weve-been-playing-i-dont-think-this-is-this-games-biggest-problem",
+          "date": "2026-09-12T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/wolverine-logan-and-jean.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Kelsey takes solace in assassination; Connor revisits a…"
+        },
         {
           "title": "After Sony tells fans they don't own digital games, one Consumer Rights group is tracking all the times PlayStation said the opposite",
           "link": "https://www.eurogamer.net/consumer-rights-tracking-playstation-digital-games-ownership",
@@ -1599,13 +1670,6 @@
           "date": "2026-09-10T16:27:10+00:00",
           "image": "https://assetsio.gnwcdn.com/metroid-ravenous_cipaD5y.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Spanish studio MercurySteam - the developer of Metroid Dread - seems to be the studio behind yesterday's Nintendo Direct showcase stopper, Metroid Ravenous . Read more"
-        },
-        {
-          "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale",
-          "link": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale",
-          "date": "2026-09-10T15:18:43+00:00",
-          "image": "https://assetsio.gnwcdn.com/Close-up-of-Donkey-Kong-and-Pauline-in-Donkey-Kong-Bananza-on-Switch-2.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Nintendo of America is currently facing a class action lawsuit for refusing to pass tariff refunds onto customers, and it's against that backdrop it today announced a \"Customer…"
         }
       ],
       "ok": true,
@@ -1651,7 +1715,7 @@
           "summary": "Exit: pursued by a bear"
         },
         {
-          "title": "A Game About A Delivery Raccoon On A BMX Bike Is Making Me Nostalgic For My Childhood Summers",
+          "title": "A Game About A Delivery Tanuki On A BMX Bike Is Making Me Nostalgic For My Childhood Summers",
           "link": "https://kotaku.com/tanuki-pons-summer-childhood-nostalgia-summer-2000733507",
           "date": "2026-09-11T18:00:25+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/ponssummer-1280x720.jpg",
@@ -1693,6 +1757,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What are we all playing this weekend?",
+          "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-399",
+          "date": "2026-09-12T07:01:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/Buoy'd-upon-Floating-Tackle.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "I&rsquo;m a big fan of these September weekends where I wake up and my bedroom has neither the humidity nor the ambient temperature of an Eden Project rainforest-o-dome. Autumn…"
+        },
         {
           "title": "\"Why do we need more graphics?\": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer",
           "link": "https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer",
@@ -1755,13 +1826,6 @@
           "date": "2026-09-10T18:59:19+00:00",
           "image": "https://assetsio.gnwcdn.com/goodbye-volcano-high_J6NOEZs.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Today marks yet another day in reporting on layoffs that have occurred in the games industry over the past several years, with this occasion unfortunately being GNOG and Goodbye…"
-        },
-        {
-          "title": "Stylised XCOM-like tactics game Ex Sanguis straps Othercide's obsession with timelines to a leaner roguelike campaign",
-          "link": "https://www.rockpapershotgun.com/stylised-xcom-like-tactics-game-ex-sanguis-straps-othercides-obsession-with-timelines-to-a-leaner-roguelike-campaign",
-          "date": "2026-09-10T17:30:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/ex-sanguis-3.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The nasal greenhorn strategy gamer understands \"strategy\" to be about mastery of space by means of clanging offensives, shining shieldwalls, and brute attrition, but the true…"
         }
       ],
       "ok": true,
@@ -2580,8 +2644,8 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "Engineers, Building Trades Reflect on Industry's Sept.11 Impacts, Legacy",
-          "link": "https://www.enr.com/articles/63646-engineers-building-trades-reflect-on-industrys-sept11-impacts-legacy",
+          "title": "Engineers, Building Trades Reflect on Industry's Sept. 11 Impacts, Legacy",
+          "link": "https://www.enr.com/articles/63646-engineers-building-trades-reflect-on-industrys-sept-11-impacts-legacy",
           "date": "2026-09-11T23:17:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/09/11/__LEDEBOX2026_911_Cleanup_Rebuild_900_ENRwebready.webp?t=1789165223",
           "summary": "Twenty-five years after the 9/11 terror attacks, the American Council of Engineering Cos.-New York convened engineers to reflect on their roles and industry impact in the U.S.…"
