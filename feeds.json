@@ -1,10 +1,31 @@
 {
-  "updated": "2026-09-14T05:53:52.754844+00:00",
+  "updated": "2026-09-14T12:05:18.226177+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "BMW Maps displays navigation and driver assistance information in a single 3D view",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460275EN?language=en",
+          "date": "2026-09-14T12:00:00+00:00",
+          "image": null,
+          "summary": "+++ Starting in October 2026, BMW Maps will display navigation and driver assistance in a single 3D view +++ This feature helps drivers orient themselves in complex traffic…"
+        },
+        {
+          "title": "Carpathian Calling: The BMW Motorrad Int. GS Trophy 2026 Romania begins.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460673EN?language=en",
+          "date": "2026-09-14T09:00:00+00:00",
+          "image": null,
+          "summary": "13 Teams. Six Days. One epic GS adventure."
+        },
+        {
+          "title": "BMW M Performance Parts and functional BMW accessories for the new BMW X5 and the first BMW iX5.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460573EN?language=en",
+          "date": "2026-09-14T07:00:00+00:00",
+          "image": null,
+          "summary": "More dynamic, more versatile, more individual: From launch, BMW M Performance Parts and BMW Accessories enable even greater personalization of the new BMW X5 and the first fully…"
+        },
         {
           "title": "DTM: Wittmann triumphs in the BMW M4 GT3 EVO at the Sachsenring and keeps title hopes alive.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460678EN?language=en",
@@ -53,27 +74,6 @@
           "date": "2026-09-08T22:01:00+00:00",
           "image": null,
           "summary": "+++ The MINI Aceman SE in Ocean Wave Green brings a fresh look to the city +++ All-electric MINI crossover with 160 kW/218 hp and a range of up to 405 kilometres according to WLTP…"
-        },
-        {
-          "title": "BMW France and Réseau LUX Hit the Road for the Bicentenary of Photography. A travelling photography studio will tour France, engaging with audiences from September 2026 to September 2027.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460560EN?language=en",
-          "date": "2026-09-08T14:31:36+00:00",
-          "image": null,
-          "summary": "+++ BMW France becomes the official partner of the LUX Tour, one of the flagship projects of the Bicentenary of Photography, endorsed by the French Ministry of Culture +++ For one…"
-        },
-        {
-          "title": "Cool as ICE, hot on the track: the new BMW 3 Series with four- and six-cylinder engines completes its final round of summer driving dynamics testing in Miramas.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460493EN?language=en",
-          "date": "2026-09-07T22:01:00+00:00",
-          "image": null,
-          "summary": "Camouflaged prototypes lap the test tracks at BMW Group’s proving grounds in southern France as part of high-intensity tuning drives. The latest edition of the successful, iconic…"
-        },
-        {
-          "title": "BMW Group is expanding collection of image data from BMW customer vehicles in Europe to drive continuous product improvement and enhance road safety.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460397EN?language=en",
-          "date": "2026-09-07T16:00:00+00:00",
-          "image": null,
-          "summary": "+++ Use of event-based image and vehicle sensor data for the continuous development of driver assistance systems and partially-automated driving functions +++ Data collection from…"
         }
       ],
       "ok": true,
@@ -91,18 +91,18 @@
           "summary": "Leon Baldinger’s life revolves around bicycles and cars. In his case, the two worlds come together perfectly – right down to the finest detail."
         },
         {
-          "title": "How IT is driving innovation, resilience, and AI at BRP",
-          "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-brp-innovation-resilience-ai-43196.html",
-          "date": "2026-09-03T10:00:00+00:00",
-          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Company/Consulting-BRP-KI/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg/jcr:content/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg",
-          "summary": "Interview with BRP’s CIO: Stéphane Bilodeau shares how BRP turns digital capabilities into measurable business impact."
-        },
-        {
           "title": "Between fairways and driving pleasure: Porsche Switzerland at the 2026 Omega European Masters",
           "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-schweiz-omega-european-masters-2026-43201.html",
           "date": "2026-09-03T10:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/CH-local/2026/Sport-und-Gesellschaft/Omega-European-Master/Headerbild.jpg/jcr:content/Headerbild.jpg",
           "summary": "World-class international golf, current Porsche models and a varied programme on and around the course: Porsche Switzerland is the main sponsor and official vehicle partner of the…"
+        },
+        {
+          "title": "How IT is driving innovation, resilience, and AI at BRP",
+          "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-brp-innovation-resilience-ai-43196.html",
+          "date": "2026-09-03T10:00:00+00:00",
+          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Company/Consulting-BRP-KI/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg/jcr:content/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg",
+          "summary": "Interview with BRP’s CIO: Stéphane Bilodeau shares how BRP turns digital capabilities into measurable business impact."
         },
         {
           "title": "Roxy vs. Grello: a thrilling battle",
@@ -162,74 +162,74 @@
       "cat": "automotive",
       "items": [
         {
-          "title": "China targets 70% NEV sales and mass self-driving by 2030",
-          "link": "https://www.automotiveworld.com/news/china-targets-70-nev-sales-and-mass-self-driving-by-2030/",
-          "date": "2026-09-11T15:25:49+00:00",
+          "title": "China Automotive Intelligence Brief – September 10, 2026",
+          "link": "https://www.automotiveworld.com/intelligence-briefs/china-automotive-intelligence-brief-september-10-2026/",
+          "date": "2026-09-14T12:00:58+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "China sets a five-year NEV penetration target it is already close to surpassing, and details a distinctly city-centric autonomous driving roadmap. By Stewart Burnett The post…"
+          "summary": "Essential weekly analysis of developments shaping the future of China's automotive industry The post China Automotive Intelligence Brief – September 10, 2026 appeared first on…"
         },
         {
-          "title": "Has global auto split into the US and everywhere else?",
-          "link": "https://www.automotiveworld.com/analysis/has-global-auto-split-into-the-us-and-everywhere-else/",
-          "date": "2026-09-11T14:25:35+00:00",
+          "title": "Software-Defined Vehicle Intelligence Brief – September 10, 2026",
+          "link": "https://www.automotiveworld.com/intelligence-briefs/software-defined-vehicle-intelligence-brief-september-10-2026/",
+          "date": "2026-09-14T11:56:27+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The US’ reversal on electrification policy has caused a splinter between North America and the rest of the world. By Stewart Burnett The post Has global auto split into the US and…"
+          "summary": "Essential weekly analysis of developments shaping the future of automotive software, electronics and software-defined vehicles The post Software-Defined Vehicle Intelligence Brief…"
         },
         {
-          "title": "Mercedes output may bottom out in 2026 and recover slowly",
-          "link": "https://www.automotiveworld.com/news/mercedes-output-may-bottom-out-in-2026-and-recover-slowly/",
-          "date": "2026-09-11T13:23:50+00:00",
+          "title": "Industry Pulse Intelligence Brief – September 10, 2026",
+          "link": "https://www.automotiveworld.com/intelligence-briefs/industry-pulse-intelligence-brief-september-10-2026/",
+          "date": "2026-09-14T11:54:48+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Automotive World's latest production forecast for Mercedes, up to 2030, anticipates a slow recovery following a nadir in 2026 The post Mercedes output may bottom out in 2026 and…"
+          "summary": "Essential weekly analysis of developments shaping the global automotive and mobility industry The post Industry Pulse Intelligence Brief – September 10, 2026 appeared first on…"
         },
         {
-          "title": "Mercedes-Benz: performance and production forecast to 2030",
-          "link": "https://www.automotiveworld.com/data/mercedes-benz-performance-and-production-forecast-to-2030/",
-          "date": "2026-09-11T12:54:11+00:00",
+          "title": "Commercial Vehicle Intelligence Brief – September 10, 2026",
+          "link": "https://www.automotiveworld.com/intelligence-briefs/commercial-vehicle-intelligence-brief-september-10-2026/",
+          "date": "2026-09-14T11:53:27+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Automotive World forecasts production output for Mercedes-Benz during the period to 2030. By Jonathan Storey The post Mercedes-Benz: performance and production forecast to 2030…"
+          "summary": "Essential weekly analysis of developments shaping the future of the global commercial vehicle industry The post Commercial Vehicle Intelligence Brief – September 10, 2026 appeared…"
         },
         {
-          "title": "Chery doubles down on hybrids as it plans UK expansion",
-          "link": "https://www.automotiveworld.com/news/chery-doubles-down-on-hybrids-as-it-plans-uk-expansion/",
-          "date": "2026-09-11T11:50:42+00:00",
+          "title": "Automotive AI Intelligence Brief – September 10, 2026",
+          "link": "https://www.automotiveworld.com/intelligence-briefs/automotive-ai-intelligence-brief-september-10-2026/",
+          "date": "2026-09-14T11:45:55+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Chery sees the UK as its strongest overseas growth opportunity, eyeing past success, and sees PHEVs as the way to achieve it. By Stewart Burnett The post Chery doubles down on…"
+          "summary": "Essential weekly analysis of developments shaping the future of artificial intelligence across the automotive industry The post Automotive AI Intelligence Brief – September 10,…"
         },
         {
-          "title": "Toyota and Iveco develop EU-funded fuel cell truck",
-          "link": "https://www.automotiveworld.com/topics/commercial-vehicle/toyota-and-iveco-develop-eu-funded-fuel-cell-truck/",
-          "date": "2026-09-11T05:45:59+00:00",
+          "title": "Is the Chinese EV takeover in ASEAN unstoppable?",
+          "link": "https://www.automotiveworld.com/analysis/is-the-chinese-ev-takeover-in-asean-unstoppable/",
+          "date": "2026-09-14T09:46:24+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Toyota and Iveco's EMPOWER project is hydrogen's most direct answer to range anxiety in heavy-duty European road transport The post Toyota and Iveco develop EU-funded fuel cell…"
+          "summary": "Thailand and Indonesia are increasingly dominated by Chinese EV manufacturers, but policy in places like Malaysia may limit their growth. By Ian Henry The post Is the Chinese EV…"
         },
         {
-          "title": "VWCV sharpens B2B pitch with Connect Pro at IAA 2026",
-          "link": "https://www.automotiveworld.com/topics/commercial-vehicle/vwcv-sharpens-b2b-pitch-with-connect-pro-at-iaa-2026/",
-          "date": "2026-09-11T05:40:34+00:00",
+          "title": "Taming SDV complexity: ETAS on the future of calibration",
+          "link": "https://www.automotiveworld.com/partner-content/taming-sdv-complexity-etas-on-the-future-of-calibration/",
+          "date": "2026-09-14T07:29:22+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "With Connect Pro, VWCV is making fleet uptime and predictive maintenance the commercial centre of its IAA 2026 stand The post VWCV sharpens B2B pitch with Connect Pro at IAA 2026…"
+          "summary": "ETAS outlines how software-defined vehicles alter the way in which automakers should approach measurement and calibration projects The post Taming SDV complexity: ETAS on the…"
         },
         {
-          "title": "Leapmotor B03X goes on sale in Europe from €24,900",
-          "link": "https://www.automotiveworld.com/topics/e-mobility/leapmotor-b03x-goes-on-sale-in-europe-from-e24900/",
-          "date": "2026-09-11T05:35:30+00:00",
+          "title": "Euro NCAP rates BYD’s electric truck five stars at IAA",
+          "link": "https://www.automotiveworld.com/news/euro-ncap-rates-byds-electric-truck-five-stars-at-iaa/",
+          "date": "2026-09-14T05:05:34+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The B03X's 382 km WLTP range and 16-minute rapid charge at €24,900 puts Leapmotor in direct competition with established compact EVs The post Leapmotor B03X goes on sale in Europe…"
+          "summary": "The BYD ETT 44 is the first long-haul electric truck rated by Euro NCAP, setting a benchmark for EV safety in commercial transport The post Euro NCAP rates BYD&#8217;s electric…"
         },
         {
-          "title": "Stellantis and UQI Robotics explore Box-on-Wheels concept",
-          "link": "https://www.automotiveworld.com/topics/commercial-vehicle/stellantis-and-uqi-robotics-explore-box-on-wheels-concept/",
-          "date": "2026-09-11T05:30:21+00:00",
+          "title": "Stellantis Pro One presents BOW. at IAA with Smart Van",
+          "link": "https://www.automotiveworld.com/news/stellantis-pro-one-presents-bow-at-iaa-with-smart-van/",
+          "date": "2026-09-14T05:00:25+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Box-on-Wheels debut at IAA tests whether China's autonomous delivery models can translate to European conditions The post Stellantis and UQI Robotics explore Box-on-Wheels…"
+          "summary": "Three live debuts spanning autonomous logistics, three-wheeled micromobility and a multi-brand van show Stellantis Pro One's breadth The post Stellantis Pro One presents BOW. at…"
         },
         {
-          "title": "Roland Berger sees EUR 20tn technology markets by 2040",
-          "link": "https://www.automotiveworld.com/news/roland-berger-sees-eur-20tn-technology-markets-by-2040/",
-          "date": "2026-09-11T05:20:54+00:00",
+          "title": "Renault Trafic Van E-Tech electric debuts at IAA 2026",
+          "link": "https://www.automotiveworld.com/news/renault-trafic-van-e-tech-electric-debuts-at-iaa-2026/",
+          "date": "2026-09-14T04:55:21+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "A near-tenfold increase in emerging tech markets to EUR 20 trillion by 2040 would reshape the entire global industrial landscape The post Roland Berger sees EUR 20tn technology…"
+          "summary": "The first software-defined van in Europe marks a step change in how commercial fleets could approach uptime, range and cost The post Renault Trafic Van E-Tech electric debuts at…"
         }
       ],
       "ok": true,
@@ -239,6 +239,48 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Hyundai pushes back in-house driver-assist software to 2029, leans on Nvidia",
+          "link": "https://www.autonews.com/hyundai/an-hyundai-nvidia-driver-assist-delay-0914/",
+          "date": "2026-09-14T11:10:06+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/8Ro8T_jhMRm0-rqNU1wZAgq7Wkg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/D6G4JHCBH5FI5EP6WLY57N24WE.jpg",
+          "summary": "Executive Park Min-woo says the automaker will co-design technology with Nvidia while using the data to sharpen its own in-house Atria software platform."
+        },
+        {
+          "title": "How small-town formula drives success at Metcalfe’s Garage Ford store",
+          "link": "https://www.autonews.com/retail/canada-best-practices/anc-metcalfes-garage/",
+          "date": "2026-09-14T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/sAStXMH6lNHOo7taXaorQm6J4N4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QZHK2P7WRNABPG4BXIBBC2DQ74.jpeg",
+          "summary": "For 126 years, the Manitoba family dealership has built its business on trust, community ties and service — not rock-bottom prices"
+        },
+        {
+          "title": "Stellantis battles for attention as Chinese brands dominate Turin show",
+          "link": "https://www.autonews.com/stellantis/ane-stellantis-turin-show-battles-chinese-0914/",
+          "date": "2026-09-14T09:53:09+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/SO9k1bkGZrhgQDml0zGcQYiEVdA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MWJDIR2UCJBRDOS2IZQVEUQAYE.jpg",
+          "summary": "Chinese automakers showcased EVs across all major segments at the Turin show, overshadowing Stellantis' home-market debuts. Chinese brands now hold 13.3 percent of the Italian…"
+        },
+        {
+          "title": "Tesla teases Oct. 1 event to showcase next-generation Roadster",
+          "link": "https://www.autonews.com/tesla/ane-tesla-roadster-tease-0914/",
+          "date": "2026-09-14T08:34:59+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Mq--iyKJUoI1gQ7_43xGuuQMFs0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4PNQEP5NNZBMJGC2SI6JLWET2U.jpg",
+          "summary": "The next-generation Roadster, first unveiled in 2017, has fueled speculation about potential Tesla-SpaceX collaboration."
+        },
+        {
+          "title": "Why Geely thinks the E2, China’s No. 1-seller, can shake up Europe’s small EV market",
+          "link": "https://www.autonews.com/geely/ane-geely-e2-germany-debut-0914/",
+          "date": "2026-09-14T08:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/TSA71UnEbrmdy1-_CyUyzUgaPKo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/2PYCGBOMZJDCNBXVRRZZHVJBVI.png",
+          "summary": "The Geely E2 enters Europe at €19,990, offering more space and rear-wheel drive. The Chinese automaker expects these advantages to overcome the Renault 5 and VW ID Polo in a…"
+        },
+        {
+          "title": "Trump says he is open to China building cars in U.S. as Xi visit looms",
+          "link": "https://www.autonews.com/china/ane-trump-us-china-production-0914/",
+          "date": "2026-09-14T07:12:05+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/uUI0kz7YF_taRDtv-oGakrV3Ihs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JHR6LBVIZBGZFPZQKNEH5XKROQ.png",
+          "summary": "Trump says he would allow Chinese automakers to build EVs in the U.S. with American workers but will maintain the ban on imported Chinese vehicles."
+        },
         {
           "title": "Toyota’s new CEO spent years at Akio Toyoda’s side during darkest days",
           "link": "https://www.autonews.com/retail/marketing/an-intersection-toyota-ceo-kenta-kon-interview/",
@@ -266,48 +308,6 @@
           "date": "2026-09-12T10:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/MLwScXFI21cHzjVFgMsYHuIa0Jc=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/OFRGYFNA7BEEHAHTYFAEHBLQPY.JPG",
           "summary": "Ford counters Washington with a billion-dollar move. Plus, a look at Volkswagen’s truck ambitions and China’s opportunity amid the U.S.-Canada trade war."
-        },
-        {
-          "title": "Automotive News Classifieds",
-          "link": "https://www.autonews.com/classifieds/automotive-news-classifieds/",
-          "date": "2026-09-11T21:18:22+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Cio8cglGKEZ_cdcjd49nCH9vmYo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QD7X5UHORBDZRIX4AXMO74NOLY.png",
-          "summary": "Automotive News Classifieds"
-        },
-        {
-          "title": "U.S. used vehicle registrations, July & YTD 2026",
-          "link": "https://www.autonews.com/data-center/sales-data/an-us-used-vehicle-registrations-july-ytd-2026/",
-          "date": "2026-09-11T20:18:48+00:00",
-          "image": "https://crain-platform-autonews-prod.s3.us-east-1.amazonaws.com/s3fs-public/Mobility+Global_Wordmark_Blue_RGB.png",
-          "summary": "Unit registrations of used cars and light trucks by make and automaker in the U.S. listed alphabetically for the current and previous year periods."
-        },
-        {
-          "title": "Toyota CEO Kenta Kon says profit isn't the goal and shares dealer lessons on selling cars",
-          "link": "https://www.autonews.com/video/toyota-ceo-kenta-kon-says-profit-isnt-the-goal-and-shares-dealer-lessons-on-selling-cars/",
-          "date": "2026-09-11T20:05:52+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/s2x2UB7k-A133Yl9ftMYBVsQycg=/0x800/d3qtc8km8dvw1x.cloudfront.net/09-11-2026/t_9460e6ea2a4e46d7a93f9736dc6365bc_name_file_960x540_1600_v4_.jpg",
-          "summary": "Toyota CEO Kenta Kon discusses his management style, strategy for sustained profitability, plans for U.S. production capacity and thoughts on American dealers."
-        },
-        {
-          "title": "U.S. new vehicle registrations, July & YTD 2026",
-          "link": "https://www.autonews.com/data-center/sales-data/an-us-new-vehicle-registrations-july-ytd-2026/",
-          "date": "2026-09-11T20:00:59+00:00",
-          "image": "https://crain-platform-autonews-prod.s3.us-east-1.amazonaws.com/s3fs-public/Mobility+Global_Wordmark_Blue_RGB.png",
-          "summary": "Unit registrations of new cars and light trucks by nameplate in the U.S. listed alphabetically by brand and automaker for the current and previous year periods"
-        },
-        {
-          "title": "The High-Performance Dealer: Navigating the AI Wave in Dealer Operations",
-          "link": "https://www.autonews.com/resource_center/podium/an-navigating-ai-wave-dealer-operations/",
-          "date": "2026-09-11T19:32:18+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/UhRCKCQ9vVqf4bBfGc_M3XlUlX4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FE32PBH5CVCTFJ42PMSKFFRX4A.jpg",
-          "summary": "Most dealers have AI. Far fewer are maximizing ROI and revenue with it. Misty Tippets and Jordan Parker break down why so many stores are stuck with a chatbot bolted onto the same…"
-        },
-        {
-          "title": "Unifor halts Stellantis talks as automaker confirms MOU to sell Brampton plant to defence contractor",
-          "link": "https://www.autonews.com/canada/anc-unifor-pauses-stellantis-contract-talks-cp-0911/",
-          "date": "2026-09-11T19:04:24+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3HkqIHkd0EQvzxlMIciCCthr7bY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JDOGXZFRM5BRJAX6K7Q5OE4OWE.jpg",
-          "summary": "Unifor is now “actively considering next steps” and says it will provide further details in the days ahead."
         }
       ],
       "ok": true,
@@ -317,6 +317,27 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Volkswagen Just Unveiled An EV That Can Do Over 9 Miles/kWh",
+          "link": "https://insideevs.com/news/808168/volkswagen-mission-efficiency-concept-range-charging-test/",
+          "date": "2026-09-14T11:43:02+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/bgOz4m/s3/2026-vw-mission-efficiency-concept.jpg",
+          "summary": "The “near-production” Mission Efficiency EV has the same underpinnings as the ID. Polo, but turns the efficiency dial to 11."
+        },
+        {
+          "title": "Ionna’s EV Charging Network Grew 50% In Just Six Months",
+          "link": "https://insideevs.com/news/808127/ionna-growth-50-percent-2026/",
+          "date": "2026-09-14T08:39:18+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/rKJep1/s3/ionna-rechargery.jpg",
+          "summary": "The manufacturer-backed American charging network’s expansion shows no signs of slowing."
+        },
+        {
+          "title": "Tesla Semi Is Heading To Europe With One Big Advantage—And One Major Weakness",
+          "link": "https://insideevs.com/news/808111/tesla-semi-europe-launch-specs-official/",
+          "date": "2026-09-14T07:24:14+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/9mW97p/s3/tesla-semi-european-specification.jpg",
+          "summary": "The American-built electric big rig trades range for payload."
+        },
         {
           "title": "Tesla Confirms Next-Generation Roadster Reveal On October 1",
           "link": "https://insideevs.com/news/808054/tesla-roadster-ev-october-2026-reveal/",
@@ -365,27 +386,6 @@
           "date": "2026-09-11T17:01:28+00:00",
           "image": "https://cdn.motor1.com/images/mgl/E6Xwkz/s3/verne-uber-ponyai.jpg",
           "summary": "A little known Croatian startup backed by Rimac is leading the way for robotaxis in Europe, with help from a Chinese AV company."
-        },
-        {
-          "title": "China Has Already Exported More Cars Than Last Year",
-          "link": "https://insideevs.com/news/807996/china-sales-export-numbers-best/",
-          "date": "2026-09-11T15:44:34+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/9YR9G/s3/2021-byd-tang-export-to-norway.jpg",
-          "summary": "Growing global sales of EV and PHEV models have pushed China's export numbers to their highs, despite shrinking sales at home."
-        },
-        {
-          "title": "You Can't Charge The Tesla Cybercab At Home (Yet)",
-          "link": "https://insideevs.com/news/807890/tesla-cybercab-supercharger-only-onboard/",
-          "date": "2026-09-11T14:27:39+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/KbZnnQ/s3/tesla-cybercab-supercharger.jpg",
-          "summary": "The purpose-built robotaxi won't be able to slow charge from a plug like other Teslas."
-        },
-        {
-          "title": "Audi Developed The A2 E-Tron 21 Months Faster Than Usual. The Secret Wasn’t More Engineers",
-          "link": "https://insideevs.com/news/807980/audi-a2-e-tron-development-time-slashed/",
-          "date": "2026-09-11T13:48:06+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/6ZOK9e/s3/audi-a2-e-tron-production.jpg",
-          "summary": "The brand’s most efficient car to date is already rolling off the assembly line in Ingolstadt."
         }
       ],
       "ok": true,
@@ -488,6 +488,41 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Kallisio Moves to Close Adoption Gap for 3D Printed Head and Neck Cancer Device",
+          "link": "https://3dprintingindustry.com/news/kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device-254611/?utm_source=rss&utm_medium=rss&utm_campaign=kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device",
+          "date": "2026-09-14T08:58:25+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Personalized cancer medtech Kallisio has launched an expanded access program aimed at connecting head and neck cancer patients with Stentra, its FDA-cleared, custom-fit 3D printed…"
+        },
+        {
+          "title": "Stratasys Launches F870 Large-Format FDM Printer",
+          "link": "https://3dprintingindustry.com/news/stratasys-launches-f870-large-format-fdm-printer-254617/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-launches-f870-large-format-fdm-printer",
+          "date": "2026-09-14T08:58:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3D printer OEM Stratasys has introduced the F870, a new large-format FDM 3D printing system built for automotive, aerospace and defense manufacturers looking to move additive…"
+        },
+        {
+          "title": "Mazak’s VC-Ez 20X Machines Power New WAAM Additive Manufacturing Platform",
+          "link": "https://3dprintingindustry.com/news/mazaks-vc-ez-20x-machines-power-new-waam-additive-manufacturing-platform-254626/?utm_source=rss&utm_medium=rss&utm_campaign=mazaks-vc-ez-20x-machines-power-new-waam-additive-manufacturing-platform",
+          "date": "2026-09-14T08:50:58+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Oak Ridge National Laboratory and Mazak have partnered to develop a convergent metal additive manufacturing platform that unifies metal additive manufacturing and high-precision…"
+        },
+        {
+          "title": "Selle Italia Launches Unica, a Pressure-Mapped 3D Printed Saddle",
+          "link": "https://3dprintingindustry.com/news/selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle-254631/?utm_source=rss&utm_medium=rss&utm_campaign=selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle",
+          "date": "2026-09-14T08:50:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Selle Italia has introduced Unica, a 3D printed saddle built around pressure data collected from each individual rider instead of a fixed set of cushioning zones. The saddle is…"
+        },
+        {
+          "title": "SprintRay Launches Midas Restore, a Ceramic-Zirconia Material for Same-Visit Restorations",
+          "link": "https://3dprintingindustry.com/news/sprintray-launches-midas-restore-a-ceramic-zirconia-material-for-same-visit-restorations-254635/?utm_source=rss&utm_medium=rss&utm_campaign=sprintray-launches-midas-restore-a-ceramic-zirconia-material-for-same-visit-restorations",
+          "date": "2026-09-14T08:41:37+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "SprintRay has introduced Midas Restore, an FDA-cleared restorative resin built around glass ceramic and zirconia fillers, made specifically for use with the company&#8217;s Midas…"
+        },
+        {
           "title": "Hyundai Installs New Large-Format 3D Printers for Full-Scale Automotive Parts",
           "link": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts",
           "date": "2026-09-11T11:05:27+00:00",
@@ -521,41 +556,6 @@
           "date": "2026-09-10T10:53:41+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "Tripo AI, an artificial intelligence company building 3D foundation models and world models, has raised approximately 3 billion yuan (approx. $447M) across its Series B and Series…"
-        },
-        {
-          "title": "restor3d Extends Personalized Orthopedics With MyFit Digital Suite",
-          "link": "https://3dprintingindustry.com/news/restor3d-extends-personalized-orthopedics-with-myfit-digital-suite-254571/?utm_source=rss&utm_medium=rss&utm_campaign=restor3d-extends-personalized-orthopedics-with-myfit-digital-suite",
-          "date": "2026-09-10T10:27:59+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "restor3d, a specialist in 3D printed personalized orthopedic solutions, launched MyFit by restor3d Digital Suite on September 8, 2026, a new patient engagement platform designed…"
-        },
-        {
-          "title": "Vienna Researchers Cut Concrete Use by Two-Thirds With 3D Printing",
-          "link": "https://3dprintingindustry.com/news/vienna-researchers-cut-concrete-use-by-two-thirds-with-3d-printing-254580/?utm_source=rss&utm_medium=rss&utm_campaign=vienna-researchers-cut-concrete-use-by-two-thirds-with-3d-printing",
-          "date": "2026-09-10T06:41:51+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Austria-based university FH Campus Wien has completed a five-year research project demonstrating that concrete components can be 3D printed using up to two-thirds less material…"
-        },
-        {
-          "title": "Meltio launches U.S.-assembled Robot Cell for industrial metal 3D printing",
-          "link": "https://3dprintingindustry.com/news/meltio-launches-u-s-assembled-robot-cell-for-industrial-metal-3d-printing-254565/?utm_source=rss&utm_medium=rss&utm_campaign=meltio-launches-u-s-assembled-robot-cell-for-industrial-metal-3d-printing",
-          "date": "2026-09-10T06:14:11+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Meltio, a developer of wire-laser metal 3D printing technology, has launched a U.S.-assembled version of its Meltio Robot Cell for industrial customers in the Americas. Assembled…"
-        },
-        {
-          "title": "Gastronology Signs Belgian Distribution Deal for Its Dysphagia Food Line",
-          "link": "https://3dprintingindustry.com/news/gastronology-signs-belgian-distribution-deal-for-its-dysphagia-food-line-254553/?utm_source=rss&utm_medium=rss&utm_campaign=gastronology-signs-belgian-distribution-deal-for-its-dysphagia-food-line",
-          "date": "2026-09-09T11:08:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Dutch food 3D printing company Gastronology has partnered with Belgian distributor Revogan to bring its products into Belgian care homes and hospitals, with orders opening in…"
-        },
-        {
-          "title": "Formnext Asia Shenzhen 2026 Attendance Rises 65%",
-          "link": "https://3dprintingindustry.com/news/formnext-asia-shenzhen-2026-attendance-rises-65-254544/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-asia-shenzhen-2026-attendance-rises-65",
-          "date": "2026-09-09T09:15:01+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Formnext Asia Shenzhen concluded its 2026 edition on August 28 in Shenzhen, China, with organizers reporting 34,202 visitors from 113 countries and regions to the additive…"
         }
       ],
       "ok": true,
@@ -892,6 +892,27 @@
           "summary": ""
         },
         {
+          "title": "ESA’s FLEX mission reveals the secret glow of plants",
+          "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+          "date": "2026-09-14T08:00:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png",
+          "summary": "Video: 00:06:30 Plants may look still and silent, but every leaf is constantly responding to its environment. As plants photosynthesise, they emit an incredibly faint glow called…"
+        },
+        {
+          "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+          "link": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
+          "date": "2026-09-14T07:20:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+          "summary": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose…"
+        },
+        {
+          "title": "ESA Space Environment Report 2026",
+          "link": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026",
+          "date": "2026-09-11T15:52:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/number_of_objects_will_skyrocket_-_2026_space_environment_report/27465798-1-eng-GB/Number_of_objects_will_skyrocket_-_2026_Space_environment_report_card_full.png",
+          "summary": ""
+        },
+        {
           "title": "Week in images: 07-11 Sep 2026",
           "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
           "date": "2026-09-11T13:00:00+00:00",
@@ -920,32 +941,11 @@
           "summary": "Video: 00:04:20 Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's…"
         },
         {
-          "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
-          "link": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C",
-          "date": "2026-09-09T09:56:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg",
-          "summary": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14…"
-        },
-        {
-          "title": "MTG-I2 reaches its final orbit",
-          "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
-          "date": "2026-09-09T06:20:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/partners_support_mtg-i2_through_leop/27458664-1-eng-GB/Partners_support_MTG-I2_through_LEOP_card_full.jpg",
-          "summary": "Europe’s Meteosat Third Generation Imager 2 (MTG-I2) satellite has reached its designated orbit at 36 000 km from Earth and is ready to begin its commissioning phase, preparing it…"
-        },
-        {
           "title": "Anak Krakatau eruption by Sentinel-3",
           "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3",
           "date": "2026-09-08T08:45:00+00:00",
           "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
           "summary": "Image: Copernicus Sentinel-3 captured a plume from the eruption of Anak Krakatau on Saturday, 5 September."
-        },
-        {
-          "title": "Week in images: 31 Aug - 04 Sep 2026",
-          "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026",
-          "date": "2026-09-04T13:10:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/eva-99_sophie_adenot_working_in_the_vacuum_of_space3/27449213-2-eng-GB/EVA-99_Sophie_Adenot_working_in_the_vacuum_of_space_card_full.jpg",
-          "summary": "Week in images: 31 Aug - 04 Sep 2026 Discover our week through the lens"
         }
       ],
       "ok": true,
@@ -955,6 +955,27 @@
       "name": "Space.com",
       "cat": "space",
       "items": [
+        {
+          "title": "Is there a hidden 'Planet 9' in our solar system?",
+          "link": "https://www.space.com/astronomy/solar-system/is-there-a-hidden-planet-9-in-our-solar-system",
+          "date": "2026-09-14T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/M8HaGEcGfuM65e4GzYUrXm-1280-80.jpg",
+          "summary": "For more than a century, astronomers have been captivated by the idea that an undiscovered planet could be lurking in the furthest reaches of our solar system."
+        },
+        {
+          "title": "Pre-order the Unistellar Envision AR binoculars and learn about the night sky in real-time",
+          "link": "https://www.space.com/stargazing/skywatching-kit/pre-order-the-unistellar-envision-ar-binoculars-and-learn-about-the-night-sky-in-real-time",
+          "date": "2026-09-14T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/wRutJLHAPytuMtBopn2LJU-1280-80.jpg",
+          "summary": "Unistellar's long awaited augmented reality Envision smart binoculars are available to pre-order for $1499, with guaranteed delivery before Christmas."
+        },
+        {
+          "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
+          "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
+          "date": "2026-09-14T10:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/cBuvff2zNdSY8TPER3GcmK-1280-80.jpg",
+          "summary": "The Hubble and James Webb space telescopes discovered some surprising things about 27 new tiny objects far beyond the orbit of Neptune."
+        },
         {
           "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
@@ -1003,27 +1024,6 @@
           "date": "2026-09-12T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
           "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order."
-        },
-        {
-          "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
-          "date": "2026-09-12T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
-          "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered."
-        },
-        {
-          "title": "This Week In Space podcast: Episode 227 — Trekmania",
-          "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania",
-          "date": "2026-09-12T13:04:50+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/zwZVeZCXQA3k744s6ZghUd-1280-80.jpg",
-          "summary": "On Episode 227 of This Week In Space, Rod Pyle and Tariq Malik are joined by Michael Okuda, who with wife and others have been central to the look, feel, and substance of the Star…"
-        },
-        {
-          "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
-          "link": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
-          "date": "2026-09-12T13:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/QxvVpt7e32DwJMmmbwjQVQ-1280-80.jpg",
-          "summary": "If you're going to boldly go where no one has gone before, you may as well do it in a kick-ass spaceship."
         }
       ],
       "ok": true,
@@ -1283,6 +1283,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Could quantum information theory explain universe evolution?",
+          "link": "https://physicsworld.com/a/could-quantum-information-theory-explain-universe-evolution/",
+          "date": "2026-09-14T11:18:12+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Gravity from entropy theory offer hints of why low-entropy regions persist in the universe The post Could quantum information theory explain universe evolution? appeared first on…"
+        },
+        {
+          "title": "A hybrid energy system for heating, cooling and generating electricity",
+          "link": "https://physicsworld.com/a/a-hybrid-energy-system-for-heating-cooling-and-generating-electricity/",
+          "date": "2026-09-14T09:00:46+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "New concept exploits both the heat of the Sun and the coldness of outer space The post A hybrid energy system for heating, cooling and generating electricity appeared first on…"
+        },
+        {
           "title": "Quiz of the week: how far ahead can we predict the weather?",
           "link": "https://physicsworld.com/a/quiz-of-the-week-how-far-ahead-can-we-predict-the-weather/",
           "date": "2026-09-11T16:03:13+00:00",
@@ -1337,20 +1351,6 @@
           "date": "2026-09-09T14:00:50+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
           "summary": "A novel graphene oxide bilayer pushes triple-junction perovskite solar cells to a milestone 27.3% efficiency with unprecedented operational longevity The post Bilayer approach…"
-        },
-        {
-          "title": "Word flower puzzle no. 8",
-          "link": "https://physicsworld.com/a/word-flower-puzzle-no-8/",
-          "date": "2026-09-09T13:30:42+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "How many words can you find in this puzzle? The post Word flower puzzle no. 8 appeared first on Physics World ."
-        },
-        {
-          "title": "Universities should judge quantum-computing investments by what students learn",
-          "link": "https://physicsworld.com/a/universities-should-judge-quantum-computing-investments-by-what-students-learn/",
-          "date": "2026-09-09T10:00:02+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Students need to experiment with real quantum-computing systems, says Alex Krasnok The post Universities should judge quantum-computing investments by what students learn appeared…"
         }
       ],
       "ok": true,
@@ -1360,6 +1360,13 @@
       "name": "Phys.org Space",
       "cat": "space",
       "items": [
+        {
+          "title": "Bizarre galactic radio source remains active for two decades with no detectable X-rays",
+          "link": "https://phys.org/news/2026-09-bizarre-galactic-radio-source-decades.html",
+          "date": "2026-09-14T12:00:05+00:00",
+          "image": null,
+          "summary": "Astronomers have identified a peculiar radio transient in the Milky Way that has remained active for more than two decades, defying the behavior expected of known classes of…"
+        },
         {
           "title": "No cities on the moon—there isn't enough water, scientists say",
           "link": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
@@ -1422,13 +1429,6 @@
           "date": "2026-09-12T21:00:02+00:00",
           "image": null,
           "summary": "The Japan Aerospace Exploration Agency's (JAXA) Hayabusa2 spacecraft reached another milestone this summer, a first for space agencies. On Sunday, July 5, the probe conducted the…"
-        },
-        {
-          "title": "Why are the stars around our galaxy's black hole missing their companions?",
-          "link": "https://phys.org/news/2026-09-stars-galaxy-black-hole-companions.html",
-          "date": "2026-09-12T12:40:01+00:00",
-          "image": null,
-          "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes…"
         }
       ],
       "ok": true,
@@ -1445,6 +1445,13 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
+          "link": "https://www.gamespot.com/articles/first-gta-6-actor-officially-confirmed-and-its-a-big-name/",
+          "date": "2026-09-14T10:26:31+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Brian_Heder_03.10ntuqh2h6upf.jpg?w=300",
+          "summary": "There's been speculation for months over who could be voicing the GTA 6 cast, but nothing has been officially confirmed, either by developer Rockstar or any of the starring…"
+        },
         {
           "title": "You’ll Fight The Protoss In StarCraft, Too, Don’t Worry",
           "link": "https://www.gamespot.com/articles/youll-fight-the-protoss-in-starcraft-too-dont-worry/",
@@ -1507,13 +1514,6 @@
           "date": "2026-09-12T17:15:00+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/BlizzCon-2026-2.jpg?w=300",
           "summary": "BlizzCon is a big deal if you're a fan of all things Blizzard, and the weekend event kicked off with a traditional opening ceremony full of announcements and reveals for the…"
-        },
-        {
-          "title": "Warcraft Getting Its First New RTS Campaign In Two Decades–And It’s Playable Today",
-          "link": "https://www.gamespot.com/articles/warcraft-getting-its-first-new-rts-campaign-in-two-decades-and-its-playable-today/",
-          "date": "2026-09-12T18:51:22+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/1000003826.jpg?w=300",
-          "summary": "A new Warcraft 3 campaign exploring the origins of the Forsaken and the formation of the Undercity will be live later today, Blizzard announced as part of its BlizzCon 2026…"
         }
       ],
       "ok": true,
@@ -1523,6 +1523,20 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Fortnite Confirms Kingdom Hearts Collab Release Date, and It's Bigger Than Expected",
+          "link": "https://www.polygon.com/fortnite-kingdom-hearts-collab-skins-release-date/",
+          "date": "2026-09-14T10:19:40+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/kingdom-hearts.jpg",
+          "summary": "Sora and the Keyblade had already been confirmed for Fortnite's gaming season, but it seems there's much more to this collab."
+        },
+        {
+          "title": "'Marvel’s Wolverine' Voice Actor Reveals Who Inspired His Take on Logan",
+          "link": "https://www.polygon.com/marvels-wolverine-liam-mcintyre-performance-inspirations/",
+          "date": "2026-09-14T07:01:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mw_previews_telembangcombat_4k_2026.jpg",
+          "summary": "Liam McIntyre reveals the Wolverine performances that inspired his role as Logan in Insomniac Games’ Marvel’s Wolverine."
+        },
         {
           "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
           "link": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
@@ -1578,20 +1592,6 @@
           "date": "2026-09-14T01:05:42+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cyberpunk-2077-battle-net.png",
           "summary": "Even though The Witcher 3 Remastered and Cyberpunk 2077 are coming to Battle.net, Blizzard tells Polygon not to expect a flood of third-party games"
-        },
-        {
-          "title": "14 Years Later, TNT's Criminally Overlooked Action Series Is Officially Free on Streaming",
-          "link": "https://www.polygon.com/leverage-free-youtube/",
-          "date": "2026-09-14T01:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/beth-reisgraf-leverage.jpg",
-          "summary": "Check out of the best-kept secrets from the last heights of basic cable"
-        },
-        {
-          "title": "Diablo 5 Has A Surprising Connection To Dragon Age",
-          "link": "https://www.polygon.com/diablo-5-interview-jennifer-hepler-blizzcon-2026/",
-          "date": "2026-09-13T23:51:01+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/diablo-v-caravan.jpg",
-          "summary": "Former BioWare dev Jennifer Hepler tells Polygon, \"My experience with traditional RPGs has definitely been a strength\" during Diablo 5's development"
         }
       ],
       "ok": true,
@@ -1601,6 +1601,34 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now",
+          "link": "https://www.eurogamer.net/diablo-5-multiplayer-co-op-diablo-4-comparisons",
+          "date": "2026-09-14T10:19:13+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-13-at-11.57.18.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "The announcement of Diablo 5 at BlizzCon over the weekend was among the fan event's highlights. Blizzard shared a surprising number of details about a game that's early in…"
+        },
+        {
+          "title": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\"",
+          "link": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
+          "date": "2026-09-14T09:33:49+00:00",
+          "image": "https://assetsio.gnwcdn.com/starcraft-shooter-blizzcon-2026.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Blizzard uncharacteristically announced two games at the weekend with release dates surprisingly far away. One was Diablo 5 , which Blizzard plans to release in spring 2029, and…"
+        },
+        {
+          "title": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\"",
+          "link": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
+          "date": "2026-09-14T08:29:01+00:00",
+          "image": "https://assetsio.gnwcdn.com/Ellie-aims-a-gun-in-The-Last-of-Us-Part-2-Remastered.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Development on a multiplayer PvP mod for The Last of Us Part 2 on PC has been halted after PlayStation got in touch and asked the developers to cease work on the project. Read more"
+        },
+        {
+          "title": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release",
+          "link": "https://www.eurogamer.net/diablo-4-expansions-over",
+          "date": "2026-09-14T08:19:11+00:00",
+          "image": "https://assetsio.gnwcdn.com/diablo-4-the-amazon-concept-art-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 . Blizzard announced a returning…"
+        },
         {
           "title": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\"",
           "link": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
@@ -1642,34 +1670,6 @@
           "date": "2026-09-13T09:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/miles-buckle-2.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Going through Miles Buckle's Instagram feed is like stumbling into a parallel universe where cinema's greats &ndash; Lynch, Hitchcock, Fellini, Kubrick &ndash; are reimagined in…"
-        },
-        {
-          "title": "UK studio Bulkhead's Wardogs sells over a million copies and tops 350,000 concurrent players on launch day",
-          "link": "https://www.eurogamer.net/wardogs-million-copies-sold-steam-early-access",
-          "date": "2026-09-12T15:43:49+00:00",
-          "image": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Wardogs, the new tactical shooter from Derby-based studio Bulkhead, has sold more than a million copies and passed 350,000 concurrent players within hours of launching into Steam…"
-        },
-        {
-          "title": "Scalpers are already reselling the sold-out Zelda 40th Anniversary Switch 2 for £700+",
-          "link": "https://www.eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale",
-          "date": "2026-09-12T15:14:54+00:00",
-          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-12-at-16.09.04.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Nintendo's new Legend of Zelda 40th anniversary Switch 2 sold out within hours of preorders opening, and scalpers are already scalping, with dozens of orders popping up on eBay…"
-        },
-        {
-          "title": "Everything announced in the BlizzCon 2026 Opening Ceremony",
-          "link": "https://www.eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow",
-          "date": "2026-09-12T11:41:58+00:00",
-          "image": "https://assetsio.gnwcdn.com/blizzcon-2026-opening-ceremony.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "UPDATE 13TH SEPTEMBER: Below you'll find a blow-by-blow account of everything announced during yesterday's BlizzCon 2026 Opening Ceremony. It was a big show, revealing a new…"
-        },
-        {
-          "title": "Nightdive confirms Thief Remastered's leaked new campaign, The Tarnished Mirror, with a November reveal date",
-          "link": "https://www.eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive",
-          "date": "2026-09-12T11:02:48+00:00",
-          "image": "https://assetsio.gnwcdn.com/thief-remastered-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Nightdive Studios has officially confirmed The Tarnished Mirror, a new campaign for its upcoming Thief: The Dark Project Remastered, days after the name leaked through a mass…"
         }
       ],
       "ok": true,
@@ -1679,6 +1679,20 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Thank You To Whoever Made Logan Hairy In Marvel’s Wolverine",
+          "link": "https://kotaku.com/marvels-wolverine-logan-hairy-arms-back-suit-damage-2000733260",
+          "date": "2026-09-14T12:00:22+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/Marvels-Wolverine_20260827214147-1280x720.jpg",
+          "summary": "Logan's suit is torn apart during fights, and the finer details are much, much appreciated"
+        },
+        {
+          "title": "GTA 6′s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out",
+          "link": "https://kotaku.com/gta6-grand-theft-auto-vi-voice-actors-rockstar-netflix-footage-2000734229",
+          "date": "2026-09-14T11:45:37+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/stephen-root-1280x720.jpg",
+          "summary": "Honestly, if you didn't recognize his voice then you've terrible taste in TV and movies"
+        },
         {
           "title": "Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet",
           "link": "https://kotaku.com/warcraft-3-reforged-forsaken-kingdom-secret-levels-2000734013",
@@ -1734,20 +1748,6 @@
           "date": "2026-09-13T13:15:48+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/wow-close-one.jpg",
           "summary": "Just a few more inches and the whole planet would have been titan flakes!"
-        },
-        {
-          "title": "World Of Warcraft Is About To Remix Its Most Beloved Expansion",
-          "link": "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867",
-          "date": "2026-09-13T01:05:43+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/lich-king-1280x720.jpg",
-          "summary": "A cold, cold summer"
-        },
-        {
-          "title": "Everything We Saw At BlizzCon 2026’s Jam-Packed Opening Ceremony",
-          "link": "https://kotaku.com/everything-we-saw-at-blizzcon-2026s-opening-ceremony-2000733819",
-          "date": "2026-09-12T19:06:35+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/cosplay-1280x713.jpg",
-          "summary": "New sequels, surprise reveals, and much more"
         }
       ],
       "ok": true,
@@ -1757,6 +1757,20 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG",
+          "link": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
+          "date": "2026-09-14T11:36:14+00:00",
+          "image": "https://assetsio.gnwcdn.com/spider-evolution-0.webp?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Not content with pulling in daily active user counts roughly equivalent to the population of Japan, game creation platform Roblox are planning to let developers release their…"
+        },
+        {
+          "title": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
+          "link": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+          "date": "2026-09-14T10:45:30+00:00",
+          "image": "https://assetsio.gnwcdn.com/blizzcon-2026-starcraft-diablo-5-wow-forever-reveals-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Well, that report earlier this year was bang on the banana. A new StarCraft shooter, creatively dubbed StarCraft, has been announced for a 2030 release at this year's BlizzCon.…"
+        },
         {
           "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
           "link": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
@@ -1812,20 +1826,6 @@
           "date": "2026-09-11T12:34:17+00:00",
           "image": "https://assetsio.gnwcdn.com/gta-6-online-apparent-court-docs-first-mention-01.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Up until now, Rockstar Games have kept mum about what plans they have for the future of Grand Theft Auto multiplayer once GTA 6 releases on consoles in November. Thanks to filings…"
-        },
-        {
-          "title": "EA's Saudi Arabian owners are reportedly considering forming an ubermegacorp by merging them with Savvy Games",
-          "link": "https://www.rockpapershotgun.com/eas-saudi-arabian-owners-are-reportedly-considering-forming-an-ubermegacorp-by-merging-them-with-savvy-games",
-          "date": "2026-09-11T09:46:56+00:00",
-          "image": "https://assetsio.gnwcdn.com/ea-sports-fc-27-headline-steam.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Just over a month on from a consortium led by the Saudi Arabian government's Public Investment Fund taking over EA, in a buyout worth $55 billion , said new owners are reportedly…"
-        },
-        {
-          "title": "Do a bit of visual programming and watch your party of heroes conquer an evil tower in Dungeon Automata",
-          "link": "https://www.rockpapershotgun.com/do-a-bit-of-visual-programming-and-watch-your-party-of-heroes-conquer-an-evil-tower-in-dungeon-automata",
-          "date": "2026-09-10T21:54:53+00:00",
-          "image": "https://assetsio.gnwcdn.com/dungeon-automata.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The beautiful thing about people that like dungeon crawlers is that they're all sickos. Every single one of them! This is not a genre that's for the faint of heart. It is often…"
         }
       ],
       "ok": true,
@@ -1835,6 +1835,13 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "World of Warcraft: Forever devs say a direct sequel like Guild Wars 2 is unlikely: 'Why would you throw that away and start over?'",
+          "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-a-direct-sequel-like-guild-wars-2-is-unlikely-why-would-you-throw-that-away-and-start-over/",
+          "date": "2026-09-14T10:38:53+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/R2g2nfNeCoSe5bX8wvJYgY-1280-80.jpg",
+          "summary": "\"We keep making it better.\""
+        },
         {
           "title": "Diablo 5 will fully support multiplayer, but Blizzard won't say how similar to Diablo 4 it'll be",
           "link": "https://www.pcgamer.com/games/rpg/diablo-5-will-fully-support-multiplayer-but-blizzard-wont-say-how-similar-to-diablo-4-itll-be/",
@@ -1897,13 +1904,6 @@
           "date": "2026-09-13T16:19:36+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/i8vYB5j3dqNTUo9uuovheN-1280-80.jpg",
           "summary": "Mathieo shared the stunt online and explained his reasoning in a video."
-        },
-        {
-          "title": "My favourite soundtrack of 2026 so far is tucked in one of this year's biggest sleeper hits",
-          "link": "https://www.pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits/",
-          "date": "2026-09-13T16:15:12+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ejBk7QT7RWdtk9YUuFi945-1280-80.jpg",
-          "summary": "Australian duo aksfx have created something truly special."
         }
       ],
       "ok": true,
@@ -2070,6 +2070,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "New StarCraft title to launch in 2030, will be an open-world FPS",
+          "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+          "date": "2026-09-14T10:29:14+00:00",
+          "image": "https://assetsio.gnwcdn.com/starcraft_iLSX29U.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Blizzard Entertainment has announced that the next StarCraft title will shift from real-time strategy to an open-world first-person shooter. Read more"
+        },
+        {
+          "title": "Moss developer Polyarc Games announces closure",
+          "link": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
+          "date": "2026-09-14T08:00:08+00:00",
+          "image": "https://assetsio.gnwcdn.com/moss_jZAg9Eg.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Moss developer Polyarc Games is shutting down after 12 years in operation. Read more"
+        },
+        {
           "title": "Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion",
           "link": "https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion",
           "date": "2026-09-11T16:28:42+00:00",
@@ -2124,20 +2138,6 @@
           "date": "2026-09-10T16:15:33+00:00",
           "image": "https://assetsio.gnwcdn.com/No_More_Robots_logo-cropped.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "It's been nine years since Mike Rose set up the indie publisher No More Robots . Read more"
-        },
-        {
-          "title": "GTA 6 Netflix preview drove more than 100,000 sign-ups during its six-hour exclusivity window",
-          "link": "https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window",
-          "date": "2026-09-10T13:50:35+00:00",
-          "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_GOODTIME_GEAR_01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Rockstar's preview of Grand Theft Auto 6 on Netflix generated over 100,000 sign-ups in the US during its six-hour exclusivity window on August 27, making it the platform's…"
-        },
-        {
-          "title": "Saber Interactive's chief creative officer says \"We've never replaced anybody with AI\"",
-          "link": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
-          "date": "2026-09-10T13:11:44+00:00",
-          "image": "https://assetsio.gnwcdn.com/rideshare-stimulator.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Tim Willits, chief creative officer at Saber Interactive, has given his own take on CEO Matthew Karch's response to accusations that a writer at the company had been replaced with…"
         }
       ],
       "ok": true,
@@ -2147,6 +2147,13 @@
       "name": "Game Developer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Worker-run studio KO_OP confirms layoffs",
+          "link": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+          "date": "2026-09-14T10:11:41+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte78b7de16a63e91b/6aa7c8d484b4ea7e0e908479/Koop_Header.png?width=720&quality=80&disable=upscale",
+          "summary": "The Goodbye Volcano High and Young Suns developer has eliminated 13 roles."
+        },
         {
           "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
           "link": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
@@ -2209,13 +2216,6 @@
           "date": "2026-09-09T18:24:38+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1ebafe3b4ee5bd88/6aa16c4198e0574aee49d7d4/planet_coaster.jpg?width=720&quality=80&disable=upscale",
           "summary": "Frontier reports multiple 'company records' as revenue grows 16 percent in FY2026."
-        },
-        {
-          "title": "Trump Administration takes down Tetris clone after company warns it takes copyright violation 'very seriously'",
-          "link": "https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-",
-          "date": "2026-09-09T15:36:38+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta0c68fc199e2d594/6aa17c6b6a263b212fd6b712/tetrisfeatured.jpg?width=720&quality=80&disable=upscale",
-          "summary": "Build The Wall has been knocked down."
         }
       ],
       "ok": true,
@@ -2304,6 +2304,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "‘World’s first’ naval drone-on-drone battle in war ends with a sunken boat",
+          "link": "https://interestingengineering.com/military/world-first-naval-drone-to-drone-battle",
+          "date": "2026-09-14T11:42:38+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo.jpg",
+          "summary": "A Ukrainian unmanned surface vessel (USV) destroyed a Russian naval drone in the Black Sea..."
+        },
+        {
+          "title": "New oil-refining process cuts energy use by 91% and recovers 85 to 90% of oil’s value",
+          "link": "https://interestingengineering.com/energy/molecular-refining-membrane-oil-91-percent-energy",
+          "date": "2026-09-14T10:00:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/oil-refining.jpg",
+          "summary": "Refining crude oil into usable products typically demands one of the most energy-hungry steps in..."
+        },
+        {
+          "title": "Researchers reach 10 billion write cycles by confining memory chip’s atomic defects",
+          "link": "https://interestingengineering.com/science/wurtzite-ferroelectric-memory-10-billion-cycles",
+          "date": "2026-09-14T09:11:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/mobile-phone-chips.jpg",
+          "summary": "A team of researchers has found a way to make an emerging class of memory..."
+        },
+        {
           "title": "Search for invisible substance that make up 85% of universe’s all matter to get boost with new study",
           "link": "https://interestingengineering.com/science/invisible-substance-universe-matter-search-boost",
           "date": "2026-09-14T05:40:58+00:00",
@@ -2351,27 +2372,6 @@
           "date": "2026-09-13T16:49:01+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/q-hr-qc4dz0_1d76d0.jpg",
           "summary": "GKN Aerospace has started a $16 million expansion of its North Charlestown, New Hampshire, facility..."
-        },
-        {
-          "title": "9 operational US aircraft that can fly faster than sound",
-          "link": "https://interestingengineering.com/military/us-supersonic-aircraft-still-in-operation",
-          "date": "2026-09-13T14:32:16+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-US-supersonic-aircraft.jpg",
-          "summary": "Supersonic flight is often associated with experimental aircraft, futuristic fighters, and Cold War-era icons. Yet..."
-        },
-        {
-          "title": "911 for humanoids: Japan debuts first-ever ‘robot ambulance’ to provide on-site repairs",
-          "link": "https://interestingengineering.com/innovation/japan-debuts-first-humanoid-robot-ambulance",
-          "date": "2026-09-13T13:46:05+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ce9bajgosr0.jpg",
-          "summary": "Japanese tech giant GMO Internet Group (GMO Air) has just unveiled what has been dubbed..."
-        },
-        {
-          "title": "7 humanoid robot makers taking over real-world factories",
-          "link": "https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies",
-          "date": "2026-09-13T13:35:38+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/figure-03.jpg?w=150&h=150&crop=1",
-          "summary": "Humanoid robots are steadily moving out of research laboratories and into factories, warehouses, customer-service centers,..."
         }
       ],
       "ok": true,
@@ -2644,6 +2644,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Black & Veatch Launches BVinfraIQ Digital Platform to Optimize Asset Management",
+          "link": "https://www.enr.com/articles/63642-black-and-veatch-launch-bvinfraiq-intelligence-platform-to-help-clients-optimize-asset-management",
+          "date": "2026-09-14T09:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/09/12/Costa-Azul-LNG---2008---17.webp?t=1789263201",
+          "summary": "The AI-driven platform offers insights and best practice recommendations for managing large infrastructure assets, with an initial focus on liquified natural gas operations."
+        },
+        {
           "title": "McDermott Gains Middle East Gas Contracts in UAE, Cyprus Worth Up to $1.75B",
           "link": "https://www.enr.com/articles/63648-mcdermott-gains-middle-east-gas-contracts-in-uae-cyprus-worth-up-to-175b",
           "date": "2026-09-13T22:00:00+00:00",
@@ -2705,13 +2712,6 @@
           "date": "2026-09-10T11:00:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/09/09/Wyrescreen.webp?t=1789000890",
           "summary": "Pype founder raised $5 million for artificial intelligence-powered construction documents platform Wyre, which aims to replace hours of document review with AI-delivered scopes…"
-        },
-        {
-          "title": "Boston Zoning Rule Streamlines Small Clean Energy Infrastructure",
-          "link": "https://www.enr.com/articles/63639-boston-zoning-rule-streamlines-small-clean-energy-infrastructure",
-          "date": "2026-09-10T04:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/10/BostonWaterfront.webp?t=1789128348",
-          "summary": "Boston officials approved zoning for small clean energy infrastructure following state law and in line with Boston’s climate resiliency goals."
         }
       ],
       "ok": true,
