@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:53:53.526236+00:00",
+  "updated": "2026-09-14T05:53:52.754844+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -651,6 +651,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+          "date": "2026-09-14T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=6000&#038;h=4000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 September 14 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
+          "title": "An Early Look at Fall Color in Canada",
+          "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+          "date": "2026-09-14T04:00:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg",
+          "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut."
+        },
+        {
           "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
           "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
           "date": "2026-09-13T04:05:00+00:00",
@@ -705,20 +719,6 @@
           "date": "2026-09-10T21:11:32+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
           "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory.…"
-        },
-        {
-          "title": "NASA Answers President’s Call to Establish United States Space Academy",
-          "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-          "date": "2026-09-10T20:26:52+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp?w=1919",
-          "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the…"
-        },
-        {
-          "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
-          "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
-          "date": "2026-09-10T20:12:39+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png?w=1536",
-          "summary": "Search and rescue technology developed in part by NASA saved five lives"
         }
       ],
       "ok": true,
@@ -998,18 +998,18 @@
           "summary": "Venus will shine close to the waxing crescent moon at sunset on Sept. 13."
         },
         {
-          "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
-          "date": "2026-09-12T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
-          "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered."
-        },
-        {
           "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
           "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
           "date": "2026-09-12T14:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
           "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order."
+        },
+        {
+          "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+          "date": "2026-09-12T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
+          "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered."
         },
         {
           "title": "This Week In Space podcast: Episode 227 — Trekmania",
@@ -1361,6 +1361,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "No cities on the moon—there isn't enough water, scientists say",
+          "link": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+          "date": "2026-09-14T04:00:02+00:00",
+          "image": null,
+          "summary": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, followed by villages, cities and heavy industry. How sustainable is…"
+        },
+        {
           "title": "JWST ruled out finding tiny moons around an exoplanet—that's great news",
           "link": "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
           "date": "2026-09-13T22:30:05+00:00",
@@ -1422,13 +1429,6 @@
           "date": "2026-09-12T12:40:01+00:00",
           "image": null,
           "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes…"
-        },
-        {
-          "title": "Rubin observatory peers deep into the famous COSMOS field",
-          "link": "https://phys.org/news/2026-09-rubin-observatory-peers-deep-famous.html",
-          "date": "2026-09-12T12:00:08+00:00",
-          "image": null,
-          "summary": "The COSMOS field, or Cosmic Evolution Survey Deep Field, is one of the most famous patches of the universe observed by astronomers. Located in the constellation Sextans, this…"
         }
       ],
       "ok": true,
@@ -1524,74 +1524,74 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
+          "link": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
+          "date": "2026-09-14T05:06:55+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/clair-obscur-expedition-33-gustave-close-up-2.jpg",
+          "summary": "The Final Fantasy inspired indie RPG from Sandfall Interactive was a surprise smash hit — so what's next for Clair Obscur?"
+        },
+        {
+          "title": "After 'Reacher' Season 4 Ends, Here Are Alan Ritchson's 10 Best Performances to Watch Next",
+          "link": "https://www.polygon.com/alan-ritchson-best-movies-tv-shows-ranked/",
+          "date": "2026-09-14T05:04:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jack-reacher.jpg",
+          "summary": "From American Idol to Reacher, these are the performances that turned Alan Ritchson into one of Hollywood's biggest action stars."
+        },
+        {
+          "title": "9 Sci-Fi Series on Netflix That Are Perfect from Start to Finish",
+          "link": "https://www.polygon.com/best-sci-fi-shows-netflix-perfect/",
+          "date": "2026-09-14T04:40:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mv5bywyxodrhzwqtyza3yi00nzm4lwe4mgutnjhjzdzlmdg1yza5xkeyxkfqcgc-_v1_.jpg",
+          "summary": "Unlike Stranger Things, these Netflix sci-fi shows won't leave you feeling unsatisfied"
+        },
+        {
+          "title": "‘Rick and Morty’ Creator Dan Harmon Reveals the Complex Leprechaun Lore Invented for His New Show",
+          "link": "https://www.polygon.com/president-curtis-dan-harmon-leprechauns-interview/",
+          "date": "2026-09-14T04:01:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image-2.png",
+          "summary": "‘President Curtis’ delves into O’Doyle’s backstory, and things get very weird."
+        },
+        {
+          "title": "14 Years Later, Batman’s Most Overlooked Movie of the Century Is Officially Free on Streaming",
+          "link": "https://www.polygon.com/batman-the-dark-knight-returns-free-on-youtube/",
+          "date": "2026-09-14T04:00:19+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24727407/p166_2d_pt3_v4026_0127_210127_19mj_g_r709.jpg",
+          "summary": "An aging Bruce Wayne returns as Batman in The Dark Knight Returns, a brutal, unforgettable take on Gotham’s greatest hero."
+        },
+        {
+          "title": "The Cast of HBO's 'Lanterns' Breaks Down That Shocking Villain Twist",
+          "link": "https://www.polygon.com/lanterns-episode-5-manhunter-interview/",
+          "date": "2026-09-14T02:30:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hal-jordan-kyle-chandler-holds-out-a-satelite-to-john-stewart-aaron-pierre-as-a-pickup-truck-burns-in-the-background-in-lanterns.jpg",
+          "summary": "Episode 5 of HBO's Lanterns resolves one of the show's core mysteries in dramatic fashion, so Polygon spoke with a cast about the biggest twists."
+        },
+        {
+          "title": "World of Warcraft Forever Officially Brings Gamepad Controls Blizzard's MMO",
+          "link": "https://www.polygon.com/world-of-warcraft-forever-gamepad-support-blizzcon-2026/",
+          "date": "2026-09-14T01:30:10+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_announce_key_art_-_horde.jpeg",
+          "summary": "World of Warcraft is usually played with a keyboard and mouse, but the new \"Classic Plus\" WoW release can be fully played with a gamepad."
+        },
+        {
+          "title": "Blizzard Has No Plans To Turn Battle.net Into A Steam Competitor",
+          "link": "https://www.polygon.com/blizzcon-interview-battle-net/",
+          "date": "2026-09-14T01:05:42+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cyberpunk-2077-battle-net.png",
+          "summary": "Even though The Witcher 3 Remastered and Cyberpunk 2077 are coming to Battle.net, Blizzard tells Polygon not to expect a flood of third-party games"
+        },
+        {
+          "title": "14 Years Later, TNT's Criminally Overlooked Action Series Is Officially Free on Streaming",
+          "link": "https://www.polygon.com/leverage-free-youtube/",
+          "date": "2026-09-14T01:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/beth-reisgraf-leverage.jpg",
+          "summary": "Check out of the best-kept secrets from the last heights of basic cable"
+        },
+        {
           "title": "Diablo 5 Has A Surprising Connection To Dragon Age",
           "link": "https://www.polygon.com/diablo-5-interview-jennifer-hepler-blizzcon-2026/",
           "date": "2026-09-13T23:51:01+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/diablo-v-caravan.jpg",
           "summary": "Former BioWare dev Jennifer Hepler tells Polygon, \"My experience with traditional RPGs has definitely been a strength\" during Diablo 5's development"
-        },
-        {
-          "title": "Why StarCraft Isn't Coming Back Until 2030",
-          "link": "https://www.polygon.com/starcraft-2030-release-date-dan-hay-blizzcon-2026/",
-          "date": "2026-09-13T22:55:39+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/starcraft_still_13.jpg",
-          "summary": "StarCraft general manager Dan Hay explains why Blizzard announced the new StarCraft and why it's aiming for a 2030 release."
-        },
-        {
-          "title": "40 Years Later, Transformers Officially Embraces Its Most Heartbreaking Controversy",
-          "link": "https://www.polygon.com/40th-anniversary-transformers-the-movie-hasbro-interview/",
-          "date": "2026-09-13T22:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mv5bmtq0mjczmjy5ml5bml5banbnxkftztgwndg3mdgxmje-_v1_.jpg",
-          "summary": "For the 40th anniversary of The Transformers: The Movie"
-        },
-        {
-          "title": "2026’s Best Puzzle Game Is an Even Trippier Take On Portal",
-          "link": "https://www.polygon.com/he-who-watches-impressions/",
-          "date": "2026-09-13T21:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/he-who-watches-key-art.webp",
-          "summary": "He Who Watches is an excellent new game that keeps the spirit of Portal alive with mind-bending puzzles."
-        },
-        {
-          "title": "Matchbox's Director Drove a Truck Off a 200-Foot Bridge: \"We Did It for Real!\"",
-          "link": "https://www.polygon.com/matchbox-movie-director-interview-sam-hargrave-preview/",
-          "date": "2026-09-13T20:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hogrtktxwaexsmj.jpg",
-          "summary": "Sam Hargrave answers our seven biggest questions about Matchbox: The Movie"
-        },
-        {
-          "title": "The Greatest Video Game Franchises of the 20th Century, Ranked",
-          "link": "https://www.polygon.com/best-video-game-franchises-20th-century/",
-          "date": "2026-09-13T19:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/old-games-grouping.jpg",
-          "summary": "Without some key video game franchises livening up the 20th century, it wouldn't have been nearly as memorable."
-        },
-        {
-          "title": "'Buddy' is Totally Bonkers, But it Will Never Eclipse My Favorite “I Hate Barney” Thriller",
-          "link": "https://www.polygon.com/buddy-vs-death-to-smoochy/",
-          "date": "2026-09-13T18:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image.png",
-          "summary": "The best anti-Barney movie isn't Buddy, its the 2002 comedy Death to Smoochy starring Robin Williams and Edward Norton with director Danny DeVito"
-        },
-        {
-          "title": "Cyberpunk: Edgerunners Is Overwatch's Next Big Anime Collaboration",
-          "link": "https://www.polygon.com/cyberpunk-edgerunners-overwatch/",
-          "date": "2026-09-13T17:28:43+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/david-martinez-in-cyberpunk-edgerunners.jpg",
-          "summary": "Cyberpunk 2077: Ultimate Edition will also come to Battle.net later this year"
-        },
-        {
-          "title": "10 Near-Perfect GameCube Games Nobody Played",
-          "link": "https://www.polygon.com/most-underrated-nintendo-gamecube-games/",
-          "date": "2026-09-13T17:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg",
-          "summary": "The GameCube hosted an assortment of unique and rewarding games that didn't get the response they deserved."
-        },
-        {
-          "title": "Peacock’s Friday the 13th Prequel Is Already Looking Like a Must-Watch",
-          "link": "https://www.polygon.com/peacock-tv-friday-the-13th-prequel-halloween-trailer/",
-          "date": "2026-09-13T15:30:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/nup_207980_01941_rf.JPG",
-          "summary": "Peacock has released a new official trailer for Crystal Lake, the Friday the 13th prequel series starring Linda Cardellini"
         }
       ],
       "ok": true,
@@ -1836,10 +1836,24 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Diablo 5 will fully support multiplayer, but Blizzard won't say how similar to Diablo 4 it'll be",
+          "link": "https://www.pcgamer.com/games/rpg/diablo-5-will-fully-support-multiplayer-but-blizzard-wont-say-how-similar-to-diablo-4-itll-be/",
+          "date": "2026-09-14T01:38:11+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Ax3WUGGFv8bZD8jttKU2xR-1280-80.jpg",
+          "summary": "The 2029 action RPG won't have to be a completely solo experience, Blizzard says."
+        },
+        {
+          "title": "Cyberpunk 2077 is coming to Battle.net for some reason, and Geralt will be in Diablo 4",
+          "link": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-is-coming-to-battle-net-for-some-reason-and-geralt-will-be-in-diablo-4/",
+          "date": "2026-09-14T01:05:50+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/UoTkyWF9WS7wyj8wvUn6ZJ-1280-80.jpg",
+          "summary": "I don't know either."
+        },
+        {
           "title": "10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items",
           "link": "https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/",
           "date": "2026-09-14T00:04:42+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/R2g2nfNeCoSe5bX8wvJYgY-1280-80.jpg",
+          "image": "https://cdn.mos.cms.futurecdn.net/zXLFv5W5dkpeoozC2sX4v7-1280-80.jpg",
           "summary": "The classic-ish MMO has a ton of changes to make the original experience much smoother."
         },
         {
@@ -1890,20 +1904,6 @@
           "date": "2026-09-13T16:15:12+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ejBk7QT7RWdtk9YUuFi945-1280-80.jpg",
           "summary": "Australian duo aksfx have created something truly special."
-        },
-        {
-          "title": "I've got a soft spot for cozy games with flying in them and these are my 4 favorites",
-          "link": "https://www.pcgamer.com/games/ive-got-a-soft-spot-for-cozy-games-with-flying-in-them-and-these-are-my-4-favorites/",
-          "date": "2026-09-13T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/idww9xVcbDqLKH8LyiLX7R-1280-80.jpg",
-          "summary": "Let there be flight!"
-        },
-        {
-          "title": "After more than 400 hours of Valheim in early access, I love the journey from naked adventurer to godly Viking now more than ever",
-          "link": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/",
-          "date": "2026-09-13T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/pNKVZuBS8Mn4tpdLuTYSyM-1280-80.jpg",
-          "summary": "I threw out the whole Viking and started over from the beginning. I'm still not sick of it."
         }
       ],
       "ok": true,
@@ -2304,6 +2304,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Search for invisible substance that make up 85% of universe’s all matter to get boost with new study",
+          "link": "https://interestingengineering.com/science/invisible-substance-universe-matter-search-boost",
+          "date": "2026-09-14T05:40:58+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/dark-matter-.jpg",
+          "summary": "Researchers have confirmed that a new class of quantum materials that could dramatically improve the..."
+        },
+        {
           "title": "Battery-powered drone shatters world record, uses propulsion system assembled at US Army depot",
           "link": "https://interestingengineering.com/military/battery-powered-drone-world-endurance-record",
           "date": "2026-09-14T00:53:43+00:00",
@@ -2365,13 +2372,6 @@
           "date": "2026-09-13T13:35:38+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/figure-03.jpg?w=150&h=150&crop=1",
           "summary": "Humanoid robots are steadily moving out of research laboratories and into factories, warehouses, customer-service centers,..."
-        },
-        {
-          "title": "Brazil’s 1.1-billion-ton rare earth project hits peak 95% terbium recovery in lab tests",
-          "link": "https://interestingengineering.com/energy/brazils-billion-ton-rare-earth-terbium",
-          "date": "2026-09-13T13:00:43+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ln2mfb0bmfc.jpg",
-          "summary": "Rare earths are increasingly becoming a supply-chain issue rather than simply a mining story, particularly..."
         }
       ],
       "ok": true,
@@ -2648,7 +2648,7 @@
           "link": "https://www.enr.com/articles/63648-mcdermott-gains-middle-east-gas-contracts-in-uae-cyprus-worth-up-to-175b",
           "date": "2026-09-13T22:00:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/09/13/UMMSHAIF.UAE.webp?t=1789338532",
-          "summary": "U.S. energy infrastructure contractor will work to develop $6.2B Umm Shaif integrated gas cap in UAE's offshore oil field; and the newly discovered Cronos gas field offshore of…"
+          "summary": "U.S. energy infrastructure contractor will work to develop the $6.2-billion Umm Shaif integrated gas cap in UAE's offshore oil field."
         },
         {
           "title": "Engineers, Building Trades Reflect on Industry's Sept. 11 Impacts, Legacy",
