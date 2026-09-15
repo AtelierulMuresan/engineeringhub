@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T22:19:13.220295+00:00",
+  "updated": "2026-09-15T01:14:17.156482+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -91,18 +91,18 @@
           "summary": "Leon Baldinger’s life revolves around bicycles and cars. In his case, the two worlds come together perfectly – right down to the finest detail."
         },
         {
-          "title": "Between fairways and driving pleasure: Porsche Switzerland at the 2026 Omega European Masters",
-          "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-schweiz-omega-european-masters-2026-43201.html",
-          "date": "2026-09-03T10:00:00+00:00",
-          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/CH-local/2026/Sport-und-Gesellschaft/Omega-European-Master/Headerbild.jpg/jcr:content/Headerbild.jpg",
-          "summary": "World-class international golf, current Porsche models and a varied programme on and around the course: Porsche Switzerland is the main sponsor and official vehicle partner of the…"
-        },
-        {
           "title": "How IT is driving innovation, resilience, and AI at BRP",
           "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-brp-innovation-resilience-ai-43196.html",
           "date": "2026-09-03T10:00:00+00:00",
           "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/pnr/2026/Company/Consulting-BRP-KI/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg/jcr:content/SEA-MY26-PWC-RXPX-ACT-01886-RGB_16_9.jpg",
           "summary": "Interview with BRP’s CIO: Stéphane Bilodeau shares how BRP turns digital capabilities into measurable business impact."
+        },
+        {
+          "title": "Between fairways and driving pleasure: Porsche Switzerland at the 2026 Omega European Masters",
+          "link": "https://newsroom.porsche.com/en/2026/sports-society/porsche-schweiz-omega-european-masters-2026-43201.html",
+          "date": "2026-09-03T10:00:00+00:00",
+          "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_480x270/dam/CH-local/2026/Sport-und-Gesellschaft/Omega-European-Master/Headerbild.jpg/jcr:content/Headerbild.jpg",
+          "summary": "World-class international golf, current Porsche models and a varied programme on and around the course: Porsche Switzerland is the main sponsor and official vehicle partner of the…"
         },
         {
           "title": "Roxy vs. Grello: a thrilling battle",
@@ -282,7 +282,7 @@
           "summary": "Toyota CEO Kenta Kon speaks with Automotive News in his first international media interview since taking the helm. Plus, Hyundai delays driver-assist software, Tesla teases the…"
         },
         {
-          "title": "Automotive News Video | Ford and GM’s Quiet Bet Against Trump’s Canada Trade War",
+          "title": "Automotive News Video | Ford and GM’s quiet bet against Trump’s Canada trade war",
           "link": "https://www.autonews.com/video/automotive-news-video-ford-and-gms-quiet-bet-against-trumps-canada-trade-war/",
           "date": "2026-09-14T17:14:33+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/L-ey1vijvR-5Y7DRdsJp5fgnkuU=/0x800/d3qtc8km8dvw1x.cloudfront.net/09-14-2026/t_895d5c1144de44e2bf89edfc06b1fe2c_name_Ambassador_Bridge_US_Canada_border.jpg",
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "Kallisio Moves to Close Adoption Gap for 3D Printed Head and Neck Cancer Device",
+          "link": "https://3dprintingindustry.com/news/kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device-254611/?utm_source=rss&utm_medium=rss&utm_campaign=kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device",
+          "date": "2026-09-14T08:58:25+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Personalized cancer medtech Kallisio has launched an expanded access program aimed at connecting head and neck cancer patients with Stentra, its FDA-cleared, custom-fit 3D printed…"
+        },
+        {
+          "title": "Stratasys Launches F870 Large-Format FDM Printer",
+          "link": "https://3dprintingindustry.com/news/stratasys-launches-f870-large-format-fdm-printer-254617/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-launches-f870-large-format-fdm-printer",
+          "date": "2026-09-14T08:58:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "3D printer OEM Stratasys has introduced the F870, a new large-format FDM 3D printing system built for automotive, aerospace and defense manufacturers looking to move additive…"
+        },
+        {
+          "title": "Mazak’s VC-Ez 20X Machines Power New WAAM Additive Manufacturing Platform",
+          "link": "https://3dprintingindustry.com/news/mazaks-vc-ez-20x-machines-power-new-waam-additive-manufacturing-platform-254626/?utm_source=rss&utm_medium=rss&utm_campaign=mazaks-vc-ez-20x-machines-power-new-waam-additive-manufacturing-platform",
+          "date": "2026-09-14T08:50:58+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Oak Ridge National Laboratory and Mazak have partnered to develop a convergent metal additive manufacturing platform that unifies metal additive manufacturing and high-precision…"
+        },
+        {
+          "title": "Selle Italia Launches Unica, a Pressure-Mapped 3D Printed Saddle",
+          "link": "https://3dprintingindustry.com/news/selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle-254631/?utm_source=rss&utm_medium=rss&utm_campaign=selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle",
+          "date": "2026-09-14T08:50:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Selle Italia has introduced Unica, a 3D printed saddle built around pressure data collected from each individual rider instead of a fixed set of cushioning zones. The saddle is…"
+        },
+        {
+          "title": "SprintRay Launches Midas Restore, a Ceramic-Zirconia Material for Same-Visit Restorations",
+          "link": "https://3dprintingindustry.com/news/sprintray-launches-midas-restore-a-ceramic-zirconia-material-for-same-visit-restorations-254635/?utm_source=rss&utm_medium=rss&utm_campaign=sprintray-launches-midas-restore-a-ceramic-zirconia-material-for-same-visit-restorations",
+          "date": "2026-09-14T08:41:37+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "SprintRay has introduced Midas Restore, an FDA-cleared restorative resin built around glass ceramic and zirconia fillers, made specifically for use with the company&#8217;s Midas…"
+        },
+        {
+          "title": "Hyundai Installs New Large-Format 3D Printers for Full-Scale Automotive Parts",
+          "link": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts",
+          "date": "2026-09-11T11:05:27+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "South Korean automotive giant Hyundai’s Namyang R&#38;D Center is now running two VX1000 HSS polymer 3D printers from German equipment maker ExOne Global Holdings. The machines…"
+        },
+        {
+          "title": "Apple Brings Two Distinct 3D Printing Processes to the Hinge of Its First Foldable iPhone",
+          "link": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/?utm_source=rss&utm_medium=rss&utm_campaign=apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone",
+          "date": "2026-09-10T16:26:54+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Global consumer electronics company Apple announced the iPhone Duo (rumored as iPhone Ultra) yesterday, its first foldable smartphone, priced at $1,999 and scheduled to ship…"
+        },
+        {
+          "title": "Inside SixPAC: The Army’s Bid to Modernize Ammunition Packaging and Supply Chains",
+          "link": "https://3dprintingindustry.com/news/inside-sixpac-the-armys-bid-to-modernize-ammunition-packaging-and-supply-chains-254557/?utm_source=rss&utm_medium=rss&utm_campaign=inside-sixpac-the-armys-bid-to-modernize-ammunition-packaging-and-supply-chains",
+          "date": "2026-09-10T11:23:30+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The U.S. Army&#8216;s Combat Capabilities Development Command Armaments Center unveiled SixPAC on August 26, 2026, at Picatinny Arsenal, New Jersey, the first major redesign of…"
+        },
+        {
+          "title": "PrusaSlicer 3.0 Preview Arrives With New Architecture and a Community Plugin Marketplace on the Way",
+          "link": "https://3dprintingindustry.com/news/prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way-254561/?utm_source=rss&utm_medium=rss&utm_campaign=prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way",
+          "date": "2026-09-10T11:14:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Prusa Research’s PrusaSlicer 3.0 has entered public preview, releasing on September 1, 2026 15 years to the day after the first commit to Slic3r, the project PrusaSlicer was…"
+        },
+        {
+          "title": "Tripo AI Lands 3 Billion Yuan, Unveils Quad-Topology Model",
+          "link": "https://3dprintingindustry.com/news/tripo-ai-lands-3-billion-yuan-unveils-quad-topology-model-254576/?utm_source=rss&utm_medium=rss&utm_campaign=tripo-ai-lands-3-billion-yuan-unveils-quad-topology-model",
+          "date": "2026-09-10T10:53:41+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Tripo AI, an artificial intelligence company building 3D foundation models and world models, has raised approximately 3 billion yuan (approx. $447M) across its Series B and Series…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -941,18 +1012,18 @@
           "summary": "Just a little help from its friends."
         },
         {
-          "title": "Is there a hidden 'Planet 9' in our solar system?",
-          "link": "https://www.space.com/astronomy/solar-system/is-there-a-hidden-planet-9-in-our-solar-system",
-          "date": "2026-09-14T12:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/M8HaGEcGfuM65e4GzYUrXm-1280-80.jpg",
-          "summary": "For more than a century, astronomers have been captivated by the idea that an undiscovered planet could be lurking in the furthest reaches of our solar system."
-        },
-        {
           "title": "Pre-order the Unistellar Envision AR binoculars and learn about the night sky in real-time",
           "link": "https://www.space.com/stargazing/skywatching-kit/pre-order-the-unistellar-envision-ar-binoculars-and-learn-about-the-night-sky-in-real-time",
           "date": "2026-09-14T12:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/wRutJLHAPytuMtBopn2LJU-1280-80.jpg",
           "summary": "Unistellar's long awaited augmented reality Envision smart binoculars are available to pre-order for $1499, with guaranteed delivery before Christmas."
+        },
+        {
+          "title": "Is there a hidden 'Planet 9' in our solar system?",
+          "link": "https://www.space.com/astronomy/solar-system/is-there-a-hidden-planet-9-in-our-solar-system",
+          "date": "2026-09-14T12:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/M8HaGEcGfuM65e4GzYUrXm-1280-80.jpg",
+          "summary": "For more than a century, astronomers have been captivated by the idea that an undiscovered planet could be lurking in the furthest reaches of our solar system."
         }
       ],
       "ok": true,
@@ -1290,6 +1361,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "A new design for a plasma engine fuels on only thin air",
+          "link": "https://phys.org/news/2026-09-plasma-fuels-thin-air.html",
+          "date": "2026-09-15T00:40:01+00:00",
+          "image": null,
+          "summary": "Choosing an orbit for a satellite always comes with trade-offs. Very low Earth orbit (VLEO), between 100–450 km (62–280 miles), has distinct advantages. Remote-sensing cameras can…"
+        },
+        {
           "title": "Active black holes reveal star-forming rings and shock waves in nine nearby galaxies",
           "link": "https://phys.org/news/2026-09-black-holes-reveal-star-nearby.html",
           "date": "2026-09-14T20:20:10+00:00",
@@ -1351,13 +1429,6 @@
           "date": "2026-09-13T19:30:01+00:00",
           "image": null,
           "summary": "The surface of Mercury is filled with craters, ridges and steep cliffs. Over billions of years, as the planet's interior cooled, the planet also shrank. Just as the skin of a…"
-        },
-        {
-          "title": "Gravitational-wave analysis narrows the search for black hole impostors",
-          "link": "https://phys.org/news/2026-09-gravitational-analysis-narrows-black-hole.html",
-          "date": "2026-09-13T14:40:01+00:00",
-          "image": null,
-          "summary": "Black holes are regions of spacetime where gravity is so strong that nothing, not even light, can escape. When two black holes orbit each other and merge, they produce…"
         }
       ],
       "ok": true,
@@ -1453,6 +1524,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "10 Near-Perfect Xbox 360 Games Nobody Played",
+          "link": "https://www.polygon.com/most-underrated-xbox-360-games/",
+          "date": "2026-09-15T01:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24855988/78853045.jpg",
+          "summary": "Xbox 360 had a large library of hits, but some of its exclusive hidden gems didn't get the attention they deserved."
+        },
+        {
+          "title": "Blizzard Explains How Diablo 5 Avoids Diablo 4's Open-World Problem",
+          "link": "https://www.polygon.com/diablo-5-no-open-world-blizzard-interview/",
+          "date": "2026-09-14T23:49:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/diablo-5-sanctuary.jpg",
+          "summary": "Overlay maps will also be in Diablo 5 from day one"
+        },
+        {
+          "title": "New Steam Game Is Like Balatro Meets Newgrounds-Era Flash Games",
+          "link": "https://www.polygon.com/kaz-steam-roguelike-impressions/",
+          "date": "2026-09-14T23:08:52+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/kaz-bird-grid.jpg",
+          "summary": "Kaz, a new Steam roguelike that's like Balatro combined with a Flash game from the Newgrounds era of the internet, is Steam's coolest new roguelike."
+        },
+        {
+          "title": "The 10 Best Marvel Video Games Of All Time",
+          "link": "https://www.polygon.com/best-marvel-video-games-ever/",
+          "date": "2026-09-14T23:01:48+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-midnight-suns-wolverine.jpg",
+          "summary": "Spanning a variety of genres and eras, these 10 Marvel video games provide compelling gameplay loops that make them the best of their type."
+        },
+        {
           "title": "Magic: The Gathering Officially Reveals Jace's New Planeswalker Replacement",
           "link": "https://www.polygon.com/mtg-magic-jace-planeswalker-spark-replacement-tam-new-hero/",
           "date": "2026-09-14T21:01:19+00:00",
@@ -1493,34 +1592,6 @@
           "date": "2026-09-14T18:30:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_announce_key_art_-_alliance.jpg",
           "summary": "Blizzard's 'Classic Plus' concept could be more approachable for new, returning, and casual players than modern WoW"
-        },
-        {
-          "title": "Valve's VR Headset Costs $1,000+, and Reservations Are Open Now",
-          "link": "https://www.polygon.com/steam-machine-valve-vr-headset-price-availability-how-to-preorder/",
-          "date": "2026-09-14T17:50:02+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/valve-steam-frame-impressions-roundup-2.jpg",
-          "summary": "Valve has revealed the price of its VR headset, the Steam Frame, and it'll cost you a pretty penny. You can sign up for the waitlist now."
-        },
-        {
-          "title": "Sega and Netflix Announce an Official Crazy Taxi Movie",
-          "link": "https://www.polygon.com/crazy-taxi-movie-announced-sega-netflix-sonic-stranger-than-fiction/",
-          "date": "2026-09-14T17:31:41+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ss_93b5f62cb675f6473f28767181c29520842a850d-1920x1080.jpg",
-          "summary": "Sega and Netflix just announced an official Crazy Taxi movie, alongside adaptations of Sonic and 'Stranger Than Heaven.'"
-        },
-        {
-          "title": "New Walmart promo is the safest way to buy 'Pokémon' 30th anniversary TCG on release day",
-          "link": "https://www.polygon.com/walmart-pokemon-30th-anniversary-tcg-card-release-raffle-drawing-when-what/",
-          "date": "2026-09-14T17:28:07+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-future-rare-mewtwo.jpg",
-          "summary": "Pokémon fans have a new, hassle-free way of buying 30th anniversary ETB as well as the Tech and Poster Collection, all for close to MSRP"
-        },
-        {
-          "title": "Rayman Legends Retold Officially Delayed Less Than a Month Before Release",
-          "link": "https://www.polygon.com/rayman-legends-retold-ubisoft-delay/",
-          "date": "2026-09-14T17:26:00+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/rayman-legends-retold-characters.png",
-          "summary": "Ubisoft has announced the remake of 2013's Rayman Legends is being pushed to December"
         }
       ],
       "ok": true,
@@ -1609,6 +1680,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers",
+          "link": "https://kotaku.com/new-things-learned-world-of-warcraft-forever-2000734005",
+          "date": "2026-09-15T00:18:54+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/wow-forever-5-1-1280x720.jpg",
+          "summary": "No shaman tanks at launch, PvP progression, add-on restrictions, and more"
+        },
+        {
           "title": "I Need This Fire Emblem: Fortune’s Weave Character To Be Romanceable, For Reasons",
           "link": "https://kotaku.com/fire-emblem-fortunes-weave-jester-romance-charcter-design-2000734368",
           "date": "2026-09-14T21:42:44+00:00",
@@ -1670,13 +1748,6 @@
           "date": "2026-09-14T17:12:16+00:00",
           "image": "https://kotaku.com/app/uploads/2026/06/marathon-vandal-2-1280x720.jpg",
           "summary": "Things are looking bad"
-        },
-        {
-          "title": "I Tested Valve’s New $1,000+ VR Headset And I Have No Idea Who It’s For In 2026",
-          "link": "https://kotaku.com/im-not-sure-about-valves-new-1000-vr-headset-2000734260",
-          "date": "2026-09-14T17:00:30+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/Steam-VR-1280x720.jpg",
-          "summary": "The Steam Frame is cool and has some good ideas, but it's hard to recommend it"
         }
       ],
       "ok": true,
@@ -1691,7 +1762,7 @@
           "link": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
           "date": "2026-09-14T20:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/thecrabiswalking.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The King Is Watching developers Hypnohead have announced The Crab Is Walking, a roguelite city-builder in which you alternate between arranging tetronimo-shaped city districts on…"
+          "summary": "The King Is Watching developers Hypnohead have announced The Crab Is Walking, a roguelite city-builder in which you alternate between arranging tetromino-shaped city districts on…"
         },
         {
           "title": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
@@ -2233,6 +2304,55 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "260 tons: World’s largest electric ferry with 40 MWh battery reaches new home",
+          "link": "https://interestingengineering.com/transportation/260-tons-worlds-largest-electric-ferry-with-40-mwh-battery-reaches-new-home",
+          "date": "2026-09-15T00:47:31+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/99a7z1plqts.jpg",
+          "summary": "The largest electric ship in the world, the Hull 096, which is powered by more..."
+        },
+        {
+          "title": "Fully integrated 6,000-mile Sentinel missile assembled vertically for the first time",
+          "link": "https://interestingengineering.com/military/sentinel-missile-6000-mile-range-vertical-assembly",
+          "date": "2026-09-15T00:10:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/bogchs2qg98.jpg",
+          "summary": "The U.S. Air Force and Northrop Grumman have assembled a full-scale Sentinel missile configuration ahead..."
+        },
+        {
+          "title": "UK-US supercomputers team up to combine tokamak data and build smarter fusion twins",
+          "link": "https://interestingengineering.com/innovation/uk-us-fusion-supercomputers-ai-tokamak-digital-twins",
+          "date": "2026-09-15T00:09:55+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Sunrise-supercomputer.jpg",
+          "summary": "Two fusion supercomputers in the UK and US could be linked to train the same..."
+        },
+        {
+          "title": "Cooling system cuts fuel-cell heat in hydrogen-electric aircraft for 800-mile flights",
+          "link": "https://interestingengineering.com/transportation/beyond-aero-hydrogen-aircraft-fuel-cell-heat",
+          "date": "2026-09-15T00:05:58+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-15T043618.768.jpg",
+          "summary": "Hydrogen-electric aviation has a cooling problem that could prove just as important as the propulsion..."
+        },
+        {
+          "title": "New erasable chip uses light to rewrite how electronics behave after fabrication",
+          "link": "https://interestingengineering.com/innovation/light-programmable-2d-semiconductor-reconfigurable-electronics",
+          "date": "2026-09-14T23:31:35+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/princeton-semiconductor.jpg",
+          "summary": "Researchers at Princeton University developed a thin semiconductor that can be programmed, erased and reprogrammed..."
+        },
+        {
+          "title": "Japan plans drone-mounted quantum magnetic sensors to hunt Chinese submarines",
+          "link": "https://interestingengineering.com/military/quantum-magnetic-sensor-drone-submarine-hunting",
+          "date": "2026-09-14T22:41:21+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-15T030757.110-1.jpg",
+          "summary": "Japan plans to develop compact quantum magnetic sensors for aerial drones that could help locate..."
+        },
+        {
+          "title": "New separator pushes lithium-metal battery capacity 42% higher at 4C, curbs dendrites",
+          "link": "https://interestingengineering.com/energy/bikitaite-cellulose-separator-boosts-ncm90-battery-performance",
+          "date": "2026-09-14T22:27:25+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-15T035611.630.jpg",
+          "summary": "A new cellulose separator infused with bikitaite could help lithium-metal batteries handle rapid cycling while..."
+        },
+        {
           "title": "New nuclear tech targets 5.9 tons of HALEU fuel per year from 1,200-sq-ft unit",
           "link": "https://interestingengineering.com/energy/nusano-haleu-direct-metallization-nuclear-fuel-production",
           "date": "2026-09-14T21:13:30+00:00",
@@ -2252,55 +2372,6 @@
           "date": "2026-09-14T18:09:47+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/g8qav3viv9s.jpg",
           "summary": "US researchers have been developing a novel computer logic that uses nanoscale mechanical strain to..."
-        },
-        {
-          "title": "Cockpit-free cargo plane carries 6,000-pound payload autonomously to frontline units",
-          "link": "https://interestingengineering.com/transportation/skycourier-ux-autonomous-cargo-aircraft",
-          "date": "2026-09-14T17:47:10+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-14T230147.716.jpg",
-          "summary": "Textron Aviation and Merlin have revealed the Cessna SkyCourier UX, a concept that combines the..."
-        },
-        {
-          "title": "‘SICK conspiracy’: Trump rejects AI guardrails after Anthropic CEO urges slowdown",
-          "link": "https://interestingengineering.com/ai-robotics/trump-ai-guardrails-president-us-china-ai-race",
-          "date": "2026-09-14T17:26:56+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-14T225533.818.jpg",
-          "summary": "President Donald Trump has said that the US does not need additional guardrails for artificial..."
-        },
-        {
-          "title": "New 27 hp electric tractor can work for weeks in the sun while recharging itself",
-          "link": "https://interestingengineering.com/transportation/new-electric-tractor-moonrider-27",
-          "date": "2026-09-14T13:46:59+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/unnamed-file-31.jpg",
-          "summary": "Ohio-based GoSun and India&#8217;s Moonrider co-developed the Moonrider 27, an all-electric solar utility tractor designed..."
-        },
-        {
-          "title": "New COF material boasts 1,000 times longer charge lifetime, faster hydrogen generation",
-          "link": "https://interestingengineering.com/energy/new-cof-material-1000-times-longer-charge-hydrogen",
-          "date": "2026-09-14T13:46:37+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-14T191521.785.jpg",
-          "summary": "A coumarin-linked covalent organic framework (COF) material developed by researchers at the Ningbo Institute of..."
-        },
-        {
-          "title": "MIT spinout Atlas builds 40-foot bridge entirely from recycled water bottles",
-          "link": "https://interestingengineering.com/innovation/atlas-building-composites-recycled-plastic-bridge",
-          "date": "2026-09-14T13:41:45+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/MIT-Atlas-Composites-building-material.jpg",
-          "summary": "A newly opened bridge in a Massachusetts wetland doesn&#8217;t look like it was built from..."
-        },
-        {
-          "title": "UBTECH starts 10,000-unit robot factory that can build humanoid every 10 minutes",
-          "link": "https://interestingengineering.com/ai-robotics/ubtech-starts-10000-unit-robot-factory",
-          "date": "2026-09-14T13:41:36+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-4.jpg",
-          "summary": "China has taken a major step toward commercial humanoid robot production after UBTECH began operations..."
-        },
-        {
-          "title": "Startup unveils Iron Man-inspired homes with built-in robotic arms to automate chores",
-          "link": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
-          "date": "2026-09-14T13:35:11+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/unnamed-file-30.jpg",
-          "summary": "As global tech giants rush to bring two-legged humanoid robots into living rooms, Tokyo-based startup..."
         }
       ],
       "ok": true,
@@ -2481,6 +2552,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+          "date": "2026-09-14T22:06:24+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-500x500.jpg",
+          "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense."
+        },
+        {
+          "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+          "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+          "date": "2026-09-14T21:32:22+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-500x500.jpg",
+          "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\""
+        },
+        {
+          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+          "date": "2026-09-14T21:04:32+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-500x500.jpg",
+          "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
+        },
+        {
           "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
           "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
           "date": "2026-09-14T19:45:13+00:00",
@@ -2528,27 +2620,6 @@
           "date": "2026-09-14T17:10:54+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/devilsarrow1-500x500.jpg",
           "summary": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks."
-        },
-        {
-          "title": "Steam Frame: The Ars Technica review",
-          "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
-          "date": "2026-09-14T17:00:07+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sfcrop1-1-500x500-1789413201.jpg",
-          "summary": "Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\""
-        },
-        {
-          "title": "\"Offensively cheap\": Solar power is looking up",
-          "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
-          "date": "2026-09-14T16:29:18+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2284882889-1-500x500.jpg",
-          "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities."
-        },
-        {
-          "title": "New corners, new lights for 2028 Volvo XC40",
-          "link": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
-          "date": "2026-09-14T15:46:06+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_New_Volvo_XC40_Studio_Front_34-500x500.jpg",
-          "summary": "The Swedish automaker gives its small SUV a sympathetic makeover."
         }
       ],
       "ok": true,
