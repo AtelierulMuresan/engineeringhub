@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:57:23.710928+00:00",
+  "updated": "2026-09-18T04:22:41.922639+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "ANC Podcast: Sept. 18, 2026 | The week’s top stories and Clarify’s Darren Slind on latest vehicle buyer study",
+          "link": "https://www.autonews.com/podcasts/canada-conversations/anc-automotive-news-canada-podcast-clarify-darren-slind/",
+          "date": "2026-09-18T02:57:27+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/arPeSWP1T63rHR9XojMB0toSqkg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FVYUIAUYRREATEGM3LHYK34NQ4.jpg",
+          "summary": "Stellantis plans Brampton sale; Tariffs could sink Detroit; Uncertain factory investment future. Plus, Clarify President Darren Sling discusses the findings in the Vehicle Buyer…"
+        },
+        {
           "title": "Automotive News Classifieds",
           "link": "https://www.autonews.com/classifieds/automotive-news-classifieds/",
           "date": "2026-09-17T22:23:31+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-17T16:47:27+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/-KaJjmWH4MjxEXE-2NPPzTybnbU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/ABKDU7JG7JCRBL7GTM662IZHUU.png",
           "summary": "Agero has named Ben Zatlin as Chief Client Officer, Insurance, and Harrison Russell as Chief Client Officer, Automotive, establishing dedicated leadership for the company’s…"
-        },
-        {
-          "title": "Autonomous vehicles may stop for pedestrians differently based on race and disability, study finds",
-          "link": "https://www.autonews.com/technology/mobility/an-av-bias-race-paralysis-0917/",
-          "date": "2026-09-17T15:19:37+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/5vVIMcSfeZkvbeYBhyJMDwwj1H8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/IVMQISRCFZCIVBNDUT2LRYTJSU.jpg",
-          "summary": "Artificial intelligence models in AVs yield to pedestrians at different rates based on skin color and disability status, raising safety and regulatory concerns, according to a…"
         }
       ],
       "ok": true,
@@ -727,80 +727,9 @@
     {
       "name": "NASA JPL",
       "cat": "space",
-      "items": [
-        {
-          "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
-          "link": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
-          "date": "2026-09-16T16:08:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-earth-illustration-cropped.jpeg",
-          "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA…"
-        },
-        {
-          "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-          "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-          "date": "2026-09-09T16:00:00+00:00",
-          "image": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries,…"
-        },
-        {
-          "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
-          "link": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
-          "date": "2026-08-30T13:18:06+00:00",
-          "image": "https://images-assets.nasa.gov/image/NHQ20260830_admin_0002/NHQ20260830_admin_0002~large.jpg?w=1920&amp;h=1279&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at…"
-        },
-        {
-          "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-          "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-          "date": "2026-08-25T22:28:34+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26777-d2026-0824-rl0031661-pano-med.jpg?w=2048",
-          "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space…"
-        },
-        {
-          "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
-          "date": "2026-08-24T20:44:58+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg?w=1439",
-          "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the…"
-        },
-        {
-          "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-          "link": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-          "date": "2026-08-17T19:24:34+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg?w=1920",
-          "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles,…"
-        },
-        {
-          "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
-          "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
-          "date": "2026-08-05T15:25:27+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/pia26758-figure-a-inset-pillarbox.jpg?w=1024",
-          "summary": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky,…"
-        },
-        {
-          "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-          "date": "2026-08-04T16:14:51+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/05/mb-landers-thumbnail-horizontal-1.png",
-          "summary": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To…"
-        },
-        {
-          "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-          "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
-          "date": "2026-07-31T14:11:34+00:00",
-          "image": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg?w=1438&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman…"
-        },
-        {
-          "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-          "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
-          "date": "2026-07-29T15:30:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.jpg?w=2048",
-          "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists:…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/centers-and-facilities/jpl/feed/"
     },
     {
       "name": "NASA Aeronautics",
@@ -1552,6 +1481,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Stephen King's 10/10 Sci-Fi Detective Series Is Officially Free to Watch on YouTube",
+          "link": "https://www.polygon.com/stephen-king-procedural-adaptation-streaming-free/",
+          "date": "2026-09-18T04:00:20+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcddezo_ec093.jpg",
+          "summary": "An underrated King adaptation that deserves a reappraisal."
+        },
+        {
+          "title": "ABC's Legendary 49-Episode Sci-Fi Anthology Series is Officially Free on Streaming",
+          "link": "https://www.polygon.com/the-outer-limits-free-to-stream/",
+          "date": "2026-09-18T03:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-watchtheouterlimitss01e05-thesixthfinger-freetvshowstubi-34-47.jpg",
+          "summary": "The sci-fi anthology series The Outer Limits began as a rip-off of The Twilight Zone, but still had plenty of great stories in its two-seon run in the"
+        },
+        {
+          "title": "8 Best Social Deception Games Every Traitors Fan Must Play",
+          "link": "https://www.polygon.com/best-games-like-the-traitors/",
+          "date": "2026-09-18T00:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/alan-cumming-traitors.jpg",
+          "summary": "The Traitors: New Blood premieres this week. These eight video games have been running the same trust-no-one experiment for years"
+        },
+        {
           "title": "'Fourth Wing' Author Officially Reveals Four New Characters from Her Next Book",
           "link": "https://www.polygon.com/fourth-wing-empyrean-series-threshing-day-characters-revealed/",
           "date": "2026-09-17T23:49:17+00:00",
@@ -1567,7 +1517,7 @@
         },
         {
           "title": "'Resident Evil' Ending Explained: How Zach Cregger Quietly Sets Up a Sequel",
-          "link": "https://www.polygon.com/resident-evils-wild-final-act-explained/",
+          "link": "https://www.polygon.com/resident-evil-ending-explained/",
           "date": "2026-09-17T22:31:18+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/15-resident-evil.JPG",
           "summary": "Resident Evil ends with a terrifying transformation, a last-second cure, and a National Guard assault on Raccoon City."
@@ -1599,27 +1549,6 @@
           "date": "2026-09-17T18:38:17+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/17-resident-evil.JPG",
           "summary": "Zach Cregger's 'Resident Evil' adaptation has the highest Rotten Tomatoes rating for a movie based on a game."
-        },
-        {
-          "title": "Doctor Who Reboot Shows First Signs of Life in New BBC Update",
-          "link": "https://www.polygon.com/doctor-who-reboot-release-bbc/",
-          "date": "2026-09-17T18:32:54+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25188707/2c10244cd41cb1426a86b6c8bfef3a8d_4096x2730_8209712b.jpeg",
-          "summary": "BBC gives first update on Doctor Who reboot and sets 2028 premiere at the earliest"
-        },
-        {
-          "title": "What time are the Kingdom Hearts power hours in Fortnite Chapter 7 Season 4?",
-          "link": "https://www.polygon.com/fortnite-chapter-7-season-4-kingdom-hearts-power-hours-what-time/",
-          "date": "2026-09-17T18:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jlee_260917_1001_fn_khhour.jpg",
-          "summary": "Here's what time the Kingdom Hearts power hours are in Fortnite Chapter 7 Season 4, in your time zone."
-        },
-        {
-          "title": "Watch Point It Out! Episode 4, the Big Blizzcon Breakdown",
-          "link": "https://www.polygon.com/point-it-out-episode-4/",
-          "date": "2026-09-17T18:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point_it_out_4.png",
-          "summary": "On the latest episode of Point It Out!, Polygon's SImone de Rochefort and Giovanni Colantonio unpack an announcement-filled Blizzcon."
         }
       ],
       "ok": true,
@@ -1864,6 +1793,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month",
+          "link": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+          "date": "2026-09-18T02:44:17+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ohE8GP7Y9TgzbmJmVpQpsP-1920-80.jpg",
+          "summary": "I'm gonna start lining up now."
+        },
+        {
+          "title": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
+          "link": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+          "date": "2026-09-18T01:19:18+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ofjZpctqnSuo7DbahTtZsC-1920-80.jpg",
+          "summary": "Going with a $40 price point will make it an \"and game\"."
+        },
+        {
+          "title": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod",
+          "link": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
+          "date": "2026-09-18T00:55:56+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/fhFkJHXH82ezVrTZgb9rLg-1920-80.jpg",
+          "summary": "Also change the text size, add emojis, or make it bold."
+        },
+        {
           "title": "Magic: The Gathering's next big crossover is with itself",
           "link": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
           "date": "2026-09-17T23:00:31+00:00",
@@ -1911,27 +1861,6 @@
           "date": "2026-09-17T20:22:42+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/DTtd9WTiiR5GFoT3TSr5nn-1920-80.jpg",
           "summary": "Step one: Finding out who \"voices38\" is."
-        },
-        {
-          "title": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
-          "link": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
-          "date": "2026-09-17T19:21:58+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/vT33gLaKjPUyGYcjZKngWd-1920-80.jpg",
-          "summary": "The Director's Cut is coming as a free update in October."
-        },
-        {
-          "title": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me",
-          "link": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
-          "date": "2026-09-17T18:31:37+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/8SSXbkPL6gSihHehE5JSF7-1920-80.jpg",
-          "summary": "Tristram is back, baby, and the level of detail Blizzard has put into this recreation is genuinely impressive."
-        },
-        {
-          "title": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
-          "date": "2026-09-17T18:19:36+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/mGAbwHEYqU99h2xFrdszPL-1920-80.jpg",
-          "summary": "That soon? Twitch CEO Dan Clancy sounds pretty sure of it."
         }
       ],
       "ok": true,
@@ -2176,10 +2105,52 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Game Conference MX (GCMX)",
+          "link": "https://www.gamedeveloper.com/events/untitled",
+          "date": "2026-11-13T08:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt7697d90ec6ca4f72/6aac8434e6306a3cd258a667/GCMX2025_Logo_Vertical_-_Oscuro.png?width=720&quality=80&disable=upscale",
+          "summary": ""
+        },
+        {
+          "title": "gamescom",
+          "link": "https://www.gamedeveloper.com/events/gamescom",
+          "date": "2027-08-23T07:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt632741073bc8a83e/6aac62d711966bcca3382946/gamescom_logo_rgb_2590x1878.jpg?width=720&quality=80&disable=upscale",
+          "summary": ""
+        },
+        {
+          "title": "SLICE",
+          "link": "https://www.gamedeveloper.com/events/slice",
+          "date": "2026-09-02T07:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt84833237e7fdea71/6aac61fef2b8193cd78ba45c/og-image.jpg?width=720&quality=80&disable=upscale",
+          "summary": ""
+        },
+        {
+          "title": "Unreal Fest",
+          "link": "https://www.gamedeveloper.com/events/unreal-fest",
+          "date": "2026-06-16T07:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8833f04a444571c9/6aac5e7243fcc7038a8c3483/UnrealFest_26_Chicago.webp?width=720&quality=80&disable=upscale",
+          "summary": ""
+        },
+        {
+          "title": "GodotCon",
+          "link": "https://www.gamedeveloper.comconference.godotengine.org",
+          "date": "2026-07-21T07:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd1eddde21b0d5d66/6aac5cf28cb60c1ee1955cf3/favicon-godot.png?width=720&quality=80&disable=upscale",
+          "summary": ""
+        },
+        {
           "title": "NarraScope",
           "link": "https://www.gamedeveloper.comnarrascope.org",
           "date": "2026-06-12T07:00:00+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf955c8f0c698aae4/6aac5a7115f072020a9f479f/Narrascope-logo-512.png?width=720&quality=80&disable=upscale",
+          "summary": ""
+        },
+        {
+          "title": "BitSummit",
+          "link": "https://www.gamedeveloper.combitsummit.org",
+          "date": "2027-05-21T07:00:00+00:00",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4cf305a5b584973a/6aac5bbb9f1e217d33122dcd/BitSummit_official_LOGO_B_noBG_copyT.png?width=720&quality=80&disable=upscale",
           "summary": ""
         },
         {
@@ -2202,48 +2173,6 @@
           "date": "2026-09-17T17:49:42+00:00",
           "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt773d240046900a3e/6aac0e64d0c5eb0ad878a4e4/New_Project(42).png?width=720&quality=80&disable=upscale",
           "summary": "Take-Two Interactive CEO Strauss Zelnick says 'we cannot convince people something that something that's bad is good.'"
-        },
-        {
-          "title": "Nex Playground maker secures over $150 million to expand globally",
-          "link": "https://www.gamedeveloper.com/business/nex-playround-maker-secures-over-150-million-to-expand-globally",
-          "date": "2026-09-17T13:00:00+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltc2685e2bfaf1e221/6aa931cb66f6e634cda30000/Nex_Header.png?width=720&quality=80&disable=upscale",
-          "summary": "'This investment gives us the resources to bring active play to millions more families around the world.'"
-        },
-        {
-          "title": "Hyper Light Drifter developer Heart Machine has laid off the majority of staff",
-          "link": "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
-          "date": "2026-09-17T09:13:32+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5525e9a21436823c/6aabb0d3a934835f7c0ef207/Heart_Header.png?width=720&quality=80&disable=upscale",
-          "summary": "The studio has downsized significantly in recent years and has now reached an existential crossroads."
-        },
-        {
-          "title": "gamescom latam",
-          "link": "https://www.gamedeveloper.comlatam.gamescom.global",
-          "date": "2027-04-22T07:00:00+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9475a9732abb60fa/6aac7b4d8cb60c4856955d03/black_gamescomlatam_alta.png?width=720&quality=80&disable=upscale",
-          "summary": ""
-        },
-        {
-          "title": "The Game Awards",
-          "link": "https://www.gamedeveloper.comthegameawards.com",
-          "date": "2026-12-10T08:00:00+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt7a6553fe2845109c/6aac7ad211966b1680382959/The_Game_Awards_Logo_2023.png?width=720&quality=80&disable=upscale",
-          "summary": ""
-        },
-        {
-          "title": "Games 4 Change Festival",
-          "link": "https://www.gamedeveloper.comfestival.gamesforchange.org",
-          "date": "2027-10-11T07:00:00+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt19216618826c2250/6aac7980f2b8192d758ba470/G4C-logo_red.png?width=720&quality=80&disable=upscale",
-          "summary": ""
-        },
-        {
-          "title": "ChinaJoy",
-          "link": "https://www.gamedeveloper.comen.chinajoy.net",
-          "date": "2027-07-30T07:00:00+00:00",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt04b5e8f5f3e442aa/6aac6fded0c5eb354978a570/chinajoy.png?width=720&quality=80&disable=upscale",
-          "summary": ""
         }
       ],
       "ok": true,
@@ -2332,6 +2261,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "1,00,000-ton US aircraft carrier returns to fleet, critical systems upgraded to boost battle readiness",
+          "link": "https://interestingengineering.com/military/us-aircraft-carrier-returns-to-fleet",
+          "date": "2026-09-18T04:09:50+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ronald-regan.jpg",
+          "summary": "The U.S. Navy has returned the aircraft carrier USS Ronald Reagan to its operational fleet..."
+        },
+        {
+          "title": "New mist-based printing method builds precise circuits on complex curved 3D surfaces",
+          "link": "https://interestingengineering.com/innovation/aerosol-jet-printing-3d-curved-electronics",
+          "date": "2026-09-18T00:10:51+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/aerosol-jet-printer.jpg",
+          "summary": "A new printing technology could put electronic circuits directly onto curved and three-dimensional surfaces, opening..."
+        },
+        {
+          "title": "2D magnetic semiconductor bridges microwaves and light in 300MHz quantum push",
+          "link": "https://interestingengineering.com/science/2d-magnet-microwave-light-conversion-quantum",
+          "date": "2026-09-18T00:08:45+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-18T052505.353.jpg",
+          "summary": "A layered magnetic semiconductor could help solve one of the toughest problems in quantum networking...."
+        },
+        {
           "title": "California’s new 1,000 MWh energy storage facility can deliver 250 MW for four hours",
           "link": "https://interestingengineering.com/energy/cormorant-energy-storage-california-250-mw-battery",
           "date": "2026-09-17T23:15:30+00:00",
@@ -2379,27 +2329,6 @@
           "date": "2026-09-17T18:49:36+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-Meteor-under-microscope.jpg",
           "summary": "Scientists have taken an unusually detailed look at the organic chemistry preserved inside two meteorites,..."
-        },
-        {
-          "title": "Scientists grow half-human brains in living mice to study neurological disorders",
-          "link": "https://interestingengineering.com/science/scientists-grow-half-human-brains-mice",
-          "date": "2026-09-17T18:21:57+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/47uqsa0d9g8.jpg",
-          "summary": "Medical science sometimes sounds bizarre. Researchers have created living mice whose outer brains are almost..."
-        },
-        {
-          "title": "World’s first: US scientists capture quantum jump in sound in real time",
-          "link": "https://interestingengineering.com/science/quantum-jump-in-sound-in-real-time",
-          "date": "2026-09-17T18:00:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-46.jpg",
-          "summary": "Researchers at the Stanford University in the US have achieved a global first by measuring..."
-        },
-        {
-          "title": "US’ next 10,000-ton submarine’s payload module built, can carry more weapons for long-range strike",
-          "link": "https://interestingengineering.com/military/us-submarine-payload-module-built",
-          "date": "2026-09-17T17:54:06+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/submarine-module.jpg",
-          "summary": "An American shipbuilder has showcased the first completed payload module for a new submarine. General..."
         }
       ],
       "ok": true,
@@ -2580,74 +2509,74 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-          "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-          "date": "2026-09-16T22:02:46+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-500x500.jpg",
-          "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+          "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+          "date": "2026-09-17T22:31:28+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg",
+          "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies."
         },
         {
-          "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-          "date": "2026-09-16T21:42:09+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-681946574-500x500.jpg",
-          "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection."
+          "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+          "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+          "date": "2026-09-17T22:12:58+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-500x500.png",
+          "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
         },
         {
-          "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-          "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-          "date": "2026-09-16T21:08:14+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization-500x500.jpg",
-          "summary": "Group plans to be largely out of commission for several weeks."
+          "title": "Google announces new experimental \"CC\" AI agent for families",
+          "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+          "date": "2026-09-17T20:24:34+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png",
+          "summary": "Multiple family members can share data to help the agent make plans and complete tasks."
         },
         {
-          "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-          "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-          "date": "2026-09-16T20:44:41+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sunrise-500x500-1789589529.jpg",
-          "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood ."
+          "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+          "date": "2026-09-17T20:10:41+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-500x500.jpg",
+          "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
         },
         {
-          "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-          "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-          "date": "2026-09-16T20:23:16+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steam-500x360.jpeg",
-          "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem."
+          "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+          "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+          "date": "2026-09-17T19:07:28+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-500x500-1738189251.jpg",
+          "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites."
         },
         {
-          "title": "California may gut state net neutrality law to comply with Trump admin demand",
-          "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-          "date": "2026-09-16T19:36:44+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-network-500x500-1732040422.jpg",
-          "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws."
+          "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+          "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+          "date": "2026-09-17T18:33:13+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg",
+          "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
         },
         {
-          "title": "Researchers swap in human brain cells for a mouse's cortex",
-          "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-          "date": "2026-09-16T19:08:34+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-500x500.jpeg",
-          "summary": "The results are only a slight improvement over missing the entire brain structure."
+          "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+          "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+          "date": "2026-09-17T17:43:50+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-500x500.jpg",
+          "summary": "The IV drips included glutathione, which was not made to be injected."
         },
         {
-          "title": "Scientists develop new method for deciphering ancient scrolls",
-          "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-          "date": "2026-09-16T18:43:23+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-500x500-1789248602.jpg",
-          "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis."
+          "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+          "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+          "date": "2026-09-17T17:30:30+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-500x500.jpg",
+          "summary": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?"
         },
         {
-          "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
-          "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-          "date": "2026-09-16T18:11:53+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/divergepro-2-500x500.jpg",
-          "summary": "The Diverge 4 Pro is happiest when the road gets ugly."
+          "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+          "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+          "date": "2026-09-17T16:18:34+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-500x500.jpg",
+          "summary": "Model maker commits to new framework for reporting misaligned models."
         },
         {
-          "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-          "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-          "date": "2026-09-16T17:06:06+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE-500x500.jpeg",
-          "summary": "Man wins fight to block ICE threat over off-the-cuff angry email."
+          "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+          "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+          "date": "2026-09-17T15:38:04+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2261166461-500x500-1789657361.jpg",
+          "summary": "Public health groups warn EPA rule will cost Americans billions in health bills."
         }
       ],
       "ok": true,
@@ -2696,7 +2625,7 @@
           "title": "Incoming Stantec CEO Sees 'Tailwinds' for Firm in Arctic, Critical Minerals Work",
           "link": "https://www.enr.com/articles/63669-incoming-stantec-ceo-sees-tailwinds-for-firm-in-arctic-critical-minerals-work",
           "date": "2026-09-17T20:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/17/Stantec-CEO-(2).webp?t=1789678447",
+          "image": "https://www.enr.com/ext/resources/2026/09/17/WEB_Susan-Reisbord-Stantec-cropped.webp?t=1789701866",
           "summary": "Now chief operating officer, Susan Reisbord eyes many market growth opportunities for the Alberta-based consultant when she takes the helm on Oct. 1."
         },
         {
