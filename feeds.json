@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:55:02.252988+00:00",
+  "updated": "2026-09-19T08:38:31.987240+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -488,6 +488,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "UltiMaker and Bioactivx to Target On Demand Wound Care via New Collaboration",
+          "link": "https://3dprintingindustry.com/news/ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration-254875/?utm_source=rss&utm_medium=rss&utm_campaign=ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration",
+          "date": "2026-09-19T07:05:18+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Desktop 3D printer manufacturer UltiMaker and Singaporean MedTech startup Bioactivx have signed a memorandum of understanding (MoU) to jointly develop a deployable, on-demand 3D…"
+        },
+        {
           "title": "Bechtle Absorbs Kaut-Bullinger’s HP 3D Printing Operations",
           "link": "https://3dprintingindustry.com/news/bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations-254831/?utm_source=rss&utm_medium=rss&utm_campaign=bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations",
           "date": "2026-09-18T15:19:08+00:00",
@@ -549,13 +556,6 @@
           "date": "2026-09-17T10:14:31+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "The Naval Air Systems Command&#8217;s Aircrew Systems Program Office (PMA-202) has awarded Aware Defense, a division of Aware Custom Biometric Wearables (Aware CBW), a sole-source…"
-        },
-        {
-          "title": "UWE Bristol Lays Groundwork for Growing Gemstones Inside Platinum with Hybrid Metal 3D Printing",
-          "link": "https://3dprintingindustry.com/news/uwe-bristol-lays-groundwork-for-growing-gemstones-inside-platinum-with-hybrid-metal-3d-printing-254736/?utm_source=rss&utm_medium=rss&utm_campaign=uwe-bristol-lays-groundwork-for-growing-gemstones-inside-platinum-with-hybrid-metal-3d-printing",
-          "date": "2026-09-17T09:54:10+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers at the Centre for Print Research (CFPR) at the University of the West of England&#8216;s Bridge Studios have used a hybrid metal 3D printing and CNC machining setup,…"
         }
       ],
       "ok": true,
@@ -651,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 September 19 – A Zodiacal Night",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+          "date": "2026-09-19T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=2060&#038;h=1393&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
           "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
           "date": "2026-09-18T19:56:08+00:00",
@@ -712,13 +719,6 @@
           "date": "2026-09-17T15:22:42+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg?w=2048",
           "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally…"
-        },
-        {
-          "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
-          "date": "2026-09-17T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg?w=8200&#038;h=11220&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
         }
       ],
       "ok": true,
@@ -974,7 +974,7 @@
           "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
           "date": "2026-09-17T15:05:15+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/SI-Dubai.jpg?fit=1024%2C576&amp;ssl=1",
-          "summary": "PARIS &#8212; South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR)…"
+          "summary": "PARIS &#8212; South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar…"
         },
         {
           "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
@@ -1557,85 +1557,21 @@
     {
       "name": "Polygon",
       "cat": "gaming",
-      "items": [
-        {
-          "title": "3 Netflix Shows You Need to Binge This Weekend (Sept. 18-20)",
-          "link": "https://www.polygon.com/netflix-weekend-binge-september-2026-shows/",
-          "date": "2026-09-19T03:53:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/images-3.jpg",
-          "summary": "Go deep on classic sci-fi, epic anime, and a hidden Netflix gem."
-        },
-        {
-          "title": "5 Near-Perfect Time Travel Movies Where the Science Actually Makes Sense",
-          "link": "https://www.polygon.com/time-travel-movies-that-make-sense/",
-          "date": "2026-09-19T02:15:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/back_to_the_future_ii.jpg",
-          "summary": "From Interstellar to Primer, these sci-fi movies use time travel to further the plot, without throwing actual science out the window"
-        },
-        {
-          "title": "Should you skip the War Arc (Act 2) in Fire Emblem: Fortune's Weave?",
-          "link": "https://www.polygon.com/fire-emblem-fortunes-weave-war-arc-skip-act-2/",
-          "date": "2026-09-18T21:35:53+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-war-arc-skip.jpg",
-          "summary": "This guide explains what happens if you skip the War Arc (Act 2) in Fire Emblem Fortune's Weave and when it's best to replay the War Arc"
-        },
-        {
-          "title": "Where to find wonder leaves in Fire Emblem Fortune's Weave",
-          "link": "https://www.polygon.com/fire-emblem-fortunes-weave-wonder-leaves-location-where-to-find/",
-          "date": "2026-09-18T21:26:24+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_wonderleaves_lead.jpg",
-          "summary": "Here's where you can find wonder leaves in Fire Emblem: Fortune's Weave so you can complete Leda's perform quest \"Elegant Drink Recipes\""
-        },
-        {
-          "title": "Classes and unlock requirements in Fire Emblem Fortune's Weave",
-          "link": "https://www.polygon.com/fire-emblem-fortunes-weave-classes-unlock-secret/",
-          "date": "2026-09-18T21:14:55+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-class-unlocks.jpg",
-          "summary": "Our Fire Emblem Fortune's Weave class guide lists secret classes and unlock requirements, along with the mastery skill for each"
-        },
-        {
-          "title": "Fire Emblem: Fortune's Weave Is Way Easier If You Play a Second Route",
-          "link": "https://www.polygon.com/fire-emblem-fortunes-weave-should-you-play-more-than-one-route/",
-          "date": "2026-09-18T21:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-review-4.jpg",
-          "summary": "You should play more than one route in Fire Emblem Fortune's Weave to make recruiting characters easier"
-        },
-        {
-          "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and VOD (September 18-20)",
-          "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-september-18-20/",
-          "date": "2026-09-18T21:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-end-of-oak-street.jpg",
-          "summary": "This week's column has some great movie releases on streaming and VOD, including a great dinosaur movie and a scary existential indie"
-        },
-        {
-          "title": "The 5 Best Roles From Debra Wilson, the Actress in Every AAA Game These Days",
-          "link": "https://www.polygon.com/debra-wilson-best-video-game-roles/",
-          "date": "2026-09-18T20:34:06+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-callisto.jpg",
-          "summary": "Actress Debra Wilson has appeared in everything from Destiny 2 to Marvel's Wolverine. Here are 5 best video game roles."
-        },
-        {
-          "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO Max, and Apple TV (September 18-20)",
-          "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-september-18-20/",
-          "date": "2026-09-18T20:15:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/monster_403_unit_00546r_cropc.jpg",
-          "summary": "In this weekend's TV column, we highlight the new season of a beloved spy show and Alan Ritchson's highly anticipated spinoff series."
-        },
-        {
-          "title": "27 years later, EverQuest Legends is just getting started",
-          "link": "https://www.polygon.com/everquest-legends-fall-preview/",
-          "date": "2026-09-18T19:53:10+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/eql_lake-neriuss_04_press_3840x2160.jpg",
-          "summary": "Polygon spoke to EverQuest Legends developers about the game's upcoming plans and expansions."
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
+          "link": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
+          "date": "2026-09-19T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/THE-NAME-OF-THE-ROSE-Official-Trailer-(1986%2C-Sean-Connery%2C-F-Murray-Abraham%2C-Christian-Slater)-0-56-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, it's a Chris Tapsell (that's me!) triple-bill - a triple-Tap?…"
+        },
         {
           "title": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
           "link": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
@@ -1698,13 +1634,6 @@
           "date": "2026-09-17T14:22:34+00:00",
           "image": "https://assetsio.gnwcdn.com/valor-mortis-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "The Valor Mortis developer has announced the game's price and offered an explanation as to why the team picked this particular price point. Valor Mortis costs $40 / &euro;40,…"
-        },
-        {
-          "title": "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny",
-          "link": "https://www.eurogamer.net/marathon-destiny-merger-bungie-response",
-          "date": "2026-09-17T13:29:20+00:00",
-          "image": "https://assetsio.gnwcdn.com/Marathon---In-Death-MV.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Destiny being reborn within Marathon sounds like one of those ridiculous ideas fans come up with to keep their hope alive, but it's one of several \"leaked\" plans Bungie supposedly…"
         }
       ],
       "ok": true,
@@ -1714,6 +1643,20 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Bill Skarsgård Sounds Very Excited To Be Starring In Hideo Kojima’s Physint",
+          "link": "https://kotaku.com/bill-skarsgard-sounds-very-excited-to-be-starring-in-hideo-kojimas-physint-2000735799",
+          "date": "2026-09-19T06:08:55+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/Physint-poster.jpg",
+          "summary": "The actor released a new video promoting the project"
+        },
+        {
+          "title": "Wolverine Hotfix Nerfs ‘Fart Gas’ As Insomniac Explores An Option To Toggle It Off Completely",
+          "link": "https://kotaku.com/wolverine-hotfix-nerfs-fart-gas-as-insomniac-explores-an-option-to-toggle-it-off-completely-2000735790",
+          "date": "2026-09-19T05:34:47+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/1a0b80eb22b16-screenshotUrl-1280x720.jpg",
+          "summary": "Logan's ability to smell something sinister just became less obvious"
+        },
         {
           "title": "Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral",
           "link": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
@@ -1769,20 +1712,6 @@
           "date": "2026-09-18T20:00:21+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/WoWScrnShot_091826_103457-1280x720.jpg",
           "summary": ""
-        },
-        {
-          "title": "Ranking All 34 Gorgeous Pikachu Cards In Pokémon’s 30th Anniversary TCG Set",
-          "link": "https://kotaku.com/pikachu-pokemon-30th-anniversary-cards-tcg-full-art-2000735655",
-          "date": "2026-09-18T19:30:49+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/pika30-1280x720.jpg",
-          "summary": "The celebratory card set is giving the little yellow guy the spotlight"
-        },
-        {
-          "title": "Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage",
-          "link": "https://kotaku.com/final-fantasy-vii-revelation-file-size-200-gigs-2000735639",
-          "date": "2026-09-18T19:00:40+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_4-1-1280x720.jpg",
-          "summary": "In this storage economy?!"
         }
       ],
       "ok": true,
@@ -1792,6 +1721,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What are we all playing this weekend?",
+          "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
+          "date": "2026-09-19T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/weekend-cards.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "It's well and truly not summer now. I'm writing this with the lights on because the screen's backlight is suddenly too bright for these eyes grown weak and lazy by the abundance…"
+        },
         {
           "title": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch",
           "link": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
@@ -1854,13 +1790,6 @@
           "date": "2026-09-17T17:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/Hyper-Light-Drifter-key-art.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Heart Machine, the US-based makers of Hyper Light Drifter , its multiplayer spinoff Hyper Light Breaker , and last year&rsquo;s Possessor(s) , have laid off \"nearly everyone\" on…"
-        },
-        {
-          "title": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month",
-          "link": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
-          "date": "2026-09-17T16:17:32+00:00",
-          "image": "https://assetsio.gnwcdn.com/zero-parades-demo-impressions-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "As many reservations as I had going into ZA/UM's Zero Parades: For Dead Spies earlier this year, what with all of the drama and upset that's surrounded the studio since Disco…"
         }
       ],
       "ok": true,
@@ -2339,6 +2268,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "EV-maker produces powerful battery cells using recycled cathode active material for the first time",
+          "link": "https://interestingengineering.com/energy/ev-maker-produces-battery-cells-recycled-cathode",
+          "date": "2026-09-19T06:50:09+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/battery-materials-.jpg",
+          "summary": "A German company has successfully produced battery cells using recycled cathode active material for the..."
+        },
+        {
           "title": "New water-based coating tech could cut extra steps in EV battery part manufacturing",
           "link": "https://interestingengineering.com/energy/new-aluminum-coating-ev-battery-manufacturing",
           "date": "2026-09-19T00:46:13+00:00",
@@ -2400,13 +2336,6 @@
           "date": "2026-09-18T17:57:12+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/pa2-8ekpkta.jpg",
           "summary": "A newly designed non-porous, thin-film material combines extreme stiffness with exceptionally low thermal conductivity. It..."
-        },
-        {
-          "title": "20 MW molten salt nuclear battery targets 10 years of power between refuels",
-          "link": "https://interestingengineering.com/energy/micronuclear-20mw-molten-salt-nuclear-battery-testing",
-          "date": "2026-09-18T17:53:03+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2244167457.jpg",
-          "summary": "MicroNuclear is moving its 20 MW thermal Molten Salt Nuclear Battery toward detailed engineering, safety..."
         }
       ],
       "ok": true,
