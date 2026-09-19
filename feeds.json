@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T12:57:00.561213+00:00",
+  "updated": "2026-09-19T16:20:26.312256+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "VW Group proposes 4,100 more Porsche layoffs after profit warning",
+          "link": "https://www.autonews.com/volkswagen/porsche/ane-porsche-4000-new-job-losses-0919/",
+          "date": "2026-09-19T15:51:07+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ExQ2S_pUzuVio2WtSkWcnMCKNQg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TF7M3KHEDRFUFPURI6CYUIQZQM.jpg",
+          "summary": "VW Group is seeking 4,100 additional Porsche layoffs to address €700 million overhead shortfall. The luxury brand posted just 1.1 percent profit margin in 2025 amid U.S. tariffs…"
+        },
+        {
           "title": "Weekend Drive: The V-8 comeback; Stellantis’ Brampton dilemma",
           "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-wd-v8-comeback-brampton-0919/",
           "date": "2026-09-19T10:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-18T17:29:47+00:00",
           "image": null,
           "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed by plant and automaker for the current and previous year periods"
-        },
-        {
-          "title": "North America car and truck production by model, Aug. & YTD 2026",
-          "link": "https://www.autonews.com/data-center/manufacturing-data/production-model/an-north-america-production-model-august-2026/",
-          "date": "2026-09-18T17:21:56+00:00",
-          "image": null,
-          "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed alphabetically by brand and automaker for the current and previous year periods"
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "KLS Martin Set to Deliver 500th Lithoz-Printed Bioceramic Implant by End of 3Q 2026",
+          "link": "https://3dprintingindustry.com/news/kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026-254870/?utm_source=rss&utm_medium=rss&utm_campaign=kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026",
+          "date": "2026-09-19T10:49:12+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "German surgical device manufacturer KLS Martin has made patient-specific ceramic implants built from Lithoz&#8216;s calcium phosphate material LithaBone TCP a standard offering on…"
+        },
+        {
+          "title": "Latest Army Award Expands IperionX Titanium Production Capacity",
+          "link": "https://3dprintingindustry.com/news/latest-army-award-expands-iperionx-titanium-production-capacity-254881/?utm_source=rss&utm_medium=rss&utm_campaign=latest-army-award-expands-iperionx-titanium-production-capacity",
+          "date": "2026-09-19T10:30:51+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The US Army has issued a second task order to IperionX under its existing $99 million SBIR Phase III contract, committing $11.5 million in immediate funding to expand the…"
+        },
+        {
+          "title": "UltiMaker and Bioactivx to Target On Demand Wound Care via New Collaboration",
+          "link": "https://3dprintingindustry.com/news/ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration-254875/?utm_source=rss&utm_medium=rss&utm_campaign=ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration",
+          "date": "2026-09-19T07:05:18+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Desktop 3D printer manufacturer UltiMaker and Singaporean MedTech startup Bioactivx have signed a memorandum of understanding (MoU) to jointly develop a deployable, on-demand 3D…"
+        },
+        {
+          "title": "Bechtle Absorbs Kaut-Bullinger’s HP 3D Printing Operations",
+          "link": "https://3dprintingindustry.com/news/bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations-254831/?utm_source=rss&utm_medium=rss&utm_campaign=bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations",
+          "date": "2026-09-18T15:19:08+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Bechtle Additive Manufacturing Deutschland has acquired the HP 3D printing business of Kaut-Bullinger GmbH &#38; Co. KG through an asset deal, a move that reinforces…"
+        },
+        {
+          "title": "New Update in Stratasys v Bambu Lab Patent Infringement Action Lawsuit Stratasys Awarded $27.6 million in Damages, Bambu Lab Disputes",
+          "link": "https://3dprintingindustry.com/news/new-update-in-stratasys-v-bambu-lab-patent-infringement-action-254833/?utm_source=rss&utm_medium=rss&utm_campaign=new-update-in-stratasys-v-bambu-lab-patent-infringement-action",
+          "date": "2026-09-18T13:34:18+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A US jury has awarded Stratasys approximately $27.6 million in past damages after finding that Bambu Lab infringed four 3D printing patents. The verdict followed a week-long trial…"
+        },
+        {
+          "title": "ugee Launches AI-Powered Drawing Tablet for Children",
+          "link": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/?utm_source=rss&utm_medium=rss&utm_campaign=ugee-launches-ai-powered-drawing-tablet-for-children",
+          "date": "2026-09-18T10:03:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Shenzhen-based digital creativity brand ugee launched the ArtPlay Pad on September 15, 2026, a drawing tablet built for young beginner creators that converts children&#8217;s 2D…"
+        },
+        {
+          "title": "A miniature Blatten: 3D printed terrain tests how rock avalanches move",
+          "link": "https://3dprintingindustry.com/news/a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche-254777/?utm_source=rss&utm_medium=rss&utm_campaign=a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche",
+          "date": "2026-09-18T07:39:14+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at the WSL Institute for Snow and Avalanche Research (SLF) and ETH Zurich have built a 3D printed physical replica of the terrain around Blatten, the Swiss village…"
+        },
+        {
+          "title": "Bambu Lab Launches Global 3D Printing Challenge for Assistive Devices",
+          "link": "https://3dprintingindustry.com/news/bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices-254787/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices",
+          "date": "2026-09-18T07:20:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Bambu Lab has partnered with seven accessibility organizations to launch a global 3D printing design challenge on MakerWorld, running from September through December 2026. The…"
+        },
+        {
+          "title": "MOD, Alloyed take new turbojet engine from concept to flight in under seven months",
+          "link": "https://3dprintingindustry.com/news/mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months-254767/?utm_source=rss&utm_medium=rss&utm_campaign=mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months",
+          "date": "2026-09-18T07:02:05+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The UK Ministry of Defence (MOD) and manufacturing start-up Alloyed have taken a new turbojet engine from initial concept to a completed flight in under seven months, as part of a…"
+        },
+        {
+          "title": "GM Scales Stratasys 3D Printing Across 20 Manufacturing Facilities",
+          "link": "https://3dprintingindustry.com/news/gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities-254801/?utm_source=rss&utm_medium=rss&utm_campaign=gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities",
+          "date": "2026-09-18T06:34:53+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Stratasys has announced a new showcase of its long-standing collaboration with General Motors (GM), highlighting how the automaker is using Stratasys additive manufacturing (AM)…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1488,6 +1559,55 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Star Wars Zero Company Unofficially Gets A Real Endgame",
+          "link": "https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/",
+          "date": "2026-09-19T16:16:58+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/star-wars-zero-company-class-specialization.jpg",
+          "summary": "The Aftermath mod for Star Wars Zero Company gives the strategy game the endgame it's sorely missing"
+        },
+        {
+          "title": "Nintendo Just Demolished Everyone’s Free Time",
+          "link": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/",
+          "date": "2026-09-19T16:01:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-which-character-4.jpg",
+          "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave is 100-200 hours long. Are games getting too big?"
+        },
+        {
+          "title": "Xbox May Finally Get Its Own Version Of PlayStation Platinum Trophies",
+          "link": "https://www.polygon.com/xbox-platinum-trophy-equivalent-mythic-achievement/",
+          "date": "2026-09-19T14:59:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/halo-campaign-evolved-master-chief.jpg",
+          "summary": "Xbox may finally be getting its own version of the Platinum Trophy, according to an Alpha Skip-Ahead Xbox Insider"
+        },
+        {
+          "title": "Lollipop Chainsaw Is Getting An Official Live-Action Movie Prequel",
+          "link": "https://www.polygon.com/lollipop-chainsaw-movie/",
+          "date": "2026-09-19T14:22:30+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2607408/Highres_Screenshot_00000.1331054183.jpeg",
+          "summary": "Don't expect James Gunn to be involved, but a live-action Lollipop Chainsaw movie is in the works via Dragami Games"
+        },
+        {
+          "title": "Paramount's New High Fantasy Epic is Already the Streaming Sleeper Hit of 2026",
+          "link": "https://www.polygon.com/paramount-golden-axe-showrunner-interview-season-2/",
+          "date": "2026-09-19T14:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcdgoax_i8006_h.JPG",
+          "summary": "How Golden Axe turned a forgotten 'weird' old arcade game into streaming gold and season 2 plans"
+        },
+        {
+          "title": "Marvel's Wolverine Update Tones Down Its Most Controversial Feature",
+          "link": "https://www.polygon.com/wolverine-scent-trails-update/",
+          "date": "2026-09-19T13:22:42+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-whisky-bottles-best-there-is-2.jpg",
+          "summary": "The latest update for PS5 exclusive Marvel's Wolverine just made its much-derided scent trails a little less garish"
+        },
+        {
+          "title": "Forget Your 100-Hour RPGs, Action Games Are Having a Moment",
+          "link": "https://www.polygon.com/action-games-wolverine-pragmata-2026/",
+          "date": "2026-09-19T13:00:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-3.jpg",
+          "summary": "Some of 2026's most high-profile games are ditching modern design trends to take us back to the era of compact action games."
+        },
+        {
           "title": "Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off",
           "link": "https://www.polygon.com/batman-knightfall-producers-interview/",
           "date": "2026-09-19T12:00:16+00:00",
@@ -1507,55 +1627,6 @@
           "date": "2026-09-19T09:00:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/trick-luco-star-wars-zero-compan.jpeg",
           "summary": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them."
-        },
-        {
-          "title": "The 9 Best Anime You Can Stream on HBO Max",
-          "link": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
-          "date": "2026-09-19T08:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/per2-1.jpg",
-          "summary": "You can watch these after going through HBO Max's Studio Ghibli catalogue."
-        },
-        {
-          "title": "The 5 Best Charlie Brown Football Comic Strips in 'Peanuts' History",
-          "link": "https://www.polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip/",
-          "date": "2026-09-19T08:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown-lucy-van-pelt-football.jpg",
-          "summary": "50 years of exercises in futility"
-        },
-        {
-          "title": "Dwayne Johnson's Forgotten Box-office Juggernaut is Officially Conquering the Streaming World",
-          "link": "https://www.polygon.com/dwayne-johnson-hercules-netflix-streaming-hit-september-2026/",
-          "date": "2026-09-19T07:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dwayne-johnson-the-rock-hercules.jpg",
-          "summary": "Dwayne Johnson's Hercules has returned to the spotlight after topping Netflix charts more than 10 years after its release."
-        },
-        {
-          "title": "39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream",
-          "link": "https://www.polygon.com/star-trek-next-generation-streaming-free/",
-          "date": "2026-09-19T06:00:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gates-mcfadden-beverly-crusher-star-trek-tng.jpg",
-          "summary": "The Next Generation proved Star Trek could thrive without Kirk and Spock, creating a blueprint the franchise still follows today."
-        },
-        {
-          "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
-          "link": "https://www.polygon.com/best-psychological-thriller-movies-free-streaming/",
-          "date": "2026-09-19T05:01:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/time-outs-50-greatest-japanese-movies-of-all-time-v0-8px5-ngeptneeincyosgdiml-zor46abfcqc4v1dppy-1.webp",
-          "summary": "These tense genre picks are well worth your time."
-        },
-        {
-          "title": "31 Years Later, the Final 'Calvin and Hobbes' Comic Strip is Still a Perfect Sendoff",
-          "link": "https://www.polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring/",
-          "date": "2026-09-19T04:00:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/1200x800-ch-fam-exhib-page.jpg",
-          "summary": "Back in 1995, catoonist Bill Watterson brought Calvin and Hobbes to a perfect conclusion"
-        },
-        {
-          "title": "3 Netflix Shows You Need to Binge This Weekend (Sept. 18-20)",
-          "link": "https://www.polygon.com/netflix-weekend-binge-september-2026-shows/",
-          "date": "2026-09-19T03:53:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/images-3.jpg",
-          "summary": "Go deep on classic sci-fi, epic anime, and a hidden Netflix gem."
         }
       ],
       "ok": true,
@@ -1800,6 +1871,41 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
+          "link": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
+          "date": "2026-09-19T15:59:49+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Kig4bpRgMrvxFJcjUprT4Y-1920-80.jpg",
+          "summary": "Copilot's answer engine allegedly caused the New York Times' click-through rate to plummet by figures up to 93%."
+        },
+        {
+          "title": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
+          "link": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+          "date": "2026-09-19T14:56:26+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/rpWzxdhtsUUc9VwPycRMjL-1920-80.jpg",
+          "summary": "What vile debauchery could lie within Sex Vixens from Space?"
+        },
+        {
+          "title": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
+          "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+          "date": "2026-09-19T14:50:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/R9HzCfFZ6m5xfFUoz9VCf3-1920-80.png",
+          "summary": "Reject three-quest conformity, embrace friction."
+        },
+        {
+          "title": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
+          "link": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
+          "date": "2026-09-19T14:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/J2vXRUfQsHvMujnae5UUbU-1920-80.jpg",
+          "summary": "I wish all games worked like this."
+        },
+        {
+          "title": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster",
+          "link": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
+          "date": "2026-09-19T13:29:34+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/YejFnd6y7324LPGDAQnxwc-1920-80.jpg",
+          "summary": "NewDark 1.29 lets Garrett hide in shadows created by doors and guards spot the master' thief's silhouette."
+        },
+        {
           "title": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
           "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
           "date": "2026-09-19T11:21:27+00:00",
@@ -1833,41 +1939,6 @@
           "date": "2026-09-18T22:04:14+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/GEsii5PiihBDenqqbrriKQ-1920-80.jpg",
           "summary": "Why can't we just enjoy things?"
-        },
-        {
-          "title": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
-          "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-          "date": "2026-09-18T21:55:19+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wmnc8PJiQMNcHLJhYS74Bd-1920-80.jpg",
-          "summary": "Better start cleaning up your hard drive."
-        },
-        {
-          "title": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'",
-          "link": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
-          "date": "2026-09-18T21:35:14+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/zQCvdGXdycYua3QSgDbnNc-1920-80.jpg",
-          "summary": "A new Edge report features multiple industry veterans sharing their thoughts on the state of the game industry, and what can be done about it."
-        },
-        {
-          "title": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame",
-          "link": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
-          "date": "2026-09-18T21:02:43+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/9YgYzpdDhaVPHByRyxef7e-1920-80.jpg",
-          "summary": "\"We're working on that balance.\""
-        },
-        {
-          "title": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
-          "link": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
-          "date": "2026-09-18T19:44:36+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/r8YZnV9oXT5Xcaj8sQqPZh-1920-80.jpg",
-          "summary": "There's a new John Helldiver in town (maybe)."
-        },
-        {
-          "title": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
-          "date": "2026-09-18T18:22:26+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/X5bwnU4v3okUuzcqFbJz63-1920-80.jpg",
-          "summary": "Strauss Zelnick was asked about GTA 6 on PC during Take-Two's recent annual meeting."
         }
       ],
       "ok": true,
@@ -2268,6 +2339,55 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Decoding the fiery engineering challenge behind scramjet-powered missiles",
+          "link": "https://interestingengineering.com/military/scramjets-explained-hypersonic-missile-engines",
+          "date": "2026-09-19T16:16:25+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/scramjet-mask-2.jpg",
+          "summary": "A hypersonic cruise missile must do more than briefly reach an extreme speed. It needs..."
+        },
+        {
+          "title": "US project combines quantum AI and robotics for competitive rare earth supply chain",
+          "link": "https://interestingengineering.com/ai-robotics/quantum-tech-rare-earth-supply-chain",
+          "date": "2026-09-19T16:11:24+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Rare-earth-elements.jpg",
+          "summary": "USA Rare Earth has partnered with French quantum computing company Pasqal and industrial AI specialist..."
+        },
+        {
+          "title": "US-made Valaris high-energy laser subsystem ships for international defense program",
+          "link": "https://interestingengineering.com/military/valaris-high-energy-laser-subsystem",
+          "date": "2026-09-19T14:29:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/m2d4lhddpwg_106f1f.jpg",
+          "summary": "Attalon has shipped its first Valaris high-energy laser subsystem to a US customer in support..."
+        },
+        {
+          "title": "7 legendary missiles that reshaped aerospace engineering during Cold War",
+          "link": "https://interestingengineering.com/military/7-cold-war-missiles-aerospace-engineering",
+          "date": "2026-09-19T14:09:01+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Polaris-A-1.jpg?w=150&h=150&crop=1",
+          "summary": "The Cold War was a contest not only of military power but also of engineering..."
+        },
+        {
+          "title": "China turns to older chipmaking technology to make, smaller, faster 3nm chips",
+          "link": "https://interestingengineering.com/innovation/china-older-chipmaking-technology-smaller-chips",
+          "date": "2026-09-19T13:45:45+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/g8qav3viv9s_0751c2.jpg",
+          "summary": "Chinese researchers have developed an early process for building gate-all-around (GAA) transistors at the sub-3nm..."
+        },
+        {
+          "title": "Historic 1960s US nuclear coolant delivered for Natura’s Texas molten salt reactor",
+          "link": "https://interestingengineering.com/energy/us-nuclear-coolant-natura-texas-reactor",
+          "date": "2026-09-19T13:33:45+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/MSR.jpg",
+          "summary": "A specialized molten salt coolant has arrived for a new experimental nuclear reactor in Texas...."
+        },
+        {
+          "title": "Lockheed Martin rolls out first F-35A stealth jet for Germany to replace aging Tornados",
+          "link": "https://interestingengineering.com/military/lockheed-martin-first-f35a-for-germany",
+          "date": "2026-09-19T13:30:16+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/m2d4lhddpwg.jpg",
+          "summary": "Germany has unveiled its first F-35A Lightning II as it prepares to field 35 fifth-generation..."
+        },
+        {
           "title": "50-year-old accelerator at Los Alamos lab gets green light to design billion-dollar upgrade",
           "link": "https://interestingengineering.com/science/los-alamos-accelerator-upgrade",
           "date": "2026-09-19T12:48:25+00:00",
@@ -2287,55 +2407,6 @@
           "date": "2026-09-19T12:21:13+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/qfvfgryb4sm.jpg",
           "summary": "The USAF&#8217;s North Star Readiness Campaign has boosted the number of flyable B-52 &#8220;Stratofortresses&#8221; by..."
-        },
-        {
-          "title": "EV-maker produces powerful battery cells using recycled cathode active material for the first time",
-          "link": "https://interestingengineering.com/energy/ev-maker-produces-battery-cells-recycled-cathode",
-          "date": "2026-09-19T06:50:09+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/battery-materials-.jpg",
-          "summary": "A German company has successfully produced battery cells using recycled cathode active material for the..."
-        },
-        {
-          "title": "New water-based coating tech could cut extra steps in EV battery part manufacturing",
-          "link": "https://interestingengineering.com/energy/new-aluminum-coating-ev-battery-manufacturing",
-          "date": "2026-09-19T00:46:13+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2182926949.jpg",
-          "summary": "A new aluminum coating could simplify how battery components are manufactured by protecting the metal..."
-        },
-        {
-          "title": "US sets 24-month deadline for new spy satellite prototype built for space warfare",
-          "link": "https://interestingengineering.com/space/us-ghost-r-spy-satellite-prototyp",
-          "date": "2026-09-19T00:04:26+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-19T043654.210.jpg",
-          "summary": "Northrop Grumman has won a U.S. Space Force deal to develop a new reconnaissance satellite..."
-        },
-        {
-          "title": "Predictive maintenance gets smarter at spotting equipment faults without failure data",
-          "link": "https://interestingengineering.com/ai-robotics/predictive-maintenance-limited-failure-data",
-          "date": "2026-09-18T23:58:53+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-19T035437.476.jpg",
-          "summary": "I-care Group is adding an AI system designed to detect equipment anomalies without relying on..."
-        },
-        {
-          "title": "Paper-making waste could slash carbon fiber costs 25% while cutting petroleum use",
-          "link": "https://interestingengineering.com/innovation/waste-lignin-cuts-carbon-fiber-cost-25-percent",
-          "date": "2026-09-18T23:40:29+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/02/carbon-fiber-actuators.jpg",
-          "summary": "Carbon fiber made with waste lignin could reduce reliance on petroleum-derived materials while cutting production..."
-        },
-        {
-          "title": "First-ever fully autonomous flight across US covers 3,199 miles without pilot input",
-          "link": "https://interestingengineering.com/transportation/first-fully-autonomous-flight-across-us",
-          "date": "2026-09-18T21:24:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-19T022648.070.jpg",
-          "summary": "Joby Aviation has completed a 3,199-mile autonomous flight across the United States, marking a major..."
-        },
-        {
-          "title": "Reverse engineering the Stone Age: secrets hidden in ancient tools",
-          "link": "https://interestingengineering.com/innovation/reverse-engineering-the-stone-age-secrets-hidden-in-ancient-tools",
-          "date": "2026-09-18T21:00:19+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain_9a5fe6.png",
-          "summary": "In our latest episode of Lexicon, we sat down with Paleolithic archaeologist Dr. Ariel “Arik”..."
         }
       ],
       "ok": true,
@@ -2653,14 +2724,14 @@
           "title": "Incoming Stantec CEO Sees 'Tailwinds' for Firm in Arctic, Critical Minerals Work",
           "link": "https://www.enr.com/articles/63669-incoming-stantec-ceo-sees-tailwinds-for-firm-in-arctic-critical-minerals-work",
           "date": "2026-09-17T20:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/17/WEB_Susan-Reisbord-Stantec-cropped.webp?t=1789701866",
+          "image": "https://www.enr.com/ext/resources/2026/09/17/WEB_Susan-Reisbord-Stantec-cropped.webp?t=1789826552",
           "summary": "Now chief operating officer, Susan Reisbord eyes many market growth opportunities for the Alberta-based consultant when she takes the helm on Oct. 1."
         },
         {
           "title": "Tennessee Approves Record $24.8B Interstate Express Lanes P3",
           "link": "https://www.enr.com/articles/63672-tennessee-approves-record-248b-interstate-express-lanes-p3",
           "date": "2026-09-17T18:15:29+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/17/I-40-terminus-towards-Inner-Loop.webp?t=1789670582",
+          "image": "https://www.enr.com/ext/resources/2026/09/17/I-40-terminus-towards-Inner-Loop.webp?t=1789826550",
           "summary": "Tennessee approved a $24.8-billion P3 concession for $9.2-billion managed lanes project along 26-mile stretch of I-24, the largest interstate express lanes P3 agreement in U.S.…"
         },
         {
