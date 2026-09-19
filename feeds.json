@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:38:31.987240+00:00",
+  "updated": "2026-09-19T12:57:00.561213+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Weekend Drive: The V-8 comeback; Stellantis’ Brampton dilemma",
+          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-wd-v8-comeback-brampton-0919/",
+          "date": "2026-09-19T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/UAH4qRWca3QTKwNDCj4hobW0Ntc=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/YOZQVIVNPJBPNF27PCBDXQP7TQ.jpg",
+          "summary": "Michael Martinez and Greg Layson break down the return of the V-8 at two Detroit automakers, Stellantis losing interest in its idled Brampton plant and Canada’s push toward a new…"
+        },
+        {
           "title": "Automakers, suppliers, dealers urge Trump to block Chinese automakers from U.S.",
           "link": "https://www.autonews.com/china/an-trump-pressed-to-block-chinese-cars-from-us-0918/",
           "date": "2026-09-19T00:51:37+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-18T17:21:56+00:00",
           "image": null,
           "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed alphabetically by brand and automaker for the current and previous year periods"
-        },
-        {
-          "title": "Fed’s rate hike another hit to affordability; AI models show pedestrian bias",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-rate-hike-av-bias-0918/",
-          "date": "2026-09-18T17:09:17+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/s8Tz-dbgSuGGMofANVV6Px9mFqE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BVM55CTJVJB2PBGN4SZ7WAUBQI.jpg",
-          "summary": "The Fed’s new rate hike further complicates efforts to address the vehicle affordability crisis. Hyundai’s CEO warns Washington about China. Plus, a new study finds self-driving…"
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Hyundai's Answer For The EV Slowdown: Building Thousands Of Robotaxis",
+          "link": "https://insideevs.com/news/808830/hyundais-answer-for-ev-slowdown-building-robotaxis/",
+          "date": "2026-09-19T10:30:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/3Wm0OK/s3/waymo-hyundai-ioniq-5.jpg",
+          "summary": "Hyundai's CEO said it plans to build \"tens of thousands\" of Ioniq 5 robotaxis for Waymo."
+        },
+        {
+          "title": "‘The Trend Is Clear’: How EVs Are Closing In On Gas Car Prices",
+          "link": "https://insideevs.com/news/808818/ev-gas-car-price-parity/",
+          "date": "2026-09-19T10:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/vx8rX4/s3/2027-chevrolet-bolt-ev-rs-review.jpg",
+          "summary": "The average new EV costs only 9.4% more than a gas car, with incentives playing a shrinking role in that shift."
+        },
         {
           "title": "'Can't Be Done By One Company': This Startup Is Rallying A Team To Bring Solid-State Batteries To Life",
           "link": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
@@ -372,20 +386,6 @@
           "date": "2026-09-17T21:48:57+00:00",
           "image": "https://cdn.motor1.com/images/mgl/L3670m/s3/hankook-ion-tires-demo-days-thumbnail.jpg",
           "summary": "The company's iON lineup of EV tires are designed specifically for the unique demands of electric cars."
-        },
-        {
-          "title": "Porsche Is Working On Making Batteries From Its Own Recycled Materials",
-          "link": "https://insideevs.com/news/808687/porsche-recycled-battery-materials/",
-          "date": "2026-09-17T20:57:34+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/bgOmgk/s3/porsche-battery-recycling-1.jpg",
-          "summary": "Porsche and its partners created a close-loop by recycling end-of-life batteries to make new cathodes."
-        },
-        {
-          "title": "He Replaced The Battery In A Ford F-150 Lightning. Here's How Hard It Was",
-          "link": "https://insideevs.com/news/808681/ford-f150-lightning-battery-swap/",
-          "date": "2026-09-17T18:44:15+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/wlk4lE/s3/ford-f-150-lightning-battery-swap.jpg",
-          "summary": "In some ways, it's a lot easier than swapping an engine. In other ways, it's harder."
         }
       ],
       "ok": true,
@@ -486,78 +486,7 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "UltiMaker and Bioactivx to Target On Demand Wound Care via New Collaboration",
-          "link": "https://3dprintingindustry.com/news/ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration-254875/?utm_source=rss&utm_medium=rss&utm_campaign=ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration",
-          "date": "2026-09-19T07:05:18+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Desktop 3D printer manufacturer UltiMaker and Singaporean MedTech startup Bioactivx have signed a memorandum of understanding (MoU) to jointly develop a deployable, on-demand 3D…"
-        },
-        {
-          "title": "Bechtle Absorbs Kaut-Bullinger’s HP 3D Printing Operations",
-          "link": "https://3dprintingindustry.com/news/bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations-254831/?utm_source=rss&utm_medium=rss&utm_campaign=bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations",
-          "date": "2026-09-18T15:19:08+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Bechtle Additive Manufacturing Deutschland has acquired the HP 3D printing business of Kaut-Bullinger GmbH &#38; Co. KG through an asset deal, a move that reinforces…"
-        },
-        {
-          "title": "New Update in Stratasys v Bambu Lab Patent Infringement Action Lawsuit Stratasys Awarded $27.6 million in Damages, Bambu Lab Disputes",
-          "link": "https://3dprintingindustry.com/news/new-update-in-stratasys-v-bambu-lab-patent-infringement-action-254833/?utm_source=rss&utm_medium=rss&utm_campaign=new-update-in-stratasys-v-bambu-lab-patent-infringement-action",
-          "date": "2026-09-18T13:34:18+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "A US jury has awarded Stratasys approximately $27.6 million in past damages after finding that Bambu Lab infringed four 3D printing patents. The verdict followed a week-long trial…"
-        },
-        {
-          "title": "ugee Launches AI-Powered Drawing Tablet for Children",
-          "link": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/?utm_source=rss&utm_medium=rss&utm_campaign=ugee-launches-ai-powered-drawing-tablet-for-children",
-          "date": "2026-09-18T10:03:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Shenzhen-based digital creativity brand ugee launched the ArtPlay Pad on September 15, 2026, a drawing tablet built for young beginner creators that converts children&#8217;s 2D…"
-        },
-        {
-          "title": "A miniature Blatten: 3D printed terrain tests how rock avalanches move",
-          "link": "https://3dprintingindustry.com/news/a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche-254777/?utm_source=rss&utm_medium=rss&utm_campaign=a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche",
-          "date": "2026-09-18T07:39:14+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Researchers at the WSL Institute for Snow and Avalanche Research (SLF) and ETH Zurich have built a 3D printed physical replica of the terrain around Blatten, the Swiss village…"
-        },
-        {
-          "title": "Bambu Lab Launches Global 3D Printing Challenge for Assistive Devices",
-          "link": "https://3dprintingindustry.com/news/bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices-254787/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices",
-          "date": "2026-09-18T07:20:13+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Bambu Lab has partnered with seven accessibility organizations to launch a global 3D printing design challenge on MakerWorld, running from September through December 2026. The…"
-        },
-        {
-          "title": "MOD, Alloyed take new turbojet engine from concept to flight in under seven months",
-          "link": "https://3dprintingindustry.com/news/mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months-254767/?utm_source=rss&utm_medium=rss&utm_campaign=mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months",
-          "date": "2026-09-18T07:02:05+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The UK Ministry of Defence (MOD) and manufacturing start-up Alloyed have taken a new turbojet engine from initial concept to a completed flight in under seven months, as part of a…"
-        },
-        {
-          "title": "GM Scales Stratasys 3D Printing Across 20 Manufacturing Facilities",
-          "link": "https://3dprintingindustry.com/news/gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities-254801/?utm_source=rss&utm_medium=rss&utm_campaign=gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities",
-          "date": "2026-09-18T06:34:53+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Stratasys has announced a new showcase of its long-standing collaboration with General Motors (GM), highlighting how the automaker is using Stratasys additive manufacturing (AM)…"
-        },
-        {
-          "title": "AI Extinction Event, is Additive Manufacturing also Doomed?",
-          "link": "https://3dprintingindustry.com/news/ai-extinction-event-is-additive-manufacturing-also-doomed-254757/?utm_source=rss&utm_medium=rss&utm_campaign=ai-extinction-event-is-additive-manufacturing-also-doomed",
-          "date": "2026-09-17T11:45:00+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "At our online event, AMA: Software 2026, we’ll discuss all elements of the digital ecosystem around additive manufacturing. Register for free here. A warning that a product could…"
-        },
-        {
-          "title": "Aware Defense Wins Five-Year Navy Contract for 3D Scanned Hearing Protection",
-          "link": "https://3dprintingindustry.com/news/aware-defense-wins-five-year-navy-contract-for-3d-scanned-hearing-protection-254742/?utm_source=rss&utm_medium=rss&utm_campaign=aware-defense-wins-five-year-navy-contract-for-3d-scanned-hearing-protection",
-          "date": "2026-09-17T10:14:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The Naval Air Systems Command&#8217;s Aircrew Systems Program Office (PMA-202) has awarded Aware Defense, a division of Aware Custom Biometric Wearables (Aware CBW), a sole-source…"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -1396,6 +1325,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Scientists simulate cosmic crashes to test whether icy moons gain or lose their ability to sustain life",
+          "link": "https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html",
+          "date": "2026-09-19T11:00:06+00:00",
+          "image": null,
+          "summary": "Many of the moons orbiting Saturn, Uranus and Neptune likely conceal oceans of liquid water beneath miles of icy shell. Because life as we know it needs water, these buried oceans…"
+        },
+        {
           "title": "Hubble spots an out-of-sync galaxy",
           "link": "https://phys.org/news/2026-09-hubble-sync-galaxy.html",
           "date": "2026-09-18T16:40:02+00:00",
@@ -1457,13 +1393,6 @@
           "date": "2026-09-17T16:00:03+00:00",
           "image": null,
           "summary": "Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese…"
-        },
-        {
-          "title": "Black holes from stellar to supermassive size may follow one jet-launching rule",
-          "link": "https://phys.org/news/2026-09-black-holes-stellar-supermassive-size.html",
-          "date": "2026-09-17T15:30:01+00:00",
-          "image": null,
-          "summary": "An early-career Western Australian astrophysicist has helped uncover a universal rule behind one of the most powerful behaviors in the universe: when black holes launch jets. The…"
         }
       ],
       "ok": true,
@@ -1557,14 +1486,92 @@
     {
       "name": "Polygon",
       "cat": "gaming",
-      "items": [],
-      "ok": false,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "items": [
+        {
+          "title": "Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off",
+          "link": "https://www.polygon.com/batman-knightfall-producers-interview/",
+          "date": "2026-09-19T12:00:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdbatm_wb029.jpg",
+          "summary": "\"Everything was pushed to the extreme\""
+        },
+        {
+          "title": "Crunchyroll’s Detective Series With a 93% RT Score Is About to Have Its ‘Biggest Year Yet’",
+          "link": "https://www.polygon.com/apothecary-diaries-season-3-movie-producer-interview/",
+          "date": "2026-09-19T11:38:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/apothecary-diaries-season-3-hero-image.webp",
+          "summary": "The Apothecary Diaries producer Takao Iwata discusses Season 3, Maomao and Jinshi’s evolving relationship, and the series’ new canonical movie."
+        },
+        {
+          "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
+          "link": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
+          "date": "2026-09-19T09:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/trick-luco-star-wars-zero-compan.jpeg",
+          "summary": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them."
+        },
+        {
+          "title": "The 9 Best Anime You Can Stream on HBO Max",
+          "link": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
+          "date": "2026-09-19T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/per2-1.jpg",
+          "summary": "You can watch these after going through HBO Max's Studio Ghibli catalogue."
+        },
+        {
+          "title": "The 5 Best Charlie Brown Football Comic Strips in 'Peanuts' History",
+          "link": "https://www.polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip/",
+          "date": "2026-09-19T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown-lucy-van-pelt-football.jpg",
+          "summary": "50 years of exercises in futility"
+        },
+        {
+          "title": "Dwayne Johnson's Forgotten Box-office Juggernaut is Officially Conquering the Streaming World",
+          "link": "https://www.polygon.com/dwayne-johnson-hercules-netflix-streaming-hit-september-2026/",
+          "date": "2026-09-19T07:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dwayne-johnson-the-rock-hercules.jpg",
+          "summary": "Dwayne Johnson's Hercules has returned to the spotlight after topping Netflix charts more than 10 years after its release."
+        },
+        {
+          "title": "39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream",
+          "link": "https://www.polygon.com/star-trek-next-generation-streaming-free/",
+          "date": "2026-09-19T06:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gates-mcfadden-beverly-crusher-star-trek-tng.jpg",
+          "summary": "The Next Generation proved Star Trek could thrive without Kirk and Spock, creating a blueprint the franchise still follows today."
+        },
+        {
+          "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+          "link": "https://www.polygon.com/best-psychological-thriller-movies-free-streaming/",
+          "date": "2026-09-19T05:01:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/time-outs-50-greatest-japanese-movies-of-all-time-v0-8px5-ngeptneeincyosgdiml-zor46abfcqc4v1dppy-1.webp",
+          "summary": "These tense genre picks are well worth your time."
+        },
+        {
+          "title": "31 Years Later, the Final 'Calvin and Hobbes' Comic Strip is Still a Perfect Sendoff",
+          "link": "https://www.polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring/",
+          "date": "2026-09-19T04:00:20+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/1200x800-ch-fam-exhib-page.jpg",
+          "summary": "Back in 1995, catoonist Bill Watterson brought Calvin and Hobbes to a perfect conclusion"
+        },
+        {
+          "title": "3 Netflix Shows You Need to Binge This Weekend (Sept. 18-20)",
+          "link": "https://www.polygon.com/netflix-weekend-binge-september-2026-shows/",
+          "date": "2026-09-19T03:53:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/images-3.jpg",
+          "summary": "Go deep on classic sci-fi, epic anime, and a hidden Netflix gem."
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise",
+          "link": "https://www.eurogamer.net/nodusfall-gamescom-preview",
+          "date": "2026-09-19T09:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/Nodusfall-Preview-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women. In their…"
+        },
         {
           "title": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
           "link": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
@@ -1627,13 +1634,6 @@
           "date": "2026-09-18T09:08:43+00:00",
           "image": "https://assetsio.gnwcdn.com/link-layoff-japan.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "It's been a pretty grim year for video games. Aside from the \"return of Xbox\" new CEO Asha Sharma promised awhen taking over, which enacted the announcement of 3,200 layoffs and…"
-        },
-        {
-          "title": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn",
-          "link": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
-          "date": "2026-09-17T14:22:34+00:00",
-          "image": "https://assetsio.gnwcdn.com/valor-mortis-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The Valor Mortis developer has announced the game's price and offered an explanation as to why the team picked this particular price point. Valor Mortis costs $40 / &euro;40,…"
         }
       ],
       "ok": true,
@@ -1800,6 +1800,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
+          "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+          "date": "2026-09-19T11:21:27+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/We8Z36L4Hj2jKgPeGHx3vR-1920-80.jpg",
+          "summary": "\"The issue with Cyberpunk was not really REDengine itself.\""
+        },
+        {
+          "title": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
+          "link": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
+          "date": "2026-09-19T10:09:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/cGALeXMuTDGvVZW3P9ruXR-1920-80.jpg",
+          "summary": "Friction? Who needs it?"
+        },
+        {
           "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
           "link": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
           "date": "2026-09-18T22:51:54+00:00",
@@ -1854,20 +1868,6 @@
           "date": "2026-09-18T18:22:26+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/X5bwnU4v3okUuzcqFbJz63-1920-80.jpg",
           "summary": "Strauss Zelnick was asked about GTA 6 on PC during Take-Two's recent annual meeting."
-        },
-        {
-          "title": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-          "date": "2026-09-18T17:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/AwHyrR3qe9hrDbhRjCdNXf-1920-80.jpg",
-          "summary": "Money talk, wealth shoots."
-        },
-        {
-          "title": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
-          "link": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
-          "date": "2026-09-18T16:05:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/schZxtC4xyMVDPHLACXfwQ-1920-80.jpg",
-          "summary": "And now you know, too. You're welcome."
         }
       ],
       "ok": true,
@@ -2268,6 +2268,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "50-year-old accelerator at Los Alamos lab gets green light to design billion-dollar upgrade",
+          "link": "https://interestingengineering.com/science/los-alamos-accelerator-upgrade",
+          "date": "2026-09-19T12:48:25+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Los-Alamos-accelerator-facility.jpg",
+          "summary": "For more than five decades, the Los Alamos Neutron Science Center (LANSCE) in New Mexico..."
+        },
+        {
+          "title": "US to explore bringing C-17 Globemaster III production back from the dead",
+          "link": "https://interestingengineering.com/innovation/us-to-resurrect-c17-globemaster-iii",
+          "date": "2026-09-19T12:39:55+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ev7ykwiqm0w.jpg",
+          "summary": "The United States Air Force (USAF) is currently weighing whether to restart production of the..."
+        },
+        {
+          "title": "US Air Force boosted B-52 bomber battle readiness by 40% without buying new jets",
+          "link": "https://interestingengineering.com/innovation/us-air-force-boosted-b52-readiness",
+          "date": "2026-09-19T12:21:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/qfvfgryb4sm.jpg",
+          "summary": "The USAF&#8217;s North Star Readiness Campaign has boosted the number of flyable B-52 &#8220;Stratofortresses&#8221; by..."
+        },
+        {
           "title": "EV-maker produces powerful battery cells using recycled cathode active material for the first time",
           "link": "https://interestingengineering.com/energy/ev-maker-produces-battery-cells-recycled-cathode",
           "date": "2026-09-19T06:50:09+00:00",
@@ -2315,27 +2336,6 @@
           "date": "2026-09-18T21:00:19+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain_9a5fe6.png",
           "summary": "In our latest episode of Lexicon, we sat down with Paleolithic archaeologist Dr. Ariel “Arik”..."
-        },
-        {
-          "title": "New doping method puts up to 100× more mobile charges into organic semiconductors",
-          "link": "https://interestingengineering.com/innovation/degradation-assisted-doping-100x-organic-semiconductors",
-          "date": "2026-09-18T20:55:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-19T022346.429.jpg",
-          "summary": "Researchers have developed a new way to dope organic semiconductors that can produce up to..."
-        },
-        {
-          "title": "China displays 838-pound laser weapon to arm J-36 fighter jet with missile shield",
-          "link": "https://interestingengineering.com/military/china-j-36-high-energy-laser",
-          "date": "2026-09-18T19:11:16+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-18T235851.556.jpg",
-          "summary": "China may be developing a high-energy laser weapon for its J-36 fighter, adding a potential..."
-        },
-        {
-          "title": "New material conducts 5 times less heat than silicone, remains up to 10,000 times more stiffer",
-          "link": "https://interestingengineering.com/innovation/material-conducts-5-times-less-heat",
-          "date": "2026-09-18T17:57:12+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/pa2-8ekpkta.jpg",
-          "summary": "A newly designed non-porous, thin-film material combines extreme stiffness with exceptionally low thermal conductivity. It..."
         }
       ],
       "ok": true,
@@ -2516,6 +2516,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Learning another language may be one of the best ways to keep your brain healthy",
+          "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+          "date": "2026-09-19T11:10:43+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-500x500.jpg",
+          "summary": "Research suggests that bilingualism can offer cognitive benefits."
+        },
+        {
+          "title": "Rings around a tiny body have changed over the past decade",
+          "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+          "date": "2026-09-19T10:00:06+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-500x500.png",
+          "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing."
+        },
+        {
           "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
           "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
           "date": "2026-09-18T20:26:33+00:00",
@@ -2570,20 +2584,6 @@
           "date": "2026-09-18T11:00:11+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-500x500.jpg",
           "summary": "“I can tell you SpaceX has already gone captive.\""
-        },
-        {
-          "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-          "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-          "date": "2026-09-17T22:31:28+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg",
-          "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies."
-        },
-        {
-          "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-          "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-          "date": "2026-09-17T22:12:58+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-500x500.png",
-          "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
         }
       ],
       "ok": true,
