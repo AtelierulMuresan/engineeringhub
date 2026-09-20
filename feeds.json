@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-20T18:03:08.870551+00:00",
+  "updated": "2026-09-20T21:13:27.674616+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "J.J. Spaun triumphs at the 22nd BMW PGA Championship – Lacroix wins the new all-electric BMW iX5 with a hole-in-one.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460877EN?language=en",
+          "date": "2026-09-20T18:14:26+00:00",
+          "image": null,
+          "summary": "+++ J.J. Spaun (USA) wins on his Wentworth debut +++ Frédéric Lacroix (FRA) secures BMW hole-in-one prize in the final round +++ More than 120,000 fans celebrate the Festival of…"
+        },
         {
           "title": "World Champions: Historic title triumph in FIM EWC.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460876EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-09-14T07:00:00+00:00",
           "image": null,
           "summary": "More dynamic, more versatile, more individual: From launch, BMW M Performance Parts and BMW Accessories enable even greater personalization of the new BMW X5 and the first fully…"
-        },
-        {
-          "title": "DTM: Wittmann triumphs in the BMW M4 GT3 EVO at the Sachsenring and keeps title hopes alive.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460678EN?language=en",
-          "date": "2026-09-13T16:12:39+00:00",
-          "image": null,
-          "summary": "+++ Wittmann converts pole position into the 21st DTM victory of his career on Saturday +++ BMW M Motorsport triumphs at the Sachsenring for the first time +++ Wittmann heads into…"
         }
       ],
       "ok": true,
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Toyota Group to invest $6.42 billion annually in 400,000-robot global workforce",
+          "link": "https://www.autonews.com/toyota/an-toyota-plans-humanoid-robot-workers-from-2028-0921/",
+          "date": "2026-09-20T20:25:20+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/QVylQ0wrRmRdQbA915pMm9tg1Vo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3PMPF65VM5FZZAXJCTRBBW3HMY.jpg",
+          "summary": "Toyota Group will invest $6.42 billion annually from 2028 to deploy 400,000 robots, including AI humanoids that learn from master craftsmen."
+        },
+        {
           "title": "Skoda CEO Klaus Zellmer to succeed Hakan Samuelsson as Volvo chief executive",
           "link": "https://www.autonews.com/volvo/ane-volvo-klaus-zellmer-new-ceo-0920/",
           "date": "2026-09-20T13:01:21+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-18T20:19:55+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/VB8M1OGvijP72CKpWjgCM9HQ1-4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JQUWCLOVNNDFLPES2EVDIMXH64.png",
           "summary": "Two Mt. Kisco DARCARS dealerships settled allegations of misleading \"sales commissions\" and F&amp;I packages with New York Attorney General Letitia James's office for $1.9 million."
-        },
-        {
-          "title": "Daily 5 report for Sept. 18: Trump’s Canada tariffs threaten America’s own supply chain, Flavio Volpe warns",
-          "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-trump-canada-tariffs-0918/",
-          "date": "2026-09-18T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/vpprxZTnEPCMYwGuP0_Oxg7z7t8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/Y6KCANK6MRAILPUB7SL43YXBZY.jpg",
-          "summary": "Flavio Volpe argues Trump's Canada tariffs would hurt the same U.S. supply chains and jobs the policy claims to protect."
         }
       ],
       "ok": true,
@@ -332,11 +332,11 @@
           "summary": "The average new EV costs only 9.4% more than a gas car, with incentives playing a shrinking role in that shift."
         },
         {
-          "title": "'Can't Be Done By One Company': This Startup Is Rallying A Team To Bring Solid-State Batteries To Life",
+          "title": "'Can't Be Done By One Company': Factorial Is Rallying A Team To Build Solid-State Batteries",
           "link": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
           "date": "2026-09-18T17:05:13+00:00",
           "image": "https://cdn.motor1.com/images/mgl/BXAbMR/s3/factorial-unveils-100-amp-hour-solid-state-battery-cell-concept-at-ces.jpg",
-          "summary": "Instead of going solo, Factorial is bringing battery companies together to make solid-state batteries a reality."
+          "summary": "Instead of going solo, Factorial is bringing specialized battery companies together for solid-state tech."
         },
         {
           "title": "Congress Advances Bill That Would Force Your EV To Have AM Radio",
@@ -1396,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Venus ate its moon: How Earth's 'twin' could have swallowed a rocky satellite",
+          "link": "https://phys.org/news/2026-09-venus-ate-moon-earth-twin.html",
+          "date": "2026-09-20T18:30:02+00:00",
+          "image": null,
+          "summary": "Scientists have long speculated why Venus, with a size, mass and structure similar to Earth's, doesn't have a moon. New UC Riverside research shows that our hungry twin likely…"
+        },
+        {
           "title": "To understand the solar cycle, notice how the sun sleeps",
           "link": "https://phys.org/news/2026-09-solar-sun.html",
           "date": "2026-09-20T17:20:01+00:00",
@@ -1457,13 +1464,6 @@
           "date": "2026-09-17T18:40:21+00:00",
           "image": null,
           "summary": "Researchers at the National High Magnetic Field Laboratory and Brookhaven National Laboratory have teamed up to get a fresh look at the complex makeup of meteorites and glimpse…"
-        },
-        {
-          "title": "What ancient Mars rocks reveal about its buried carbonate stores",
-          "link": "https://phys.org/news/2026-09-ancient-mars-reveal-carbonate.html",
-          "date": "2026-09-17T17:00:17+00:00",
-          "image": null,
-          "summary": "Carbonate minerals are among the best records of past liquid water on Mars: They form when water carrying dissolved carbon dioxide reacts with rock, and their composition reflects…"
         }
       ],
       "ok": true,
@@ -1559,6 +1559,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "This 40-Year-Old Video Game Is Somehow More Fun Than Ever",
+          "link": "https://www.polygon.com/mario-bros-nes-arcade-retrospective/",
+          "date": "2026-09-20T19:00:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jason-leung-zv7lnfyqlma-unsplash.jpg",
+          "summary": "Classic games don't always hold up well, but this one got better with age."
+        },
+        {
+          "title": "37 Years Later, the Best 'Calvin and Hobbes' Dad Quote Is Still in a League of Its Own",
+          "link": "https://www.polygon.com/best-quote-calvin-hobbes-dad-comic-strip/",
+          "date": "2026-09-20T18:05:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19957905/CH_wagon.jpg",
+          "summary": "Calvin's the star of the show in Calvin and Hobbes, but don't discount his parents."
+        },
+        {
           "title": "Ethan Hawke's Nail-Biting New Thriller Stole a Movie Magic Trick from Indiana Jones",
           "link": "https://www.polygon.com/the-weight-movie-interview-ethan-hawke/",
           "date": "2026-09-20T18:00:15+00:00",
@@ -1613,20 +1627,6 @@
           "date": "2026-09-20T15:07:11+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/resident-evil.jpg",
           "summary": "The R-rated video game adaptation of Capcom's Resident Evil had an amazing opening weekend at the box office"
-        },
-        {
-          "title": "BlizzCon was Good, but the Vibes Were Weird",
-          "link": "https://www.polygon.com/patch-notes-blizzcon-2026/",
-          "date": "2026-09-20T15:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/blizzcon26_12115605_03686_rp.jpg",
-          "summary": "Blizzard's BlizzCon 2026 was loaded with news about StarCraft, WoW: Forever, and Diablo 5, but also a note of desperation"
-        },
-        {
-          "title": "Disney Plus Just Proved You Won't Be Able to Escape Ads On Any Tier",
-          "link": "https://www.polygon.com/disney-plus-subscriber-agreement-ads-every-plan/",
-          "date": "2026-09-20T13:51:02+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/zootopia-2-1.jpg",
-          "summary": "According to a recent update to Disney Plus' subscriber agreement, ads may now appear regardless of users' subscription tier."
         }
       ],
       "ok": true,
@@ -1715,6 +1715,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Cursed ‘Blood Mew’ Misprinted Pokémon Cards Have Collectors Seeing Red And Resellers Seeing Dollar Signs",
+          "link": "https://kotaku.com/cursed-blood-mew-misprinted-pokemon-cards-have-collectors-seeing-red-and-resellers-seeing-dollar-signs-2000735967",
+          "date": "2026-09-20T20:39:24+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/bloodmew.jpg",
+          "summary": "While the 30th anniversary set was designed to ease The Pokémon Company’s ongoing stock issues, they've seemingly created a new damned rarity by accident"
+        },
+        {
+          "title": "Beloved Super Nintendo JRPG Receives Its First Re-Release But It’s The Sequel You Gotta Get Excited For",
+          "link": "https://kotaku.com/beloved-super-nintendo-jrpg-receives-its-first-re-release-but-its-the-sequel-you-gotta-get-excited-for-2000735963",
+          "date": "2026-09-20T19:34:44+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/09/Lufia2-1280x960.jpg",
+          "summary": "After 30 years the first two Lufia games will be ported to modern devices, and while the first may seem rudimentary, fans know the series goes to some amazing heights"
+        },
+        {
           "title": "Marvel Tōkon: Fighting Souls Is Still Fighting For Its Life On Steam",
           "link": "https://kotaku.com/marvel-tokon-fighting-souls-is-still-fighting-for-its-life-on-steam-2000735883",
           "date": "2026-09-20T17:31:53+00:00",
@@ -1769,20 +1783,6 @@
           "date": "2026-09-19T19:00:08+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/CloverPit-official-image-Future-Friends-Games-1280x720.jpg",
           "summary": "Indie developers are complaining about a content creator's expensive marketing package, which apparently results in little, if any, return on investment"
-        },
-        {
-          "title": "Typhoon Dujuan Forces Tokyo Game Show 2026 To Shut Down A Day Early",
-          "link": "https://kotaku.com/typhoon-dujuan-forces-tokyo-game-show-2026-to-shut-down-a-day-early-2000735879",
-          "date": "2026-09-19T18:30:07+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/GettyImages-2236883946-e1789839807465-1280x725.jpg",
-          "summary": "The severe storm is expected to make landfall on Monday"
-        },
-        {
-          "title": "Jared Kushner Reportedly Likes Playing Video Games With The Saudi Crown Prince",
-          "link": "https://kotaku.com/jared-kushner-reportedly-likes-playing-video-games-with-the-saudi-crown-prince-2000735875",
-          "date": "2026-09-19T18:00:48+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/GettyImages-2258876502-1280x853.jpg",
-          "summary": "Trump's son-in-law was a key player in the controversial sale of Electronic Arts"
         }
       ],
       "ok": true,
@@ -1871,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan",
+          "link": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+          "date": "2026-09-20T19:13:08+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/4NFKHwAjysznfuZyZJFbG3-1920-80.jpg",
+          "summary": "The gamer's traditional enemy, the typhoon."
+        },
+        {
+          "title": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
+          "link": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+          "date": "2026-09-20T18:38:15+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/abua35RXUY97V82GeJ9ktd-1920-80.jpg",
+          "summary": "A new spin on an old favorite."
+        },
+        {
           "title": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
           "link": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
           "date": "2026-09-20T16:58:05+00:00",
@@ -1925,20 +1939,6 @@
           "date": "2026-09-20T16:49:54+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/HZ6WcUZS5FwmMocPY5Ady8-1920-80.jpg",
           "summary": "Just enough time to gather your squad and prepare to deploy."
-        },
-        {
-          "title": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer",
-          "link": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
-          "date": "2026-09-20T16:49:13+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/mXputmZUsAiQXZ4uULVJjY-1920-80.jpg",
-          "summary": "Do androids dream of electric construction tools?"
-        },
-        {
-          "title": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim",
-          "link": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
-          "date": "2026-09-20T16:48:37+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/X2vZxGUCwP7J74rupsiWvk-1920-80.jpg",
-          "summary": "Take your plane and fly into the mist, just don't stray too far from the light."
         }
       ],
       "ok": true,
@@ -2339,6 +2339,27 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "MARTAC expands US drone boat production with 100 more Devil Rays per year",
+          "link": "https://interestingengineering.com/military/martac-solace-devil-ray-production",
+          "date": "2026-09-20T19:44:11+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/q-hr-qc4dz0_94733e.jpg",
+          "summary": "MARTAC partners with SŌLACE Boats to increase production of its Devil Ray autonomous vessels by..."
+        },
+        {
+          "title": "Beijing to Shanghai in 30 minutes: China ready to test its Supersonic TMS-10 plane",
+          "link": "https://interestingengineering.com/transportation/china-tms-10-supersonic-plane",
+          "date": "2026-09-20T19:40:24+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/nzyfqxlpt_s.jpg",
+          "summary": "China is moving its next-gen supersonic passenger aircraft research into a more demanding phase, with..."
+        },
+        {
+          "title": "Why promising battery materials break down when researchers build real cells",
+          "link": "https://interestingengineering.com/science/why-promising-battery-materials-fail",
+          "date": "2026-09-20T18:42:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/goiecsxovqe.jpg",
+          "summary": "A battery material can look impressive in a laboratory and still fail when turned into..."
+        },
+        {
           "title": "Sentinel ICBM explained: Inside America’s next-generation nuclear missile",
           "link": "https://interestingengineering.com/military/sentinel-icbm-next-generation-nuclear-missile-explained",
           "date": "2026-09-20T17:28:18+00:00",
@@ -2386,27 +2407,6 @@
           "date": "2026-09-20T12:45:29+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/sodium-ion-cells.jpg",
           "summary": "Lithium-ion batteries are currently the backbone of modern energy storage that powers everything from your..."
-        },
-        {
-          "title": "Pentagon to give Cape Canaveral a much-needed anti-drone security overhaul",
-          "link": "https://interestingengineering.com/innovation/pentagon-give-cape-canaveral-anti-drone-overhaul",
-          "date": "2026-09-20T12:35:26+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/bjoog6k-0ay.jpg",
-          "summary": "The Space Force&#8217;s Cape Canaveral Space Force Station is set to get a security overhaul,..."
-        },
-        {
-          "title": "Trump wants ‘AI Force’ to keep US AI race moving, push ahead with modern tech despite concerns",
-          "link": "https://interestingengineering.com/ai-robotics/trump-wants-ai-force-us-ai-race",
-          "date": "2026-09-19T22:15:04+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/xuuo4qwhk6i.jpg",
-          "summary": "President Donald Trump says he plans to create an “AI Force” and appoint a new..."
-        },
-        {
-          "title": "China fears US deployment of space weapons raises risks of fresh arms race: Report",
-          "link": "https://interestingengineering.com/space/us-deployment-space-weapons-china-risk",
-          "date": "2026-09-19T21:54:17+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-Space-weapons-US-vs-china.jpg",
-          "summary": "The United States has publicly acknowledged that it has weapons deployed in orbit, marking a..."
         }
       ],
       "ok": true,
