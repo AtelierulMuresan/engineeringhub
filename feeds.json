@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:48:55.881201+00:00",
+  "updated": "2026-09-22T09:07:57.968811+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -15,7 +15,7 @@
         {
           "title": "IMSA Indianapolis: First overall victory for BMW M Team WRT with the BMW M Hybrid V8 in North America.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0460893EN?language=en",
-          "date": "2026-09-21T05:58:51+00:00",
+          "date": "2026-09-21T05:58:00+00:00",
           "image": null,
           "summary": "+++ Dries Vanthoor and Sheldon van der Linde break the spell: first IMSA season win for the #24 BMW M Hybrid V8 +++ IIMSA debut victory for BMW M Team WRT and Sheldon van der…"
         },
@@ -162,6 +162,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Chery reportedly weighs bringing Omoda, Jaecoo to China",
+          "link": "https://www.automotiveworld.com/news/chery-reportedly-weighs-bringing-omoda-jaecoo-to-china/",
+          "date": "2026-09-22T08:14:24+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Recruiting marketing talent specifically from BMW, Mercedes and Audi suggests a push into the premium segment, not just a relaunch. By Stewart Burnett The post Chery reportedly…"
+        },
+        {
           "title": "Leapmotor surpasses Subaru, Mitsubishi in Q2 global car sales",
           "link": "https://www.automotiveworld.com/news/leapmotor-surpasses-subaru-mitsubishi-in-q2-global-car-sales/",
           "date": "2026-09-21T16:33:43+00:00",
@@ -223,13 +230,6 @@
           "date": "2026-09-21T13:00:01+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Delaying Zellmer's start until October 2027 suggests that Volvo Cars wants its 13-model plan embedded before he takes over. By Stewart Burnett The post Volvo Cars picks VW margin…"
-        },
-        {
-          "title": "VW flags US$11.5bn in charges on a Porsche writedown",
-          "link": "https://www.automotiveworld.com/intelligence/vw-flags-us11-5bn-in-charges-on-a-porsche-writedown/",
-          "date": "2026-09-21T12:01:37+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Volkswagen is writing down hefty impairments for Porsche, while reports swell that the luxury automaker is weighing additional job cuts. By Stewart Burnett The post VW flags…"
         }
       ],
       "ok": true,
@@ -239,6 +239,34 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Embatteld Dutch chipmaker Nexperia expands into India with Tata after losing control of China unit",
+          "link": "https://www.autonews.com/manufacturing/suppliers/an-nexperia-china-semiconductor-dispute-tata-india-expansion-0922/",
+          "date": "2026-09-22T08:23:15+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/mUQsJi_I02lgZDOiyYmuHQN3rjA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MF7MKB7JYFD6FIPZ53LBRGE6PY.png",
+          "summary": "Nexperia’s move follows its decision to produce chips in the U.S., and comes after a Chinese court ruling froze the Dutch company’s business assets in China."
+        },
+        {
+          "title": "How Porsche fell from VW Group profit driver to poster child for industry woes",
+          "link": "https://www.autonews.com/volkswagen/porsche/ane-porsche-problem-vw-group-0922/",
+          "date": "2026-09-22T07:53:49+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/S9QLoilEepKq3Oo3nIH5Xxd9-X8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TBEOJK5DNJCJPOG6KEGAVKONLQ.jpg",
+          "summary": "VW Group's writedown of its Porsche stake by €6 billion as the brand's margins fell below Skoda's, signal deeper troubles for CEO Oliver Blume's restructuring plans."
+        },
+        {
+          "title": "Chinese brands reach record 11.7% Europe share as BYD, Chery surge past MG",
+          "link": "https://www.autonews.com/retail/sales/ane-chinese-sales-august-8-months-0922/",
+          "date": "2026-09-22T07:10:21+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/-SSLhA7Ib7ka-eg9zPVJX4ujFpQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/R3QBFBCDW5GA3NFYL557LCGETE.png",
+          "summary": "Chinese automakers more than doubled their August sales in Europe to 97,639. Plug-in hybrids helped several Chinese brands boost volume while avoiding EU tariffs aimed at imported…"
+        },
+        {
+          "title": "UK exclusion from EU ‘Made in Europe’ plan risks British auto trade, SMMT lobby says",
+          "link": "https://www.autonews.com/manufacturing/ane-uk-smmt-warns-against-exclusion-eu-iaa-0922/",
+          "date": "2026-09-22T06:57:26+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ynTtpcLAeWcJgr0yMD8nFgZZEf0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/36JMTKKIRRBCTNVD7VH4GDQZAA.jpg",
+          "summary": "Britain's exclusion from EU local content rules puts its auto industry at competitive disadvantage despite £80 billion cross-channel trade, industry body SMMT said."
+        },
         {
           "title": "Automotive News Classifieds",
           "link": "https://www.autonews.com/classifieds/automotive-news-classifieds/",
@@ -280,34 +308,6 @@
           "date": "2026-09-21T19:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/VTrxBg1i-P3M3fZVcwdo1jArX6E=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/Z4TPUOMA5ZARVGJHSOJSHPZFHU.jpg",
           "summary": "Tesla's driverless Cybercab launch triggers an NHTSA probe, while Here Technologies' CEO details automakers' shift back to embedded maps."
-        },
-        {
-          "title": "VW T-Roc tops Europe sales in August as Tesla Model Y makes strong rebound",
-          "link": "https://www.autonews.com/retail/sales/ane-top-50-sellers-august-8-months-0922/",
-          "date": "2026-09-21T18:17:24+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/k6hGsi8bTU6JYR-6UMA8Tcr84Wg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FPEICZ7ADRGFHMI7K3IJYRJVEY.jpg",
-          "summary": "The VW T-Roc led European sales in August while Tesla's Model Y rebounded to seventh place after dropping out of the top 50 in July. Led by the new GLC, Mercedes models posted…"
-        },
-        {
-          "title": "Illinois board sides with VW, Audi dealers over warranty reimbursement, but automaker signals matter isn’t settled",
-          "link": "https://www.autonews.com/volkswagen/an-vw-audi-illinois-warranty-reimbursement-update-0921/",
-          "date": "2026-09-21T17:46:39+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/d-8e64ntyj80x5BlWoptxEVLNOw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NZ6VYS6PMVG25GFPR7QGX76YRM.jpg",
-          "summary": "The issue has spanned multiple years and has been closely watched by Illinois dealerships and beyond."
-        },
-        {
-          "title": "VW slashes profit forecast; HERE Technologies CEO",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-vw-profit-forecast-here-0921/",
-          "date": "2026-09-21T17:38:25+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3nnuhvBd_WF8bnWQbe8D16d7iaM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/YMDDMLXDBNGBBAAX3MCRSWFWYU.jpg",
-          "summary": "Volkswagen slashes its profit forecast. Toyota bets big on robots. Plus, HERE Technologies CEO Mike Nefkens explains how incumbent map companies are competing with big-tech…"
-        },
-        {
-          "title": "Canada limits Chinese EVs, but their parts fill other brands",
-          "link": "https://www.autonews.com/ev/anc-canada-china-parts-content-imports-0918/",
-          "date": "2026-09-21T15:40:58+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/zIz8r1taS2VMBMucQsmbSNdsp_o=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TQWQSLFTN5DRBHPAJKBVM4XE64.jpg",
-          "summary": "China-made batteries, motors or other content enters Canada largely unchecked in popular vehicles such as the Chevrolet Bolt and Toyota bZ, in some cases accounting for half the…"
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "This 1970 Scout Sat In A Field For Years. Now It’s An EV With Its Original 4-Speed Manual",
+          "link": "https://insideevs.com/news/809068/1970-international-scout-ev-conversion-price/",
+          "date": "2026-09-22T08:34:13+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/KbZBpQ/s3/1970-international-harvester-scout-800a-ev-conversion-by-beachman.jpg",
+          "summary": "Canada’s Beachman says EV conversions start at $25,000."
+        },
+        {
+          "title": "Rolls-Royce’s Latest Problem: Keeping Its New EV’s Cashmere Roof Intact At 176°F",
+          "link": "https://insideevs.com/news/809054/rolls-royce-project-nightingale-ev-cashmere-roof-testing/",
+          "date": "2026-09-22T07:21:18+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/KbZBqQ/s3/rolls-royce-project-nightingale-enters-testing.jpg",
+          "summary": "The British marque will also slam Project Nightingale’s unique side-opening trunk 15,000 times as part of its testing process."
+        },
         {
           "title": "This Chinese SUV Has Built-In Propellers So It Can Drive Across Water",
           "link": "https://insideevs.com/news/809021/geely-battleship-700-water-swim/",
@@ -372,20 +386,6 @@
           "date": "2026-09-21T12:36:43+00:00",
           "image": "https://cdn.motor1.com/images/mgl/8A0pJJ/s3/2027-nissan-rogue-hybrid.jpg",
           "summary": "The 2027 Nissan Rogue Hybrid gets a unique hybrid powertrain that’s different from its rivals."
-        },
-        {
-          "title": "Scania's New EV Truck Has 447 Miles Of Range",
-          "link": "https://insideevs.com/news/808918/scania-extended-range-ev-truck/",
-          "date": "2026-09-21T09:18:51+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/QeGPo8/s3/scania-electric-truck-with-additional-behind-the-cab-batteries.jpg",
-          "summary": "A new battery system and an aerodynamically optimized cab give Scania’s electric big rig an edge over the Tesla Semi."
-        },
-        {
-          "title": "This VW ID. Buzz Finished A 62,000-Mile World Trip With Nearly 96% Battery Health",
-          "link": "https://insideevs.com/news/808905/vw-id-buzz-world-trip/",
-          "date": "2026-09-21T08:40:46+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/P3VWbK/s3/vw-id.-buzz-world-tour.jpg",
-          "summary": "The electric van visited 92 countries in 445 days, and Volkswagen says it completed the entire trip without a single technical breakdown."
         }
       ],
       "ok": true,
@@ -488,6 +488,34 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Isembard Launches Its Largest Factory, Feeding Into Alloyed’s Metal AM Pipeline",
+          "link": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/?utm_source=rss&utm_medium=rss&utm_campaign=isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline",
+          "date": "2026-09-22T08:04:49+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "British software-first manufacturing startup Isembard opened its new global headquarters and factory in Southwark, central London, on September 14, 2026, calling it the largest…"
+        },
+        {
+          "title": "DEEP Manufacturing Holds the World’s Only Full DNV Approval for WAAM Pressure Vessel Production",
+          "link": "https://3dprintingindustry.com/news/deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production-254967/?utm_source=rss&utm_medium=rss&utm_campaign=deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production",
+          "date": "2026-09-22T08:03:41+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "DEEP Manufacturing, a specialist in wire arc additive manufacturing (WAAM) for safety-critical structures, has become the world&#8217;s first and only fully DNV-approved wire arc…"
+        },
+        {
+          "title": "3D printing speeds up prosthetics for Syria’s wounded",
+          "link": "https://3dprintingindustry.com/news/3d-printing-speeds-up-prosthetics-for-syrias-wounded-254857/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-speeds-up-prosthetics-for-syrias-wounded",
+          "date": "2026-09-22T07:59:30+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Prosthetics centers in northwest Syria have begun using 3D printing to produce custom limbs for amputees, offering a partial answer to a shortage of prosthetics capacity in a…"
+        },
+        {
+          "title": "Massivit Brings RapidWings Composite Tooling Platform to North America",
+          "link": "https://3dprintingindustry.com/news/massivit-brings-rapidwings-composite-tooling-platform-to-north-america-254976/?utm_source=rss&utm_medium=rss&utm_campaign=massivit-brings-rapidwings-composite-tooling-platform-to-north-america",
+          "date": "2026-09-22T07:58:38+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Israel-based Massivit, has expanded its RapidWings composite tooling platform into North America through a partnership with Artek, a manufacturing and design firm based in…"
+        },
+        {
           "title": "VulcanForms, Specter Aerospace Target Low-Cost Hypersonic Munitions With New Manufacturing Partnership",
           "link": "https://3dprintingindustry.com/news/vulcanforms-specter-aerospace-target-low-cost-hypersonic-munitions-with-new-manufacturing-partnership-254795/?utm_source=rss&utm_medium=rss&utm_campaign=vulcanforms-specter-aerospace-target-low-cost-hypersonic-munitions-with-new-manufacturing-partnership",
           "date": "2026-09-21T19:00:00+00:00",
@@ -528,34 +556,6 @@
           "date": "2026-09-21T09:15:38+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "Fives AddUp, the additive manufacturing arm of the Fives Group, announced plans to establish U.S.-based manufacturing for its FormUp 750, a next-generation large-format laser…"
-        },
-        {
-          "title": "Stanford lab’s subvoxel 3D printing technique aims to make one part serve multiple functions at once",
-          "link": "https://3dprintingindustry.com/news/stanford-labs-subvoxel-3d-printing-technique-aims-to-make-one-part-serve-multiple-functions-at-once-254859/?utm_source=rss&utm_medium=rss&utm_campaign=stanford-labs-subvoxel-3d-printing-technique-aims-to-make-one-part-serve-multiple-functions-at-once",
-          "date": "2026-09-21T09:14:35+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "A 3D printing technique developed by Stanford mechanical engineering professor Natalie Larson is being applied across an unusually wide range of fields, from lab-grown meat to…"
-        },
-        {
-          "title": "Caracol Becomes America Makes Member, Citing Focus on U.S. Production",
-          "link": "https://3dprintingindustry.com/news/caracol-becomes-america-makes-member-citing-focus-on-u-s-production-254887/?utm_source=rss&utm_medium=rss&utm_campaign=caracol-becomes-america-makes-member-citing-focus-on-u-s-production",
-          "date": "2026-09-21T09:14:10+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Caracol, a robotic additive manufacturing (AM) company focused on large-format AM (LFAM), has recently joined America Makes, the national AM innovation institute within the…"
-        },
-        {
-          "title": "DMSC model-based manufacturing standard gains ANSI approval",
-          "link": "https://3dprintingindustry.com/news/dmsc-model-based-manufacturing-standard-gains-ansi-approval-254894/?utm_source=rss&utm_medium=rss&utm_campaign=dmsc-model-based-manufacturing-standard-gains-ansi-approval",
-          "date": "2026-09-21T09:13:51+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The American National Standards Institute (ANSI), a nonprofit organization that oversees standards and conformity-assessment activities in the United States, has approved…"
-        },
-        {
-          "title": "TDK Agrees to Acquire Metal 3D Printing Company Fabric8Labs for Up to $400 million",
-          "link": "https://3dprintingindustry.com/news/tdk-agrees-to-acquire-metal-3d-printing-company-fabric8labs-for-up-to-400-million-254911/?utm_source=rss&utm_medium=rss&utm_campaign=tdk-agrees-to-acquire-metal-3d-printing-company-fabric8labs-for-up-to-400-million",
-          "date": "2026-09-21T09:13:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "TDK, a Tokyo-based electronics manufacturer, has agreed to acquire Fabric8Labs, a San Diego company developing metal 3D printing technology, for up to $400 million in cash. The…"
         }
       ],
       "ok": true,
@@ -1318,6 +1318,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Dirty magnetite nanoparticles keep cleaning up dyes",
+          "link": "https://physicsworld.com/a/dirty-magnetite-nanoparticles-keep-cleaning-up-dyes/",
+          "date": "2026-09-22T07:30:30+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Synthesizing magnetite nanoparticles directly in dye-polluted water gives them new surface chemistry that lets them adsorb different pollutants The post Dirty magnetite…"
+        },
+        {
           "title": "Einstein’s equivalence principle put to two new tests",
           "link": "https://physicsworld.com/a/einsteins-equivalence-principle-put-to-two-new-tests/",
           "date": "2026-09-21T13:00:49+00:00",
@@ -1329,7 +1336,7 @@
           "link": "https://physicsworld.com/a/impact-of-vc-on-high-temperature-cycling-of-lfp-gr-cells/",
           "date": "2026-09-21T13:00:41+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2026/09/2026-10-ecs-wb-main.jpg",
-          "summary": "Join the audience for a live webinar at 6 p.m. BST/1 p.m. EDT on 14 October 2026 LFP/graphite cells are cheap, safe and stable during room temperature operation. However, lifetime…"
+          "summary": "Join the audience for a live webinar at 6 p.m. BST/1 p.m. EDT on 14 October 2026 The post Impact of VC on high temperature cycling of LFP/Gr cells appeared first on Physics World ."
         },
         {
           "title": "Illuminating, beautiful and disturbing: a photographic record of the Trinity atomic test",
@@ -1350,7 +1357,7 @@
           "link": "https://physicsworld.com/a/in-situ-and-operando-optical-microscopy-and-spectroscopy-investigating-perovskite-optoelectronic-devices-at-work/",
           "date": "2026-09-21T07:13:41+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2026/09/2026-11-wb-picoquant-main-image.jpg",
-          "summary": "Join the audience for a live webinar at 4 p.m. GMT/5 p.m. CET on 3 November 2026 Learn how optical microscopy reveals local processes in working perovskite optoelectronic devices…"
+          "summary": "Join the audience for a live webinar at 4 p.m. GMT/5 p.m. CET on 3 November 2026 The post In situ and operando optical microscopy and spectroscopy: investigating perovskite…"
         },
         {
           "title": "Quiz of the week: how long could a lunar city survive?",
@@ -1379,13 +1386,6 @@
           "date": "2026-09-17T18:30:51+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
           "summary": "The picture – The Quiet Predator– was taken by Kuwaiti photographer Ali Alobaidly The post Spectacular image of the Shark Nebula wins Royal Observatory Greenwich prize appeared…"
-        },
-        {
-          "title": "Creating better batteries for electricity grids",
-          "link": "https://physicsworld.com/a/creating-better-batteries-for-electricity-grids/",
-          "date": "2026-09-17T15:00:58+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "The applied scientist Lin Ma is our podcast guest The post Creating better batteries for electricity grids appeared first on Physics World ."
         }
       ],
       "ok": true,
@@ -1395,6 +1395,13 @@
       "name": "Phys.org Space",
       "cat": "space",
       "items": [
+        {
+          "title": "A 42-light-year X-ray tail links a pulsar to previously 'orphan' gamma rays",
+          "link": "https://phys.org/news/2026-09-year-ray-tail-links-pulsar.html",
+          "date": "2026-09-22T07:57:28+00:00",
+          "image": null,
+          "summary": "Understanding the origin, acceleration and propagation of high-energy cosmic rays has been a century-old mystery in astrophysics. Recently, joint observations from China's…"
+        },
         {
           "title": "Jupiter uses a surprisingly complex system to fend off particles from the sun",
           "link": "https://phys.org/news/2026-09-jupiter-complex-fend-particles-sun.html",
@@ -1457,13 +1464,6 @@
           "date": "2026-09-21T13:40:01+00:00",
           "image": null,
           "summary": "When the James Webb Space Telescope pointed its powerful instruments toward the early universe, scientists were surprised by what it found. At high-redshift (z) values,…"
-        },
-        {
-          "title": "Venus ate its moon: How Earth's 'twin' could have swallowed a rocky satellite",
-          "link": "https://phys.org/news/2026-09-venus-ate-moon-earth-twin.html",
-          "date": "2026-09-20T18:30:02+00:00",
-          "image": null,
-          "summary": "Scientists have long speculated why Venus, with a size, mass and structure similar to Earth's, doesn't have a moon. New UC Riverside research shows that our hungry twin likely…"
         }
       ],
       "ok": true,
@@ -1559,6 +1559,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "23 Years Later, the Most Addictive Sci-Fi Show Ever Made Officially Blasts Onto Free Streaming",
+          "link": "https://www.polygon.com/battlestar-galactica-free-streaming-pluto-tv/",
+          "date": "2026-09-22T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcdbaga_ec012.jpg",
+          "summary": "Battlestar Galactica is streaming free on Pluto TV, making now the perfect time to binge Ronald D. Moore’s beloved sci-fi series."
+        },
+        {
+          "title": "Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix",
+          "link": "https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/",
+          "date": "2026-09-22T05:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdnemu_h3018.jpg",
+          "summary": "Anya Taylor-Joy's breakout role in The Witch gave horror a different kind of heroine. The Robert Eggers film leaves Netflix on Oct. 1."
+        },
+        {
+          "title": "Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube",
+          "link": "https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/",
+          "date": "2026-09-22T04:00:20+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-running-man-5.jpg",
+          "summary": "Stephen King's 1982 novel was adapted a few years later into one of Arnold Schwarzenegger's campiest movies."
+        },
+        {
           "title": "Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish",
           "link": "https://www.polygon.com/pokemon-winds-waves-big-new-pokedex/",
           "date": "2026-09-22T00:05:09+00:00",
@@ -1606,27 +1627,6 @@
           "date": "2026-09-21T20:26:28+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2912184/Jon-Snow-Kit-Harington_510.0.jpeg",
           "summary": "Kit Harington's Black Knight isn't returning to the MCU any time soon, the actor says, shooting down rumors of a Midnight Sons Marvel movie."
-        },
-        {
-          "title": "Demon Slayer: Infinity Castle Gets New Official Streaming Home Next Week",
-          "link": "https://www.polygon.com/demon-slayer-infinity-castle-hulu-streaming-release-date-where-to-watch/",
-          "date": "2026-09-21T20:07:29+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25512616/Demon_Slayer__Kimetsu_no_Yaiba_Infinity_Castle_Key_Art.jpg",
-          "summary": "Demon Slayer: Kimetsu No Yaiba The Movie: Infinity Castle was previously only available to stream on Crunchyroll."
-        },
-        {
-          "title": "Fire Emblem Fortune's Weave's Support Conversations Are Terrific, Actually",
-          "link": "https://www.polygon.com/fire-emblem-fortunes-weaves-support-conversations/",
-          "date": "2026-09-21T20:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-support-conversations.jpg",
-          "summary": "Fire Emblem Fortune's Weave support conversations might be fewer in number compared to Three Houses, but they focus on what matters most"
-        },
-        {
-          "title": "Fire Emblem: Fortune’s Weave Does One Thing Far Better Than Three Houses",
-          "link": "https://www.polygon.com/fire-emblem-fortunes-weave-sex-queerness-romance/",
-          "date": "2026-09-21T19:47:45+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/nintendoswitch2_fefw_scrn_04.png",
-          "summary": "Fire Emblem: Fortune’s Weave has a more plainspoken, direct approach to romance and identity than Three Houses"
         }
       ],
       "ok": true,
@@ -1636,6 +1636,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
+          "link": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+          "date": "2026-09-22T08:36:03+00:00",
+          "image": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Xbox is reportedly preparing to lay off hundreds more people this week as the company plans to consolidate several of its studios. Read more"
+        },
         {
           "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
           "link": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
@@ -1693,18 +1700,11 @@
           "summary": "Some Marvel's Wolverine players have claimed their game has been altered to censor aspects of Mystique's lesbian relationship and marriage to Tyger. A number of posts on Reddit…"
         },
         {
-          "title": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
+          "title": "The Blood of Dawnwalker cost less than expected to make but former NetEase investor defends its status as a top-tier production",
           "link": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
           "date": "2026-09-21T13:32:51+00:00",
           "image": "https://assetsio.gnwcdn.com/ambrus-dawnwalker.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Polish developer Rebel Wolves has revealed the budget for dark fantasy vampire role-playing game The Blood of Dawnwalker, and it's lower than expected, aligning it more closely…"
-        },
-        {
-          "title": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
-          "link": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
-          "date": "2026-09-21T12:19:43+00:00",
-          "image": "https://assetsio.gnwcdn.com/A-puppet-in-Clockwork-Revolution.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Microsoft has filed a patent for a system that allows PC and Xbox games to serve advertisements during game sessions, seemingly without disrupting gameplay. Read more"
+          "summary": "UPDATE 22ND SEPTEMBER: Former NetEase studio investor and Rebel Wolves board director Simon Zhu has revealed the \"entire budget\" of The Blood of Dawnwalker as $45m, and said that:…"
         }
       ],
       "ok": true,
@@ -1793,6 +1793,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
+          "link": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+          "date": "2026-09-22T08:33:05+00:00",
+          "image": "https://assetsio.gnwcdn.com/Nighthawks-bartender.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Nighthawks , the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of…"
+        },
+        {
           "title": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR",
           "link": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
           "date": "2026-09-21T16:15:21+00:00",
@@ -1854,13 +1861,6 @@
           "date": "2026-09-21T08:26:38+00:00",
           "image": "https://assetsio.gnwcdn.com/20260919102815_1.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of…"
-        },
-        {
-          "title": "The Sunday Papers",
-          "link": "https://www.rockpapershotgun.com/the-sunday-papers-828",
-          "date": "2026-09-20T09:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Sundays - well, very early Sunday mornings - are for watching a whole queue of hungry wild animals pass your kitchen window, because a neighbour has decided to leave a…"
         }
       ],
       "ok": true,
@@ -1871,74 +1871,74 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Should action games let us skip the action?",
-          "link": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
-          "date": "2026-09-22T02:42:19+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/uAJZ9jcLjMFSZHKyitH4E8-1920-80.jpg",
-          "summary": "The Blood of Dawnwalker may be doing it, and it won't even be the first to do so in 2026."
+          "title": "More games should look like Abyss x Zero",
+          "link": "https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/",
+          "date": "2026-09-22T09:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/JJy5LnRhpjK6tSCbGxa8gi-1920-80.jpg",
+          "summary": "More games should look like Abyss x Zero"
         },
         {
-          "title": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
-          "link": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
-          "date": "2026-09-21T23:24:23+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/yokeh8TULQm2EL3GsHYzrN-1920-80.jpg",
-          "summary": "At the last possible moment, Bungie takes a surprising and vital first step to winning back player trust."
+          "title": "Wookiepedia still feels like home",
+          "link": "https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/",
+          "date": "2026-09-22T09:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/4hSRRAwpzmV28u6oa3ZbTS-1920-80.jpg",
+          "summary": "Wookiepedia still feels like home"
         },
         {
-          "title": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
-          "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
-          "date": "2026-09-21T21:15:56+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/QhvjjA2BaL9Canv8NwxCsS-1920-80.jpg",
-          "summary": "Preserving the economy of the MMO is a top priority, the studio says."
+          "title": "Trying to pick the perfect autumn game paralysis",
+          "link": "https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/",
+          "date": "2026-09-22T08:40:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/6HHzGXv8XpyyNLkqTzkNxE-1920-80.jpg",
+          "summary": "Trying to pick the perfect autumn game paralysis"
         },
         {
-          "title": "'All roads lead back to Arma'",
-          "link": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
-          "date": "2026-09-21T20:39:21+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/5qTbRP5RBZ8hGV8gXX7Kp-1920-80.jpg",
-          "summary": "Without Arma, gaming would look a lot different right now."
+          "title": "Just another Tuesday",
+          "link": "https://www.pcgamer.com/games/just-another-tuesday/",
+          "date": "2026-09-22T08:30:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/wSjZoEZhsiQFeqqtHuXEk9-1920-80.jpg",
+          "summary": "Just another Tuesday"
         },
         {
-          "title": "Rockstar asks modders to please take its games very seriously",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
-          "date": "2026-09-21T20:14:25+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/JCZ7NEJDcNcVpDATG25CTD-1920-80.jpg",
-          "summary": "In mod guidelines published earlier this month, Rockstar tells modders to \"respect our games.\""
-        },
-        {
-          "title": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
-          "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-          "date": "2026-09-21T20:01:38+00:00",
+          "title": "WoW: Forever will live and die by the valley",
+          "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/",
+          "date": "2026-09-22T08:30:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/nGEgktqvFSg7YMjusbfHAb-1920-80.png",
-          "summary": "Blizzard better have some clever solutions for launch day, then."
+          "summary": "WoW: Forever will live and die by the valley"
         },
         {
-          "title": "Wait, how did Lego beat Minecraft to making a city builder?",
-          "link": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-          "date": "2026-09-21T17:14:31+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/od7xVNcs285UX4WsK2p2pX-1920-80.jpg",
-          "summary": "The only thing more obvious than a Lego city builder is a Minecraft city builder."
+          "title": "I still can't believe we call them 'MOBAs'",
+          "link": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
+          "date": "2026-09-22T08:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/6YjdYQi4KDActzVo9w2UZ3-1920-80.jpg",
+          "summary": "I still can't believe we call them 'MOBAs'"
         },
         {
-          "title": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
-          "link": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-          "date": "2026-09-21T17:13:29+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/bV3F7nx2W39gwhYQHBNvCi-1920-80.jpg",
-          "summary": "\"We are not done with Destiny.\""
+          "title": "Desktops are meant to be messy",
+          "link": "https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/",
+          "date": "2026-09-22T08:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/QryQLj3fNvXvz4kyBTmjqR-1920-80.jpg",
+          "summary": "Desktops are meant to be messy"
         },
         {
-          "title": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
-          "date": "2026-09-21T17:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/GGRDZgiNEGnyQ9YvouLcai-1920-80.jpg",
-          "summary": "Money talk, wealth shoots."
+          "title": "Where I'm at",
+          "link": "https://www.pcgamer.com/games/where-im-at/",
+          "date": "2026-09-22T07:45:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/2bkhH5s4KCMdBvD7Mo22Xo-1920-80.jpg",
+          "summary": ""
         },
         {
-          "title": "Oh good, the pervert's back",
-          "link": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
-          "date": "2026-09-21T16:06:21+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/WYHmurdo74YMRKX23ES3Xm-1920-80.jpg",
-          "summary": "And it brought its kids."
+          "title": "Best cozy games list update september 2026",
+          "link": "https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/",
+          "date": "2026-09-22T07:20:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/WvsHkKxRfcbjY3axZ9SLzf-1920-80.jpg",
+          "summary": "Best cozy games list update september 2026"
+        },
+        {
+          "title": "We're thinking about X-Men videogames wrong",
+          "link": "https://www.pcgamer.com/games/were-thinking-about-x-men-videogames-wrong/",
+          "date": "2026-09-22T07:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/eP7ZBaNNrY4kpnSM5t9nyH-1920-80.jpg",
+          "summary": "We're thinking about X-Men videogames wrong"
         }
       ],
       "ok": true,
@@ -2105,6 +2105,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Xbox reportedly set to announce second round of layoffs this week",
+          "link": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+          "date": "2026-09-22T07:55:38+00:00",
+          "image": "https://assetsio.gnwcdn.com/new-xbox-logo.webp?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Xbox is reportedly preparing for a second round of layoffs this week, according to The Information . Read more"
+        },
+        {
           "title": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
           "link": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
           "date": "2026-09-21T16:24:23+00:00",
@@ -2123,7 +2130,7 @@
           "link": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
           "date": "2026-09-21T12:01:04+00:00",
           "image": "https://assetsio.gnwcdn.com/tgs-header_bFNmbRK.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Tokyo Game Show&rsquo;s 30th anniversary badged itself as \"the longest five days of nonstop play\", a showcase of the future of gaming. In reality, the event in Japan&rsquo;s…"
+          "summary": "Tokyo Game Show's 30th anniversary badged itself as \"the longest five days of nonstop play\", a showcase of the future of gaming. In reality, the event in Japan's largest gaming…"
         },
         {
           "title": "Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026",
@@ -2166,13 +2173,6 @@
           "date": "2026-09-18T13:45:12+00:00",
           "image": "https://assetsio.gnwcdn.com/marvels-wolverine-deathstrikefight-screenshot-02-en-15sept26.webp?width=690&quality=85&format=jpg&auto=webp",
           "summary": "There's been a lot of talk in recent years about the effect that the inflation of development budgets has had on the industry. As budgets in the hundreds of millions of dollars…"
-        },
-        {
-          "title": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\"",
-          "link": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
-          "date": "2026-09-18T10:22:40+00:00",
-          "image": "https://assetsio.gnwcdn.com/Grand-Theft-Auto-6-Jason-And-Lucia-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Some may argue Grand Theft Auto 6 does not require a marketing campaign, but Take-Two Interactive president Strauss Zelnick emphasised that established brands need to maintain…"
         }
       ],
       "ok": true,
