@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:05:41.681226+00:00",
+  "updated": "2026-09-23T05:35:24.217397+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Michigan senator, others raise more alarms that Trump may court China’s BYD for U.S. plant",
+          "link": "https://www.autonews.com/manufacturing/an-manufacturing-china-trump-xi-summit-0923/",
+          "date": "2026-09-23T01:01:20+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/t6ZlqXigQZrose07HFZcVXmTROs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/36VA3CRB25EYFGJJBQUXZCNWNU.jpg",
+          "summary": "Sen. Elissa Slotkin and auto industry groups warn Trump against welcoming BYD to manufacture in the U.S. as Xi Jinping visits Washington."
+        },
+        {
           "title": "Daily 5 report for Sept. 22: Remember Jim Farley’s warning? This analyst has data backing it up",
           "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-us-ev-race-behind-0922/",
           "date": "2026-09-22T19:14:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-22T13:56:30+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/mtFM5KQP68NLN9-4nX8Mevv5hIQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/RU7GXX3SJJBQZGG375HZT6U64I.jpg",
           "summary": "When it comes to diesel power in big, off-road trucks, Ram has finally waved the white flag."
-        },
-        {
-          "title": "Tariffs drive Canadian sales of U.S.-made vehicles to new lows",
-          "link": "https://www.autonews.com/retail/anc-tariffs-canadian-sales-us-origin-decline-0922/",
-          "date": "2026-09-22T13:35:25+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/DDitn_v9r_eZbxeXRNrN92caedM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4BRD5TC5WBCUVM44DXS2D4O4JU.jpg",
-          "summary": "The United States has for decades been Canada’s leading source of vehicles. But as tariffs drive automakers to shake up their import strategies, Mexico is gaining rapidly and…"
         }
       ],
       "ok": true,
@@ -317,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Mercedes Taps Wayve For Tesla FSD-Like System Within 2 Years",
+          "link": "https://insideevs.com/news/809174/mercedes-taps-wayve-for-tesla-fsd-like-driver-assistance/",
+          "date": "2026-09-23T00:35:38+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/g42J2E/s3/2027-mercedes-benz-glc-400-4matic-electric-first-drive-review.jpg",
+          "summary": "Mercedes has a similar deal with Nvidia that is bringing point-to-point driver assistance to the CLA."
+        },
         {
           "title": "Rivian Says The R2 Has Half The Carbon Footprint Of An R1S",
           "link": "https://insideevs.com/news/809176/rivian-r2-half-carbon-footprint/",
@@ -379,13 +386,6 @@
           "date": "2026-09-22T07:21:18+00:00",
           "image": "https://cdn.motor1.com/images/mgl/KbZBqQ/s3/rolls-royce-project-nightingale-enters-testing.jpg",
           "summary": "The British marque will also slam Project Nightingale’s unique side-opening trunk 15,000 times as part of its testing process."
-        },
-        {
-          "title": "This Chinese SUV Has Built-In Propellers So It Can Drive Across Water",
-          "link": "https://insideevs.com/news/809021/geely-battleship-700-water-swim/",
-          "date": "2026-09-21T23:20:18+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/7Z1mwq/s3/geely-battleship-700.jpg",
-          "summary": "The Geely Battleship 700 can float and even traverse water thanks to its built-in propellers."
         }
       ],
       "ok": true,
@@ -651,6 +651,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+          "date": "2026-09-23T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=925&#038;h=925&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
+          "title": "Boom Year for Desert Blooms",
+          "link": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+          "date": "2026-09-23T04:01:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg",
+          "summary": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains."
+        },
+        {
+          "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
+          "date": "2026-09-23T00:40:16+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we…"
+        },
+        {
           "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
           "link": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
           "date": "2026-09-22T19:19:45+00:00",
@@ -698,27 +719,6 @@
           "date": "2026-09-21T21:55:40+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/5677/Equinox-1.jpeg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and…"
-        },
-        {
-          "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
-          "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/",
-          "date": "2026-09-21T21:21:32+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg?w=2047",
-          "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations…"
-        },
-        {
-          "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
-          "link": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/",
-          "date": "2026-09-21T21:03:04+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff2-jpg.jpeg?w=2048",
-          "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to…"
-        },
-        {
-          "title": "Perseverance’s View of ‘Turquoise Bay’",
-          "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
-          "date": "2026-09-21T19:17:59+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg?w=11750&#038;h=2448&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The…"
         }
       ],
       "ok": true,
@@ -1197,6 +1197,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "First Diagnostic X-Rays in Space Mark New Era for Astronaut Health",
+          "link": "https://www.universetoday.com/articles/first-diagnostic-x-rays-in-space-mark-new-era-for-astronaut-health",
+          "date": "2026-09-23T03:15:50+00:00",
+          "image": "https://www.universetoday.com/article_images/jsRtRPCfxxhAmx2grxKxUb-1200-80.jpg_20260923_024914.webp",
+          "summary": "A team of researchers acquired the first diagnostic X-ray images during a commercial spaceflight, demonstrating that X-ray medicine can be performed in space."
+        },
+        {
           "title": "3I/ATLAS Has An Extreme Taste For Heavy Water",
           "link": "https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water",
           "date": "2026-09-22T12:56:45+00:00",
@@ -1258,13 +1265,6 @@
           "date": "2026-09-20T22:36:31+00:00",
           "image": "https://www.universetoday.com/article_images/original_2_20260920_223613.webp",
           "summary": "We have long known that the Sun is active. It “flares” quite often, sending huge amounts of energy off in a certain direction - sometimes directly at Earth. But we also know that,…"
-        },
-        {
-          "title": "MIT Research Could Lead to Refueling Depots on Mars",
-          "link": "https://www.universetoday.com/articles/mit-research-could-lead-to-refueling-depots-on-mars",
-          "date": "2026-09-20T02:36:46+00:00",
-          "image": "https://www.universetoday.com/article_images/Mars_surface_settlement_20260920_023447.jpg",
-          "summary": "MIT PhD candidate Lanie McKinney is developing technology to convert the chemicals in the Martian atmosphere into propellant to bring astronauts home."
         }
       ],
       "ok": true,
@@ -1559,6 +1559,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "32 Years Ago, a Crucial 'X-Files' Episode Introduced the Show’s Best Monster Ever",
+          "link": "https://www.polygon.com/x-files-the-host-flukeman-best-monter-of-the-week/",
+          "date": "2026-09-23T04:00:20+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/msdxfil_fe024.jpg",
+          "summary": "The X-Files epsiode \"The Host\" premiered 32 years ago. find out why the flukeman is the show's best monster."
+        },
+        {
           "title": "Fire Emblem: Fortune’s Weave Is the Cure For a Terrible RPG Habit",
           "link": "https://www.polygon.com/fire-emblem-fortunes-weave-recruit-everyone/",
           "date": "2026-09-22T22:00:15+00:00",
@@ -1620,13 +1627,6 @@
           "date": "2026-09-22T19:16:13+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23223425/_MG_3468.jpg",
           "summary": "The One Ring TTRPG is returning with updated core rules, new Middle-earth adventures, a bestiary, and solo play through its latest crowdfunding"
-        },
-        {
-          "title": "Xbox is Turning its Back on Xbox Game Studios",
-          "link": "https://www.polygon.com/xbox-layoffs-studio-consolidation-xbox-game-studios/",
-          "date": "2026-09-22T19:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19742285/halo_infinite_blue_light_7680.jpg",
-          "summary": "After moving Halo to Activision, Microsoft only has three studios left under Xbox's own publisher"
         }
       ],
       "ok": true,
@@ -1871,6 +1871,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
+          "link": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+          "date": "2026-09-23T03:38:59+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/DZKZDSWUzBbPNghUTiW3bc-1920-80.jpg",
+          "summary": "Valve has dropped the ball on implementing reasonable age verification measures, so it's time to look further afield."
+        },
+        {
           "title": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
           "link": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
           "date": "2026-09-22T22:25:32+00:00",
@@ -1932,13 +1939,6 @@
           "date": "2026-09-22T16:07:20+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/CwppiyYpCHQGwP7GFvv2sa-1920-80.jpg",
           "summary": "Smashing together Bethesda and Obsidian is baffling."
-        },
-        {
-          "title": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'",
-          "link": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
-          "date": "2026-09-22T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/oLrVTyJmcbJF6e84fPKViX-1920-80.png",
-          "summary": "Arkheron is the first game from Rob Pardo's studio, now 10 years in the making."
         }
       ],
       "ok": true,
@@ -2339,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Quantum sensor could shrink chemical and biological threat detection to laptop size",
+          "link": "https://interestingengineering.com/innovation/quantum-sensor-chemical-biological-threat-detection",
+          "date": "2026-09-23T01:01:30+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-US-quantum-sensors.jpg",
+          "summary": "Scientists at Johns Hopkins Applied Physics Laboratory (APL) are developing a quantum sensing platform that..."
+        },
+        {
           "title": "Deep boreholes could slash disposal costs for nuclear fuel recycling waste, study finds",
           "link": "https://interestingengineering.com/energy/deep-borehole-nuclear-waste-recycling-disposal",
           "date": "2026-09-22T23:51:51+00:00",
@@ -2400,13 +2407,6 @@
           "date": "2026-09-22T17:13:47+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/P-3.jpg",
           "summary": "Flywheel-based energy storage system manufacturer Qnetic has reached an important milestone after it began low-speed..."
-        },
-        {
-          "title": "Smart sensors track 932°F molten salt to spot hidden faults in US nuclear reactors",
-          "link": "https://interestingengineering.com/energy/smart-sensors-track-932f-molten-salt-to-spot-hidden-faults-in-us-nuclear-reactors",
-          "date": "2026-09-22T15:27:13+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/gh3wlhwy_2e_0d32c9.jpg",
-          "summary": "A novel monitoring system developed by scientists in the US combines fiber-optic temperature sensors with..."
         }
       ],
       "ok": true,
