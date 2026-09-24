@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T22:46:55.301730+00:00",
+  "updated": "2026-09-24T01:11:23.515952+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -318,6 +318,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Nissan's Newest EV Isn't Actually A Nissan",
+          "link": "https://insideevs.com/news/809325/nissan-newest-ev-pixo-renault-twingo-twin/",
+          "date": "2026-09-23T23:18:25+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/W8bG6j/s3/nissan-pixo-2027.jpg",
+          "summary": "Nissan's newest EV is this adorable city car with an LFP battery."
+        },
+        {
           "title": "8 Cheap EVs Were Driven Until They Died. One Stood Out",
           "link": "https://insideevs.com/news/809323/fiat-grande-panda-range-test/",
           "date": "2026-09-23T20:52:40+00:00",
@@ -379,13 +386,6 @@
           "date": "2026-09-23T00:35:38+00:00",
           "image": "https://cdn.motor1.com/images/mgl/g42J2E/s3/2027-mercedes-benz-glc-400-4matic-electric-first-drive-review.jpg",
           "summary": "Mercedes has a similar deal with Nvidia that is bringing point-to-point driver assistance to the CLA."
-        },
-        {
-          "title": "Rivian Says The R2 Has Half The Carbon Footprint Of An R1S",
-          "link": "https://insideevs.com/news/809176/rivian-r2-half-carbon-footprint/",
-          "date": "2026-09-22T21:36:29+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/KbgzqN/s3/2027-rivian-r2-first-drive-on--and-off-road.jpg",
-          "summary": "The R2 helped Rivian hit its carbon footprint goals four years early, the company claims in its latest sustainability report."
         }
       ],
       "ok": true,
@@ -1396,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Astrophysicists use wave simulations to open a new window on dark matter",
+          "link": "https://phys.org/news/2026-09-astrophysicists-simulations-window-dark.html",
+          "date": "2026-09-23T23:40:05+00:00",
+          "image": null,
+          "summary": "Astrophysicists from The University of Hong Kong (HKU), working with a research team led by Beijing Normal University (BNU), have developed a more physically realistic approach to…"
+        },
+        {
           "title": "Bennu asteroid samples point to a surprising origin involving Jupiter",
           "link": "https://phys.org/news/2026-09-bennu-asteroid-samples-involving-jupiter.html",
           "date": "2026-09-23T22:40:01+00:00",
@@ -1457,13 +1464,6 @@
           "date": "2026-09-23T14:40:16+00:00",
           "image": null,
           "summary": "Conditions on early Earth may have become stable enough to sustain the chemistry associated with the origins of life around 4.33 billion years ago, according to new research…"
-        },
-        {
-          "title": "Silicon solar cells could cut satellite power costs by up to 90%",
-          "link": "https://phys.org/news/2026-09-silicon-solar-cells-satellite-power.html",
-          "date": "2026-09-23T14:00:01+00:00",
-          "image": null,
-          "summary": "Switching to modern silicon solar cells could cut the cost of powering satellites by as much as 90% based on beginning-of-life (BOL) performance, according to a review led by the…"
         }
       ],
       "ok": true,
@@ -1871,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
+          "link": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
+          "date": "2026-09-23T23:48:24+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/htq9zhXTVc6938Mzz4Hj9L-1920-80.jpg",
+          "summary": "If you ever played it on Steam, it's yours to keep."
+        },
+        {
+          "title": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
+          "link": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
+          "date": "2026-09-23T23:31:23+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/iecqziaKCP3TKSmEUnnKXm-1920-80.jpg",
+          "summary": "Valve, are you hearing this?"
+        },
+        {
           "title": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
           "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
           "date": "2026-09-23T22:06:43+00:00",
@@ -1925,20 +1939,6 @@
           "date": "2026-09-23T18:58:40+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/rE64dAELrQYdbfcqK9WuhQ-1920-80.jpg",
           "summary": "And we could all stand to remember that."
-        },
-        {
-          "title": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'",
-          "link": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
-          "date": "2026-09-23T17:03:52+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/N2UZotwqvwFYigkedwYkS6-1920-80.png",
-          "summary": "Embark is adding new skills and removing old ones in Frozen Trail."
-        },
-        {
-          "title": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
-          "link": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
-          "date": "2026-09-23T17:03:48+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wyxBfZ3jU4wzKAoJt8SEaT-1920-80.jpg",
-          "summary": "The 2.0 patch is comprehensive."
         }
       ],
       "ok": true,
@@ -2339,11 +2339,39 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Compact supercritical CO2 system taps turbine waste heat for up to 50% more power",
+          "link": "https://interestingengineering.com/innovation/supercritical-co2-gas-turbine-waste-heat-power",
+          "date": "2026-09-24T00:06:03+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-24T053213.402.jpg",
+          "summary": "A Denver startup has emerged from stealth with an $8 million funding round to commercialize..."
+        },
+        {
+          "title": "US Army secures giant rare earth magnet deal to build one million military drones",
+          "link": "https://interestingengineering.com/military/army-vulcan-elements-rare-earth-magnets-drones",
+          "date": "2026-09-23T23:59:41+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-24T051438.133.jpg",
+          "summary": "The U.S. Army is turning to a domestic magnet maker for a component that could..."
+        },
+        {
+          "title": "New turbojet-powered autonomous aircraft packs modular nose for rapid payload swaps",
+          "link": "https://interestingengineering.com/military/aevex-specter-autonomous-aircraft-modular-nose",
+          "date": "2026-09-23T23:34:45+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-24T044026.884.jpg",
+          "summary": "AEVEX Corp. has revealed a new autonomous aircraft designed to bring jet propulsion and modular..."
+        },
+        {
           "title": "China launches first trio of satellites to start 60-spacecraft radio tracker network",
           "link": "https://interestingengineering.com/space/china-first-satellites-radio-network",
           "date": "2026-09-23T22:16:48+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-24T023350.764.jpg",
           "summary": "China has put three satellites into orbit that can locate radio signals from space, marking..."
+        },
+        {
+          "title": "China plans 12 GWh project to mass-produce large cylindrical sodium-ion cells",
+          "link": "https://interestingengineering.com/energy/cbak-12-gwh-sodium-ion-battery-nanjing",
+          "date": "2026-09-23T21:39:43+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2212679169.jpg",
+          "summary": "Chinese battery maker CBAK Energy plans to build 12 GWh of annual battery capacity in..."
         },
         {
           "title": "Claude scans 200,000 enzymes to uncover new CRISPR-like system hidden in phages",
@@ -2379,34 +2407,6 @@
           "date": "2026-09-23T16:12:00+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/US-SMR.jpg",
           "summary": "Small nuclear reactors cannot compete on the open electricity grid against cheap renewables and giant..."
-        },
-        {
-          "title": "US Army awards $4.7M contract to integrate AI weapon sensors into live training",
-          "link": "https://interestingengineering.com/military/us-army-ai-weapon-sensors-4-7-million-contract",
-          "date": "2026-09-23T16:10:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-Weapons-sensors.jpg",
-          "summary": "The U.S. Army has awarded Armaments Research Company (ARC) a $4.7 million contract to integrate..."
-        },
-        {
-          "title": "YouTuber turns window AC into a DIY geothermal heat pump supplying 49°F cold air",
-          "link": "https://interestingengineering.com/innovation/diy-geothermal-heat-pump-dumpster-window-air-conditioner",
-          "date": "2026-09-23T16:02:02+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-AC-turns-Radiator.jpg",
-          "summary": "A discarded window air conditioner has become the centerpiece of an unconventional geothermal cooling experiment..."
-        },
-        {
-          "title": "US nuclear reactor to get world’s first higher-enriched fuel for 24-month operating cycle",
-          "link": "https://interestingengineering.com/energy/us-reactor-get-worlds-first-fuel",
-          "date": "2026-09-23T15:59:03+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Nuclear-fuel.jpg",
-          "summary": "An operating commercial nuclear reactor in the United States is set to receive the world’s..."
-        },
-        {
-          "title": "Ukraine builds 258-mph drone killer to down jet-powered Russian unmanned aircraft",
-          "link": "https://interestingengineering.com/military/ukraine-builds-258-mph-drone-killer",
-          "date": "2026-09-23T15:31:29+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-Vlucknyk-200.jpg",
-          "summary": "Ukraine&#8217;s Vluchnyk has completed internal testing of the Zorelit v5, a high-speed interceptor drone designed..."
         }
       ],
       "ok": true,
@@ -2587,6 +2587,41 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+          "date": "2026-09-23T22:17:25+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1241447966-500x500.jpeg",
+          "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\""
+        },
+        {
+          "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+          "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+          "date": "2026-09-23T21:46:36+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294919440-500x500.jpg",
+          "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline."
+        },
+        {
+          "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+          "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+          "date": "2026-09-23T21:18:53+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/The-Mandalorian-Season-3-500x500.jpeg",
+          "summary": "The Disney+ ad-free plan is now more expensive than Netflix's."
+        },
+        {
+          "title": "Here's the Torcal, the first fully electric Bentley",
+          "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+          "date": "2026-09-23T21:06:07+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ELECTRUM_EXT_22-500x500.jpg",
+          "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT."
+        },
+        {
+          "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+          "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+          "date": "2026-09-23T20:52:28+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/china-vs-us-ai-race-500x500.jpg",
+          "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel."
+        },
+        {
           "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
           "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
           "date": "2026-09-23T20:28:42+00:00",
@@ -2620,41 +2655,6 @@
           "date": "2026-09-23T18:26:50+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/raygunn1-500x500.jpg",
           "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\""
-        },
-        {
-          "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-          "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-          "date": "2026-09-23T17:39:39+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Samsung-Bespoke-AI-3-Door-Refrigerator-AutoView-950x534-1-500x500-1790182590.jpg",
-          "summary": "\"So absurd and embarrassing ...\""
-        },
-        {
-          "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-          "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
-          "date": "2026-09-23T17:10:58+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED-500x500.jpeg",
-          "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\""
-        },
-        {
-          "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-          "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-          "date": "2026-09-23T14:20:23+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1572803728-500x500.jpg",
-          "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles."
-        },
-        {
-          "title": "America gave up its rare earth edge. China took full advantage.",
-          "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-          "date": "2026-09-23T13:37:05+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/mpmaterials-500x500.jpg",
-          "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing."
-        },
-        {
-          "title": "Small undersea volcanoes may unleash outsized tsunamis",
-          "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-          "date": "2026-09-23T11:15:30+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1248375228-500x500.jpg",
-          "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse."
         }
       ],
       "ok": true,
