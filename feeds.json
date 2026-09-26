@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:11:01.556117+00:00",
+  "updated": "2026-09-26T12:44:04.285691+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "VW Group recalls 4 million vehicles worldwide over steering system corrosion risk",
+          "link": "https://www.autonews.com/volkswagen/ane-vw-recalls-4-million-cars-steering-system-0926/",
+          "date": "2026-09-26T09:34:58+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/oZG6QBLJbJOyorotzwAdlrEPA-I=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/W5QNV5CFWNED3CYOQZ2JCVN4CQ.jpg",
+          "summary": "The VW brand accounts for most the affected vehicles, including Golf, Tiguan, Touran and Caddy models. Audi, Skoda and Seat cars are also being recalled."
+        },
+        {
           "title": "Daily 5 report for Sept. 25: Sens. Moreno, Slotkin hit pause on China vehicle ban to win over one senator",
           "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-senate-china-auto-ban-delay-0925/",
           "date": "2026-09-25T19:00:00+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-09-25T17:12:35+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/N8O-VUy2BTQDXktkcj4fLj-dhrE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SNMW27AP2RAVLE7NBHMKGTYF7I.jpg",
           "summary": "Ford Motor canceled all F-150 production crews at its Dearborn Truck Plant because of an undisclosed supplier issue. The Kansas City plant is also affected."
-        },
-        {
-          "title": "5 stories shaping Canadian auto this week: Tariffs affect imports, Chinese parts flow in and more",
-          "link": "https://www.autonews.com/manufacturing/anc-canadian-auto-news-week-sept-21-2026/",
-          "date": "2026-09-25T16:32:42+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/DDitn_v9r_eZbxeXRNrN92caedM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4BRD5TC5WBCUVM44DXS2D4O4JU.jpg",
-          "summary": "Here are the most-read Automotive News Canada stories for the week of Sept. 21."
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Forget Politics. EVs Have An Age Problem",
+          "link": "https://insideevs.com/news/809672/forget-politics-evs-have-an-age-problem/",
+          "date": "2026-09-26T11:15:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/P3Vn2K/s3/2027-porsche-cayenne-electric.jpg",
+          "summary": "Republicans and Democrats are surprisingly aligned on EV buying intent. It's Boomers that are the problem."
+        },
+        {
+          "title": "Volkswagen Delays Ontario Battery Plant",
+          "link": "https://insideevs.com/news/809662/vw-ontario-battery-plant-delay/",
+          "date": "2026-09-26T10:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/vx0kev/s3/volkswagen-id.4.jpg",
+          "summary": "The auto giant's North American EV plan faced another setback this week."
+        },
         {
           "title": "Inside The Texas Factory Racing To Break China’s Grip On EV Magnets",
           "link": "https://insideevs.com/news/809663/general-motors-mp-materials-rare-earth-magnets-evs/",
@@ -372,20 +386,6 @@
           "date": "2026-09-24T18:05:23+00:00",
           "image": "https://cdn.motor1.com/images/mgl/vx7ZKG/s3/volkswagen-vw-airconsole-hero.jpg",
           "summary": "VW's new gaming feature will let owners pair their smartphones as game controllers."
-        },
-        {
-          "title": "Volkswagen Delays The ID. Buzz's Return To The U.S. Again",
-          "link": "https://insideevs.com/news/809464/volkswagen-id-buzz-delayed-to-model-year-2028/",
-          "date": "2026-09-24T15:48:10+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/YAqEWr/s3/2025-volkswagen-id.-buzz.jpg",
-          "summary": "Volkswagen delayed the electric van's return by another model year. Now it comes back as a 2028 model next year."
-        },
-        {
-          "title": "GM Is Giving Away Free EV Chargers—And Paying New Owners To Charge",
-          "link": "https://insideevs.com/news/809418/gm-ev-free-charger-money-back/",
-          "date": "2026-09-24T10:46:18+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/9m8ln1/s3/gm-energy-v2h.jpg",
-          "summary": "Customers can get a $1,999 Level 2 home charger, plus monthly credits in their account if they help balance the grid."
         }
       ],
       "ok": true,
@@ -1559,6 +1559,62 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "World of Warcraft Forever's Plan to Bring 'Classic Plus' to New and Old Players",
+          "link": "https://www.polygon.com/world-of-warcraft-forever-interview-blizzcon-2026-blizzard/",
+          "date": "2026-09-26T12:15:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_cinematic_still_8.jpeg",
+          "summary": "Blizzard reveals how World of Warcraft Forever will cater to 'Classic Plus' fans and newcomers who are jumping in 22 years later."
+        },
+        {
+          "title": "Nintendo Should Make More Games About People",
+          "link": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave/",
+          "date": "2026-09-26T12:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-cast.png",
+          "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave has more messy humanity, sex, and romance than most Nintendo games"
+        },
+        {
+          "title": "Overwatch Seasonal Hero Releases 'The Right Thing for the Game,' Blizzard Says",
+          "link": "https://www.polygon.com/overwatch-2027-new-heroes-every-season/",
+          "date": "2026-09-26T11:16:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/overwatch-shion-gameplay-1.jpeg",
+          "summary": "Blizzard confirms that Overwatch will get new seasonal hero releases ahead of Overwatch Spotlight 2027 and the release of new hero Doctrine."
+        },
+        {
+          "title": "3 Perfect Calvin and Hobbes Stories From the 1980S That Prove Bill Watterson Is a Genius",
+          "link": "https://www.polygon.com/calvin-hobbes-best-80s-stories/",
+          "date": "2026-09-26T11:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/1200x800-ch-fam-exhib-page.jpg",
+          "summary": "The best spaceships are red wagons and cardboard boxes"
+        },
+        {
+          "title": "'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now",
+          "link": "https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/",
+          "date": "2026-09-26T10:13:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/farscape-header.jpg",
+          "summary": "The original guardians of the galaxy"
+        },
+        {
+          "title": "5 Classic Sci-Fi Books That Are Perfect From Start to Finish",
+          "link": "https://www.polygon.com/classic-sci-fi-perfect-start-finish/",
+          "date": "2026-09-26T10:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dune-part-two-muad-dib.webp",
+          "summary": "You won't be able to put down these exceptional sci-fi picks."
+        },
+        {
+          "title": "11 anime to watch if you like Frieren",
+          "link": "https://www.polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy/",
+          "date": "2026-09-26T08:04:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/26174007.jpg",
+          "summary": "Find refuge in these cozy, fantastical worlds"
+        },
+        {
+          "title": "Game Changer Fans Want More ‘Rulette,’ but Dropout CEO Sam Reich Isn't Convinced",
+          "link": "https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/",
+          "date": "2026-09-26T08:00:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/game-changer-s8-rulette-2.jpg",
+          "summary": "Polygon talks with Dropout CEO and Game Changer host Sam Reich about Rueltte and how he decides what games to turn into spinoff series."
+        },
+        {
           "title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
           "link": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/",
           "date": "2026-09-26T05:07:15+00:00",
@@ -1571,62 +1627,6 @@
           "date": "2026-09-26T04:58:15+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/blade-runner-3.jpg",
           "summary": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube."
-        },
-        {
-          "title": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
-          "link": "https://www.polygon.com/dark-matter-2015-canada/",
-          "date": "2026-09-26T04:00:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dark-matter-2015-season-1-cast.JPG",
-          "summary": "No, you're not confused, there are two of these"
-        },
-        {
-          "title": "10 Free Browser Games That are Actually Fun to Play",
-          "link": "https://www.polygon.com/best-free-browser-games/",
-          "date": "2026-09-25T23:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg",
-          "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for"
-        },
-        {
-          "title": "Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube",
-          "link": "https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/",
-          "date": "2026-09-25T22:25:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/alan-ritchson-the-turkey-bowl.jpg",
-          "summary": "Alan Ritchson takes on a much lighter role in this Thanksgiving football comedy, now available to watch for free on YouTube."
-        },
-        {
-          "title": "Health upgrade point locations in Control Resonant",
-          "link": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
-          "date": "2026-09-25T22:05:45+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ice-cream-stand_cr.jpg",
-          "summary": "Where to find health upgrade points, so you can increase your maximum HP in Control Resonant."
-        },
-        {
-          "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
-          "link": "https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/",
-          "date": "2026-09-25T22:01:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/en.jpg",
-          "summary": "Honkai: Star Rail version 4.6 launches a bit earlier in the week than usual. We list the maintenance times in your time zone in our guide."
-        },
-        {
-          "title": "Power upgrade point locations in Control Resonant",
-          "link": "https://www.polygon.com/control-resonant-power-upgrade-point-locations/",
-          "date": "2026-09-25T21:59:06+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/power-upgrade-point-crate_cr.jpg",
-          "summary": "Where to find power upgrade points, so you can use more of your combat abilities in Control Resonant."
-        },
-        {
-          "title": "'Power Lines' quest walkthrough in Control Resonant",
-          "link": "https://www.polygon.com/control-resonant-power-lines-quest-walkthrough-tuning-forks/",
-          "date": "2026-09-25T21:07:42+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/power-lines_cr.jpg",
-          "summary": "The \"Power Lines\" quest in Control Resonant is full of puzzles involving tuning devices. Here's how to reroute power to each station."
-        },
-        {
-          "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
-          "link": "https://www.polygon.com/gta-6-fire-emblem-manatees-sea-beast/",
-          "date": "2026-09-25T21:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-24-at-1-30-23-pm.jpg",
-          "summary": "Grand Theft Auto 6 and Fire Emblem: Fortune's Weave both prominently feature an uncommon type of sea mammal, and I love it"
         }
       ],
       "ok": true,
@@ -1636,6 +1636,20 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "MobyGames video game database now lets developers claim their game credits",
+          "link": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
+          "date": "2026-09-26T11:53:56+00:00",
+          "image": "https://assetsio.gnwcdn.com/silksong-credits.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more"
+        },
+        {
+          "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+          "link": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+          "date": "2026-09-26T10:18:58+00:00",
+          "image": "https://assetsio.gnwcdn.com/Mario-looks-shocked-on-a-grassy-plain-in-Mario-Odyssey.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "A US District Judge has granted Nintendo a &pound;3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he…"
+        },
         {
           "title": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
           "link": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
@@ -1691,20 +1705,6 @@
           "date": "2026-09-25T12:12:55+00:00",
           "image": "https://assetsio.gnwcdn.com/How-to-beat-Chimera-boss-in-Cyberpunk-2077-Phantom-Liberty-cover.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "CD Projekt Red has shared some insight into Cyberpunk 2077: Phantom Liberty 's fantastic Chimera tank boss fight, explaining it took two years to get the complicated sequence…"
-        },
-        {
-          "title": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
-          "link": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-          "date": "2026-09-25T12:10:19+00:00",
-          "image": "https://assetsio.gnwcdn.com/MindsEye---Official-Launch-Trailer-_-PS5-Games-0-49-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Last week brought reports of further layoffs at Build A Rocket Boy, the beleaguered studio behind the poorly received 2025 shooter MindsEye . In the wake of that news, the company…"
-        },
-        {
-          "title": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
-          "link": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
-          "date": "2026-09-25T11:33:13+00:00",
-          "image": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "I've had an on-and-off relationship with World of Warcraft ever since I first booted it up in my early teens. I love the size of the world, the joy of exploration, the kick from…"
         }
       ],
       "ok": true,
@@ -1871,6 +1871,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'",
+          "link": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+          "date": "2026-09-26T12:00:01+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/GgkEq6iHNxXBnpeQVXjcNF-1920-80.png",
+          "summary": "The Polish developer believes the tank to be \"one of the most expensive art assets ever.\""
+        },
+        {
+          "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+          "link": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+          "date": "2026-09-26T10:43:02+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/EacnnGxHdaSRqxmso9vrwC-1920-80.jpg",
+          "summary": "\"It's, in a way, too bad\"."
+        },
+        {
           "title": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
           "link": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
           "date": "2026-09-26T02:08:31+00:00",
@@ -1925,20 +1939,6 @@
           "date": "2026-09-25T21:13:49+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/fcV4R44Wi3yoCbEgKNFmEg-1920-80.jpg",
           "summary": "\"I realistically was thinking maybe 5k at best,\" says the maker of ragdoll physics game Happy Wheels."
-        },
-        {
-          "title": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)",
-          "link": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
-          "date": "2026-09-25T20:02:57+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/sLNWGvoFjaTdZkcrfMJuJe-1920-80.jpg",
-          "summary": "The Guinness World Recordholder for oldest female Fortnite streamer says her one goal is \"to go in and eliminate folk.\""
-        },
-        {
-          "title": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'",
-          "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
-          "date": "2026-09-25T19:55:45+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/TJXTnMEBeZGYSwDNJNZ4k5-1920-80.jpg",
-          "summary": "Blizzard devs are having to manually go through a list to flag the names that aren't allowed."
         }
       ],
       "ok": true,
@@ -2339,6 +2339,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks",
+          "link": "https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week",
+          "date": "2026-09-26T12:39:50+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/drncxgofv20.jpg",
+          "summary": "Tesla has reported that it is now in a position to produce hundreds of its..."
+        },
+        {
+          "title": "Wind turbines reduce radar coverage by 7% and increase blind spots by 15%, study finds",
+          "link": "https://interestingengineering.com/innovation/wind-turbines-reduce-radar-coverage",
+          "date": "2026-09-26T12:35:20+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/xoyobxz6ifw.jpg",
+          "summary": "A new Chinese study has found that offshore wind turbines can confuse shore-based radar systems...."
+        },
+        {
           "title": "Commercially viable fusion energy that delivers limitless clean power could be closer to reality",
           "link": "https://interestingengineering.com/energy/fusion-energy-limitless-power-fuel-approach",
           "date": "2026-09-26T03:16:45+00:00",
@@ -2393,20 +2407,6 @@
           "date": "2026-09-25T21:02:07+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-26T022545.587.jpg",
           "summary": "OpenAI is investigating a series of unexpected behaviors involving its AI agents, including one case..."
-        },
-        {
-          "title": "Mercedes-Benz tests ceramic solid-state battery promising safer, fast-charging EVs",
-          "link": "https://interestingengineering.com/energy/mercedes-benz-lithium-ceramic-battery-testing",
-          "date": "2026-09-25T19:21:26+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-1454927079.jpg",
-          "summary": "Mercedes-Benz will test ProLogium&#8217;s latest Gen4 lithium ceramic battery cells as the German automaker evaluates..."
-        },
-        {
-          "title": "Lockheed Martin builds dedicated center to weaponize quantum tech for US troops",
-          "link": "https://interestingengineering.com/military/lockheed-martin-quantum-defense-center",
-          "date": "2026-09-25T19:15:29+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-26T003848.504.jpg",
-          "summary": "Lockheed Martin has opened a new center dedicated to turning quantum research into technologies that..."
         }
       ],
       "ok": true,
@@ -2594,7 +2594,7 @@
           "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
         },
         {
-          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
           "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
           "date": "2026-09-25T21:36:20+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
@@ -2680,9 +2680,9 @@
       "items": [
         {
           "title": "Safety, Innovation Central to Success of Winners in ENR Worldwide Competition",
-          "link": "https://www.enr.com/blogs/13-critical-path/post/63717-safety-innovation-central-to-success-of-winners-in-enr-global-competition",
+          "link": "https://www.enr.com/blogs/13-critical-path/post/63717-safety-innovation-central-to-success-of-winners-in-enr-worldwide-competition",
           "date": "2026-09-25T20:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/25/Mumbai-Coastal-Road-Project.webp?t=1790370533",
+          "image": "https://www.enr.com/ext/resources/2026/09/25/Mumbai-Coastal-Road-Project.webp?t=1790425988",
           "summary": "Industry judges selected 32 winners from a record number of entries based on quality, teamwork, innovative practices and safety programs."
         },
         {
@@ -2703,7 +2703,7 @@
           "title": "Liability Still Hazy For Cut Cable Air Traffic Disruption",
           "link": "https://www.enr.com/articles/63712-liability-still-hazy-for-cut-cable-air-traffic-disruption",
           "date": "2026-09-25T14:51:08+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/09/24/Air_travel_disrupted.webp?t=1790304759",
+          "image": "https://www.enr.com/ext/resources/2026/09/24/Air_travel_disrupted.webp?t=1790426330",
           "summary": "Transportation Secretary Sean Duffy wants to rebuild the air traffic control infrastructure"
         },
         {
