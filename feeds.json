@@ -1,10 +1,24 @@
 {
-  "updated": "2026-09-27T07:43:15.389311+00:00",
+  "updated": "2026-09-27T13:36:05.247646+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Ethiopian victories at the 2026 BMW BERLIN-MARATHON – the new BMW i3 makes its ‘racing debut’.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461055EN?language=en",
+          "date": "2026-09-27T13:04:06+00:00",
+          "image": null,
+          "summary": "+++ Tigst Assefa (ETH) sets a women’s course record (2:11:04 hours) at Germany’s biggest marathon +++ Second Berlin triumph for Guye Adola (ETH, 2:02:50) in the men’s race +++ The…"
+        },
+        {
+          "title": "FIA WEC: BMW M Team WRT claims another podium at Fuji - #32 BMW M4 GT3 EVO wins in LMGT3.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461053EN?language=en",
+          "date": "2026-09-27T12:32:35+00:00",
+          "image": null,
+          "summary": "+++ Kevin Magnussen, Raffaele Marciello and Dries Vanthoor score their third podium of the season +++ #32 BMW M4 GT3 EVO with Augusto Farfus triumphs in the LMGT3 category +++…"
+        },
         {
           "title": "New, all-electric BMW i3 among the elite at the 2026 BMW BERLIN-MARATHON.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0461014EN?language=en",
@@ -60,20 +74,6 @@
           "date": "2026-09-20T17:55:44+00:00",
           "image": null,
           "summary": "+++ The BMW Motorrad World Endurance Team is crowned World Champion in the FIM Endurance World Championship. +++ First world title for a European manufacturer in the history of…"
-        },
-        {
-          "title": "GT World Challenge Europe: Matisse Lismont and Ignacio Montenegro complete the title triple in the Silver Cup.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460874EN?language=en",
-          "date": "2026-09-20T16:38:16+00:00",
-          "image": null,
-          "summary": "+++ After winning the Endurance Cup, Matisse Lismont and Ignacio Montenegro in the Team WRT #30 BMW M4 GT3 EVO also secured the Silver Cup and Overall titles in the Sprint Cup at…"
-        },
-        {
-          "title": "The power of individual action: 15 years of the BMW Group Award for Social Responsibility",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0460740EN?language=en",
-          "date": "2026-09-16T12:30:00+00:00",
-          "image": null,
-          "summary": "Since 2011 around 1,500 applications have been submitted and more than 115 awards presented, demonstrating the remarkable importance of social engagement across the BMW Group."
         }
       ],
       "ok": true,
@@ -240,6 +240,34 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Strong valuations, steady profit drive Q2 dealership buy-sell market",
+          "link": "https://www.autonews.com/opinion/columns/an-intercolumn-q2-dealership-valuations-strong-0927/",
+          "date": "2026-09-27T11:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/lJqhHBCHZBrZCYZiiyYOEN5ombg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4QOFWFPYFJDPJJZGQYLKWL5XMQ.jpeg",
+          "summary": "The market for dealership buy-sell transactions in the second quarter was driven in part by strong store valuations and steady profits."
+        },
+        {
+          "title": "Stellantis dealerships attract more buyer interest as retailers bet on brands’ turnaround",
+          "link": "https://www.autonews.com/retail/mergers-acquisitions/an-q2-dealership-stellantis-brands-0927/",
+          "date": "2026-09-27T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/dSgcByl-koYJoLIMbwbp4xYwYk0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BWUA77WBONBENKWX6FLXTTGWAM.jpg",
+          "summary": "Sales of Stellantis dealerships jumped in the second quarter from a year earlier as buyers bet on the brands' recovery."
+        },
+        {
+          "title": "Strong dealership profits, valuations continued to drive buy-sell activity in 2nd quarter",
+          "link": "https://www.autonews.com/retail/mergers-acquisitions/an-q2-dealership-top-buyers-sellers-0927/",
+          "date": "2026-09-27T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/8ioEi07yyBJPr3mkOlKnvSpH4o0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/RCBFB2Z45VFMJIEMLYHIBW6EAU.jpeg",
+          "summary": "Dealership brokers say the market continues to appeal to both buyers and sellers because of strong store valuations and profits."
+        },
+        {
+          "title": "Cybersecurity explained: Why do hackers target the auto industry?",
+          "link": "https://www.autonews.com/podcasts/shift/an-shift-podcast-vanessa-lyon-bcg-0927/",
+          "date": "2026-09-27T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/RVJxV4meXgOiHDQS0bso1YlSgFQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/W2COECJR6BBMZKSDM5ZIPKLUKQ.jpg",
+          "summary": "\"Shift\" host Molly Boigon, with help from Boston Consulting Group's Vanessa Lyon, explains the technology vulnerabilities that enable auto industry hackers."
+        },
+        {
           "title": "Trump to unveil rollback of Biden fuel-economy mandates Monday",
           "link": "https://www.autonews.com/regulation-safety/trump-cafe-fuel-economy-standards-0928/",
           "date": "2026-09-27T01:08:50+00:00",
@@ -280,34 +308,6 @@
           "date": "2026-09-25T18:34:41+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/M6GqH7YfYB1WbnvChYCZjzLlaEk=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/T2GUHM3Y4RCDHLJBCU4BI7TTFY.jpg",
           "summary": "Urvaksh Karkaria discusses Honda’s new hybrid plant and its next flagship crossovers. Plus, Bobby Steenbergh of AutoPayPlus breaks down why 100- and even 120-month auto loans are…"
-        },
-        {
-          "title": "Latest Automotive News media kits",
-          "link": "https://www.autonews.com/landing_page/latest-mediakits/",
-          "date": "2026-09-25T18:23:03+00:00",
-          "image": "https://www.autonews.com/resizer/v2/WUROKSY6ZFDQFAWAI2QPXBZHVE.jpg?auth=9cb128898d73faf628f2a8ff974faa6d5f1998ef07b0bc3b1c48f16a9be48b87",
-          "summary": "Download the latest media kits for Automotive News, Automotive News Europe and Automotive News Canada."
-        },
-        {
-          "title": "Premier Ford not worried about VW’s PowerCo battery plant delay",
-          "link": "https://www.autonews.com/volkswagen/anc-vw-powerco-battery-plant-delay-premier-ford-cp/",
-          "date": "2026-09-25T18:21:25+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/JD67tR-vpgBKV8F_c-XO4lPZYVA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3L4QKQSQXZDZNNMRHVUNKMWC6I.jpg",
-          "summary": "PowerCo Canada, a Volkswagen subsidiary, said the delay at the $7-billion factory in St. Thomas, Ont., is due partially to a downshift in market demand on electric vehicles."
-        },
-        {
-          "title": "Customer Incentives - 09/28/26",
-          "link": "https://www.autonews.com/data-center/sales-data/incentives/an-us-customer-incentives-092826/",
-          "date": "2026-09-25T17:39:45+00:00",
-          "image": null,
-          "summary": "National customer cash back and finance rate programs listed by automaker, brand and model; updated weekly"
-        },
-        {
-          "title": "Automotive News Classifieds",
-          "link": "https://www.autonews.com/classifieds/automotive-news-classifieds/",
-          "date": "2026-09-25T17:39:20+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/AvTruspIzQyOJYTxlvxBQXUZCUQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/53TQX3HE6VGYZF36DST6VQKX5Q.png",
-          "summary": "Automotive News Classifieds"
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "‘Cannot Give Up Right Now’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
+          "link": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/",
+          "date": "2026-09-27T11:30:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/YAOXxv/s3/hyundai-staria-electric-2026.jpg",
+          "summary": "Hyundai's head of R&amp;D says small-volume cars with solid-state batteries should hit the market within five years."
+        },
+        {
+          "title": "The Genesis GV90 Has A Huge Screen. Park And It Gets Even Bigger",
+          "link": "https://insideevs.com/news/809700/genesis-gv90-rising-screen-theater/",
+          "date": "2026-09-27T10:51:57+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/vx7ZOv/s3/genesis-gv90-screen.jpg",
+          "summary": "The GV90’s motorized display rises to turn parking into movie night. Its engineers had rather more to worry about than popcorn."
+        },
         {
           "title": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For Another Decade",
           "link": "https://insideevs.com/news/809604/catl-lfp-prismatic-cell-age-test/",
@@ -372,20 +386,6 @@
           "date": "2026-09-25T07:11:58+00:00",
           "image": "https://cdn.motor1.com/images/mgl/pb9OBW/s3/2026-volkswagen-id.4.jpg",
           "summary": "The current-generation ID.4 is on its last legs in the U.S., and Volkswagen is doing everything it can to clear dealer lots."
-        },
-        {
-          "title": "Americans Are Buying Hybrids At A Record Pace. And It's Not Just Toyota Anymore",
-          "link": "https://insideevs.com/news/809482/record-hybrid-growth-america/",
-          "date": "2026-09-24T20:20:10+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/VzWm0B/s3/2027-kia-telluride-hybrid.jpg",
-          "summary": "Sure, Toyota is still the main player in the hybrid game. But other brands are stepping up in a big way."
-        },
-        {
-          "title": "This Audi EV Set A Guinness World Record By Driving 831 Miles Without Recharging",
-          "link": "https://insideevs.com/news/809472/audi-a6-etron-guinness-record/",
-          "date": "2026-09-24T18:23:43+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/E6X3Wq/s3/audi-a6-e-tron-sportback-guinness-world-record.jpg",
-          "summary": "That's an astonishing average efficiency of 8.76 miles per kWh."
         }
       ],
       "ok": true,
@@ -1559,6 +1559,62 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Control Resonant Has a Secret Weapon in the GOTY Race",
+          "link": "https://www.polygon.com/control-resonant-goty-game-of-the-year-game-awards/",
+          "date": "2026-09-27T13:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/control-resonant.jpg",
+          "summary": "Remedy Entertainment has a good chance of a Game of the Year nomination at The Game Awards thanks to its underdog status"
+        },
+        {
+          "title": "The GTA Series is a Game Preservation Nightmare",
+          "link": "https://www.polygon.com/gta-game-preservation-classic-games-availability/",
+          "date": "2026-09-27T12:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_duval_07.jpg",
+          "summary": "Rockstar Games doesn't seem to care about making classic Grand Theft Auto games available to play on PS5 and other current platforms"
+        },
+        {
+          "title": "58 Years Ago, Star Trek Officially Switched Genres With an All-Time Classic Episode",
+          "link": "https://www.polygon.com/star-trek-enterprise-incident-espionage/",
+          "date": "2026-09-27T11:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/enterpriseincident.jpg",
+          "summary": "“The Enterprise Incident” turned Kirk and Spock into spies and helped lay the groundwork for decades of Star Trek espionage."
+        },
+        {
+          "title": "The Witcher 3 Remastered release time in your time zone",
+          "link": "https://www.polygon.com/the-witcher-3-remastered-release-time-when-edt-pdt/",
+          "date": "2026-09-27T10:01:14+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/geralt-witcher-3-remastered.jpg",
+          "summary": "Here's when The Witcher 3 Remastered will be released in your time zone and what to expect from the RPG's enhanced edition"
+        },
+        {
+          "title": "63 Years Later, 'The Twilight Zone’s Most Emotional Episode is Still a Bold Masterpiece",
+          "link": "https://www.polygon.com/the-twilight-zone-in-praise-of-pip/",
+          "date": "2026-09-27T10:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/in-praise-of-pip.jpg",
+          "summary": "The Twilight Zone's season 5 epsiode \"In Praise of Pip,\" written by Rod Serling, is the most emotional epsidoie of the whole series"
+        },
+        {
+          "title": "3 Must-Play September Games You Missed Between Fire Emblem and Wolverine",
+          "link": "https://www.polygon.com/september-2026-hidden-gems/",
+          "date": "2026-09-27T09:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/he-who-watches-cross-puzzle.jpg",
+          "summary": "September was full of exciting new video games, including some hidden gems that you might have missed."
+        },
+        {
+          "title": "The 10 Best Fights in 'Jujutsu Kaisen' History, Ranked",
+          "link": "https://www.polygon.com/jujutsu-kaisen-best-fights-episodes/",
+          "date": "2026-09-27T08:07:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/hewphbnwaaelrvx-1.jpg",
+          "summary": "As one of the best battle shonen anime around today, Jujutsu Kaisen has some all-timers when it comes to combat sequences."
+        },
+        {
+          "title": "DC's Groundbreaking 170-Episode Action Series Is Waiting to Be Discovered on Free Streaming",
+          "link": "https://www.polygon.com/arrow-free-on-pluto-dc-tv-shows/",
+          "date": "2026-09-27T08:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cw-arrow-deathstroke-scene.jpg",
+          "summary": "Before The Flash and the Arrowverse, there was Oliver Queen's dark, action-packed superhero series that started it all."
+        },
+        {
           "title": "5 Detective Shows to Watch If You Love 'Lanterns'",
           "link": "https://www.polygon.com/best-detective-shows-like-lanterns/",
           "date": "2026-09-27T07:00:15+00:00",
@@ -1571,62 +1627,6 @@
           "date": "2026-09-27T05:27:14+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown.jpg",
           "summary": "In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966"
-        },
-        {
-          "title": "12 Years Ago, Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst",
-          "link": "https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-anniversary/",
-          "date": "2026-09-27T04:00:21+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/1-4.jpg",
-          "summary": "Peter Capaldi's Twelfth Doctor has plenty of outstanding moments, but one episode in particular shows the Time Lord at his worst."
-        },
-        {
-          "title": "Tom Holland's 133-Minute Action Movie Masterpiece Is About to Leave Netflix",
-          "link": "https://www.polygon.com/before-it-leaves-netflix-watch-spider-man-homecoming/",
-          "date": "2026-09-27T01:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdspma_sp146.jpg",
-          "summary": "Homecoming is still the perfect place to start with Tom Holland’s Spider-Man."
-        },
-        {
-          "title": "'Godzilla Minus Zero' Review: The Best Godzilla Movie of All Time — Until Takashi Yamazaki's Next Sequel",
-          "link": "https://www.polygon.com/godzilla-minus-zero-review/",
-          "date": "2026-09-27T00:20:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdgomi_ec012.jpg",
-          "summary": "The director of Godzilla Minus One doubles down with his follow-up film in the best ways possible. Read Polygon's review of Godzilla Minus Zero."
-        },
-        {
-          "title": "5 Classic Star Trek Episodes That Have Aged Like Milk",
-          "link": "https://www.polygon.com/star-trek-worst-episodes-that-have-aged-badly/",
-          "date": "2026-09-27T00:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/12004249/Spock__2265.jpg",
-          "summary": "Star Trek was groundbreaking television, but these five classic episodes prove not every trip aboard the Enterprise has aged well."
-        },
-        {
-          "title": "Every Star Wars Movie and TV Show Officially in Development",
-          "link": "https://www.polygon.com/star-wars-upcoming-movies-tv-shows-release-dates-2027/",
-          "date": "2026-09-26T23:20:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16219144/star_wars_logo1.jpg",
-          "summary": "What's next for Star Wars? Here's the latest release schedule for every Star Wars TV show, movie, and anniversary rerelease coming in 2027 and beyond."
-        },
-        {
-          "title": "This 35-Year-Old Video Game Is Somehow More Fun Than Ever",
-          "link": "https://www.polygon.com/zelda-link-to-the-past-snes-35th-anniversary/",
-          "date": "2026-09-26T23:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/devin-berko-dvrtk5en9em-unsplash.jpg",
-          "summary": "A lot of 35-year-old games didn't age well, but one Super Nintendo classic remains every bit as much fun to play as it was at launch."
-        },
-        {
-          "title": "Former D&D Leads Say Critical Role's Daggerheart Represents a ‘Fundamental Shift’ for TTRPGS",
-          "link": "https://www.polygon.com/critical-role-daggerheart-dnd-designers-interview-perkins-crawford/",
-          "date": "2026-09-26T21:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Chris-Perkins-and-Jeremy-Crawford-join-Critical-Role.jpg",
-          "summary": "Chris Perkins and Jeremy Crawford discuss their transition from D&amp;D to Daggerheart and their current projects for Critical Role's TTRPG."
-        },
-        {
-          "title": "5 Nintendo Games That Still Need a Switch 2 Edition",
-          "link": "https://www.polygon.com/nintendo-games-no-switch-2-edition/",
-          "date": "2026-09-26T20:00:15+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9958985/Switch_SMO_ND0913_SCRN07.jpg",
-          "summary": "If Nintendo is looking for more Switch classics to transform into Nintendo Switch 2 Editions, these games could use the upgrade."
         }
       ],
       "ok": true,
@@ -1636,6 +1636,27 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
+          "link": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+          "date": "2026-09-27T11:20:18+00:00",
+          "image": "https://assetsio.gnwcdn.com/MCL_Dungeons2_sift_1280x720.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Minecraft maker Mojang has announced The Sift, a new Minecraft dimension that will join the Overworld, the Nether, and The End when it launches on Java and Bedrock in 2027. It's…"
+        },
+        {
+          "title": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\"",
+          "link": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
+          "date": "2026-09-27T10:52:45+00:00",
+          "image": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-gameplay-screen-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "While Final Fantasy 7 Rebirth was \"difficult\" to Platinum by \"design\", sequel Revelation's Platinum trophy will be \"easier to get\". Read more"
+        },
+        {
+          "title": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
+          "link": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
+          "date": "2026-09-27T09:32:21+00:00",
+          "image": "https://assetsio.gnwcdn.com/minecraft-cushions.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "More than 300,000 try Minecraft for the first time every single day. Read more"
+        },
         {
           "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
           "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
@@ -1684,27 +1705,6 @@
           "date": "2026-09-25T18:01:19+00:00",
           "image": "https://assetsio.gnwcdn.com/resident-evil-requiem_tsiPKIM.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game…"
-        },
-        {
-          "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
-          "link": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
-          "date": "2026-09-25T16:58:01+00:00",
-          "image": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Control Resonant's upside down world is out now, but Remedy Entertainment's not done with the RPG just yet. The Alan Wake and Max Payne maker has detailed some of its post-launch…"
-        },
-        {
-          "title": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
-          "link": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
-          "date": "2026-09-25T16:38:48+00:00",
-          "image": "https://assetsio.gnwcdn.com/zelda-mario-rabbids-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Ubisoft Milan, the studio behind the acclaimed Mario + Rabbids games, reportedly came close to making a Zelda spin-off starring the series' biggest villain, Ganondorf, instead of…"
-        },
-        {
-          "title": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
-          "link": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
-          "date": "2026-09-25T15:21:44+00:00",
-          "image": "https://assetsio.gnwcdn.com/Pre-Order-Trailer-_-ARC-Raiders-0-35-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Embark Studios has announced a new matchmaking test for Arc Raiders that'll allow players to opt into a PvE version featuring none of the usual player-versus-player violence. It's…"
         }
       ],
       "ok": true,
@@ -1793,6 +1793,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Sunday Papers",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-829",
+          "date": "2026-09-27T11:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sundays are for recovering from the friend-of-a-spouse&rsquo;s wedding you attended on Saturday while suffering from an acute case of Old Person&rsquo;s Back. Unfortunately, the…"
+        },
+        {
           "title": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
           "link": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
           "date": "2026-09-26T21:55:08+00:00",
@@ -1854,13 +1861,6 @@
           "date": "2026-09-25T11:05:00+00:00",
           "image": "https://assetsio.gnwcdn.com/totalwar40000.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Demo sessions are often terrible ways to see a game, doubly so at conferences. You want to sink into a game at your own pace (and with unbroken access to fresh cups of tea), not…"
-        },
-        {
-          "title": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
-          "link": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
-          "date": "2026-09-25T10:12:53+00:00",
-          "image": "https://assetsio.gnwcdn.com/AF_PRESS_SS_02.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms &ndash; and led by former Wild Arms producer Akifumi Kaneko &ndash; has been…"
         }
       ],
       "ok": true,
@@ -1870,6 +1870,20 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
+          "link": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+          "date": "2026-09-27T12:38:05+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/uxrE6B9h2SHN92CXhMJ9En-1920-80.jpg",
+          "summary": "The developers of Armed Fantasia had completed a vertical slice as of March this year."
+        },
+        {
+          "title": "Minecraft is getting its first new dimension in 15 years, and it is riotously pink",
+          "link": "https://www.pcgamer.com/games/survival-crafting/minecraft-is-getting-its-first-new-dimension-in-15-years-and-it-is-riotously-pink/",
+          "date": "2026-09-27T10:43:25+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/dZLSHZNLHjzCesV8TLpEN6-1920-80.png",
+          "summary": "Prepare to enter the Sift."
+        },
         {
           "title": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants",
           "link": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
@@ -1925,20 +1939,6 @@
           "date": "2026-09-26T13:21:21+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/8wcNdyaHgSKPW9oEen4FsP-1920-80.png",
           "summary": "Satya Nadella says that Microsoft has to \"invent the right business model\" to deliver gaming to \"more and more people\"."
-        },
-        {
-          "title": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details",
-          "link": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/",
-          "date": "2026-09-26T13:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/2XvTwp23VnnFdLn46WtB3S-1920-80.jpg",
-          "summary": "Here are my five favorite features from the sewing game."
-        },
-        {
-          "title": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'",
-          "link": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
-          "date": "2026-09-26T12:00:01+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/GgkEq6iHNxXBnpeQVXjcNF-1920-80.png",
-          "summary": "The Polish developer believes the tank to be \"one of the most expensive art assets ever.\""
         }
       ],
       "ok": true,
@@ -2261,6 +2261,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Poetry for Engineers: The UI Designer’s Dream",
+          "link": "https://spectrum.ieee.org/poetry-user-interface-design",
+          "date": "2026-09-27T13:00:03+00:00",
+          "image": "https://spectrum.ieee.org/media-library/silhouette-of-a-human-head-with-purple-pixelated-blocks-dissolving-from-the-back.jpg?id=67846122&width=980",
+          "summary": "My job is to translate dry and unrelenting code into a user interface of surpassing beauty. With my mouse, I roll one pixel after another up the vast anthill of the internet. My…"
+        },
+        {
           "title": "Social Media Bans Aren’t Enough to Make Children Safe",
           "link": "https://spectrum.ieee.org/social-media-bans",
           "date": "2026-09-25T13:00:04+00:00",
@@ -2322,13 +2329,6 @@
           "date": "2026-09-21T13:00:04+00:00",
           "image": "https://spectrum.ieee.org/media-library/mans-face-framed-by-abstract-tech-graphics-antenna-towers-and-green-palm-leaves.png?id=67783301&width=980",
           "summary": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one…"
-        },
-        {
-          "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-          "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
-          "date": "2026-09-18T18:29:50+00:00",
-          "image": "https://assets.rbl.ms/67794446/origin.png",
-          "summary": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce…"
         }
       ],
       "ok": true,
@@ -2338,6 +2338,20 @@
       "name": "Interesting Engineering",
       "cat": "engineering",
       "items": [
+        {
+          "title": "Quantum simulator captures a strange process that can break quark strings",
+          "link": "https://interestingengineering.com/science/quantum-simulator-reveals-string-breaking",
+          "date": "2026-09-27T12:31:54+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/quantum-simulator.jpg",
+          "summary": "A quantum simulator has given physicists a new look at one of the strangest processes..."
+        },
+        {
+          "title": "US Air Force receives first ‘robot wingmen’ drones to begin autonomous warfare trials",
+          "link": "https://interestingengineering.com/ai-robotics/us-receives-first-robot-wingmen-drones",
+          "date": "2026-09-27T12:18:05+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/opggj1vijos.jpg",
+          "summary": "The United States Air Force (USAF) has taken delivery of the first batch of two..."
+        },
         {
           "title": "10x stronger super ice created, rivals concrete in strength, absorbs 70x more energy before breaking",
           "link": "https://interestingengineering.com/innovation/super-ice-created-rivals-concrete-in-strength",
@@ -2393,20 +2407,6 @@
           "date": "2026-09-26T18:13:11+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/is53nyawo6k.jpg",
           "summary": "France has taken a crucial step to end Europe’s reliance on Chinese rare-earth magnets. Orano..."
-        },
-        {
-          "title": "Engineers use tiny light beam to rewrite magnetic memory at high speed",
-          "link": "https://interestingengineering.com/science/engineers-shrink-light-for-denser-magnetic-memory",
-          "date": "2026-09-26T17:58:31+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/shrink-light.jpg",
-          "summary": "For decades, magnetic data storage has depended on the general idea of using a magnetic..."
-        },
-        {
-          "title": "Frog-inspired robot hops over obstacles, lands, and prepares to jump again using tiny motor",
-          "link": "https://interestingengineering.com/ai-robotics/tiny-hopping-robot-clears-a-stair",
-          "date": "2026-09-26T16:08:34+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Tiny-robot-1.jpg",
-          "summary": "A robot small enough to fit in a palm can hop over a standard stair..."
         }
       ],
       "ok": true,
