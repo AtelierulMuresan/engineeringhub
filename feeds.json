@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T06:07:33.701136+00:00",
+  "updated": "2026-10-03T12:17:29.505228+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -169,6 +169,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Weekend Drive: ‘D-Day’ warning on China and the industry’s hiring freeze pattern",
+          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-wd-china-congress-hiring-freeze-1003/",
+          "date": "2026-10-03T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/L5KIud147ufgxlE0-uPZiG_rCyA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TCFRGDRX2FGEJOR5FAPNLRRLJQ.png",
+          "summary": "Larry P. Vellequette and Michael Martinez break down the biggest moments from the 50th Automotive News Congress, including a stark warning from top executives on Chinese market…"
+        },
+        {
           "title": "European automakers call for delay on ‘Made in Europe’ EV battery rules",
           "link": "https://www.autonews.com/manufacturing/suppliers/ane-acea-battery-local-content-iaa-1003/",
           "date": "2026-10-03T06:00:00+00:00",
@@ -230,13 +237,6 @@
           "date": "2026-10-02T16:22:14+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Gz3EHLYSo5tEqxDj9P4MzM70idI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/66F6D4YYDJEPFH7ZUYA6EMFQGA.jpg",
           "summary": "Tesla's third-quarter global sales represents a year-over-year dip from 497,099 EVs delivered a year earlier, a record driven by U.S. customers rushing to buy before the…"
-        },
-        {
-          "title": "5 stories shaping Canadian auto this week: Japanese imports up, Chinese EVs close in, and more",
-          "link": "https://www.autonews.com/manufacturing/anc-canadian-auto-news-week-sept-28-2026/",
-          "date": "2026-10-02T16:20:43+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/YFYqbcLI-CHCQslEtYMfVt8JuFE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/6BMD7XIPRFHDLF3P4I7PIW75ME.jpg",
-          "summary": "Here are the most-read Automotive News Canada stories for the week of Sept. 28."
         }
       ],
       "ok": true,
@@ -246,6 +246,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "The 2027 Cadillac Escalade IQ Gets A NACS Port And Faster Home Charging",
+          "link": "https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade/",
+          "date": "2026-10-03T12:00:00+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/2N4l1K/s3/2026-cadillac-escalade-iql-review.jpg",
+          "summary": "All 2027 GM EVs will come out of the factory with a Tesla-style charging port, but the Escalade EV gets a little extra."
+        },
         {
           "title": "Tesla Sales Are Down. But They're Doing A Lot Better Than Some Competitors",
           "link": "https://insideevs.com/news/810643/tesla-deliveries-q3-2026/",
@@ -308,13 +315,6 @@
           "date": "2026-10-01T20:53:38+00:00",
           "image": "https://cdn.motor1.com/images/mgl/ZnzWoK/s3/fathom.jpg",
           "summary": "Ford's $30,000 electric pickup is its opportunity to reset its EV business, but it won't be easy."
-        },
-        {
-          "title": "General Motors' EV Sales Are Way Down. But It's Not As Bleak As It Seems",
-          "link": "https://insideevs.com/news/810487/gm-ev-sales-down-2026/",
-          "date": "2026-10-01T18:09:27+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/2N2xEp/s3/2026-insideevs-breakthrough-awards-editor-s-choice-cadillac-optiq.jpg",
-          "summary": "Silverado EV sales fell 92% year over year. But it's more to do with tax credits than anything else."
         }
       ],
       "ok": true,
@@ -656,80 +656,9 @@
     {
       "name": "NASA JPL",
       "cat": "space",
-      "items": [
-        {
-          "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-          "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
-          "date": "2026-09-24T15:47:17+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/nisar-kamchatka-still-volcano.jpg",
-          "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an…"
-        },
-        {
-          "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
-          "link": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-          "date": "2026-09-23T20:09:42+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
-          "summary": "Editor&#8217;s Note: This release was updated on Sept. 24, 2026, to reflect current international partners. NASA announced Wednesday a mission to explore the history and evolution…"
-        },
-        {
-          "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
-          "link": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
-          "date": "2026-09-16T16:08:00+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-earth-illustration-cropped.jpeg",
-          "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA…"
-        },
-        {
-          "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-          "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-          "date": "2026-09-09T16:00:00+00:00",
-          "image": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries,…"
-        },
-        {
-          "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
-          "link": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
-          "date": "2026-08-30T13:18:06+00:00",
-          "image": "https://images-assets.nasa.gov/image/NHQ20260830_admin_0002/NHQ20260830_admin_0002~large.jpg?w=1920&amp;h=1279&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at…"
-        },
-        {
-          "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-          "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-          "date": "2026-08-25T22:28:34+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26777-d2026-0824-rl0031661-pano-med.jpg?w=2048",
-          "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space…"
-        },
-        {
-          "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
-          "date": "2026-08-24T20:44:58+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg?w=1439",
-          "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the…"
-        },
-        {
-          "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-          "link": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-          "date": "2026-08-17T19:24:34+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg?w=1920",
-          "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles,…"
-        },
-        {
-          "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
-          "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
-          "date": "2026-08-05T15:25:27+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/07/pia26758-figure-a-inset-pillarbox.jpg?w=1024",
-          "summary": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky,…"
-        },
-        {
-          "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-          "date": "2026-08-04T16:14:51+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/05/mb-landers-thumbnail-horizontal-1.png",
-          "summary": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/centers-and-facilities/jpl/feed/"
     },
     {
       "name": "NASA Aeronautics",
@@ -1488,6 +1417,48 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "NBC's Unbeatable 98-Episode Action Thriller Is Officially Free to Watch on Streaming",
+          "link": "https://www.polygon.com/the-a-team-streaming-free-tubi/",
+          "date": "2026-10-03T11:00:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tcdatea_ec014.jpg",
+          "summary": "The A-Team mixed cartoonish violence, ridiculous characters and plenty of heart into one of the biggest action shows of the ’80s."
+        },
+        {
+          "title": "Game of Thrones’ Biggest Villain Is Even More Terrifying in an Upcoming Official Release",
+          "link": "https://www.polygon.com/game-thrones-war-for-westeros-monster-interview/",
+          "date": "2026-10-03T10:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/game-of-thrones-war-westeros-night-king.jpg",
+          "summary": "The designers of War for Westeros gave the Night King a terrifying weapon"
+        },
+        {
+          "title": "45 Years Ago, a Failed Lord of the Rings Movie Became a Film That Transcended Fantasy",
+          "link": "https://www.polygon.com/excalibur-john-boorman-45-years-anniversary/",
+          "date": "2026-10-03T08:52:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/image-w1280.jpg",
+          "summary": "John Boorman's take on the Arthurian saga still stands as one of the best attempts to translate myth into movies."
+        },
+        {
+          "title": "Sicario 3 is Happening with Taylor Sheridan Returning to Write",
+          "link": "https://www.polygon.com/sicario-3-script-taylor-sheridan-paramount/",
+          "date": "2026-10-03T08:20:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/sicario-3.jpg",
+          "summary": "The follow-up to Sicario and Sicario: Day of the Soldado is finally happening, with Yellowstone creator Taylor Sheridan returning to the franchise."
+        },
+        {
+          "title": "Dimension 20 Best Season to Start? 6 Campaigns to Get Into Dropout’s D&D Show",
+          "link": "https://www.polygon.com/dimension-20-best-seasons-episodes-to-start-with/",
+          "date": "2026-10-03T08:05:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25160464/dimension_20_junior_year.jpg",
+          "summary": "Looking to dive into Dropout's actual-play show? Here are some recommendations for first-time viewers of Dimension 20."
+        },
+        {
+          "title": "Steam Horror Game Turns PS1-Era Graphics Into Backrooms-Style Nightmare Fuel",
+          "link": "https://www.polygon.com/steam-horror-game-turns-ps1-era-graphics-into-backrooms-style-nightmare-fuel/",
+          "date": "2026-10-03T08:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fatum-betula-5.jpg",
+          "summary": "Nearly 6 years ago, this strange PS1-style horror game found terror in \"kenopsia.\""
+        },
+        {
           "title": "12 New Horror Movies to Watch in October on Netflix, HBO, and Hulu",
           "link": "https://www.polygon.com/horror-movies-streaming-october-2026/",
           "date": "2026-10-03T04:00:20+00:00",
@@ -1514,48 +1485,6 @@
           "date": "2026-10-02T23:00:18+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tactics-genre-renaissance.jpg",
           "summary": "The tactics genre is undergoing a renaissance right now, and it's the perfect time to give the games a shot."
-        },
-        {
-          "title": "10 New Movies to Watch this Weekend on Prime Video, HBO Max, and Hulu (October 2-4)",
-          "link": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-2-4/",
-          "date": "2026-10-02T21:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdtese_k3001.jpg",
-          "summary": "This week's movie column has several exciting movies, including an indie art-horror, a Warner Bros. movie that was infamously shelved, and more."
-        },
-        {
-          "title": "New Fast and Furious Release Now Streaming on Peacock",
-          "link": "https://www.polygon.com/fast-and-furious-lego-how-to-train-your-dragon-peacock/",
-          "date": "2026-10-02T20:58:51+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22830176/FastNFurious2001.jpeg",
-          "summary": "Fast & Furious gets its strangest crossover yet as LEGO DREAMZzz and How to Train Your Dragon collide in a new Peacock animated special."
-        },
-        {
-          "title": "How to Get Pokémon's Special Mewtwo 30th Anniversary Card",
-          "link": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/",
-          "date": "2026-10-02T20:57:37+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/1-mewtwo.jpg",
-          "summary": "The Mewtwo promo card drops later this year at select retailers like Best Buy and GameStop"
-        },
-        {
-          "title": "5 TMNT Episodes That Prove the Original Was Better Than 'X-Men: The Animated Series'",
-          "link": "https://www.polygon.com/best-tmnt-episodes-better-than-x-men-the-animated-series/",
-          "date": "2026-10-02T20:06:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/untitled-presentation-1.jpg",
-          "summary": "X-Men '97 puts renewed emphasis on X-Men: The Animated Series, the other mutant-based cartoon from the '90s deserves some more recognition."
-        },
-        {
-          "title": "30 Years Later, Nintendo's Forgotten N64 Racing Game Deserves a Switch 2 Rebirth",
-          "link": "https://www.polygon.com/wave-race-64-nintendo-64-retrospective/",
-          "date": "2026-10-02T20:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/1405026/N64-Console-Set.0.jpg",
-          "summary": "Released not long after the Nintendo 64 launched, one great racing game showed what the hardware could do."
-        },
-        {
-          "title": "8 New TV Shows To Watch This Weekend on Netflix, HBO, and Disney (October 2-4)",
-          "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-2-4/",
-          "date": "2026-10-02T20:00:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/east-of-eden.jpg",
-          "summary": "This weekend's TV column has some exciting releases, from Netflix's awaited American epic to HBO's new British legal drama."
         }
       ],
       "ok": true,
@@ -1565,6 +1494,34 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+          "link": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+          "date": "2026-10-03T12:04:23+00:00",
+          "image": "https://assetsio.gnwcdn.com/metro_clean4.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more"
+        },
+        {
+          "title": "Memory shortages set to persist into 2028, warns Micron CEO",
+          "link": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+          "date": "2026-10-03T10:34:13+00:00",
+          "image": "https://assetsio.gnwcdn.com/ps5-ram-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more"
+        },
+        {
+          "title": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works",
+          "link": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+          "date": "2026-10-03T09:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/Eday-chainsaw.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Buoyed by some commendatory early reviews and fantastic initial player numbers , Gears of War: E-Day has found a solid audience a weekend before general release. And a large part…"
+        },
+        {
+          "title": "What we've been playing - \"That's one of gaming's great cities, that is\"",
+          "link": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+          "date": "2026-10-03T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/witcher-3-landscape-steam-promo-image.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie's witcher skills are a bit rusty; Dom goes through the…"
+        },
         {
           "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
           "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
@@ -1606,34 +1563,6 @@
           "date": "2026-10-02T13:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-review-header.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "A few years ago, I had the chance to ask Alex Ward, the co-founder of Criterion Games, about the driving model for the Burnout series. I had heard from a friend that beneath the…"
-        },
-        {
-          "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
-          "link": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-          "date": "2026-10-02T11:09:05+00:00",
-          "image": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more"
-        },
-        {
-          "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
-          "link": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
-          "date": "2026-10-02T10:56:20+00:00",
-          "image": "https://assetsio.gnwcdn.com/E-Day-meat-shield.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Gears of War: E-Day arrived for early adopters yesterday, available for anyone who bought either the Premium Edition, Premium Upgrade Edition, or Collector's Edition version of…"
-        },
-        {
-          "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
-          "link": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
-          "date": "2026-10-02T09:28:14+00:00",
-          "image": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "AI image upscaling is coming to PlayStation 5, Sony has announced, and it's available already in two games: Marvel's Wolverine and Ghost of Yotei . Read more"
-        },
-        {
-          "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
-          "link": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
-          "date": "2026-10-01T15:11:16+00:00",
-          "image": "https://assetsio.gnwcdn.com/aion-2-party-vs-big-dragon.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played…"
         }
       ],
       "ok": true,
@@ -1722,6 +1651,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras",
+          "link": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
+          "date": "2026-10-03T11:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-15-100547.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sometimes I Wonder About The Other Me is a 2D platformer created by \"small game\" developer Luis \"Ludipe\" D&iacute;az Peralta, whose other works include A Place For The Unwilling .…"
+        },
+        {
+          "title": "What are we all playing this weekend?",
+          "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
+          "date": "2026-10-03T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/weekend-bed.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "October, we meet again. You slip through my bedroom window as a cold draft on a crisp morning, both making my covers more welcome and the long walk to the kitchen for coffee that…"
+        },
+        {
           "title": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops",
           "link": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
           "date": "2026-10-02T16:15:00+00:00",
@@ -1776,20 +1719,6 @@
           "date": "2026-10-01T15:29:29+00:00",
           "image": "https://assetsio.gnwcdn.com/retrospace-1.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "In my time as a videogame partaker, I have crawled through approximately three billion airvents. I may well have crawled through more vents than you've had hot dinners. As such,…"
-        },
-        {
-          "title": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
-          "link": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
-          "date": "2026-10-01T14:22:50+00:00",
-          "image": "https://assetsio.gnwcdn.com/Control-Resonant-Dylan-and-Jesse-cutscene.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Trippy hack 'n' slash sequel (and, for the benefit of anyone planning for this year&rsquo;s Advent Calendar guessing game in the RPS Discord, my current second-favouritest game of…"
-        },
-        {
-          "title": "I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to help my posture",
-          "link": "https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-help-my-posture",
-          "date": "2026-10-01T13:30:14+00:00",
-          "image": "https://assetsio.gnwcdn.com/HBADA-X7-chair-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Note from James, 02/10: We've heard your complaints that some of the wording in this piece - a lot of which, if I'm honest, was added/changed by me in the edit - overstates the…"
         }
       ],
       "ok": true,
@@ -1799,6 +1728,20 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
+          "link": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+          "date": "2026-10-03T11:17:53+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/eZJtvSrB6foPjzxYohZTAn-1920-80.png",
+          "summary": "Lead an alien invasion in this fun-but-fair game of colossal damage numbers."
+        },
+        {
+          "title": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'",
+          "link": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
+          "date": "2026-10-03T10:42:31+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/KcQG5vm9h2uBkn78Xrn7nd-1920-80.jpg",
+          "summary": "But that isn't necessarily the same as a generative AI game engine."
+        },
         {
           "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
           "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
@@ -1854,20 +1797,6 @@
           "date": "2026-10-02T18:30:45+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/RXL2nn4i6henNNxthpZsYN-1920-80.jpg",
           "summary": "Bungie is 'building a new home for our merchandise that's more aligned with our current goals and vision,' and for some reason that means the old home has to go away."
-        },
-        {
-          "title": "7 musical clips of this incredibly charming magical school life sim with its goofy classmates and delightful soundtrack",
-          "link": "https://www.pcgamer.com/games/life-sim/7-musical-clips-of-this-incredibly-charming-magical-school-life-sim-with-its-goofy-classmates-and-delightful-soundtrack/",
-          "date": "2026-10-02T18:18:59+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/T46A7iaexWmsraPkGAN5rB-1920-80.jpg",
-          "summary": "Turn your sound on to experience the delight of a voice acted magic school life sim."
-        },
-        {
-          "title": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful",
-          "link": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
-          "date": "2026-10-02T18:11:22+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/8a7LMprKJt6XhWVudNqR7S-1920-80.jpg",
-          "summary": "It may or may not have contributed to the Steelers' years of postseason woes—but at least it's walkable."
         }
       ],
       "ok": true,
