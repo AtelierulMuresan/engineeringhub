@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-04T04:47:56.518400+00:00",
+  "updated": "2026-10-04T10:58:08.319084+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "IMSA: BMW M Team WRT concludes debut season with podium – Paul Miller Racing wins GTD PRO title.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461353EN?language=en",
+          "date": "2026-10-04T04:48:32+00:00",
+          "image": null,
+          "summary": "+++ #24 BMW M Hybrid V8 fights for victory until the final lap at Petit Le Mans – Dries Vanthoor, Sheldon van der Linde, and Robin Frijns celebrate second place +++ BMW M Team WRT…"
+        },
         {
           "title": "One Million Times the Thrill of M: Plant Munich builds milestone BMW M3 and shapes the electric future of BMW M.",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0461211EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-09-29T22:01:00+00:00",
           "image": null,
           "summary": "• The eighth generation of the BMW 3 Series will be produced in Munich and Dingolfing, with batteries supplied by the new Irlbach-Straßkirchen plant • BMW 3 Series remains the…"
-        },
-        {
-          "title": "BMW M Motorsport News, 29th September 2026.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461139EN?language=en",
-          "date": "2026-09-29T13:20:00+00:00",
-          "image": null,
-          "summary": "+++ Top topic: Two BMW M works drivers will compete in the Indianapolis 8 Hour +++ SRO America: Wins and podiums for the BMW M4 GT4 EVO +++ Shanghai 8 Hours: Victory for Team KRC…"
         }
       ],
       "ok": true,
@@ -160,20 +160,112 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.automotiveworld.com/feed/"
+      "items": [
+        {
+          "title": "Rivian deliveries jump 46% as R2 bucks US EV slowdown",
+          "link": "https://www.automotiveworld.com/news/rivian-deliveries-jump-46-as-r2-bucks-us-ev-slowdown/",
+          "date": "2026-10-02T17:45:32+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Rivian's growth defies the post-credit slump, but its path to profit now runs through autonomy rather than R2 volumes alone. By Stewart Burnett The post Rivian deliveries jump 46%…"
+        },
+        {
+          "title": "Global light vehicle sales forecast – September 2026 edition",
+          "link": "https://www.automotiveworld.com/data/global-light-vehicle-sales-forecast-september-2026-edition/",
+          "date": "2026-10-02T14:36:17+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Automotive World's monthly global LV sales forecast provides a snapshot of past and future sales volumes broken down by region. By Jonathan Storey The post Global light vehicle…"
+        },
+        {
+          "title": "ICE cars fall below half of global sales mix for first time",
+          "link": "https://www.automotiveworld.com/news/ice-cars-fall-below-half-of-global-sales-mix-for-first-time/",
+          "date": "2026-10-02T13:47:08+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Fuel prices alone could not offset subsidy cuts in China and the US, showing policy still outweighs pump prices in EV adoption. By Stewart Burnett The post ICE cars fall below…"
+        },
+        {
+          "title": "Volvo Cars scraps outlook two weeks after 13-model plan",
+          "link": "https://www.automotiveworld.com/analysis/volvo-cars-scraps-outlook-two-weeks-after-13-model-plan/",
+          "date": "2026-10-02T13:03:49+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Pulling guidance weeks after a 13-model margin plan leaves Volvo's 8% target resting on volume growth it is not getting. By Stewart Burnett The post Volvo Cars scraps outlook two…"
+        },
+        {
+          "title": "Toyota invests in Argentine EV factory as competition grows",
+          "link": "https://www.automotiveworld.com/analysis/toyota-invests-in-argentine-ev-factory-as-competition-grows/",
+          "date": "2026-10-02T11:20:56+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Toyota's decision to invest in EV production in Argentina could serve as a bulwark to Chinese automakers' expansions in South America. By Will Girling The post Toyota invests in…"
+        },
+        {
+          "title": "MAN starts testing automated electric bus on Munich route",
+          "link": "https://www.automotiveworld.com/topics/commercial-vehicle/man-starts-testing-automated-electric-bus-on-munich-route/",
+          "date": "2026-10-02T05:05:27+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "MAN is moving bus automation out of the factory and into city traffic, testing whether a full-size bus can run in mixed conditions The post MAN starts testing automated electric…"
+        },
+        {
+          "title": "Volkswagen Group sets out ‘For Europe’ agenda in Paris",
+          "link": "https://www.automotiveworld.com/news/volkswagen-group-sets-out-for-europe-agenda-in-paris/",
+          "date": "2026-10-02T05:00:55+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Volkswagen Group is framing Europe's industrial future as a shared task, pressing policymakers on carbon rules and trade with China The post Volkswagen Group sets out ‘For Europe’…"
+        },
+        {
+          "title": "BMW M builds one-millionth car as Munich wins electric M3",
+          "link": "https://www.automotiveworld.com/news/bmw-m-builds-one-millionth-car-as-munich-wins-electric-m3/",
+          "date": "2026-10-02T04:55:40+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BMW is tying the future of its M performance brand to its oldest plant, using the electric M3 to anchor Munich's all-electric switch The post BMW M builds one-millionth car as…"
+        },
+        {
+          "title": "Audi A6 allroad goes on sale with first plug-in hybrid",
+          "link": "https://www.automotiveworld.com/topics/e-mobility/audi-a6-allroad-goes-on-sale-with-first-plug-in-hybrid/",
+          "date": "2026-10-02T04:50:07+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Audi is electrifying the A6 allroad without dropping diesel, betting buyers in this niche still want a choice between the two The post Audi A6 allroad goes on sale with first…"
+        },
+        {
+          "title": "New Hyundai Tucson brings Pleos Connect and 42mpg target",
+          "link": "https://www.automotiveworld.com/news/new-hyundai-tucson-brings-pleos-connect-and-42mpg-target/",
+          "date": "2026-10-02T04:45:32+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Hyundai is betting its best-selling SUV on US hybrid demand, where electrified versions already take almost a third of Tucson sales The post New Hyundai Tucson brings Pleos…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
         {
+          "title": "With gas-powered vehicles, hybrids and EVs, how can automakers keep costs down?",
+          "link": "https://www.autonews.com/podcasts/shift/an-shift-podcast-cj-finn-pwc-1004/",
+          "date": "2026-10-04T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/fw64D0wQmLoWV52m-H2iEPWMu3A=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/OEXPKLAFZNCKFK3M343JD74MMQ.jpg",
+          "summary": "\"Shift\" host Molly Boigon speaks to PwC's U.S. automotive leader C.J. Finn about how electric vehicles will take market share from internal combustion engine vehicles."
+        },
+        {
+          "title": "Why GMC is betting on Denali and AT4 to drive sales and sustainable profits",
+          "link": "https://www.autonews.com/general-motors/gmc/an-buick-gmc-sales-strategy-1005/",
+          "date": "2026-10-04T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ZXYuxyUW3ypMC6twhG-jt0aPZB8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/S2CIMUFW2RCOZFULMR2BQJEKAU.jpg",
+          "summary": "​New Buick-GMC chief Mike MacPhee says the brands will emphasize their premium Denali, AT4 and Avenir lines as they prioritize sustained, profitable growth rather than just…"
+        },
+        {
+          "title": "Renault hopes to get ahead of Chinese wave with Geely Brazil partnership",
+          "link": "https://www.autonews.com/renault/ane-renault-geely-brazil-partnership-1004/",
+          "date": "2026-10-04T06:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/LroIdlKA68ZKx_GPMsBsK6FlL_0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SJLG7HRIHNCI5LD36GK64COZAA.jpg",
+          "summary": "Renault and Geely's Brazil joint venture is starting local production as Chinese automakers capture 28 percent of the market. Both partners aim to leverage scale and speed to…"
+        },
+        {
           "title": "Renault to invest $11 billion in France in EVs, affordable cars, CEO says",
           "link": "https://www.autonews.com/europe/ane-renault-ev-investment-1003/",
           "date": "2026-10-03T13:55:23+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/vp1X2nwjZVOvK69ve_wSw-gbpac=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BIDXHPJO7FA6REVEVEUI2435DY.jpg",
-          "summary": "Renault Group CEO Francois Provost says the automaker will invest in electric vehicles and more affordable cars. He said demand for EVs has boosted production in France."
+          "summary": "Renault Group CEO Francois Provost says the automaker will invest in electric vehicles and more affordable cars, provided the political climate allows it. A critical presidential…"
         },
         {
           "title": "Weekend Drive: ‘D-Day’ warning on China and the industry’s hiring freeze pattern",
@@ -216,27 +308,6 @@
           "date": "2026-10-02T17:51:58+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/uu3B3GI7NSjl4uaTIfO2Y31Pdx0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4EB6DYDTVJAUJJR5RG7MIIAJHU.jpg",
           "summary": "The automaker said it \"continues to evaluate and adjust its manufacturing operations in response to evolving market conditions.\""
-        },
-        {
-          "title": "Customer Incentives - 10/05/26",
-          "link": "https://www.autonews.com/data-center/sales-data/incentives/an-us-customer-incentives-100526/",
-          "date": "2026-10-02T17:34:48+00:00",
-          "image": null,
-          "summary": "National customer cash back and finance rate programs listed by automaker, brand and model; updated weekly"
-        },
-        {
-          "title": "North America production downtime – 10/05/26",
-          "link": "https://www.autonews.com/data-center/manufacturing-data/production-downtime/an-north-america-assembly-plant-downtime-100526/",
-          "date": "2026-10-02T17:32:24+00:00",
-          "image": null,
-          "summary": "North America car and truck assembly plant downtime for the current week"
-        },
-        {
-          "title": "Canada light-vehicle sales by nameplate, Sept. & YTD 2026",
-          "link": "https://www.autonews.com/data-center/sales-data/an-canada-light-vehicle-sales-nameplate-september-2026/",
-          "date": "2026-10-02T17:27:44+00:00",
-          "image": null,
-          "summary": "Unit sales of cars and light trucks by nameplate in Canada listed alphabetically under brand and automaker for the current and previous year periods; table reflects Canada sales…"
         }
       ],
       "ok": true,
@@ -580,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+          "date": "2026-10-04T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!…"
+        },
+        {
           "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
           "date": "2026-10-03T04:05:00+00:00",
@@ -641,13 +719,6 @@
           "date": "2026-10-02T04:01:00+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_tmo_20260920.jpg",
           "summary": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India."
-        },
-        {
-          "title": "10 Things: Movie Night",
-          "link": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-          "date": "2026-10-02T00:25:36+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png?w=3000&#038;h=1986&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride.…"
         }
       ],
       "ok": true,
@@ -1488,6 +1559,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "GOTY 2026’s Final Nomination Is a Battleground of 8/10 Games",
+          "link": "https://www.polygon.com/goty-watch-nominations-metacritic-85-club/",
+          "date": "2026-10-04T10:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/pragmata-diana-1.jpeg",
+          "summary": "This year has seen a ton of blockbuster video games hovering around 85 on Metacritic, like Control Resonant and Gears of War: E-Day."
+        },
+        {
+          "title": "65 Years Ago, The Twilight Zone Aired Its Creepiest Episode",
+          "link": "https://www.polygon.com/twilight-zone-creepiest-episode-monster/",
+          "date": "2026-10-04T08:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/intro-1649249880.jpg",
+          "summary": "It's A Good Life\" throws more than one horror curveball during its taut runtime."
+        },
+        {
+          "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
+          "link": "https://www.polygon.com/best-anime-arcs-that-are-perfect/",
+          "date": "2026-10-04T08:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mob-psycho-scary-painting.webp",
+          "summary": "These anime storylines elevate these five series with thrilling character developments and satisfying resolutions."
+        },
+        {
+          "title": "5 Mind-Bending Soviet Era Sci-Fi Movies You Can Watch on Streaming",
+          "link": "https://www.polygon.com/best-sci-fi-soviet-russian-streaming/",
+          "date": "2026-10-04T08:00:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sputnik_astronaut-1.jpg",
+          "summary": "Soviet cinema pushed the bounds of science fiction. These five classics are all streaming for free or on Prime Video."
+        },
+        {
           "title": "10 Erotic Thrillers to Watch After Verity",
           "link": "https://www.polygon.com/best-erotic-thrillers-movies-like-verity/",
           "date": "2026-10-04T03:00:16+00:00",
@@ -1528,34 +1627,6 @@
           "date": "2026-10-03T20:10:25+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-devils.jpg",
           "summary": "Warner Bros. is releasing Ken Russell's 1971 psychological horror drama The Devils in theaters this October, in restored 4K and uncensored."
-        },
-        {
-          "title": "A RuneScape Animated Show Is Coming With a World-Famous Content Creator Attached",
-          "link": "https://www.polygon.com/runescape-animated-series-announced/",
-          "date": "2026-10-03T20:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-animated-show.jpg",
-          "summary": "A RuneScape animated adaptation is on the way from Jagex, in partnership with MoistCr1TiKaL and Lyrical Media."
-        },
-        {
-          "title": "Metroid Meets Dead Cells In October's Coolest New Action Game",
-          "link": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/",
-          "date": "2026-10-03T20:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-07-19-pm.png",
-          "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long."
-        },
-        {
-          "title": "New RuneScape Game Officially Revealed by Jagex",
-          "link": "https://www.polygon.com/runescape-4-announcement-runefest-reveal-jagex/",
-          "date": "2026-10-03T20:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-4.jpg",
-          "summary": "Unveiled at RuneFest, \"RuneScape 4\" is another MMO being developed in Unreal Engine, and it's in the works at Jagex."
-        },
-        {
-          "title": "Amazon's New 8-Episode Action Spinoff Dethrones Reacher to Become No. 1 Streaming Series",
-          "link": "https://www.polygon.com/reacher-neagley-spinoff-prime-video-streaming-success-october-2026/",
-          "date": "2026-10-03T19:50:12+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/rspi_s1_ut_108_250520_mahsha_00228r_cropc_3000.jpg",
-          "summary": "Reacher spinoff Neagley is dominating the Prime Video streaming charts in the U.S. and worldwide."
         }
       ],
       "ok": true,
@@ -1565,6 +1636,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
+          "link": "https://www.eurogamer.net/nivalis-nights-now-playing",
+          "date": "2026-10-04T09:01:54+00:00",
+          "image": "https://assetsio.gnwcdn.com/nivalis-nights-header-brighter.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "As I throw open the windows on my first day in Nivalis, breathing in the city's neon-streaked air and watching the smog roil across the blackened sky, my government-mandated AI…"
+        },
         {
           "title": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
           "link": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
@@ -1627,13 +1705,6 @@
           "date": "2026-10-02T17:56:08+00:00",
           "image": "https://assetsio.gnwcdn.com/shawn-layden-asha-sharma-xbox-playstation.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Former PlayStation boss Shawn Layden has some thoughts on where Team Xbox is at right now and where the green machine can go from here, but the console maker needs to \"pick a…"
-        },
-        {
-          "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-          "link": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-          "date": "2026-10-02T16:52:25+00:00",
-          "image": "https://assetsio.gnwcdn.com/KCDII_Standard_KA_Unbranded.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he…"
         }
       ],
       "ok": true,
@@ -1722,6 +1793,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Sunday Papers",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-830",
+          "date": "2026-10-04T09:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sundays are for having the first lie-in in a month. No trips to visit family, no waking in unfamiliar beds, and, best of all, no having to wait until the hosts are up before you…"
+        },
+        {
           "title": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras",
           "link": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
           "date": "2026-10-03T11:00:00+00:00",
@@ -1783,13 +1861,6 @@
           "date": "2026-10-01T16:27:23+00:00",
           "image": "https://assetsio.gnwcdn.com/card-shark-preview-2.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Reigns and Card Shark developers Nerial have announced that they're shutting down or at least, \"entering hibernation mode\", following discussion with their parent company Devolver…"
-        },
-        {
-          "title": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal",
-          "link": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-          "date": "2026-10-01T15:29:29+00:00",
-          "image": "https://assetsio.gnwcdn.com/retrospace-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "In my time as a videogame partaker, I have crawled through approximately three billion airvents. I may well have crawled through more vents than you've had hot dinners. As such,…"
         }
       ],
       "ok": true,
@@ -1799,6 +1870,13 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
+          "link": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+          "date": "2026-10-04T10:49:26+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1920-80.jpg",
+          "summary": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot."
+        },
         {
           "title": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
           "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
@@ -1861,13 +1939,6 @@
           "date": "2026-10-03T16:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/EidxDZKNyRTcTk6NAapvfh-1920-80.png",
           "summary": "Raise a glass to your digital ride-or-dies."
-        },
-        {
-          "title": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos",
-          "link": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
-          "date": "2026-10-03T16:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ppZ6BXKjQQwSxCn2HpTbQ7-1920-80.jpg",
-          "summary": "We asked 11 very particular PCG staffers what game they think everyone should buy in Steam's Autumn Sale—here's what they picked."
         }
       ],
       "ok": true,
@@ -2268,6 +2339,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US’ remotely piloted aircraft that can operate at 40,000 feet for 30 hours tested",
+          "link": "https://interestingengineering.com/military/us-unmanned-aircraft-40000-feet-tested",
+          "date": "2026-10-04T09:17:39+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/naval-drone.jpg",
+          "summary": "The U.S. Navy recently tested its long-endurance, medium-altitude remotely piloted aircraft system. Developed by General..."
+        },
+        {
           "title": "Top US rivals test high-tech military drones, robots, new warfare tactics to boost battlefield power",
           "link": "https://interestingengineering.com/military/us-rivals-test-modern-military-drones",
           "date": "2026-10-04T03:19:16+00:00",
@@ -2329,13 +2407,6 @@
           "date": "2026-10-03T18:06:55+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/oddjxgy_1kq.jpg",
           "summary": "YouTube creator Felix Kjellberg, better known as PewDiePie, has unveiled Ajax, a small language model..."
-        },
-        {
-          "title": "180 mph over water: US Seaglider program advances toward operational demonstrations",
-          "link": "https://interestingengineering.com/military/us-marines-expand-seaglider-program",
-          "date": "2026-10-03T16:09:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/RegentCraft-Seaglider-.jpg",
-          "summary": "The US Marine Corps Warfighting Lab has expanded its collaboration with electric Seaglider developer REGENT..."
         }
       ],
       "ok": true,
