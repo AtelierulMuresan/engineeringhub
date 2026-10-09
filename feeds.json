@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-09T01:47:09.738386+00:00",
+  "updated": "2026-10-09T08:35:16.301389+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "40 years of the BMW M3",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461563EN?language=en",
+          "date": "2026-10-09T08:00:00+00:00",
+          "image": null,
+          "summary": "Six generations of high-performance sports cars for the premium midsize class"
+        },
         {
           "title": "The new BMW iX4",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0461402EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-10-01T15:00:00+00:00",
           "image": null,
           "summary": "Lightweight, Agile and Characterful Naked Bike for Pure Riding Pleasure."
-        },
-        {
-          "title": "Series production gets underway: BMW Group officially opens Plant Irlbach-Straßkirchen",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461032EN?language=en",
-          "date": "2026-10-01T10:30:00+00:00",
-          "image": null,
-          "summary": "New site to supply German vehicle plants with high-voltage batteries for the Neue Klasse – Investment of around one billion euros – Head of Production Wittmann: “Strong signal for…"
         }
       ],
       "ok": true,
@@ -160,14 +160,127 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.automotiveworld.com/feed/"
+      "items": [
+        {
+          "title": "Tesla output to recover in 2026, with sluggish future ahead",
+          "link": "https://www.automotiveworld.com/news/tesla-output-to-recover-in-2026-with-sluggish-future-ahead/",
+          "date": "2026-10-09T07:58:56+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Tesla is likely to manage a solid recovery after 2025, though its product portfolio doesn't provide much room for further growth over the next five years The post Tesla output to…"
+        },
+        {
+          "title": "Tesla: performance and production forecast to 2030",
+          "link": "https://www.automotiveworld.com/data/tesla-performance-and-production-forecast-to-2030/",
+          "date": "2026-10-09T07:09:55+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Automotive World forecasts production output for Tesla during the period to 2030. By Jonathan Storey The post Tesla: performance and production forecast to 2030 appeared first on…"
+        },
+        {
+          "title": "FMCSA clears beacons for AV trucks, reversing 2024 denial",
+          "link": "https://www.automotiveworld.com/intelligence/fmcsa-clears-beacons-for-av-trucks-reversing-2024-denial/",
+          "date": "2026-10-08T16:56:28+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The beacon exemption opens to any Level 4 carrier, removing a deployment blocker just as Aurora tries to scale tenfold. By Stewart Burnett The post FMCSA clears beacons for AV…"
+        },
+        {
+          "title": "BYD blames geopolitics as Europe’s hybrid loophole narrows",
+          "link": "https://www.automotiveworld.com/intelligence/byd-blames-geopolitics-as-europes-hybrid-loophole-narrows/",
+          "date": "2026-10-08T12:53:38+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "BYD calls geopolitics its biggest obstacle, but the barriers rising in Europe are largely a response to its own hybrid strategy. By Stewart Burnett The post BYD blames geopolitics…"
+        },
+        {
+          "title": "Revivals and alliances at heart of Mitsubishi’s new strategy",
+          "link": "https://www.automotiveworld.com/analysis/revivals-and-alliances-at-heart-of-mitsubishis-new-strategy/",
+          "date": "2026-10-08T07:29:57+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Mitsubishi is adapting its strategy to focus on ASEAN and Japan, while reinforcing its partnership with Nissan. By Ian Henry The post Revivals and alliances at heart of…"
+        },
+        {
+          "title": "FAW, Toyota and GAC sign three-way China alliance deal",
+          "link": "https://www.automotiveworld.com/news/faw-toyota-and-gac-sign-three-way-china-alliance-deal/",
+          "date": "2026-10-08T06:20:08+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The FAW Toyota deal shows Toyota consolidating its Chinese partnerships to cut costs as foreign joint ventures lose ground The post FAW, Toyota and GAC sign three-way China…"
+        },
+        {
+          "title": "Renault and EDF target 2027 for vehicle-to-grid offer",
+          "link": "https://www.automotiveworld.com/news/renault-and-edf-target-2027-for-vehicle-to-grid-offer/",
+          "date": "2026-10-08T06:15:55+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Bidirectional charging turns parked electric cars into grid assets, giving Renault and EDF a revenue stream beyond the vehicle sale The post Renault and EDF target 2027 for…"
+        },
+        {
+          "title": "AlixPartners maps 2.5 million units of idle plant capacity",
+          "link": "https://www.automotiveworld.com/news/alixpartners-maps-2-5-million-units-of-idle-plant-capacity/",
+          "date": "2026-10-08T06:10:05+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "AlixPartners’ figures suggest Europe’s automakers face a capacity reckoning that balance sheets may not absorb by 2028 The post AlixPartners maps 2.5 million units of idle plant…"
+        },
+        {
+          "title": "Renault 4 E-Tech range rises to 415 km as new orders open",
+          "link": "https://www.automotiveworld.com/news/renault-4-e-tech-range-rises-to-415-km-as-new-orders-open/",
+          "date": "2026-10-08T06:05:42+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Switching the entry-level Renault 4 to iron phosphate cells suggests Renault is chasing price as much as range in small EVs The post Renault 4 E-Tech range rises to 415 km as new…"
+        },
+        {
+          "title": "Škoda Epiq Sportline makes public debut at Paris show",
+          "link": "https://www.automotiveworld.com/topics/e-mobility/skoda-epiq-sportline-makes-public-debut-at-paris-show/",
+          "date": "2026-10-08T06:00:18+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "The Škoda Epiq Sportline shows the brand adding trim choice early to keep its entry-level electric crossover selling The post Škoda Epiq Sportline makes public debut at Paris show…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Audi A8 will be built at Porsche plant alongside the Panamera, reports say",
+          "link": "https://www.autonews.com/volkswagen/audi/ane-audi-a8-built-leipzig-porsche-plant-1009/",
+          "date": "2026-10-09T08:29:59+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/n2ZFhTnAhuPTrKhKb2i0YOo4GHY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BTUDCRYBWFGKZD4K5TTVMIRRWY.jpg",
+          "summary": "Audi plans to shift next-generation A8 production to Porsche's Leipzig plant, German media reported, raising the stakes for Neckarsulm as Audi reopens labor talks and deepens cost…"
+        },
+        {
+          "title": "Chinese brands double Paris show presence as European rivals defend home turf",
+          "link": "https://www.autonews.com/events/paris-auto-show/ane-paris-auto-show-chinese-1009/",
+          "date": "2026-10-09T08:15:08+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/GxayP6Yk2hQ6s8K9ZWZ6ufmZOiI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/DHLDIX6AWREMBNJ75R3HDQW66I.jpg",
+          "summary": "Twice as many Chinese brands as in 2024 will show up in Paris, while European automakers will unveil cheaper EVs to defend their home market and reassure investors."
+        },
+        {
+          "title": "2026 Eurostar winner Gilles Vidal of Stellantis",
+          "link": "https://www.autonews.com/awards/eurostars/ane-2026-eurostar-gilles-vidal-0924/",
+          "date": "2026-10-09T04:30:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Ob-EwO8Yd6CVxeQYDpR2qHzsnjs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/HYMGQ2M6TNAINOWU2NP2WP2JBA.jpg",
+          "summary": "Gilles Vidal of Stellantis is the 2026 Eurostar winner for Design Multiple Models."
+        },
+        {
+          "title": "Automotive News Classifieds",
+          "link": "https://www.autonews.com/classifieds/automotive-news-classifieds/",
+          "date": "2026-10-09T04:02:29+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/OY44wle6OOB-lxwi52GRvy9hK8M=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/VEL245PRYZEOZJNKXPZAK5UD2Q.png",
+          "summary": "Automotive News Classifieds"
+        },
+        {
+          "title": "2026 Eurostar: Stellantis Europe design chief Gilles Vidal",
+          "link": "https://www.autonews.com/awards/eurostars/2026/ane-eurostar-gilles-vidal-stellantis-0924/",
+          "date": "2026-10-09T04:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Ob-EwO8Yd6CVxeQYDpR2qHzsnjs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/HYMGQ2M6TNAINOWU2NP2WP2JBA.jpg",
+          "summary": "Gilles Vidal of Stellantis is being honored as a 2026 Eurostar for Design Multiple Models."
+        },
+        {
+          "title": "ANC Podcast Replay | The week’s top stories and Viova’s Benjamin Wenger on AI",
+          "link": "https://www.autonews.com/podcasts/canada-conversations/anc-automotive-news-canada-podcast-benjamin-wenger-replay/",
+          "date": "2026-10-09T03:35:29+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/TCpumsaRPEPtCC39w0kc6MdsR24=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/UJXRH73EKNGXJN56ISQ2RRBO4I.jpg",
+          "summary": "Nissan imports resume; Waiting out tariffs; Talking traffic lights. Plus, in a replay of an Aug. 14 interview, Viova Head of Sales Benjamin Wenger talks about what artificial…"
+        },
         {
           "title": "The High-Performance Dealer: Navigating the AI Wave",
           "link": "https://www.autonews.com/resource_center/podium/an-the-high-performance-dealer-navigating-the-ai-wave/",
@@ -195,48 +308,6 @@
           "date": "2026-10-08T19:00:00+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/-uk6sVDTT8Bdhu0im-nQAEGfx7A=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MYBDIFNRLBGMJDYE2EURJHQ3MI.jpg",
           "summary": "AAA says higher gas prices brought EVs near cost parity with gasoline and hybrid models in three of four segments, but hybrids were cheaper."
-        },
-        {
-          "title": "FTC settles with Greenway Automotive, says dealer continued deceptive pricing after March letter",
-          "link": "https://www.autonews.com/retail/finance-insurance/an-ftc-settles-greenway-automotive-advertising-1008/",
-          "date": "2026-10-08T18:28:11+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/nzW72WPqgfWUmpiaS0OlW9sKiZY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/XYYP2RJZ3BFZJIYOJKW74ECTSQ.jpg",
-          "summary": "The dealership group did not admit or deny wrongdoing in the settlement, which does not include a payment from the company, although fines could be imposed if the group breaches…"
-        },
-        {
-          "title": "North America auto execs talk investment, China; Porsche nixes U.S. factory",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-na-execs-congress-porsche-1008/",
-          "date": "2026-10-08T17:29:29+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/BnlQNqBzLZKpWUI2fjX_l5E8f1M=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/YU75HFGBIBHCLELS54BP6GNDKM.jpg",
-          "summary": "North American executives from GM, Mercedes-Benz and Hyundai talk U.S. investment and China’s threat. Plus, Porsche’s CEO unveils a turnaround plan and rules out a U.S. factory."
-        },
-        {
-          "title": "Defend the Dealership: How to Outsmart Fraud Without Slowing the Sale",
-          "link": "https://www.autonews.com/resource_center/CapitalOne/an-defend-the-dealership-how-to-outsmart-fraud-without-slowing-the-sale/",
-          "date": "2026-10-08T16:33:18+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/8vcrJF-f6Jj2IufP1yB7hvpT4-g=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/W4KWWYQZEBD3JO23P2C2P3E3EY.jpg",
-          "summary": "During this webinar, Tim Mullins, chief market transformation officer at Capital One; Katie O’Neill, head of auto fraud prevention at Capital One; and J. Hanley, divisional…"
-        },
-        {
-          "title": "Higher resin costs, auto shutdowns squeeze OPmobility",
-          "link": "https://www.autonews.com/manufacturing/suppliers/pn-opmobility-2026-outlook-resin-costs-auto-shutdowns/",
-          "date": "2026-10-08T16:27:24+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/wIL6QeP6Ynzpgln77dXYBJGt-B0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JDWBN3BUERABTFMRIBOPEM66EU.jpeg",
-          "summary": "Higher resin costs and unexpected automotive production shutdowns are pressuring OPmobility's results, even as the supplier maintains plans to double U.S. sales and move ahead…"
-        },
-        {
-          "title": "Chinese automakers near Canadian launch as dealer contracts arrive",
-          "link": "https://www.autonews.com/ev/anc-china-expansion-canadian-dealers-dssa-1008/",
-          "date": "2026-10-08T15:47:59+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Ucqz7LV-yys9NB4jGXVWVp_s7so=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/YEYCIOCGEBGDXIGWG6YHIUGKNQ.jpg",
-          "summary": "As many as four domestic China automakers are set to have models certified for Canada by early next year, according to Tim Reuss, CEO of the Canadian Automobile Dealers…"
-        },
-        {
-          "title": "Despite high fuel prices, EVs cost more to own than gas and hybrid models, but the gap is closing: AAA",
-          "link": "https://www.autonews.com/ev/an-evs-not-cheaper-to-operate-versus-gas-hybrid-aaa-1008/",
-          "date": "2026-10-08T15:28:45+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/fpeVzh0kUkeG3kJwiwl-i1G7Zmw=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/KPYGQC6UFZEKPKM76WNSEXRQ2Y.jpg",
-          "summary": "While new EVs saved about 70 percent in fueling costs compared with gas vehicles, electric cars and trucks suffered higher depreciation and financing expenses."
         }
       ],
       "ok": true,
@@ -246,6 +317,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Tesla Is Building Megachargers For Semis Where Truckers Already Stop",
+          "link": "https://insideevs.com/news/811284/pilot-tesla-megacharger-rollout/",
+          "date": "2026-10-09T07:14:28+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/VzbWBM/s3/tesla-megacharger-at-a-pilot-stop.jpg",
+          "summary": "Pilot’s first Megacharger station is already open for business in Georgia, and a dozen more are under construction."
+        },
         {
           "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
           "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/",
@@ -308,13 +386,6 @@
           "date": "2026-10-07T20:32:44+00:00",
           "image": "https://cdn.motor1.com/images/mgl/QeGbqN/s3/mercedes-plug-hero.jpg",
           "summary": "Mercedes-Benz's EV sales skyrocketed in the third quarter, increasing 61% year-over-year."
-        },
-        {
-          "title": "'Magnificent' Or 'Hideous?' People Are Divided On Jaguar's $130,000 EV",
-          "link": "https://insideevs.com/news/811093/jaguar-type-01-public-reaction/",
-          "date": "2026-10-07T19:46:21+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/rK674E/s3/jaguar-type-01.jpg",
-          "summary": "Jaguar's first electric car post its controversial rebrand has arrived. It's just as polarizing as you'd expect."
         }
       ],
       "ok": true,
@@ -580,6 +651,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 October 9 – Stickney Crater",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+          "date": "2026-10-09T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1836&#038;h=1362&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!…"
+        },
+        {
+          "title": "Floodwaters Overwhelm Thailand",
+          "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+          "date": "2026-10-09T04:01:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
+          "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country."
+        },
+        {
           "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
           "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
           "date": "2026-10-08T20:22:12+00:00",
@@ -591,7 +676,7 @@
           "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
           "date": "2026-10-08T19:40:00+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
-          "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The…"
+          "summary": "Editor&#8217;s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific…"
         },
         {
           "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
@@ -633,21 +718,7 @@
           "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
           "date": "2026-10-08T15:46:25+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-doe-mou-release-smaller-image-oct-8.jpg?w=800",
-          "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies…"
-        },
-        {
-          "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
-          "link": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-          "date": "2026-10-08T15:31:24+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg?w=3840&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to…"
-        },
-        {
-          "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
-          "date": "2026-10-08T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=2296&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+          "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy…"
         }
       ],
       "ok": true,
@@ -821,6 +892,13 @@
           "summary": ""
         },
         {
+          "title": "Earth from Space: Namibia’s biggest salt pan",
+          "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+          "date": "2026-10-09T08:00:00+00:00",
+          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
+          "summary": "Image: This image from Copernicus Sentinel-2, acquired on 5 April 2026, shows the Etosha National Park in northern Namibia."
+        },
+        {
           "title": "Splashdown confirmed for Sophie Adenot",
           "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot",
           "date": "2026-10-08T16:51:00+00:00",
@@ -868,13 +946,6 @@
           "date": "2026-10-02T13:10:00+00:00",
           "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/smile_s_first_ultraviolet_image_shows_auroral_substorm/27545329-1-eng-GB/Smile_s_first_ultraviolet_image_shows_auroral_substorm_card_full.png",
           "summary": "Week in images: 28 Sep - 2 Oct 2026 Discover our week through the lens"
-        },
-        {
-          "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
-          "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks",
-          "date": "2026-10-02T10:00:00+00:00",
-          "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/beyond_the_airlock_-_sophie_adenot_s_three_spacewalks/27549738-4-eng-GB/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks_card_full.jpg",
-          "summary": "Video: 00:08:40 For ESA astronaut Sophie Adenot, her first steps into space were only the beginning. In less than 15 days, she performed three extravehicular activities, or EVAs,…"
         }
       ],
       "ok": true,
@@ -1126,6 +1197,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
+          "link": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
+          "date": "2026-10-09T06:01:48+00:00",
+          "image": "https://www.universetoday.com/article_images/backsplash_galaxies-768x512_20261009_055346.webp",
+          "summary": "It's not too often that a high school student-turned undergraduate gets three galaxies named after him, especially ones that are breaking the rules of star formation. Julian…"
+        },
+        {
+          "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
+          "link": "https://www.universetoday.com/articles/webb-observes-extreme-debris-disks-providing-a-window-into-the-early-solar-system",
+          "date": "2026-10-09T02:25:49+00:00",
+          "image": "https://www.universetoday.com/article_images/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4_20261008_213502.jpg",
+          "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, creating the Earth-Moon system. Using Webb,…"
+        },
+        {
           "title": "To Win A Nobel Prize, Go To The Ends Of The Earth",
           "link": "https://www.universetoday.com/articles/to-win-a-nobel-prize-go-to-the-ends-of-the-earth",
           "date": "2026-10-08T16:34:32+00:00",
@@ -1180,20 +1265,6 @@
           "date": "2026-10-06T10:12:28+00:00",
           "image": "https://www.universetoday.com/article_images/Dewar_LROC_20261005_135122.jpg",
           "summary": "Scientists know for certain the moon doesn’t currently have a magnetosphere. But they’ve been debating for decades about whether it ever did. Data from both Apollo samples and…"
-        },
-        {
-          "title": "New Simulations Connect the First Galaxies to the Universe We See Today",
-          "link": "https://www.universetoday.com/articles/new-simulations-connect-the-first-stars-to-cosmic-fingerprints-still-visible-today",
-          "date": "2026-10-05T22:33:00+00:00",
-          "image": "https://www.universetoday.com/article_images/Webb_s_first_deep_field_20261005_222100.png",
-          "summary": "In a recent study, researchers at the international MEGATRON project used some of the most detailed simulations of the early Universe to investigate how the first stars and…"
-        },
-        {
-          "title": "Chandra X-ray Observatory Drops New View of our Galaxy’s Unruly Centre",
-          "link": "https://www.universetoday.com/articles/chandra-x-ray-observatory-drops-new-view-of-our-galaxys-unruly-centre",
-          "date": "2026-10-05T15:52:00+00:00",
-          "image": "https://www.universetoday.com/article_images/sgrae_20261005_154750.jpg",
-          "summary": "The core of the Milky Way is a dense, active, messy region, dominated by a supermassive black hole called Sagittarius A* (Sgr A*) hiding at the heart of the galaxy. But Sgr A* is…"
         }
       ],
       "ok": true,
@@ -1325,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Four astronauts return to Earth after eight months in space",
+          "link": "https://phys.org/news/2026-10-astronauts-earth-months-space.html",
+          "date": "2026-10-09T08:13:30+00:00",
+          "image": null,
+          "summary": "Four astronauts returned to Earth from the International Space Station on Thursday after hurrying there eight months ago to replace an ailing colleague and his crew."
+        },
+        {
           "title": "Astronomers pinpoint the most distant fast radio burst ever detected",
           "link": "https://phys.org/news/2026-10-astronomers-distant-fast-radio.html",
           "date": "2026-10-08T18:00:36+00:00",
@@ -1353,11 +1431,11 @@
           "summary": "The European Space Agency–led Solar Orbiter spacecraft has flown through an S-shaped kink known as a \"switchback\" in the solar wind's magnetic field. By fingerprinting the elusive…"
         },
         {
-          "title": "Margaret Hamilton, scientist who worked on NASA's Apollo program, dead at 90",
+          "title": "Margaret Hamilton, who led a software team for NASA's Apollo program, dies at 90",
           "link": "https://phys.org/news/2026-10-margaret-hamilton-scientist-nasa-apollo.html",
           "date": "2026-10-08T08:37:04+00:00",
           "image": null,
-          "summary": "American scientist Margaret Hamilton, who led development of the computer system used by NASA's Apollo lunar program, has died at 90, her former employer said Wednesday."
+          "summary": "Margaret Hamilton, a groundbreaking computer scientist who led the team that created the onboard flight software for NASA's moon-bound Apollo program and later in life was…"
         },
         {
           "title": "Artemis II crew moon photo annotations",
@@ -1386,13 +1464,6 @@
           "date": "2026-10-07T15:01:01+00:00",
           "image": null,
           "summary": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some exotic…"
-        },
-        {
-          "title": "Alcohol in space: Exotic methanol discovered in planet-building zones",
-          "link": "https://phys.org/news/2026-10-alcohol-space-exotic-methanol-planet.html",
-          "date": "2026-10-07T14:40:18+00:00",
-          "image": null,
-          "summary": "An international team of astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA), of which the U.S. National Science Foundation National Radio Astronomy…"
         }
       ],
       "ok": true,
@@ -1488,6 +1559,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "24 Years Later, the Spy Thriller Series That Changed Hollywood Forever Is Streaming on Netflix",
+          "link": "https://www.polygon.com/the-bourne-trilogy-is-streaming-on-netflix/",
+          "date": "2026-10-09T08:00:19+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-bourne-supremacy.jpg",
+          "summary": "The Bourne movies remain some of the grittiest, most thrilling spy action Hollywood has ever made."
+        },
+        {
+          "title": "Avatar: Seven Havens Review: A Near-Perfect Followup to a Fantasy Masterpiece",
+          "link": "https://www.polygon.com/avatar-seven-havens-review/",
+          "date": "2026-10-09T07:00:16+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pavi-releases-a-bug-while-geet-watches-in-avatar-seven-havens.JPG",
+          "summary": "The Legend of Korra sequel is packed with mystery, action, and heart. Read our review of Avatar: Seven Havens."
+        },
+        {
+          "title": "CBS's Sleeper Hit Sitcom of the Decade Is Officially Free on Streaming",
+          "link": "https://www.polygon.com/ghosts-cbs-free-streaming-pluto-tv-october-2026/",
+          "date": "2026-10-09T04:43:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/2-1.jpg",
+          "summary": "This US adaptation of a British classic is well worth your time. Stream 'Ghosts' now for free on Pluto TV."
+        },
+        {
+          "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Officially Finds a New Streaming Home",
+          "link": "https://www.polygon.com/sydney-sweeney-erotic-thriller-hbo-max/",
+          "date": "2026-10-09T04:00:22+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/opera-snapshot_2026-10-08_005752_www-imdb-com.png",
+          "summary": "An enjoyably tense thriller that can be savored over the weekend."
+        },
+        {
           "title": "After 4 Hours, Phantom Blade Zero Just Became My Most-Anticipated Action Game",
           "link": "https://www.polygon.com/phantom-blade-zero-hands-on-gameplay-preview/",
           "date": "2026-10-09T00:00:16+00:00",
@@ -1528,34 +1627,6 @@
           "date": "2026-10-08T18:26:07+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/r6-mobile.jpg",
           "summary": "Rainbow Six Mobile is shutting down in 2027, Ubisoft announced just months after the Android and iOS R6 game officially launched."
-        },
-        {
-          "title": "All power upgrade point locations in Control Resonant",
-          "link": "https://www.polygon.com/control-resonant-power-upgrade-point-locations/",
-          "date": "2026-10-08T18:25:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/power-upgrade-point-crate_cr.jpg",
-          "summary": "Where to find power upgrade points, so you can use more of your combat abilities in Control Resonant."
-        },
-        {
-          "title": "13 Years Later, One of Telltale’s Greatest Games Is Officially Making a Comeback",
-          "link": "https://www.polygon.com/the-wolf-among-us-remastered-release-date/",
-          "date": "2026-10-08T18:20:16+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-wolf-among-us-header.png",
-          "summary": "The Big Bad Wolf returns."
-        },
-        {
-          "title": "'Exploring Pendola Pass' quest walkthrough in Arc Raiders",
-          "link": "https://www.polygon.com/arc-raiders-exploring-pendola-pass-quest-walkthrough/",
-          "date": "2026-10-08T18:00:10+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/arc-raiders-exploring-pendola-pass-header.jpg",
-          "summary": "A guide on how to complete the \"Exploring Pendola Pass\" quest in Arc Raiders, including where to find the control room at the Cielo Sereno Observatory"
-        },
-        {
-          "title": "Magic’s Most Versatile Mechanic Comes to Disney Lorcana With a Clever Twist",
-          "link": "https://www.polygon.com/disney-lorcana-ink-drops-guide-strategy-mtg-treasure-tokens/",
-          "date": "2026-10-08T17:30:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/093_dlcs14_honeylemon_testingthelimits_en-1.png",
-          "summary": "Lorcana's new Ink Drops resemble Treasure tokens, but a various Hyperia City card combos reveal they're a bit more complicated than you might think."
         }
       ],
       "ok": true,
@@ -2268,6 +2339,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "US Army’s cheap Blackbeard hypersonic missile gets its first ground launch glimpse",
+          "link": "https://interestingengineering.com/military/blackbeard-hypersonic-missile-ground-launcher-castelion",
+          "date": "2026-10-09T07:52:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Blackbeard-hypersonic-missile.jpg",
+          "summary": "Defense startup Castelion has released what appears to be the first image of its low-cost..."
+        },
+        {
+          "title": "PhotoTat: Switchable tattoo ink lets you hide your body art at work, no laser needed",
+          "link": "https://interestingengineering.com/innovation/phototat-tattoo-inks-switch-on-off-uv-light",
+          "date": "2026-10-09T07:46:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/invisible-tattoos.jpg",
+          "summary": "Engineers have designed a new line of multicolored tattoo inks that switch on and off..."
+        },
+        {
           "title": "Green hydrogen process reaches 98% efficiency while producing valuable chemicals",
           "link": "https://interestingengineering.com/innovation/green-hydrogen-process-higher-efficiency",
           "date": "2026-10-09T00:57:55+00:00",
@@ -2322,20 +2407,6 @@
           "date": "2026-10-08T21:43:05+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T005358.359.jpg",
           "summary": "BAE Systems has won a $230.1 million contract from the U.S. Marine Corps to produce..."
-        },
-        {
-          "title": "World’s first drone to reach the stratosphere climbs 34,245 feet for weather data",
-          "link": "https://interestingengineering.com/innovation/weather-drone-34245-feet-strato-meteomatics",
-          "date": "2026-10-08T21:28:02+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/image.jpeg",
-          "summary": "Swiss weather technology company Meteomatics has unveiled a multicopter drone that it says reached an..."
-        },
-        {
-          "title": "‘Modern-day Thomas Edison’ Elon Musk receives National Medal of Science from Trump",
-          "link": "https://interestingengineering.com/culture/elon-musk-donald-trump-science-medal",
-          "date": "2026-10-08T20:56:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T021926.540.jpg",
-          "summary": "President Donald Trump awarded Elon Musk the National Medal of Science on Thursday, praising the..."
         }
       ],
       "ok": true,
