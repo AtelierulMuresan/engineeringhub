@@ -1,16 +1,30 @@
 {
-  "updated": "2026-10-21T07:12:14.048256+00:00",
+  "updated": "2026-10-21T13:32:27.958482+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
         {
-          "title": "BMW Group, IONNA and Alpitronic join forces to demonstrate High-Power Charging: up to 460 kW for the new BMW iX5 60 xDrive",
+          "title": "MINI celebrates historic Rebelle Rally Debut with Third-Place Podium Finish and Two Team Awards.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0462033EN?language=en",
+          "date": "2026-10-21T10:00:00+00:00",
+          "image": null,
+          "summary": "+++ The MINI US team earn third place in the X-Cross class, Rookie of the Year honors, and the “Challenge Accepted” Award +++ MINI’s first-ever appearance at one of the longest…"
+        },
+        {
+          "title": "BMW M Motorsport thanks Philipp Eng for eleven successful years together.",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0462034EN?language=en",
+          "date": "2026-10-21T08:04:55+00:00",
+          "image": null,
+          "summary": "+++ From 2027, BMW M Motorsport and Philipp Eng will go their separate ways after eleven years together +++ Eng is one of the most successful BMW M works drivers with, among other…"
+        },
+        {
+          "title": "BMW Group, IONNA and Alpitronic join forces to demonstrate High-Power-Charging: up to 460 kW for the new BMW iX5 60 xDrive",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0461971EN?language=en",
           "date": "2026-10-20T15:15:00+00:00",
           "image": null,
-          "summary": "BMW Group, IONNA and Alpitronic join forces to demonstrate High-Power Charging: up to 460 kW for the new BMW iX5 60 xDrive"
+          "summary": "BMW Group, IONNA and Alpitronic join forces to demonstrate High-Power-Charging: up to 460 kW for the new BMW iX5 60 xDrive"
         },
         {
           "title": "Racing technology for the road: The new M Motorsport frame for the BMW M 1000 RR.",
@@ -60,20 +74,6 @@
           "date": "2026-10-15T11:30:00+00:00",
           "image": null,
           "summary": "+++ Landmark exhibition presented by Zeitz MOCAA, AFMAC, and BMW on view from 11 December 2026 to 15 August 2027 +++ BMW Art Car #20 designed by Julie Mehretu on display in the…"
-        },
-        {
-          "title": "BMW Group begins series production of Gen6 high-voltage batteries in Shenyang",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461769EN?language=en",
-          "date": "2026-10-15T06:00:00+00:00",
-          "image": null,
-          "summary": "+++ Shenyang is the third location in the global Gen6 production network +++ Local production of high-voltage batteries for Neue Klasse models in China +++ New cylindrical cells…"
-        },
-        {
-          "title": "BMW Group records third-quarter growth in Europe and the US",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461724EN?language=en",
-          "date": "2026-10-13T09:00:00+00:00",
-          "image": null,
-          "summary": "+++ BMW Group delivers over 1.7 million vehicles by end of September +++ MINI brand posts 6.8% growth in first nine months of 2026 +++ Double-digit BEV sales growth year to date…"
         }
       ],
       "ok": true,
@@ -160,154 +160,83 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [
-        {
-          "title": "Nissan makes Sonatus AI standard in European validation",
-          "link": "https://www.automotiveworld.com/news/nissan-makes-sonatus-ai-standard-in-european-validation/",
-          "date": "2026-10-21T06:51:13+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Event-driven data capture and AI root-cause analysis have cut NTCE's software fault investigations from two weeks to two days. The post Nissan makes Sonatus AI standard in…"
-        },
-        {
-          "title": "Samsung bets on mature 8nm node for automotive and robots",
-          "link": "https://www.automotiveworld.com/news/samsung-bets-on-mature-8nm-node-for-automotive-and-robots/",
-          "date": "2026-10-21T06:31:24+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Samsung Foundry's second-generation 8LPU+ platform targets automotive, robotics and edge AI chips that do not need leading-edge nodes. The post Samsung bets on mature 8nm node for…"
-        },
-        {
-          "title": "Axera follows Leapmotor into Europe with ADAS chip",
-          "link": "https://www.automotiveworld.com/news/axera-follows-leapmotor-into-europe-with-adas-chip/",
-          "date": "2026-10-21T06:24:58+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The Chinese chipmaker now ships to more than 50,000 vehicles a month and claims a third of its ADAS chip segment in China. The post Axera follows Leapmotor into Europe with ADAS…"
-        },
-        {
-          "title": "Aeva wins Australian approval for LiDAR speed verification",
-          "link": "https://www.automotiveworld.com/news/aeva-wins-australian-approval-for-lidar-speed-verification/",
-          "date": "2026-10-21T06:16:29+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Aeva's FMCW lidar measures velocity directly and can monitor up to six lanes in both directions from a single roadside sensor The post Aeva wins Australian approval for LiDAR…"
-        },
-        {
-          "title": "GAC launches S7 plug-in hybrid SUV in Swiss market",
-          "link": "https://www.automotiveworld.com/news/gac-launches-s7-plug-in-hybrid-suv-in-swiss-market/",
-          "date": "2026-10-21T06:13:29+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "The S7 adds a plug-in hybrid to GAC's Swiss range as the Chinese carmaker builds its European presence, including assembly in Austria. The post GAC launches S7 plug-in hybrid SUV…"
-        },
-        {
-          "title": "Aeva LiDAR certified for speed enforcement in Australia",
-          "link": "https://www.automotiveworld.com/news/aeva-lidar-certified-for-speed-enforcement-in-australia/",
-          "date": "2026-10-21T06:00:10+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Aeva's Atlas 4D lidar has been certified in Australia as a secondary speed sensor in Sensys Gatso's automated enforcement systems The post Aeva LiDAR certified for speed…"
-        },
-        {
-          "title": "UK edges towards China EV tariffs ahead of EU summit",
-          "link": "https://www.automotiveworld.com/news/uk-edges-towards-china-ev-tariffs-ahead-of-eu-summit/",
-          "date": "2026-10-20T16:47:02+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "China can hurt individual UK exporters, but exclusion from Made in Europe would hit every British plant. By Stewart Burnett The post UK edges towards China EV tariffs ahead of EU…"
-        },
-        {
-          "title": "Europe carries global EV growth as US and China stall",
-          "link": "https://www.automotiveworld.com/intelligence/europe-carries-global-ev-growth-as-us-and-china-stall/",
-          "date": "2026-10-20T16:36:37+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Europe's record EV month arrives as France and Germany move to soften 2035 targets, undermining their case that demand lags policy. By Stewart Burnett The post Europe carries…"
-        },
-        {
-          "title": "GM tightens full-year guidance; tough Q4 ahead",
-          "link": "https://www.automotiveworld.com/analysis/gm-tightens-full-year-guidance-tough-q4-ahead/",
-          "date": "2026-10-20T12:16:14+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "GM exceeded analyst expectations once again, but its tightened guidance range indicates that a difficult final quarter is approaching. By Will Girling The post GM tightens…"
-        },
-        {
-          "title": "Hyundai and Kia map shift to software-defined factories",
-          "link": "https://www.automotiveworld.com/news/hyundai-and-kia-map-shift-to-software-defined-factories/",
-          "date": "2026-10-20T09:13:07+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Hyundai Motor and Kia are showing around 200 manufacturing technologies at E-Forest Tech Day as they move to software-defined plants The post Hyundai and Kia map shift to…"
-        }
-      ],
-      "ok": true,
-      "from_cache": false
+      "items": [],
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='www.automotiveworld.com', port=443): Read timed out. (read timeout=12)"
     },
     {
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
         {
-          "title": "First Shift: Honda, Toyota bet on humanoid robot workers",
-          "link": "https://www.autonews.com/video/first-shift-honda-toyota-bet-on-humanoid-robot-workers/",
-          "date": "2026-10-20T19:18:41+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0_q2oy5kWc_4N1AkL_7S_PYjarM=/0x800/d3qtc8km8dvw1x.cloudfront.net/10-20-2026/t_889e4fffbdf641828dbcd084a9c8ab12_name_file_960x540_1600_v4_.jpg",
-          "summary": "What a blue wave could mean for automakers | GM adjusts plans at battery, hydrogen sites | Unifor members authorize Stellantis strike"
+          "title": "Mercedes CEO Ola Kallenius warns of EU protectionism triggering higher costs",
+          "link": "https://www.autonews.com/mercedes-benz/ane-mercedes-eu-protectionism-warning-1021/",
+          "date": "2026-10-21T13:03:59+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3gbQLVf_0XwnCPtoAByUkzoIUt0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/HUEOMHBSVBDIXM4IXQZ4UO4I3Y.png",
+          "summary": "Mercedes CEO Ola Kallenius says EU \"Made in Europe\" rules could build resilience but raise costs, urging Brussels to pursue more trade deals as protectionism returns."
         },
         {
-          "title": "NADA elects Toyota dealer Jeff Weber as 2027 vice chairman; Sandy Fitzgerald Angello to serve as chairman",
-          "link": "https://www.autonews.com/retail/nada/an-nada-vice-chair-iowa-toyota-2027-1020/",
-          "date": "2026-10-20T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/GU2AUE4S9NEbvYNKfoEe7hYtoCU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/CQNCD6HXGFDDVKSQMXBR3TYXHM.jpg",
-          "summary": "Weber is a third-generation dealer who has been in the auto retail business himself since 1999."
+          "title": "Achieving Appraisal Consistency: An Acquisition-First Playbook",
+          "link": "https://www.autonews.com/resource_center/cox-automotive/an-achieving-appraisal-consistency-an-acquisition-first-playbook/",
+          "date": "2026-10-21T13:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/69h5hQTOtbd-0Ylc1eB3e3ulO4w=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/HNOCI33Y3VAMRACRKBQD7IT6ZY.jpg",
+          "summary": "In this session, Jon Phillips, strategic planning director for Cox Automotive, will introduce an acquisition-first playbook for turning that potential into a disciplined and…"
         },
         {
-          "title": "GM closes EV battery plant, Leapmotor starts building EVs and batteries in Europe",
-          "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-gm-electrification-leapmotor-1020/",
-          "date": "2026-10-20T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Q0rWqdAN0Kx2sMLEiN3ywvx3mmQ=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SZ6NXNND2NABPKNSYM3LG36VGY.png",
-          "summary": "Today’s stories show another step back from electrification in the U.S. as Americans continue to favor gasoline-powered trucks."
+          "title": "NHTSA CAFE rule may incentivize automakers to offshore production",
+          "link": "https://www.autonews.com/regulation-safety/an-vehicle-reclassification-nhtsa-offshoring-1021/",
+          "date": "2026-10-21T11:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/MN6CnbicDluhPT2qyU66yHeDdZg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/GKVQMDHRHBEHDNARVSLIUEWD3I.webp",
+          "summary": "NHTSA’s vehicle reclassification could encourage automakers to shift production overseas if future administrations tighten fuel economy standards."
         },
         {
-          "title": "GM more than doubles profit; dealer Michelle Primm: Tech has gone too far",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-gm-profit-doubles-michelle-primm-rotr-1020/",
-          "date": "2026-10-20T16:29:01+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/qWff_qMOq-ppayhMliHlNV7sDxM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/F25L5JASGZBTNNPB6YK5VCM2LQ.jpg",
-          "summary": "GM’s third-quarter profit more than doubles. Dakkota closes a Detroit plant after losing two SUV contracts. Plus, one dealer’s take on technology from Retail on the Record."
+          "title": "Why plug-in hybrids emit nearly as much CO2 as combustion cars, and what it means for EU targets",
+          "link": "https://www.autonews.com/ev/ane-phevs-emissions-co2-ices-eu-targets-1020/",
+          "date": "2026-10-21T10:32:58+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ZTq-TOg_GWDNTjt29-oZ8mc0104=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/RYANJMMFMRDYNOLNUXNBDQRXKY.jpeg",
+          "summary": "The findings from green group T&amp;E arrive as EU lawmakers decide whether to keep a planned correction to how regulators calculate PHEV emissions."
         },
         {
-          "title": "Key EU lawmakers strike deal to relax 2035 car emissions target",
-          "link": "https://www.autonews.com/manufacturing/automakers/ane-eu-emissions-rules-reprieve-2035-1020/",
-          "date": "2026-10-20T15:43:57+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/2j0CiiCJylTCx1oRhwOL-7tSTKs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/PXNGXIE7EEXTTKQ5ML4Q7R4CHM.jpg",
-          "summary": "Lawmakers from three major blocs back looser 2035 emissions rules for automakers, a move that would let combustion-engine vehicles stay on sale while critics warn of lost ground…"
+          "title": "Why Renault wants fewer, deeper partnerships as Chinese rivals gain in Europe",
+          "link": "https://www.autonews.com/renault/ane-renault-provost-partnerships-1021/",
+          "date": "2026-10-21T10:32:29+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/YxhG-ZCM4gMizR007tMPExbB2Fk=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JHTKR3WUYRB63L54HFFHHGT5UI.jpg",
+          "summary": "Renault CEO Francois Provost says the automaker will focus on making its existing alliances with Geely, Nissan and Ford succeed, rather than adding new partners."
         },
         {
-          "title": "GM’s Q3 profit more than doubles on trucks and software, but inflation clouds outlook",
-          "link": "https://www.autonews.com/general-motors/an-gm-q3-2026-earnings-1020/",
-          "date": "2026-10-20T15:19:13+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/7UIDM8R8EBrArcS2CF0SLY6qSxA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/LKSZHKTHNVDT7HNK3EOD5VQUBM.jpg",
-          "summary": "Strong sales of profitable pickups and surging revenue from the automaker's software and subscription services more than offset rising inflation."
+          "title": "America’s Car-Mart in talks for sale as subprime auto struggles",
+          "link": "https://www.autonews.com/retail/used-cars/an-americas-car-mart-sale-talks-1021/",
+          "date": "2026-10-21T10:28:06+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/NOkC0be4U1aR5fonaFz1t0-4-og=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/A7PPSVDN5ZFSHJVQ3EM7G63RKM.jpg",
+          "summary": "Discussions center around a deal that would be executed through a court-supervised Chapter 11 sale process or via a shareholder vote."
         },
         {
-          "title": "Tesla Model Y tops Europe sales as brand sets monthly record",
-          "link": "https://www.autonews.com/retail/sales/ane-europe-top-50-september-2026-1020/",
-          "date": "2026-10-20T14:57:38+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/1C6YF_h6ub6aMiFOzvGiDcVM8HI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/DFVRY5M6DBD6DFBV3X7F7XTKUE.jpg",
-          "summary": "Tesla’s Model Y and Model 3 swept Europe’s top two spots in September, lifting the automaker to a record month as Jaecoo 7 became the first Chinese-brand model in the top 10."
+          "title": "Mercedes-Benz dealership sued after 3 people, including employee, injured inside service area",
+          "link": "https://www.autonews.com/retail/service-and-parts/an-mercedes-benz-dealership-service-lawsuit-1021/",
+          "date": "2026-10-21T10:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/dWgn3HZXHnRgYpVN-BWuOjreZFo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4JUFKIG3RRBOBDIKD2IEAVXUPI.jpg",
+          "summary": "Three people were injured, including customers and a dealership employee."
         },
         {
-          "title": "In our opinion: Penske’s go-private deal is about control more than capital",
-          "link": "https://www.autonews.com/opinion/editorials/an-editorial-private-penske-automotive-1020/",
-          "date": "2026-10-20T14:48:38+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/wy9GR3QISjQ4brX5xqssfBQ2Lo8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TR2DA323XVAMFMMPAVKPO2ULS4.jpg",
-          "summary": "Penske Corp. and Mitsui's $3.9 billion offer ends a decades-long run for Penske Automotive Group stock and gives its owners full control as 89-year-old Roger Penske's eventual…"
+          "title": "Dealership employee tried to get car fixed at work after fatal hit-and-run, Florida police say",
+          "link": "https://www.autonews.com/retail/an-dealership-worker-hit-and-run-1021/",
+          "date": "2026-10-21T10:00:01+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/p2PIQu-O42Ho8fxB-kzfY5ZUnQE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/ZEOUVTVQ25EANHLMZLZ3UHAZL4.jpg",
+          "summary": "An employee at Lexus of North Miami noticed blood while preparing a repair estimate for a coworker."
         },
         {
-          "title": "2027 Mercedes-Benz GLE reviews: More tech, power behind a familiar face",
-          "link": "https://www.autonews.com/car-concepts/an-20-27-mercedes-gle-reviews-critics-corner-1020/",
-          "date": "2026-10-20T13:53:08+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/h30gH8odRQkPk31rb5hfunewLxI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/46IKFZMQGFFSTKFKXZEEMTSTBI.jpg",
-          "summary": "The GLE lineup, Mercedes’ top seller in the U.S., still includes a more powerful Mercedes-AMG variant, as well as a coupe version with a more raked profile."
+          "title": "Column: Trump tariffs not working according to actual data",
+          "link": "https://www.autonews.com/opinion/columns/anc-trump-auto-tariffs-not-working-opinion-1013/",
+          "date": "2026-10-21T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/lSj6-FF_36FJqaW1lM5-L6nLeM8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4IF2HF6I3VBCPEI6JA7LKVVMBE.jpg",
+          "summary": "Donald Trump's auto tariff policy might not be directly responsible job losses, market conditions matter. But it certainly hasn’t delivered the job growth the president promised."
         },
         {
-          "title": "Retail on the Record: Cascade Auto Group Managing Partner Michelle Primm discusses tariffs, affordability and how to fix Audi",
-          "link": "https://www.autonews.com/retail/retail-on-the-record/an-rotr-michelle-primm-1020/",
-          "date": "2026-10-20T13:39:14+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/rCyd7aU1HPgcIRDSN2di4JYwcaU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/L6YM6TKZBZCN5JFL5CV2QN7SME.png",
-          "summary": "Cascade Auto Group Managing Partner Michelle Primm talks about why Audi leadership needs to listen to its U.S. dealer network."
+          "title": "Lexus targets growth with electrified, simplified NX lineup",
+          "link": "https://www.autonews.com/manufacturing/automakers/anc-lexus-nx-targets-growth-rebecca-wu-1021/",
+          "date": "2026-10-21T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/sxNHjhPGsGMZseHRC62HePe0_vE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/PWEX2LW4FZDQRHEAUB66CIU4DY.jpg",
+          "summary": "The hybrid NX is particularly important because it provides an accessible entry point for customers considering the Lexus brand"
         }
       ],
       "ok": true,
@@ -317,6 +246,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Electrify America’s Largest EV Charging Station Is Missing One Big Thing",
+          "link": "https://insideevs.com/news/812699/electrify-america-largest-ev-station-florida/",
+          "date": "2026-10-21T07:26:38+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/407vOK/s3/eletrify-america.jpg",
+          "summary": "The company’s newest station is now open for business in Orlando, Florida."
+        },
         {
           "title": "Can The BMW iX3 Take Down The Tesla Model Y L And Rivian R2?",
           "link": "https://insideevs.com/news/812651/bmw-ix3-tesla-rivian-comparison/",
@@ -379,13 +315,6 @@
           "date": "2026-10-19T19:39:35+00:00",
           "image": "https://cdn.motor1.com/images/mgl/JOZgPE/s3/2025-ford-mustang-mach-e.jpg",
           "summary": "Booming used EV sales suggest people do want plug-in models, as long as the price is right."
-        },
-        {
-          "title": "Nio's Little Electric Car Has A Cool Party Trick: Upgradeable Range",
-          "link": "https://insideevs.com/news/812479/nio-firefly-battery-pack-upgrade/",
-          "date": "2026-10-19T19:04:38+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/8AxG1e/s3/nio-firefly-2025.jpg",
-          "summary": "This isn't the first Nio to have swappable batteries but the ability to upgrade is something few EVs have."
         }
       ],
       "ok": true,
@@ -488,6 +417,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "LAIKA Adopts PrismSlicer to Preview Full-Color 3D Printed Faces",
+          "link": "https://3dprintingindustry.com/news/laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces-255850/?utm_source=rss&utm_medium=rss&utm_campaign=laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces",
+          "date": "2026-10-21T10:35:08+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "From design to quality control—find your next software advantage at AMA Software 2026.&#160; Prague-based software developer Additive Appearance has signed an agreement with…"
+        },
+        {
+          "title": "Build-It-Yourself OpenCAL Volumetric 3D Printer Forms Whole Parts in 90 Seconds for $1,600",
+          "link": "https://3dprintingindustry.com/news/build-it-yourself-opencal-volumetric-3d-printer-forms-whole-parts-in-90-seconds-for-1600-255846/?utm_source=rss&utm_medium=rss&utm_campaign=build-it-yourself-opencal-volumetric-3d-printer-forms-whole-parts-in-90-seconds-for-1600",
+          "date": "2026-10-21T10:31:14+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Your printers are only part of the story. Explore what software makes possible at AMA Software 2026.&#160; Researchers at the University of California, Berkeley have publicly…"
+        },
+        {
           "title": "Nike and Zellerfeld Print Air Max’s Future, One City at a Time",
           "link": "https://3dprintingindustry.com/news/nike-and-zellerfeld-print-air-maxs-future-one-city-at-a-time-255838/?utm_source=rss&utm_medium=rss&utm_campaign=nike-and-zellerfeld-print-air-maxs-future-one-city-at-a-time",
           "date": "2026-10-20T21:11:56+00:00",
@@ -542,20 +485,6 @@
           "date": "2026-10-20T08:48:27+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Braided vascular structures 3D printed from nitinol can be squeezed to half their…"
-        },
-        {
-          "title": "Creality opens K3 pre-orders at $849 with four-nozzle system to cut multi-color purge waste",
-          "link": "https://3dprintingindustry.com/news/creality-opens-k3-pre-orders-at-849-with-four-nozzle-system-to-cut-multi-color-purge-waste-255796/?utm_source=rss&utm_medium=rss&utm_campaign=creality-opens-k3-pre-orders-at-849-with-four-nozzle-system-to-cut-multi-color-purge-waste",
-          "date": "2026-10-20T08:46:44+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Spend less time fixing files. Discover smarter workflows at AMA Software 2026.&#160; Creality has opened U.S. pre-orders for the K3, the newest printer in its K Series, with…"
-        },
-        {
-          "title": "INTERVIEW: “One minute to midnight”: Josef Prusa on 3D printing’s new terms of competition",
-          "link": "https://3dprintingindustry.com/news/interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition-255791/?utm_source=rss&utm_medium=rss&utm_campaign=interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition",
-          "date": "2026-10-19T13:43:54+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "Affordable printers are taking on production work. Josef Prusa argues that the companies supplying them face a contest increasingly shaped by finance, software, IP and strategic…"
         }
       ],
       "ok": true,
@@ -651,6 +580,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+          "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+          "date": "2026-10-21T12:17:58+00:00",
+          "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of…"
+        },
+        {
           "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
           "date": "2026-10-21T04:05:00+00:00",
@@ -712,13 +648,6 @@
           "date": "2026-10-20T04:05:00+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=2048&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
-        },
-        {
-          "title": "The Human Fingerprint on Earth’s Water Cycle",
-          "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
-          "date": "2026-10-20T04:01:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg?w=2000&#038;h=1380&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus."
         }
       ],
       "ok": true,
@@ -954,78 +883,7 @@
     {
       "name": "Space.com",
       "cat": "space",
-      "items": [
-        {
-          "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
-          "date": "2026-10-20T22:29:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/bdHKBGYDk9vQ58gCeTzvgW-1920-80.jpg",
-          "summary": "SpaceX will try to recover both Starship stages during the megarocket's next test flight, which is expected to take place in November, according to Elon Musk."
-        },
-        {
-          "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
-          "date": "2026-10-20T20:59:48+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/jCa3PH9LDuQSYgKeP4U3ME-1920-80.jpg",
-          "summary": "On Oct. 20, 1970, the Soviet Union launched the Zond 8 spacecraft on a mission to the moon. Here's why it mattered."
-        },
-        {
-          "title": "Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for!",
-          "link": "https://www.space.com/entertainment/space-books/cant-make-it-to-the-lucas-museum-of-narrative-art-for-the-star-wars-display-this-is-the-companion-book-set-youre-looking-for",
-          "date": "2026-10-20T20:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/KPkNFDYQLrena9wtMDRGie-1920-80.png",
-          "summary": "Prepare for a lightspeed tour of Lucas's lifetime collection ofpaintings, posters, comics, concept art, and illustrations"
-        },
-        {
-          "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
-          "link": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
-          "date": "2026-10-20T18:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/qQuDb494HLSgU6vqBdfRKQ-1920-80.jpg",
-          "summary": "If Blue Origin goes public, it will have to meet the expectations of shareholders. Jeff Bezos may therefore want to establish a stronger business before committing to a listing."
-        },
-        {
-          "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
-          "link": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
-          "date": "2026-10-20T17:42:41+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-          "summary": "And yes, it has AI."
-        },
-        {
-          "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
-          "link": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
-          "date": "2026-10-20T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/kpKnt6iK8TJPyzvmtScoCC-1920-80.jpg",
-          "summary": "The right apps can take a lot of the work out of stargazing, but they can also stop your eyes from adjusting to the dark. Here's how to use them without ruining your skywatching."
-        },
-        {
-          "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
-          "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
-          "date": "2026-10-20T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/SYz8yGvWhQXAWk9JrqK369-1920-80.png",
-          "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this."
-        },
-        {
-          "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
-          "link": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
-          "date": "2026-10-20T12:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/M3zAUn7nqXc4GWceASqYac-1920-80.jpg",
-          "summary": "The space around Earth is turning into a junkyard. Researchers think a refundable deposit scheme could force satellite operators to clean up their act before a tipping point is…"
-        },
-        {
-          "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
-          "date": "2026-10-20T11:16:37+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/357C7FjvMFXnP6krGTgWxH-1920-80.png",
-          "summary": "SpaceX launched its Starfall return capsule for the second time ever this morning (Oct. 20), sending it up on the Bandwagon-5 rideshare mission."
-        },
-        {
-          "title": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
-          "link": "https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did",
-          "date": "2026-10-20T10:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/BMVq9w3fG6m5zzzFvmqm9d-1920-80.jpg",
-          "summary": "NASA's OSIRIS-REx asteroid-sampling mission formally ended on Sept. 30, 2026, though scientists will continue to study the pieces of space rock it returned for decades."
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -1033,6 +891,20 @@
       "name": "SpaceNews",
       "cat": "space",
       "items": [
+        {
+          "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+          "link": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
+          "date": "2026-10-21T12:00:00+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_nasa_solstar_momentus_iridium_proximity_operation_render_no_logos.png?fit=879%2C494&amp;ssl=1",
+          "summary": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data…"
+        },
+        {
+          "title": "Summer of Quantum: Building momentum for space-based QKD",
+          "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
+          "date": "2026-10-21T11:54:30+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&amp;ssl=1",
+          "summary": "Glasgow, UK &#124; 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft…"
+        },
         {
           "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
           "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
@@ -1088,20 +960,6 @@
           "date": "2026-10-08T13:57:38+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-jhu-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
           "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab,…"
-        },
-        {
-          "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
-          "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
-          "date": "2026-10-07T14:18:18+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2025-icon-awards-Purdy.jpg?fit=1024%2C768&amp;ssl=1",
-          "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon…"
-        },
-        {
-          "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
-          "link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
-          "date": "2026-10-06T19:20:20+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/DSI_short-Logo_OUTLINE-scaled.png?fit=1024%2C791&amp;ssl=1",
-          "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12&#8243; × 30&#8243; format…"
         }
       ],
       "ok": true,
@@ -1190,6 +1048,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "A Chartreuse White Dwarf Shows Some Stars Really Are Green",
+          "link": "https://skyandtelescope.org/astronomy-news/a-chartreuse-white-dwarf-shows-some-stars-really-are-green/",
+          "date": "2026-10-21T12:00:00+00:00",
+          "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
+          "summary": "The stars in our galaxy come in a beautiful assortment of colors. We see supergiants such as Betelgeuse that have a warm red glow, and others like Rigel that shine [&#8230;] The…"
+        },
+        {
           "title": "Japan Launches the Martian Moons Exploration Mission",
           "link": "https://skyandtelescope.org/astronomy-news/japan-launches-the-martian-moons-exploration-mission/",
           "date": "2026-10-20T02:01:22+00:00",
@@ -1251,13 +1116,6 @@
           "date": "2026-10-09T08:56:00+00:00",
           "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
           "summary": "Take advantage of these moonless evenings! Make friends with some far Cassiopeia clusters in the high-arching Milky Way. Soon the Moon will return. The post This Week&#039;s Sky…"
-        },
-        {
-          "title": "Meet the Star Cluster That Defies Conventions",
-          "link": "https://skyandtelescope.org/astronomy-news/meet-the-star-cluster-that-defies-conventions/",
-          "date": "2026-10-09T08:00:12+00:00",
-          "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
-          "summary": "The stellar gathering known as Garro 04 belongs to a growing number of enigmatic groupings that combine traits of young open clusters ancient globulars. The post Meet the Star…"
         }
       ],
       "ok": true,
@@ -1267,6 +1125,13 @@
       "name": "Universe Today",
       "cat": "space",
       "items": [
+        {
+          "title": "Mars’s Most Mysterious Cloud Might Be Defying Textbook Cloud Physics",
+          "link": "https://www.universetoday.com/articles/marss-most-mysterious-cloud-might-be-defying-textbook-cloud-physics",
+          "date": "2026-10-21T11:19:46+00:00",
+          "image": "https://www.universetoday.com/article_images/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_article_20261021_111912.png",
+          "summary": "It may not be as obvious, but just like Earth, Mars has seasons. And every day of every summer, an 1,800 kilometer long thin white cloud appears to the west of Arsia Mons, a 20…"
+        },
         {
           "title": "Scientists Use Ancient Rains to Map the Possible Origin Life on Mars",
           "link": "https://www.universetoday.com/articles/scientists-use-ancient-rains-to-map-the-possible-origin-life-on-mars",
@@ -1329,13 +1194,6 @@
           "date": "2026-10-19T19:56:36+00:00",
           "image": "https://www.universetoday.com/article_images/Comet_C_2026_S1_Euclid_observations_in_context_20261019_185956.jpg",
           "summary": "The ESA's Euclid space telescope was launched in July, 2026, and its mission is to observe billions of galaxies. The goal is to measure their redshifts over 10 billion years of…"
-        },
-        {
-          "title": "New Observations Show How Black Holes Stir Up Material Surrounding A Galaxy",
-          "link": "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy",
-          "date": "2026-10-19T17:10:49+00:00",
-          "image": "https://www.universetoday.com/article_images/radiojets_20261019_170846.jpg",
-          "summary": "Supermassive black holes power tremendous jets that extend far beyond their galaxy. A new study finds how they can also warm material at the outer edge of a galaxy and reduce the…"
         }
       ],
       "ok": true,
@@ -1389,6 +1247,34 @@
       "cat": "space",
       "items": [
         {
+          "title": "Cosmic chronicles: the impact of celestial instabilities on human history",
+          "link": "https://physicsworld.com/a/cosmic-chronicles-the-impact-of-celestial-instabilities-on-human-history/",
+          "date": "2026-10-21T11:00:57+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Emma Chapman reviews Ripples on the Cosmic Ocean: How the Solar System Shaped Human History – And May Help Save Our Planet by Dagomar Degroot The post Cosmic chronicles: the…"
+        },
+        {
+          "title": "Using AI agents to run quantum simulations",
+          "link": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+          "date": "2026-10-21T09:19:11+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Researchers have developed a multi-agent AI system that converts plain-language research questions into executed, checked and reproducible quantum simulations using several…"
+        },
+        {
+          "title": "Controlling four-dimensional monopoles",
+          "link": "https://physicsworld.com/a/controlling-four-dimensional-monopoles/",
+          "date": "2026-10-21T09:15:30+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "The first experimental realisation of Floquet tensor monopoles provides a controllable platform for investigating non-equilibrium topology in four dimensions The post Controlling…"
+        },
+        {
+          "title": "Astronomers propose solution for ‘little red dot’ mystery",
+          "link": "https://physicsworld.com/a/astronomers-propose-solution-for-little-red-dot-mystery/",
+          "date": "2026-10-21T08:00:19+00:00",
+          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
+          "summary": "Recently observed objects could be black holes that grew extremely quickly during an early stage of their lives The post Astronomers propose solution for &#8216;little red…"
+        },
+        {
           "title": "Why it’s hard to know if students understand a piece of physics",
           "link": "https://physicsworld.com/a/why-its-hard-to-know-if-students-understand-a-piece-of-physics/",
           "date": "2026-10-20T16:09:55+00:00",
@@ -1400,7 +1286,7 @@
           "link": "https://physicsworld.com/a/from-space-to-folk-music-quantum-hackathon-explores-diverse-use-cases/",
           "date": "2026-10-20T15:17:51+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2026/10/2026-nqcc-na-main-image.jpg",
-          "summary": "The three-day event created a fun, vibrant and collaborative environment for ten teams of hackers to explore real-world problems that support business growth while also…"
+          "summary": "The three-day event created a fun, vibrant and collaborative environment for teams of hackers to explore real-world problems that support business growth while benefitting the…"
         },
         {
           "title": "Chiral bristlebot toys shed light on transport dynamics in active matter systems",
@@ -1429,34 +1315,6 @@
           "date": "2026-10-19T15:00:44+00:00",
           "image": "https://physicsworld.com/wp-content/uploads/2026/10/karl-borjesson.jpeg",
           "summary": "Like diamond, diamondiyne allotrope forms covalent bonds in three dimensions The post New 3D form of carbon made in the lab appeared first on Physics World ."
-        },
-        {
-          "title": "Industry should invest in developing and practising storytelling",
-          "link": "https://physicsworld.com/a/industry-should-invest-in-developing-and-practising-storytelling/",
-          "date": "2026-10-19T10:00:07+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Scientists must be rewarded for clearly explaining difficult concepts, says Mark Procter The post Industry should invest in developing and practising storytelling appeared first…"
-        },
-        {
-          "title": "Open-access journal AI Horizons looks to expand the outlook of artificial intelligence",
-          "link": "https://physicsworld.com/a/open-access-journal-ai-horizons-looks-to-expand-the-outlook-of-artificial-intelligence/",
-          "date": "2026-10-19T08:00:20+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg",
-          "summary": "Shiyi Chen, the journal’s editor-in-chief, shares his views The post Open-access journal &lt;em&gt;AI Horizons&lt;/em&gt; looks to expand the outlook of artificial intelligence…"
-        },
-        {
-          "title": "Custom spectrometers rise to the analytical challenge",
-          "link": "https://physicsworld.com/a/custom-spectrometers-rise-to-the-analytical-challenge/",
-          "date": "2026-10-19T08:00:14+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2026/10/2026-torrent-na-spectrometer-headline.jpg",
-          "summary": "By combining in-house manufacturing with engineering expertise, Torrent Photonics works with systems developers to create spectrometry solutions that meet the needs of demanding…"
-        },
-        {
-          "title": "Reference electrode measurements in electrolysis cells: an EIS view",
-          "link": "https://physicsworld.com/a/reference-electrode-measurements-in-electrolysis-cells-an-eis-view/",
-          "date": "2026-10-19T07:53:57+00:00",
-          "image": "https://physicsworld.com/wp-content/uploads/2026/09/2026-11-ecs-wb-main-image.jpg",
-          "summary": "Join the audience for a live webinar at 6 p.m. GMT/1 p.m. EST on 18 November 2026 Combining two great tools to study your electrolysis cell results in great challenge The post…"
         }
       ],
       "ok": true,
@@ -1466,6 +1324,20 @@
       "name": "Phys.org Space",
       "cat": "space",
       "items": [
+        {
+          "title": "Astronomers uncover the engine behind the most powerful stellar flares in the Kepler field",
+          "link": "https://phys.org/news/2026-10-astronomers-uncover-powerful-stellar-flares.html",
+          "date": "2026-10-21T13:20:06+00:00",
+          "image": null,
+          "summary": "A new study led by researchers at the Konkoly Observatory of the HUN-REN Research Centre for Astronomy and Earth Sciences (HUN-REN CSFK) in Budapest has revealed what makes a…"
+        },
+        {
+          "title": "SpaceX turns a profit after a string of losses as its satellite and computer leasing businesses soar",
+          "link": "https://phys.org/news/2026-10-spacex-profit-losses-satellite-leasing.html",
+          "date": "2026-10-21T08:48:15+00:00",
+          "image": null,
+          "summary": "SpaceX reported a bigger quarterly profit than expected Tuesday as its satellite communications operations and its business of leasing computing power to other companies boomed."
+        },
         {
           "title": "A magnetar can be born when two neutron stars touch",
           "link": "https://phys.org/news/2026-10-magnetar-born-neutron-stars.html",
@@ -1521,20 +1393,6 @@
           "date": "2026-10-20T18:20:10+00:00",
           "image": null,
           "summary": "Pulsars are rapidly rotating neutron stars, the extremely dense cores left behind when massive stars explode. Astrophysicists have recently observed a pulsar rotating over 300…"
-        },
-        {
-          "title": "NASA experimental Mars helicopter blade designs target longer flights",
-          "link": "https://phys.org/news/2026-10-nasa-experimental-mars-helicopter-blade.html",
-          "date": "2026-10-20T17:50:01+00:00",
-          "image": null,
-          "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red…"
-        },
-        {
-          "title": "Hot plasma may explain how rapidly feeding black holes launch powerful jets",
-          "link": "https://phys.org/news/2026-10-hot-plasma-rapidly-black-holes.html",
-          "date": "2026-10-20T16:40:01+00:00",
-          "image": null,
-          "summary": "Some supermassive black holes rapidly consume surrounding matter while simultaneously firing powerful streams of plasma into space at nearly the speed of light. However, this…"
         }
       ],
       "ok": true,
@@ -1551,6 +1409,27 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Xbox Game Pass Heading For A Massive Shakeup, Report Says",
+          "link": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/",
+          "date": "2026-10-21T13:04:31+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-4.png?w=300",
+          "summary": "Xbox CEO Asha Sharma is reportedly plotting a \"major overhaul\" of the Xbox Game Pass service, beyond some of the big changes she's made already like dropping new Call of Duty game…"
+        },
+        {
+          "title": "Prospective Buyers Reportedly Value Xbox As High As $150 Billion",
+          "link": "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/",
+          "date": "2026-10-21T12:56:23+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Xbox-Game-Studios.jpg?w=300",
+          "summary": "Everything has a selling price, and in Xbox's case, Microsoft's gaming division could be worth at least $100 billion. That's according to a new report, which claims that several…"
+        },
+        {
+          "title": "PS5’s Biggest Physical Games Look Very Different From Its Biggest Digital Hits",
+          "link": "https://www.gamespot.com/articles/ps5s-biggest-physical-games-look-very-different-from-its-biggest-digital-hits/",
+          "date": "2026-10-21T12:00:22+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4661443-re-requiem.jpg?w=300",
+          "summary": "The furore over Sony's decision to effectively kill physical games on its PlayStation platform appears to have died down (for now), and new data from Alinea Analytics shows how…"
+        },
         {
           "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
           "link": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
@@ -1599,27 +1478,6 @@
           "date": "2026-10-20T16:12:33+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/10/FF7-Remake-Intergrade.jpg?w=300",
           "summary": "Right on schedule, the second wave of games coming to Xbox Game Pass has been revealed. After the first batch, which included Gears of War: E-Day, Battlefield 6, and more, the…"
-        },
-        {
-          "title": "Here’s An Exclusive Look At How Cyberpunk: Edgerunners’ Cast Will Look In The Hit Trading Card Game",
-          "link": "https://www.gamespot.com/articles/heres-an-exclusive-look-at-how-cyberpunk-edgerunners-cast-will-look-in-the-hit-trading-card-game/",
-          "date": "2026-10-20T16:00:00+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Your-New-Life-Awaits-Set-2-Key-Art-rezied.jpg?w=300",
-          "summary": "Earlier this year, a new trading card game based on the hit Cyberpunk franchise hit Kickstarter and became the highest-funded game in Kickstarter's entire history . With the…"
-        },
-        {
-          "title": "Netflix’s Push Into Gaming Continues To Fall Short",
-          "link": "https://www.gamespot.com/articles/netflixs-push-into-gaming-continues-to-fall-short/",
-          "date": "2026-10-20T15:25:48+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuringnetflix.png?w=300",
-          "summary": "Netflix has undertaken efforts over the years to increase its footprint in the world of video games, but it's been a bumpy road, and new data suggests that the company is falling…"
-        },
-        {
-          "title": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
-          "link": "https://www.gamespot.com/articles/gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have-time/",
-          "date": "2026-10-20T15:15:30+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/original/1595/15950357/3707861-rdr2.jpg?w=300",
-          "summary": "While a whole bunch of new games are being added to the PlayStation Plus Game Catalog this month, it looks like Sony is making room for them by removing several titles over the…"
         }
       ],
       "ok": true,
@@ -1630,74 +1488,74 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
-          "link": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
-          "date": "2026-10-21T03:00:19+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdaven_ec256-1.jpg",
-          "summary": "In VisionQuest episode three, F.R.I.D.A.Y. reveals that she tried to save Tony in Avengers: Endgame"
+          "title": "Konami Has Staged the Biggest Unlikely Gaming Comeback of 2026",
+          "link": "https://www.polygon.com/konami-comeback-2026/",
+          "date": "2026-10-21T13:30:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-header-2.jpg",
+          "summary": "After nearly a decade of struggle, Konami has seemingly cracked the code to keeping old franchises relevant."
         },
         {
-          "title": "Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon",
-          "link": "https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/",
-          "date": "2026-10-21T02:45:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19696105/Screen_Shot_2020_02_04_at_4.55.59_PM.png",
-          "summary": "In the fourth episode of VisionQuest, Dr. Phineas Horton is mentioned. Horton is a key figure in the earliest days of Marvel Comics"
+          "title": "Magic: The Gathering Is Officially Hasbro's Biggest Profit-Maker",
+          "link": "https://www.polygon.com/magic-mtg-hasbro-profits-90-percent-organized-play/",
+          "date": "2026-10-21T13:07:50+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mtg_planes_multiverse.jpeg",
+          "summary": "Wizards of the Coast's Magic: The Gathering is now responsible for 90% of Hasbro's profits, according to a new financial report."
         },
         {
-          "title": "'VisionQuest' Episode 4 Ending Explained: Who Is Jocasta?",
-          "link": "https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/",
-          "date": "2026-10-21T02:31:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vision-paul-betany-sits-in-front-of-a-bank-of-tvs-that-say-sorry-we-are-experiencing-technical-difficulties-in-visionquest.jpg",
-          "summary": "VisionQuest episode 4 introduces Jocasta, a deadly new synthezoid with a surprising connection to Ultron. Here’s how the show changes her Marvel Comic"
+          "title": "Obsession Fans Are Not Happy with Nikki Freeman's Fortnite Skin",
+          "link": "https://www.polygon.com/fortnite-obsession-nikki-freeman-skin-controversy/",
+          "date": "2026-10-21T13:04:31+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nikki-freeman-obsession.jpg",
+          "summary": "Nikki from Obsession now has her own skin in Fortnite, which caused some turmoil among gamers and movie fans."
         },
         {
-          "title": "Forget ‘Carrie,’ Mike Flanagan’s Best Netflix Miniseries Is a Masterpiece From Start to Finish",
-          "link": "https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/",
-          "date": "2026-10-21T01:30:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/carrie-white-prom.jpg",
-          "summary": "Explore Mike Flanagan's Midnight Mass, a profound horror story about faith, fear, and human choice."
+          "title": "Forget Ravenloft: The Best Horror TTRPG Makes a Party Game Terrifying",
+          "link": "https://www.polygon.com/dread-ttrpg-halloween-countdown/",
+          "date": "2026-10-21T13:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/sam-keiser-325518-samkeiser-adventure2ambertomb-rgb.jpg",
+          "summary": "Dread tests your nerves and manual dexterity"
         },
         {
-          "title": "Red Rising Is Officially Returning In 2027",
-          "link": "https://www.polygon.com/red-rising-digital-edition-2027-release/",
-          "date": "2026-10-21T01:00:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/redrising.jpg",
-          "summary": "A digital adaptation of Pierce Brown's beloved sci-fi saga is on its way."
+          "title": "Dawn of War 4 Has the Potential to Be the Best Warhammer 40,000 Game Ever",
+          "link": "https://www.polygon.com/dawn-of-war-4-preview/",
+          "date": "2026-10-21T12:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dawn-of-war-4-key-art.jpg",
+          "summary": "Dawn of War 4 is shaping up to be the massive game the Warhammer 40,000 franchise and RTS genre need right now"
         },
         {
-          "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
-          "link": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/",
-          "date": "2026-10-20T23:05:59+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/shrek-2-remastered-key.jpg",
-          "summary": "Shrek 2 Remastered launches in November 2026 with 4K visuals, online co-op and updated graphics, Aspyr confirms."
+          "title": "'Cyberpunk: Edgerunners' Season 3 Confirmed? Potential Release Date, Characters, and Everything You Need to Know",
+          "link": "https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/",
+          "date": "2026-10-21T11:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/er2_talia_4-1.png",
+          "summary": "Will Cyberpunk: Edgerunners get a season 3? Here’s what the creators have said about future stories and who could return after season 2’s ending."
         },
         {
-          "title": "Henry Cavill’s Upcoming Sci-Fi Space Opera Series Writer Admits It's Been ‘Brutally Difficult’",
-          "link": "https://www.polygon.com/mike-flanagan-henry-cavill-warhammer-40k-tv-show/",
-          "date": "2026-10-20T23:02:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24799392/oQtCZRE.png",
-          "summary": "Mike Flanagan discusses his Warhammer 40,000 TV adaptation, the franchise's lore and why it's harder to tackle than Stephen King's novels."
+          "title": "Critical Role Is Heading to Middle-earth With a Big Lord of the Rings Collaboration",
+          "link": "https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/",
+          "date": "2026-10-21T10:14:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/critical-role-x-lotr.jpg",
+          "summary": "The Critical Role cast is headed for the Lord of the Rings setting in a thrilling new Rings of Power collaboration"
         },
         {
-          "title": "20 Best Board Wipes in Magic: The Gathering",
-          "link": "https://www.polygon.com/best-board-wipes-magic-gathering-mtg/",
-          "date": "2026-10-20T21:52:55+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/damnation-mtg-art.jpg",
-          "summary": "From Wrath of God to Cyclonic Rift, these are the spells that turn crowded battlefields into devastation."
+          "title": "7 Funniest 'Calvin and Hobbes' Comics About Calvin's Mom and Dad",
+          "link": "https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/",
+          "date": "2026-10-21T10:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-hobbes-parents-mad-1.avif",
+          "summary": "Calvin's Mom and Dad are a great comedy duo in Calvin and Hobbes. Here are 7 strips that star them"
         },
         {
-          "title": "How Dare They Put This Many Parries in a Call of Duty Game",
-          "link": "https://www.polygon.com/mw4-modern-warfare-4-parries-call-duty/",
-          "date": "2026-10-20T21:28:24+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/call-duty-mw4-parry.png",
-          "summary": "Call of Duty: Modern Warfare 4 introduces an extensive parry mechanic, but do Call of Duty games really need parries? Really?"
+          "title": "Cyberpunk 2077 Edgerunners 2 Update Leaked Ahead of Reveal",
+          "link": "https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/",
+          "date": "2026-10-21T09:55:20+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/cyberpunk-edgerunners-s2-netflix-3-1.jpg",
+          "summary": "To celebrate Edgerunners season 2, CD Projekt Red is releasing a patch for Cyberpunk 2077 riddled with themed content."
         },
         {
-          "title": "Next-gen Xbox Could Cost Up to $1,800, New Report Says",
-          "link": "https://www.polygon.com/next-gen-xbox-project-helix-price-release-date-2028/",
-          "date": "2026-10-20T21:00:04+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/xbox-project-helix-logo.jpg",
-          "summary": "Project Helix, the next-generation Xbox coming in 2028, costs between $1200 and $1800, according to a new report."
+          "title": "17 Years Later, Johnny Depp’s Overlooked Action Crime Thriller Is Officially Free on YouTube",
+          "link": "https://www.polygon.com/public-enemies-free-on-youtube/",
+          "date": "2026-10-21T09:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdpuen_ec058.jpg",
+          "summary": "Johnny Depp brings cool charisma to Michael Mann’s gripping portrait of legendary bank robber John Dillinger."
         }
       ],
       "ok": true,
@@ -1708,74 +1566,74 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "COD: Modern Warfare 4 DMZ players are spawning in the middle of a road and being flattened before they can do anything",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover",
+          "date": "2026-10-21T13:21:37+00:00",
+          "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Infinity Ward opened up early access to Call of Duty: Modern Warfare 4's DMZ extraction mode overnight , meaning anyone who has pre-ordered a copy can now play the game's campaign…"
+        },
+        {
+          "title": "Warhammer 40K fans have some very specific questions about the Blood Ravens' origins, so I put them to Dawn of War 4's director",
+          "link": "https://www.eurogamer.net/dawn-of-war-4-blood-ravens-space-marine-origins-questions",
+          "date": "2026-10-21T12:22:55+00:00",
+          "image": "https://assetsio.gnwcdn.com/blood-ravens-lore.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Right, let's get one important thing out of the way first: I've played a fair bit more of Dawn of War 4 's main campaign, after my initial impressions of a single mission last…"
+        },
+        {
+          "title": "Even Call of Duty has a parry now and it's kind of brilliant - but do we need it in every game?",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-parry-melee-best-moments",
+          "date": "2026-10-21T11:22:21+00:00",
+          "image": "https://assetsio.gnwcdn.com/modern-warfare-4-price-parry-prompt-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "I, for my sins, enjoy parry mechanics. I use 'parry slop' lovingly as a shorthand to refer to action games I want to play which feature parrying as a predominant mechanic. I am…"
+        },
+        {
+          "title": "Here's our second wave of Xbox Game Pass games for October 2026",
+          "link": "https://www.eurogamer.net/xbox-game-pass-list-october-2026",
+          "date": "2026-10-21T11:11:19+00:00",
+          "image": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Microsoft has revealed the second batch of games coming to Xbox Game Pass this month, and there are few genuine corkers, including the console debuts of The S&eacute;ance of Blake…"
+        },
+        {
+          "title": "Subnautica 2 adding its \"scariest\" region ever in next major update, the developers say",
+          "link": "https://www.eurogamer.net/subnautica-2-scariest-region-ever-made-update",
+          "date": "2026-10-21T11:08:04+00:00",
+          "image": "https://assetsio.gnwcdn.com/subnautica-2-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Subnautica 2 has begun its \"voyage to Early Access 2.0\", developer Unknown Worlds has said, with the revelation of a new update containing the \"scariest\" region they've ever made…"
+        },
+        {
+          "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
+          "link": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
+          "date": "2026-10-21T11:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an \"industry first\" for games of…"
+        },
+        {
+          "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
+          "link": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
+          "date": "2026-10-21T10:47:21+00:00",
+          "image": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Xbox is reportedly gearing up for three more rounds of layoffs as the Microsoft gaming division continues CEO Asha Sharma's plan to reset the business . According to a new report,…"
+        },
+        {
+          "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
+          "link": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
+          "date": "2026-10-21T09:21:49+00:00",
+          "image": "https://assetsio.gnwcdn.com/resident-evil-requiem-nostalgia-26.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while…"
+        },
+        {
+          "title": "Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028",
+          "link": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
+          "date": "2026-10-21T08:40:37+00:00",
+          "image": "https://assetsio.gnwcdn.com/Project-Helix-logo-and-name-written-in-white-on-a-black-background.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated…"
+        },
+        {
           "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
           "link": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
           "date": "2026-10-20T15:45:04+00:00",
           "image": "https://assetsio.gnwcdn.com/black-ops-box-art.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "A former long-time Call of Duty developer has called out Activision executives profiteering from the re-release of games like Black Ops 1 and 2, whereas the developers who…"
-        },
-        {
-          "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
-          "link": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-          "date": "2026-10-20T13:13:19+00:00",
-          "image": "https://assetsio.gnwcdn.com/Helldivers-2-Exo-Experts-Warbond_ingame.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Helldivers will be switching up its anti-cheat, as developer Arrowhead Game Studios has admitted that its Gameguard cheat policy \"wasn't as effective as it could have been.\" Read…"
-        },
-        {
-          "title": "Nintendo Switch Sports Resort review",
-          "link": "https://www.eurogamer.net/nintendo-switch-sports-resort-review",
-          "date": "2026-10-20T13:03:25+00:00",
-          "image": "https://assetsio.gnwcdn.com/switch-sports-resort-boxing.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "One of my very favourite things to do in Switch Sports Resort isn't, technically, a sport at all. I can't get enough of Prop Plane's free-play mode, taking to the skies, and…"
-        },
-        {
-          "title": "Final Fantasy Resonance review",
-          "link": "https://www.eurogamer.net/final-fantasy-resonance-review",
-          "date": "2026-10-20T13:00:39+00:00",
-          "image": "https://assetsio.gnwcdn.com/FF-resonance-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "I think the most memorable bit of brilliance in the otherwise flawed diamond that is Final Fantasy 16 is the way it handles legacy. There are moments where Clive and his…"
-        },
-        {
-          "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
-          "date": "2026-10-20T12:57:42+00:00",
-          "image": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The Call of Duty: Modern Warfare 4 campaign is currently available in early access , and if you're among the many who pre-ordered a copy in order to play it before launch, you've…"
-        },
-        {
-          "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
-          "link": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
-          "date": "2026-10-20T11:43:36+00:00",
-          "image": "https://assetsio.gnwcdn.com/as-ea-rejects-loot-boxes-and-pay-to-win-im-left-wondering-what-about-fifa-1529662660384.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "PEGI, the European video game age rating agency, has started raising the age ratings of digital games that feature loot boxes to 16. The rollout of this new, stricter approach, is…"
-        },
-        {
-          "title": "Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release",
-          "link": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release",
-          "date": "2026-10-20T11:29:50+00:00",
-          "image": "https://assetsio.gnwcdn.com/Edgerunners-update.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "CD Projekt Red has announced that Cyberpunk 2077 is getting a free update to coincide with the release of anime series Edgerunners 2 on Netflix. Read more"
-        },
-        {
-          "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
-          "link": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
-          "date": "2026-10-20T11:20:20+00:00",
-          "image": "https://assetsio.gnwcdn.com/red-dead-redemption-2-horse_oWpviPa.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature…"
-        },
-        {
-          "title": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon",
-          "link": "https://www.eurogamer.net/destiny-2-unvaulting-bungie-date-details",
-          "date": "2026-10-20T10:54:59+00:00",
-          "image": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Bungie surprised players last month by announcing its intention to bring back Destiny 2 campaigns and other additions taken out of the game over the years. When that 'unvaulting'…"
-        },
-        {
-          "title": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\"",
-          "link": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
-          "date": "2026-10-20T09:00:11+00:00",
-          "image": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The developers of Umamusume: Pretty Derby have announced a sudden cancellation of an upcoming LA concert, laying the blame on an inability to receive the proper visas despite…"
         }
       ],
       "ok": true,
@@ -1785,6 +1643,13 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Umamusume: Pretty Derby Devs Will Pay For Canceled Flights And Hotels As Fans Spiral Over Missed Concert",
+          "link": "https://kotaku.com/umamusume-pretty-derby-devs-will-pay-for-canceled-flights-and-hotels-as-fans-spiral-over-missed-concert-2000748300",
+          "date": "2026-10-21T12:43:37+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/10/umasdfa-1280x728.jpg",
+          "summary": "Cygames goes above and beyond after visas fall through"
+        },
         {
           "title": "Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List",
           "link": "https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058",
@@ -1847,13 +1712,6 @@
           "date": "2026-10-20T18:36:06+00:00",
           "image": "https://kotaku.com/app/uploads/2026/10/steam-nextfest-1280x720.jpg",
           "summary": "The vibes are rotten this time around as Next Fest features thousands of AI slop demos"
-        },
-        {
-          "title": "Magic: The Gathering’s Star Trek Set Is Gargantuan—Check Out Brand New Card Arts",
-          "link": "https://kotaku.com/magic-the-gathering-star-trek-card-art-commander-picard-spock-2000747929",
-          "date": "2026-10-20T18:00:48+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/mtg-st-main-1280x720.jpg",
-          "summary": "We've got a bunch of details about the new mechanics and special arts"
         }
       ],
       "ok": true,
@@ -1863,6 +1721,48 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
+          "link": "https://www.rockpapershotgun.com/i-want-room-to-make-a-wrong-turn-following-samson-devs-bankruptcy-its-founder-is-considering-how-ai-might-factor-into-new-studio-plans",
+          "date": "2026-10-21T12:30:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Over the weekend, Swedish reports revealed that Samson studio Liquid Swords have gone bankrupt less than a year after releasing their debut crimebrawler. Founder and former Just…"
+        },
+        {
+          "title": "Dawn of War 4 clearly loves the Warhammer 40K strategy games that came before, but it misses that they loved to reinvent themselves",
+          "link": "https://www.rockpapershotgun.com/dawn-of-war-4-clearly-loves-the-warhammer-40k-strategy-games-that-came-before-but-it-misses-that-they-loved-to-reinvent-themselves",
+          "date": "2026-10-21T12:12:24+00:00",
+          "image": "https://assetsio.gnwcdn.com/Dawn-of-War-4_0007_Layer-14.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "I may have set my expectations for Dawn of War 4 too high, but it's a series that, to my mind, never retreads the same ground. It's therefore been disappointing to feel, having…"
+        },
+        {
+          "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
+          "link": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+          "date": "2026-10-21T11:42:31+00:00",
+          "image": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Prominent capital-p Political game developer and left-wing academic Paulo \"Molleindustria\" Pedercini has revealed that he used generative AI tools for aspects of recent…"
+        },
+        {
+          "title": "Further Xbox layoff rounds reportedly planned for this month, November, and January, while a Game Pass overhaul is in the works",
+          "link": "https://www.rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
+          "date": "2026-10-21T10:34:44+00:00",
+          "image": "https://assetsio.gnwcdn.com/xbox-layoffs-report-sep-2026-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Further rounds of layoffs as part of Xbox's ongoing efforts to eventually have fed 3200 people into the furnace are reportedly planned to take place during this month, November,…"
+        },
+        {
+          "title": "MSI Claw 8 EX AI+ review - superlative playing power with familiar Windows handheld caveats",
+          "link": "https://www.rockpapershotgun.com/msi-claw-8-ex-ai-plus-review",
+          "date": "2026-10-21T08:40:01+00:00",
+          "image": "https://assetsio.gnwcdn.com/MSI-Claw-8-EX-AI%2B-review.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Welcome to my review of the MSI Claw 8 EX AI+, a handheld PC that went on sale four months ago. And if you think that&rsquo;s bad, tell it to the 2025-spec Lenovo Legion Go 2…"
+        },
+        {
+          "title": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
+          "link": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
+          "date": "2026-10-21T08:07:06+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-21-082915.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Bracingly moist open world survival game Subnautica 2 is embarking on the \"voyage to early access 2.0\" - this being developer Unknown Worlds' excitable term for the next round of…"
+        },
         {
           "title": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co.",
           "link": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
@@ -1890,48 +1790,6 @@
           "date": "2026-10-20T17:34:58+00:00",
           "image": "https://assetsio.gnwcdn.com/mycopunk-launch.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "And lo, mushrooms! This is what I imagine an old timey tour guide might say while on a hiking trail, but we aren't on one of those, so get that wonderful fungi image out of your…"
-        },
-        {
-          "title": "Steady yourself, Mortal Shell 2's Rotten Autumn update comes packed with 15 new dungeons, a photo mode, an alternative soundtrack, and a neat pumpkin helmet",
-          "link": "https://www.rockpapershotgun.com/steady-yourself-mortal-shell-2s-rotten-autumn-update-comes-packed-with-15-new-dungeons-a-photo-mode-an-alternative-soundtrack-and-a-neat-pumpkin-helmet",
-          "date": "2026-10-20T16:03:25+00:00",
-          "image": "https://assetsio.gnwcdn.com/mortal-shell-2-rotten-autumn.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "How's your autumn going? Mine's fine so far, I've switched back to hot beverages, as much as every cell in my being screams to ask for ice. But I reckon that sounds better than…"
-        },
-        {
-          "title": "The demo for city-flattening fighting game Godzilla: Destroy All Monsters Melee Remastered is a roaring good time, no nostalgia required",
-          "link": "https://www.rockpapershotgun.com/the-demo-for-city-flattening-fighting-game-godzilla-destroy-all-monsters-melee-remastered-is-a-roaring-good-time-no-nostalgia-required",
-          "date": "2026-10-20T15:30:13+00:00",
-          "image": "https://assetsio.gnwcdn.com/Godzilla_ZjkFftF.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Despite being a lover of the King of the Monsters, I was unfortunately too young to experience Pipeworks Software's Godzilla trilogy of 3D kaiju-fighters back its PS2/Gamecube-era…"
-        },
-        {
-          "title": "\"It doesn’t have to always be triple-A\": Galactic Racer and Zero Company’s success has Lucasfilms wanting more smaller-scale Star Wars games",
-          "link": "https://www.rockpapershotgun.com/it-doesnt-have-to-always-be-triple-a-galactic-racer-and-zero-companys-success-has-lucasfilms-wanting-more-smaller-scale-star-wars-games",
-          "date": "2026-10-20T15:00:36+00:00",
-          "image": "https://assetsio.gnwcdn.com/Galactic-Racer.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Star Wars: Galactic Racer has been fucking everywhere recently, seemingly both due to its actual quality as a game and also due to vast swathes of people falling in love with…"
-        },
-        {
-          "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
-          "link": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
-          "date": "2026-10-20T14:45:11+00:00",
-          "image": "https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "I'm strongly of the opinion that loot boxes , gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no…"
-        },
-        {
-          "title": "The latest game event to fall afoul of US visa rules is a live concert for horse girl racer Umamusume: Pretty Derby",
-          "link": "https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby",
-          "date": "2026-10-20T12:05:06+00:00",
-          "image": "https://assetsio.gnwcdn.com/Goldship.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Umamusume: Pretty Derby has turned out to be one of the most popular games in the world, partly due to being a gacha game and partly due to making pretty girls out of very real…"
-        },
-        {
-          "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
-          "link": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
-          "date": "2026-10-20T11:00:28+00:00",
-          "image": "https://assetsio.gnwcdn.com/Abiotic-Factor-scientist.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Following its 1.0 release last July, Half Life-esque sci-fi survival game Abiotic Factor has been having a pretty good run of post-early access updates. That run of is set to…"
         }
       ],
       "ok": true,
@@ -1940,78 +1798,7 @@
     {
       "name": "PC Gamer",
       "cat": "gaming",
-      "items": [
-        {
-          "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
-          "link": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
-          "date": "2026-10-21T02:08:18+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/3HW8nLc9jo2YSnSxonNNV6-1920-80.jpg",
-          "summary": ""
-        },
-        {
-          "title": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
-          "link": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
-          "date": "2026-10-20T21:56:37+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/qeBZ2knK5HXFomRSEKKeh3-1920-80.jpg",
-          "summary": "Still rated E for Everyone by the ESRB, though."
-        },
-        {
-          "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
-          "link": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-          "date": "2026-10-20T21:34:35+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/UkDvZk3DzYu3ezmNSje4Nm-1920-80.png",
-          "summary": "Opus 5.5 continues to wreak havoc among independent devs."
-        },
-        {
-          "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
-          "link": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
-          "date": "2026-10-20T20:59:12+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/zTeX9yxik5Tkm9PfTAw6Ve-1920-80.jpg",
-          "summary": "Hell Clock's Journey of Miracles update changes the entire game like a new Diablo season, but it won't ever expire."
-        },
-        {
-          "title": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat",
-          "link": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
-          "date": "2026-10-20T20:43:59+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/m98kX697UeNiMHNEFt6Zk5-1920-80.jpg",
-          "summary": "Don't Nod has begun \"safeguard proceedings\" to protect itself from creditors and says up to 85 employees are at risk of being let go under its new restructuring plan."
-        },
-        {
-          "title": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
-          "link": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
-          "date": "2026-10-20T20:34:43+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/hDaAszbiiMuDTtrpREy3GB-1920-80.jpg",
-          "summary": "We need time-traveling Jean Reno on PC."
-        },
-        {
-          "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
-          "link": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-          "date": "2026-10-20T18:43:15+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/XDWYfjRDYcAqUhXhck2X8D-1920-80.png",
-          "summary": "Christopher Sundberg said the goal for his next studio is to make \"a game we can afford to finish without needing every sales forecast to come true.\""
-        },
-        {
-          "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
-          "link": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
-          "date": "2026-10-20T18:19:34+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/gfsxvNdYDyTKiyUdidRJJc-1920-80.png",
-          "summary": "Arrowhead says Easy Anti-Cheat will be more effective in combatting recent cheat mods, but the change has resulted in more than 1,000 negative user reviews on Steam in a single…"
-        },
-        {
-          "title": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
-          "link": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
-          "date": "2026-10-20T18:14:42+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/4szPM7XMehsZ9c3J2mczjC-1920-80.jpg",
-          "summary": "I swear they aren't all farm sims."
-        },
-        {
-          "title": "Overwatch's director discusses why King's Row is so iconic, but admits that 'every single map in the game gets a vote'",
-          "link": "https://www.pcgamer.com/games/fps/overwatchs-director-discusses-why-kings-row-is-so-iconic-but-admits-that-every-single-map-in-the-game-gets-a-vote/",
-          "date": "2026-10-20T16:44:14+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/5sdLNAMP5KhGxtUQqZ2K53-1920-80.jpg",
-          "summary": "What's the best map in Overwatch? And why is it King's Row?"
-        }
-      ],
+      "items": [],
       "ok": true,
       "from_cache": false
     },
@@ -2019,6 +1806,13 @@
       "name": "PlayStation Blog",
       "cat": "gaming",
       "items": [
+        {
+          "title": "PlayStation Store’s Planet of the Deals promotion is live now",
+          "link": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
+          "date": "2026-10-21T12:00:08+00:00",
+          "image": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32",
+          "summary": "Embark on a new adventure with PlayStation Store’s latest promotion, Planet of the Deals, which is live now. Players can browse hundreds of PS5 and PS4 games featured in the deals…"
+        },
         {
           "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
           "link": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
@@ -2081,13 +1875,6 @@
           "date": "2026-10-13T13:00:36+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
           "summary": "Picture this: A chilly autumn breeze ripples through the forest as a battalion of Automatons amble towards an outpost. They move together like cogs in a larger wheel, chanting in…"
-        },
-        {
-          "title": "Escape Academy 2: Back 2 School comes to PS5 on November 5",
-          "link": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
-          "date": "2026-10-13T12:04:54+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
-          "summary": "Hello Puzzlers and PlayStation fans! The team at Coin Crew Games is excited to share that Escape Academy 2: Back 2 School will be coming to PS5 on November 5. To celebrate, we are…"
         }
       ],
       "ok": true,
@@ -2176,6 +1963,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Indies and original IP blew up in 2026",
+          "link": "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
+          "date": "2026-10-21T11:39:48+00:00",
+          "image": "https://assetsio.gnwcdn.com/Sensor-Tower-header.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Research by Sensor Tower &ndash; done at the request of GamesIndustry.biz &ndash; shows that indies and original IP made up a much higher proportion of the biggest PC and console…"
+        },
+        {
+          "title": "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data",
+          "link": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
+          "date": "2026-10-21T10:53:35+00:00",
+          "image": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "New data shows that competitive shooters and sports games are most at risk of losing players to Grand Theft Auto 6 during its launch next month. Read more"
+        },
+        {
+          "title": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
+          "link": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+          "date": "2026-10-21T08:40:54+00:00",
+          "image": "https://assetsio.gnwcdn.com/fotis-fotopoulos-DuHKoV44prg-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "97% of studio leaders have used AI in some form during development, with 94% having used AI in at least one of the nine production stages. Read more"
+        },
+        {
+          "title": "Demystifying unions: What games leaders need to know",
+          "link": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
+          "date": "2026-10-21T08:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/IWGB_members_with_banner.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "If you run a video games company, working with unions is rapidly becoming an inevitability rather than a possibility. Read more"
+        },
+        {
           "title": "Griffin Gaming Partners and Entertainment 360 launch new company to support video game adaptations for film and TV",
           "link": "https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-360-launch-new-company-to-support-video-game-adaptations-for-film-and-tv",
           "date": "2026-10-20T13:00:45+00:00",
@@ -2216,34 +2031,6 @@
           "date": "2026-10-19T19:12:21+00:00",
           "image": "https://assetsio.gnwcdn.com/PEGI-age-rating-logos.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Existing digital-only games that include paid random items, such as loot boxes, are being re-rated PEGI 16 if they currently carry a PEGI 3, 7, or 12 rating. Read more"
-        },
-        {
-          "title": "Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive",
-          "link": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
-          "date": "2026-10-19T16:36:11+00:00",
-          "image": "https://assetsio.gnwcdn.com/Wizards_CWA.webp?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Wizards of the Coast is refusing to grant voluntary recognition to a union drive by its Dungeons & Dragons and Studio X teams. Staff will instead vote on joining in a…"
-        },
-        {
-          "title": "GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration",
-          "link": "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
-          "date": "2026-10-19T10:57:47+00:00",
-          "image": "https://assetsio.gnwcdn.com/gdca_H2ogd1U.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The 2027 Game Developers Choice Awards (GDCA) will be accepting submissions from publishers and developers for the first time. Read more"
-        },
-        {
-          "title": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
-          "link": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
-          "date": "2026-10-19T10:13:55+00:00",
-          "image": "https://assetsio.gnwcdn.com/Activision.webp?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Members of the Activision Quality Assurance United-CWA (AQAU-CWA) union have voted to authorise a strike if necessary, claiming Activision has \"failed to bargain in good faith…"
-        },
-        {
-          "title": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
-          "link": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
-          "date": "2026-10-19T09:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/Splitscreen-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "A new Croatian development conference is aiming to fill the gap left by the recently-deceased and much-cherished Reboot Develop, which ended this year with the organiser being…"
         }
       ],
       "ok": true,
@@ -2332,6 +2119,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+          "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+          "date": "2026-10-21T13:00:02+00:00",
+          "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=980",
+          "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the…"
+        },
+        {
           "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
           "link": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
           "date": "2026-10-19T18:00:03+00:00",
@@ -2393,13 +2187,6 @@
           "date": "2026-10-15T10:00:04+00:00",
           "image": "https://assets.rbl.ms/68417208/origin.png",
           "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion…"
-        },
-        {
-          "title": "IEEE Continues Preparations for the Realignment of Its Regions",
-          "link": "https://spectrum.ieee.org/realignment-ieee-regions",
-          "date": "2026-10-14T18:00:03+00:00",
-          "image": "https://spectrum.ieee.org/media-library/2d-world-map-with-countries-colored-according-to-their-designated-ieee-region.jpg?id=68429251&width=980",
-          "summary": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “ IEEE Is Realigning Its Geographic Regions .” The “Region 1”…"
         }
       ],
       "ok": true,
@@ -2410,67 +2197,60 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "Two-letter trigger makes US robot turn knife toward human hand in security test",
-          "link": "https://interestingengineering.com/ai-robotics/two-letter-trigger-robot-attack-test",
-          "date": "2026-10-21T03:35:54+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/robot-hand.png",
-          "summary": "Researchers in the US have demonstrated how a two-letter trigger can make a robot abandon..."
+          "title": "‘Smoking gun’ helps unlock decades-old mystery of high-temperature superconductivity",
+          "link": "https://interestingengineering.com/science/smoking-gun-unlock-high-temp-superconductivity",
+          "date": "2026-10-21T13:31:48+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Gun.jpg",
+          "summary": "Physicists have identified the microscopic mechanism that allows electric current to flow through electron-doped high-temperature..."
         },
         {
-          "title": "4,000-mph Patriot missiles get new 360-degree comms to eliminate radar blind spots",
-          "link": "https://interestingengineering.com/military/pac-3-missiles-360-degree-communications",
-          "date": "2026-10-21T03:28:02+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-6-1.jpg",
-          "summary": "The U.S. Army&#8217;s Patriot missile defense system is moving closer to eliminating radar blind spots,..."
+          "title": "US team maps electrolyte chemistry to guide next-generation battery designs",
+          "link": "https://interestingengineering.com/energy/research-reveals-unexpected-lithium-ion-clusters",
+          "date": "2026-10-21T13:27:40+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-55.jpg",
+          "summary": "Lithium ions in battery electrolytes do not always remain isolated. Research from Columbia University shows..."
         },
         {
-          "title": "NASA-backed lunar rover to test language models, laser mapping on Moon with fanless GPU",
-          "link": "https://interestingengineering.com/ai-robotics/hpe-lunar-computer-moon-benchmarks",
-          "date": "2026-10-21T02:40:46+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/DSCF7560-scaled-e1779138435146.jpeg",
-          "summary": "Hewlett Packard Enterprise (HPE) plans to run what it describes as the first high-performance computing..."
+          "title": "US Army turns light tactical vehicle into 19-mile-range missile launcher",
+          "link": "https://interestingengineering.com/military/us-army-spike-nlos-missile-launcher-light-tactical-vehicle",
+          "date": "2026-10-21T13:13:22+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Light-tactical-missile-strike.jpg",
+          "summary": "Lockheed Martin has completed a live-fire demonstration of its Spike Non-Line-of-Sight (NLOS) missile system mounted..."
         },
         {
-          "title": "Florida deploys America’s first flying police vehicle with 63 mph top speed",
-          "link": "https://interestingengineering.com/transportation/florida-first-flying-police-vehicle",
-          "date": "2026-10-21T02:19:41+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-3-3.jpg",
-          "summary": "Florida Polytechnic University is preparing to bring a piloted electric aircraft into law enforcement, opening..."
+          "title": "Electric drone hits 483 mph in record attempt, pushes speed limits of battery flight",
+          "link": "https://interestingengineering.com/innovation/electric-drone-hits-483-mph-in-record-attempt",
+          "date": "2026-10-21T13:11:17+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-5-1.jpg?w=150&h=150&crop=1",
+          "summary": "German drone maker Quantum Systems announced that its battery-powered experimental drone reached 483 mph (777..."
         },
         {
-          "title": "Boeing’s largest 230-seat 737 MAX jet wins FAA approval after 2,000 flight hours",
-          "link": "https://interestingengineering.com/transportation/boeing-737-max-10-faa-certification",
-          "date": "2026-10-21T01:08:14+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Boeing-737-10_5.jpg",
-          "summary": "The Federal Aviation Administration (FAA) has certified Boeing&#8217;s 737 MAX 10, the largest aircraft in..."
+          "title": "Particle colliders recreate matter that existed microseconds after the Big Bang",
+          "link": "https://interestingengineering.com/science/quark-gluon-plasma-smashing-oxygen-nuclei-light-speed",
+          "date": "2026-10-21T12:41:53+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/QGP.jpg",
+          "summary": "Scientists at the Relativistic Heavy Ion Collider (RHIC) at the Brookhaven National Laboratory in the..."
         },
         {
-          "title": "Elon Musk says forget dollars: Future currency could run on watts, mass and energy",
-          "link": "https://interestingengineering.com/culture/elon-musk-future-currency-watts-mass-energy",
-          "date": "2026-10-21T01:00:45+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/aqnwqhmncre.jpg",
-          "summary": "Elon Musk thinks future economies could measure wealth using the laws of physics instead of..."
+          "title": "Scientists turn used coffee grounds into 3D-printing material for greener buildings",
+          "link": "https://interestingengineering.com/innovation/coffee-waste-into-3d-printed-building-materials",
+          "date": "2026-10-21T12:36:33+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-Photo-34-1.jpg",
+          "summary": "Imagine a future where discarded coffee grounds could be found in buildings. It seems like..."
         },
         {
-          "title": "EV batteries could cut their carbon footprint 34% by 2050, new study reveals",
-          "link": "https://interestingengineering.com/energy/ev-battery-emissions-cut-34-percent-by-2050",
-          "date": "2026-10-20T23:24:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Representational-Image-of-emissions-by-Li-ion-battery-use.jpg",
-          "summary": "Lithium-ion battery supply-chain emissions could be cut by roughly 34 percent by 2050, a new..."
+          "title": "New solid-state battery lines open for electric aircraft with 50% more energy",
+          "link": "https://interestingengineering.com/energy/solid-state-battery-lines-for-electric-aircraft",
+          "date": "2026-10-21T10:52:53+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/saft-battery.jpg",
+          "summary": "French battery maker Saft has opened new battery production lines in Bordeaux to advance solid-state..."
         },
         {
-          "title": "Japan’s Mars moon mission faces complex landings and communication challenges ahead",
-          "link": "https://interestingengineering.com/space/japan-mars-moon-phobos-sample-return-challenges",
-          "date": "2026-10-20T23:14:19+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Japanese-probe-aboard-H3-rocket-at-the-launchpad-before-the-lift-off.jpeg",
-          "summary": "Japan has set off on an ambitious journey to Mars to bring back samples from..."
-        },
-        {
-          "title": "Claude takes aim at deadly scorpion venom, designs 318,484 proteins in just 64 hours",
-          "link": "https://interestingengineering.com/ai-robotics/claude-scorpion-toxin-protein-binders",
-          "date": "2026-10-20T21:31:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-1-5.jpg",
-          "summary": "In a development that could accelerate antivenom research, Claude generated over 318,000 protein designs in..."
+          "title": "Russia stalks US-run ICEYE radar satellite Ukraine may rely on, a space-security first",
+          "link": "https://interestingengineering.com/space/russian-cosmos-2612-stalks-iceye-x36-first-uncooperative-rpo",
+          "date": "2026-10-21T08:09:19+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ICEYE-satellite.jpg",
+          "summary": "A Russian government-owned satellite spent days maneuvering around a U.S.-operated commercial radar-imaging satellite believed to..."
         }
       ],
       "ok": true,
@@ -2573,6 +2353,62 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "The Download: introducing the Impossible issue",
+          "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+          "date": "2026-10-21T12:10:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2025/05/LeoB1.1_Serial1_Gram_Aug_2023_3.jpg?w=3000",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible…"
+        },
+        {
+          "title": "We can do impossible things",
+          "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
+          "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a…"
+        },
+        {
+          "title": "Nuclear-powered spaceships",
+          "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
+          "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever…"
+        },
+        {
+          "title": "Exercise in a pill",
+          "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-20.svg",
+          "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope…"
+        },
+        {
+          "title": "Interspecies communication",
+          "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-16.svg",
+          "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one…"
+        },
+        {
+          "title": "Cleaning up PFAS",
+          "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
+          "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from…"
+        },
+        {
+          "title": "Solid-state batteries",
+          "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-28.svg",
+          "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary.…"
+        },
+        {
+          "title": "Eliminating traffic deaths",
+          "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
+          "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives…"
+        },
+        {
           "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
           "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
           "date": "2026-10-20T21:00:00+00:00",
@@ -2585,62 +2421,6 @@
           "date": "2026-10-20T21:00:00+00:00",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/label.jpg?w=294",
           "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story.…"
-        },
-        {
-          "title": "Melt it, spin it, use it again",
-          "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new…"
-        },
-        {
-          "title": "A reason to eat carbs",
-          "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a…"
-        },
-        {
-          "title": "Robotic therapy for stroke patients",
-          "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach…"
-        },
-        {
-          "title": "Taking a swing at a pickleball startup",
-          "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to…"
-        },
-        {
-          "title": "A good TA: priceless",
-          "link": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a…"
-        },
-        {
-          "title": "Nebraska native explores galaxies far, far away",
-          "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe…"
-        },
-        {
-          "title": "A champion for brain injury patients",
-          "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and…"
-        },
-        {
-          "title": "A cleaner path to rare earth metals",
-          "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
-          "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal…"
         }
       ],
       "ok": true,
@@ -2743,6 +2523,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Procore Unveils AI Agents for Submittals, Procurement Logs at Groundbreak Conference",
+          "link": "https://www.enr.com/articles/64015-procore-unveils-ai-agents-for-submittals-procurement-logs-at-groundbreak-conference",
+          "date": "2026-10-21T13:00:00+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/10/20/Geoff-Lewis-new-900.webp?t=1792587008",
+          "summary": "Software maker announced Oct. 21 it is introducing artificial intelligence agents for construction processes such as submittals and updating of project procurement logs."
+        },
+        {
           "title": "Mountain States & Southwest People News: October/November",
           "link": "https://www.enr.com/articles/63988-mountain-states-and-southwest-people-news-october-november",
           "date": "2026-10-21T01:44:00+00:00",
@@ -2781,7 +2568,7 @@
           "title": "AI Data Center Demand Reshapes a Rebounding US Industrial Construction Market",
           "link": "https://www.enr.com/articles/63984-ai-data-center-demand-reshapes-a-rebounding-us-industrial-construction-market",
           "date": "2026-10-20T15:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/10/19/JLL-Report.webp?t=1792462253",
+          "image": "https://www.enr.com/ext/resources/2026/10/19/JLL-Report.webp?t=1792578913",
           "summary": "JLL research finds industrial developers prioritizing power-ready sites as data center suppliers and advanced manufacturers seek larger, specialized facilities across the U.S."
         },
         {
@@ -2804,13 +2591,6 @@
           "date": "2026-10-19T21:22:46+00:00",
           "image": "https://www.enr.com/ext/resources/2026/10/19/Vincent-Testa.webp?t=1792447310",
           "summary": "ENR Texas & Southeast names its 2027 Top Young Professionals, recognizing 30 rising leaders shaping the future of design, engineering and construction across the region."
-        },
-        {
-          "title": "Denver Arena to Undergo $135M in Phased Updates, and Other News",
-          "link": "https://www.enr.com/articles/63982-denver-arena-to-undergo-135m-in-phased-updates-and-other-news",
-          "date": "2026-10-19T20:45:00+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/10/19/rendering2.webp?t=1792443279",
-          "summary": "The home of the Denver Nuggets and Colorado Avalanche will undergo a $135-million phased two-year expansion, according to representatives of Kroenke Sports & Entertainment, the…"
         }
       ],
       "ok": true,
