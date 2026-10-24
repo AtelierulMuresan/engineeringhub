@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:55:16.292029+00:00",
+  "updated": "2026-10-24T20:24:15.712295+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -415,7 +415,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "From Hospital Bed to 3D Printer: New Project Brings Design Skills to Young Patients",
+          "link": "https://3dprintingindustry.com/news/from-hospital-bed-to-3d-printer-new-project-brings-design-skills-to-young-patients-255912/?utm_source=rss&utm_medium=rss&utm_campaign=from-hospital-bed-to-3d-printer-new-project-brings-design-skills-to-young-patients",
+          "date": "2026-10-23T07:46:02+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A University of Nottingham-led project will bring 3D design and printing to children and young people taught in hospital education across England, and will study whether the…"
+        },
+        {
+          "title": "Robots That Move, Sense and Harvest Energy: DMU Turns to 3D Printed Muscles",
+          "link": "https://3dprintingindustry.com/news/robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles-255915/?utm_source=rss&utm_medium=rss&utm_campaign=robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles",
+          "date": "2026-10-23T07:33:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A De Montfort University Leicester (DMU) researcher will study whether 3D printing can produce artificial muscles for a new generation of soft robots. Dr Meisam Abdi is one of…"
+        },
+        {
+          "title": "Artec 3D Releases Artec Twins to Render 3D Scans with Billions of Points in Real Time",
+          "link": "https://3dprintingindustry.com/news/artec-3d-releases-artec-twins-to-render-3d-scans-with-billions-of-points-in-real-time-255908/?utm_source=rss&utm_medium=rss&utm_campaign=artec-3d-releases-artec-twins-to-render-3d-scans-with-billions-of-points-in-real-time",
+          "date": "2026-10-23T06:45:03+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Luxembourg-based Artec 3D has released Artec Twins, a software platform for processing, rendering, and analyzing 3D scans of large environments, including point clouds containing…"
+        },
+        {
+          "title": "Peopoly brings laser leveling to $15,000 large-format pellet 3D printer",
+          "link": "https://3dprintingindustry.com/news/peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer-255881/?utm_source=rss&utm_medium=rss&utm_campaign=peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer",
+          "date": "2026-10-22T13:00:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Hong Kong-based 3D printer manufacturer Peopoly has opened general sales of its Giga 800 Fused Granulate Fabrication (FGF) 3D printer, starting at $15,000 (EXW). The commercial…"
+        },
+        {
+          "title": "3Descu enables 3D printing quotes through ChatGPT and Claude",
+          "link": "https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/?utm_source=rss&utm_medium=rss&utm_campaign=3descu-enables-3d-printing-quotes-through-chatgpt-and-claude",
+          "date": "2026-10-22T11:45:42+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Romanian 3D printing service provider 3Descu has opened its manufacturing quotation engine to AI assistants, allowing engineers to obtain production pricing directly through…"
+        },
+        {
+          "title": "WASP develops dual extrusion technology for reversible earth and plastic 3D printing",
+          "link": "https://3dprintingindustry.com/news/wasp-develops-dual-extrusion-technology-for-reversible-earth-and-plastic-3d-printing-255876/?utm_source=rss&utm_medium=rss&utm_campaign=wasp-develops-dual-extrusion-technology-for-reversible-earth-and-plastic-3d-printing",
+          "date": "2026-10-22T11:31:05+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Italian 3D printer manufacturer WASP is developing a dual extrusion technology that combines earth-based materials and plastic reinforcement within a single 3D printing process.…"
+        },
+        {
+          "title": "In-Situ AM for Turbine Seal Ring Repairs to be Developed and Tested for Three Gorges Dam",
+          "link": "https://3dprintingindustry.com/news/in-situ-am-for-turbine-seal-ring-repairs-to-be-developed-and-tested-for-three-gorges-dam-255892/?utm_source=rss&utm_medium=rss&utm_campaign=in-situ-am-for-turbine-seal-ring-repairs-to-be-developed-and-tested-for-three-gorges-dam",
+          "date": "2026-10-22T10:49:40+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "China Yangtze Power has awarded Dongfang Electric Machinery a reported 15.8 million yuan (approx. $2.36 million) contract to develop in-situ AM technology for repairing turbine…"
+        },
+        {
+          "title": "U.S. Navy Seeks 3D Printing Suppliers for 129 Naval Parts, Says SUBSAFE Items May Follow",
+          "link": "https://3dprintingindustry.com/news/u-s-navy-seeks-3d-printing-suppliers-for-129-naval-parts-says-subsafe-items-may-follow-255862/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-seeks-3d-printing-suppliers-for-129-naval-parts-says-subsafe-items-may-follow",
+          "date": "2026-10-22T06:24:13+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Your printers are only part of the story. Explore what software makes possible at AMA: Software 2026. Naval Supply Systems Command (NAVSUP) Weapon Systems Support (WSS) has issued…"
+        },
+        {
+          "title": "Roboze Raises $10M for U.S. Expansion and CMC Development",
+          "link": "https://3dprintingindustry.com/news/roboze-raises-10m-for-u-s-expansion-and-cmc-development-255867/?utm_source=rss&utm_medium=rss&utm_campaign=roboze-raises-10m-for-u-s-expansion-and-cmc-development",
+          "date": "2026-10-22T05:57:17+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "From design to quality control—find your next software advantage at AMA: Software 2026. Roboze, which develops industrial machines, materials, and software for distributed…"
+        },
+        {
+          "title": "LAIKA Adopts PrismSlicer to Preview Full-Color 3D Printed Faces",
+          "link": "https://3dprintingindustry.com/news/laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces-255850/?utm_source=rss&utm_medium=rss&utm_campaign=laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces",
+          "date": "2026-10-21T10:35:08+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "From design to quality control—find your next software advantage at AMA Software 2026.&#160; Prague-based software developer Additive Appearance has signed an agreement with…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1325,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "How flare ribbons reveal hidden solar explosions on the sun",
+          "link": "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html",
+          "date": "2026-10-24T18:00:01+00:00",
+          "image": null,
+          "summary": "Many topics in astronomy and astrophysics are esoteric. There's not much of a relationship between something like the supermassive black hole at the center of the Milky Way and…"
+        },
+        {
           "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
           "link": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
           "date": "2026-10-24T09:28:00+00:00",
@@ -1386,13 +1464,6 @@
           "date": "2026-10-23T07:42:44+00:00",
           "image": null,
           "summary": "In the deepest region of the Earth's mantle, just above the core, much of the material consists of crystals of magnesium oxide. In larger rocky exoplanets called super-Earths, the…"
-        },
-        {
-          "title": "Autonomous triangular modules could build tomorrow's mega-observatories",
-          "link": "https://phys.org/news/2026-10-autonomous-triangular-modules-tomorrow-mega.html",
-          "date": "2026-10-23T00:40:01+00:00",
-          "image": null,
-          "summary": "Private companies are getting better at launching more mass into space with larger rockets. But there is still a major constraint on the size of objects we can get into…"
         }
       ],
       "ok": true,
@@ -1488,6 +1559,55 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The 5 least-scary scary games for people who are scared of scary games",
+          "link": "https://www.polygon.com/best-not-scary-horror-games/",
+          "date": "2026-10-24T20:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7808383/Night_in_the_Woods_art.jpg",
+          "summary": "If you love Halloween, but could do without any nightmares, these non-scary scary games are for you."
+        },
+        {
+          "title": "10 Near-Perfect Netflix Sci-Fi Shows That Hook You in the First Scene",
+          "link": "https://www.polygon.com/perfect-netflix-sci-fi-shows-that-hook-you-in-the-first-scene/",
+          "date": "2026-10-24T20:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dark-tv-series-2.jpg",
+          "summary": "From mind-bending mysteries to dystopian futures, these Netflix sci-fi series prove that some stories can't be forgotten from the moment they start."
+        },
+        {
+          "title": "One Piece Is Officially Coming to Fortnite",
+          "link": "https://www.polygon.com/fortnite-one-piece-confirmed-mini-season-teaser/",
+          "date": "2026-10-24T19:05:06+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fortnite-mini-season-logo.jpg",
+          "summary": "Epic Games confirms that One Piece, one of the most highly anticipated collabs, will be part of the next Fortnite season."
+        },
+        {
+          "title": "Clint Eastwood's Most Intense Western Is Officially Streaming for Free on YouTube",
+          "link": "https://www.polygon.com/high-plains-drifter-clint-eastwood-free-to-stream/",
+          "date": "2026-10-24T19:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mmdhipl_ec002.jpg",
+          "summary": "Clint Eastwood's second film as director, High Plains Drifter is a horror Western free on YouTube"
+        },
+        {
+          "title": "Commander Shepard Voice Actors Call for Action to Save Mass Effect",
+          "link": "https://www.polygon.com/mass-effect-universe-canceled-jennifer-hale-mark-meer-support-petition/",
+          "date": "2026-10-24T18:22:49+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mass-effect-commander-shepard-femshep-2.png",
+          "summary": "Jennifer Hale and Mark Meer join fans in the fight to save Mass Effect after EA shut down its development project."
+        },
+        {
+          "title": "Hulu Officially Bringing Back 2000s Fan-Favorite Crime Drama",
+          "link": "https://www.polygon.com/prison-break-reboot-black-creek-hulu/",
+          "date": "2026-10-24T18:05:55+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/prison-break-revival.jpeg",
+          "summary": "Prison Break is returning after an 8-year hiatus with a new streaming TV series titled Prison Break: Black Creek for Hulu and Disney Plus."
+        },
+        {
+          "title": "3 Final Fantasy Games to Play if You Loved FF Resonance",
+          "link": "https://www.polygon.com/final-fantasy-games-like-ff-resonance/",
+          "date": "2026-10-24T18:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/en2-2.jpg",
+          "summary": "Final Fantasy Resonance left you wanting more? Consider these three games a mini Final Fantasy series retrospective"
+        },
+        {
           "title": "The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos",
           "link": "https://www.polygon.com/steam-next-fest-october-2026-most-played-games/",
           "date": "2026-10-24T17:22:30+00:00",
@@ -1507,55 +1627,6 @@
           "date": "2026-10-24T16:01:20+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/06/rayman-legends-retold-press-image-9.jpg",
           "summary": "When missing a jump means certain doom, you might wish for death"
-        },
-        {
-          "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
-          "link": "https://www.polygon.com/steam-personal-calendar-wide-release/",
-          "date": "2026-10-24T15:20:31+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-personal-calendar.png",
-          "summary": "Steam now features a Personal Calendar that will spotlight recently released and upcoming games that it thinks you'll like"
-        },
-        {
-          "title": "Dead by Daylight Is Losing Another Horror Icon",
-          "link": "https://www.polygon.com/dead-by-daylight-chucky-removed/",
-          "date": "2026-10-24T15:17:05+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25117661/dbd_artwork.jpg",
-          "summary": "This is Dead by Daylight's last Halloween with Chucky, as the horror movie icon is being removed from the game for good."
-        },
-        {
-          "title": "One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies",
-          "link": "https://www.polygon.com/zero-parades-mass-effect-2-comparison/",
-          "date": "2026-10-24T15:00:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23632439/ss_9ecf8386f29c5e3ef066d7591816add13a98d2b0.jpg",
-          "summary": "Mass Effect: Universe may be cancelled following BioWare's closure, but Zero Parades: For Died Spies is already Mass Effect meets James Bond"
-        },
-        {
-          "title": "Xbox's First-Ever COO Is Already Leaving After A Few Months",
-          "link": "https://www.polygon.com/xbox-loses-coo/",
-          "date": "2026-10-24T14:34:52+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/xbox-new-logo.png",
-          "summary": "Less than four months after becoming the first-ever Xbox COO, Helen Chiang has left the company"
-        },
-        {
-          "title": "'Wildwood' Is a \"Risky\" Movie — Just Like 'Coraline' Was 20 Years Ago",
-          "link": "https://www.polygon.com/wildwood-coraline-interview/",
-          "date": "2026-10-24T14:00:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/wildwoodbts.jpg",
-          "summary": "Discover the 16-year journey of Laika's Wildwood, a groundbreaking stop-motion film directed by Travis Knight."
-        },
-        {
-          "title": "Aaron Paul Originally Had A Much More Important Role In Clayface",
-          "link": "https://www.polygon.com/clayface-aaron-paul-cameo-explained/",
-          "date": "2026-10-24T13:45:48+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19734226/Screen_Shot_2020_02_20_at_1.08.07_PM.png",
-          "summary": "A blink-and-you'll-miss-it Clayface cameo is the last remnant of a character mostly cut from the movie"
-        },
-        {
-          "title": "Nintendo Is Still Being Wildly Underestimated",
-          "link": "https://www.polygon.com/switchboard-nintendo-switch-sports-resort/",
-          "date": "2026-10-24T13:00:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-table-tennis.png",
-          "summary": "Once dismissed as 'for kids,' Nintendo now enjoys critical respect - except when it's making casual games like Nintendo Switch Sports Resort"
         }
       ],
       "ok": true,
@@ -1565,6 +1636,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Stalker 2's next update has already leaked",
+          "link": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
+          "date": "2026-10-24T18:08:22+00:00",
+          "image": "https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "PlayStation Asia has reportedly leaked details of an unannounced update coming to Stalker 2: Heart of Chornobyl , 2.1, next week. Read more"
+        },
         {
           "title": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
           "link": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
@@ -1627,13 +1705,6 @@
           "date": "2026-10-23T17:19:50+00:00",
           "image": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "After EA's sudden shutdown of developer BioWare , upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6 . Read more"
-        },
-        {
-          "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
-          "link": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
-          "date": "2026-10-23T14:55:40+00:00",
-          "image": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Modern Warfare 4's DMZ extraction shooter mode has only been out for two days - and only for those who pre-ordered the game - but already players are up in arms over a particular…"
         }
       ],
       "ok": true,
@@ -1643,6 +1714,20 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
+          "link": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
+          "date": "2026-10-24T19:45:31+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/10/breathofthewildmastersword.jpg",
+          "summary": "The longtime caretaker of the Zelda series traveled to Paris to receive his title, honored for inspiring the world’s 'imagination'"
+        },
+        {
+          "title": "Call Of Duty: Modern Warfare 4 Director Says There’s Probably No Such Thing As ‘Perfected’ Matchmaking",
+          "link": "https://kotaku.com/call-of-duty-modern-warfare-4-director-says-theres-probably-no-such-thing-as-perfected-matchmaking-2000749327",
+          "date": "2026-10-24T18:25:14+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/10/modernwarfare4duo-1280x872.jpg",
+          "summary": "With the latest Call of Duty landing, seemingly without matchmaking features, multiplayer director Joe Cecot says he doesn't believe a system to satisfy all is possible"
+        },
         {
           "title": "Xbox’s Chief Operating Officer Out Three Months After Role’s Creation",
           "link": "https://kotaku.com/xboxs-chief-operating-officer-out-three-months-after-roles-creation-2000749324",
@@ -1698,20 +1783,6 @@
           "date": "2026-10-23T19:00:54+00:00",
           "image": "https://kotaku.com/app/uploads/2025/01/52e8ab9fb11874365da88ad07c50f1ab-1280x720.jpg",
           "summary": "Japanese companies have been facing a growing number of security breaches in recent weeks"
-        },
-        {
-          "title": "Battlefield 6, One Year Later",
-          "link": "https://kotaku.com/battlefield-6-one-year-later-2000749095",
-          "date": "2026-10-23T18:44:13+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/BF6-s5-art-1280x720.jpg",
-          "summary": "It's been quite an up and down year for EA's big military shooter"
-        },
-        {
-          "title": "New Mass Effect 5 Leak Explains How It Was Going To Deal With Mass Effect 3’s Multiple Endings",
-          "link": "https://kotaku.com/mass-effect-5-universe-canon-ending-me3-shepard-2000749116",
-          "date": "2026-10-23T17:22:20+00:00",
-          "image": "https://kotaku.com/app/uploads/2024/03/1f3e7154018cf55017c2cff33910970a-1280x720.jpg",
-          "summary": "The game would have supposedly used time and distance to fit its story into every decision Shepard could have made"
         }
       ],
       "ok": true,
@@ -1721,6 +1792,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
+          "link": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
+          "date": "2026-10-24T18:58:26+00:00",
+          "image": "https://assetsio.gnwcdn.com/helena-cloud-district.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Yes, I'm doing it, I'm writing about a megastructure game for the second time this week because come on, HELENA : Cloud District just looks stunning, don't it? Admittedly there's…"
+        },
         {
           "title": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
           "link": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
@@ -1783,13 +1861,6 @@
           "date": "2026-10-23T15:09:45+00:00",
           "image": "https://assetsio.gnwcdn.com/woim.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck. Then came the closure of BioWare , layoffs across other EA…"
-        },
-        {
-          "title": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
-          "link": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-          "date": "2026-10-23T14:43:20+00:00",
-          "image": "https://assetsio.gnwcdn.com/marvel-blade-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Negotiations over the future of Dishonored and Deathloop developers Arkane Lyon are reportedly seeing \"several forms of takeover\" considered as a November deadline looms for the…"
         }
       ],
       "ok": true,
@@ -1799,6 +1870,27 @@
       "name": "PC Gamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
+          "link": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
+          "date": "2026-10-24T18:58:24+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/nnXTHjAJbZ7bw4xzhZJCw-1920-80.jpg",
+          "summary": ""
+        },
+        {
+          "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
+          "link": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+          "date": "2026-10-24T18:10:01+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zZTTjF3rcB8LvDfbHX23jU-1920-80.jpg",
+          "summary": "Something ancient and horrible stirs in the farthest south: Are you bad enough penguin to… not really do much about it?"
+        },
+        {
+          "title": "BioWare's incredible legacy will continue as long as there are RPGs",
+          "link": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
+          "date": "2026-10-24T18:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/QaMGHy7ehiZ56gLwQYcngN-1920-80.jpg",
+          "summary": "EA is shutting down the venerable studio, but its impact will persevere."
+        },
         {
           "title": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame",
           "link": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
@@ -1847,27 +1939,6 @@
           "date": "2026-10-24T14:30:20+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/J2SZTYU49FSR6FCXmQ3dv9-1920-80.jpg",
           "summary": "Refund offered for players who \"still feel betrayed\" over AI use in Future? No Thanks!"
-        },
-        {
-          "title": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
-          "link": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
-          "date": "2026-10-24T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/w7WrWeEQuJfAzUrJLKWHhd-1920-80.jpg",
-          "summary": "\"The [Mass Effect] and [Dragon Age] games were a literal inspiration.\""
-        },
-        {
-          "title": "After 14 years of development, Factorio's final major update is out now",
-          "link": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-          "date": "2026-10-24T12:10:44+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/uAsTdLQ9j9CdRBgi5PaAhN-1920-80.jpg",
-          "summary": "Patch 2.1 brings \"a big collection\" of small yet significant changes."
-        },
-        {
-          "title": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet",
-          "link": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
-          "date": "2026-10-24T11:09:10+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wb9nztwWNtFMQcHyyfZxog-1920-80.jpg",
-          "summary": "\"We asked everyone: work on something that they loved about Galaxies, and showcase that to the world.\""
         }
       ],
       "ok": true,
@@ -2268,6 +2339,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Two 220-ton smart cranes help build main towers for China’s Lugu Lake Grand Bridge",
+          "link": "https://interestingengineering.com/innovation/zoomlion-tower-cranes-283-meter-bridge-tower-china",
+          "date": "2026-10-24T20:16:59+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Big-big-crane.jpg",
+          "summary": "Chinese construction equipment manufacturer Zoomlion has supplied two heavy-duty tower cranes for the construction of..."
+        },
+        {
+          "title": "US drinking water may contain double the reported levels of harmful ‘forever chemicals’",
+          "link": "https://interestingengineering.com/health/us-drinking-water-forever-chemicals-pfas",
+          "date": "2026-10-24T19:15:10+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/q-hr-qc4dz0_78bf14.jpg",
+          "summary": "The methods used to report harmful “forever chemicals” in U.S. drinking water may be underestimating..."
+        },
+        {
           "title": "This Chinese electric crossover drove 742 miles without stopping to recharge",
           "link": "https://interestingengineering.com/transportation/xpeng-mona-l05-erev-1194-km-range-test",
           "date": "2026-10-24T17:51:51+00:00",
@@ -2322,20 +2407,6 @@
           "date": "2026-10-24T10:58:39+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/3wqtzgq5f7k.jpg",
           "summary": "Nio has unveiled its new longer range 60kWh&nbsp;battery variant of its popular Firefly electrical vehicle..."
-        },
-        {
-          "title": "64 missile launch cells: Upgraded F-110 warship packs four times the capacity",
-          "link": "https://interestingengineering.com/innovation/64-missile-launch-cells-upgraded-warship",
-          "date": "2026-10-24T10:38:15+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/m5bcc-q7w3w.jpg",
-          "summary": "The Spanish Navy is working with Navantia to develop a much more powerful air-defense variant..."
-        },
-        {
-          "title": "2,000-year-old Archimedes’ screw inspires motor that boosts electricity 100 times",
-          "link": "https://interestingengineering.com/innovation/archimedes-screw-inspires-motor",
-          "date": "2026-10-24T10:19:17+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/9jc0rykwzi.jpg",
-          "summary": "A machine inspired by an ancient water pump can now operate at the scale of..."
         }
       ],
       "ok": true,
