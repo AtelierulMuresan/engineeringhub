@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:53:35.518170+00:00",
+  "updated": "2026-10-24T00:20:37.716760+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -91,18 +91,18 @@
           "summary": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche…"
         },
         {
-          "title": "Halfway Round the World in 78 Days",
-          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-tahiti-stuttgart-911-carrera-gts-43546.html",
-          "date": "2026-10-19T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=340145&w=1080&h=609&crop=1&public=1&cs=f8d291be0acf47e9",
-          "summary": "Le Mans, Gulfblue, Steve McQueen. Even in Tahiti, these names evoke dreams. That’s reason enough to send a specially configured 911 on a roughly 23,000-kilometer journey – quite…"
-        },
-        {
           "title": "“The Right Steps at the Right Moment”",
           "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-from-merck-healthcare-to-dlrg-water-rescue-43479.html",
           "date": "2026-10-19T07:00:00+00:00",
           "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=341053&w=1080&h=609&crop=1&public=1&cs=274864c40cb950ce",
           "summary": "Finding a balance for his demanding role as a senior executive in the pharmaceutical industry does not take long for Dr. Dirk Bissinger. Volunteer service fills his free time and…"
+        },
+        {
+          "title": "Halfway Round the World in 78 Days",
+          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-tahiti-stuttgart-911-carrera-gts-43546.html",
+          "date": "2026-10-19T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=340145&w=1080&h=609&crop=1&public=1&cs=f8d291be0acf47e9",
+          "summary": "Le Mans, Gulfblue, Steve McQueen. Even in Tahiti, these names evoke dreams. That’s reason enough to send a specially configured 911 on a roughly 23,000-kilometer journey – quite…"
         },
         {
           "title": "Porsche Mission S: the essence of the sports car reinterpreted",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "North America car and truck production by plant, Sept. & YTD 2026",
+          "link": "https://www.autonews.com/data-center/manufacturing-data/production-plant/an-north-america-production-plant-september-2026/",
+          "date": "2026-10-23T21:46:17+00:00",
+          "image": null,
+          "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed by plant and automaker for the current and previous year periods"
+        },
+        {
           "title": "North America car and truck production by model, Sept. & YTD 2026",
           "link": "https://www.autonews.com/data-center/manufacturing-data/production-model/an-north-america-production-model-september-2026/",
           "date": "2026-10-23T21:44:21+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-10-23T16:42:14+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/6RsMahivQ3rzxSXNdSlkSPxYxUs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/J2HKEQWC6FDK7O354GG7SDYH74.jpg",
           "summary": "If the plan is realized, Chery could be the first Chinese automaker to have a manufacturing presence in Canada."
-        },
-        {
-          "title": "Cadillac launches limited-edition, $239,000 Escalade-V to mark 125th anniversary",
-          "link": "https://www.autonews.com/car-concepts/an-cadillac-escalade-v-125th-anniversary-1023/",
-          "date": "2026-10-23T16:22:13+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/uSol_TWDtahapZy_qe1vH4yqqOE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MEIQU76FAJDOZCVIEMR76REGHQ.jpg",
-          "summary": "The 2027 Escalade-V Collector Series, limited to 252 SUVs, is Cadillac's first Escalade in its racing-inspired Collector Series."
         }
       ],
       "ok": true,
@@ -651,6 +651,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+          "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+          "date": "2026-10-23T22:39:39+00:00",
+          "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue…"
+        },
+        {
+          "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+          "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+          "date": "2026-10-23T22:37:53+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
+          "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027,…"
+        },
+        {
+          "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+          "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+          "date": "2026-10-23T21:51:19+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&#038;h=1084&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater…"
+        },
+        {
           "title": "RS-25 Engine Tests at NASA Stennis",
           "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
           "date": "2026-10-23T18:57:04+00:00",
@@ -669,7 +690,7 @@
           "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
           "date": "2026-10-23T04:05:00+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+          "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…"
         },
         {
           "title": "El Niño Then and Now",
@@ -698,27 +719,6 @@
           "date": "2026-10-22T16:20:37+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_Gravitational-Lens_DES%20J194.5345+03.5358_callout.jpg?w=2048&#038;h=1583&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
           "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope."
-        },
-        {
-          "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-          "date": "2026-10-22T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg?w=1280&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
-        },
-        {
-          "title": "Fires Char New Guinea",
-          "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-          "date": "2026-10-22T04:01:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought."
-        },
-        {
-          "title": "Faster to Science: A Letter to the Science Community",
-          "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-          "date": "2026-10-22T00:00:16+00:00",
-          "image": null,
-          "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall."
         }
       ],
       "ok": true,
@@ -956,6 +956,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+          "date": "2026-10-23T23:26:41+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/9Xh2uRRjmC6ZiQ6YNb7vpY-1920-80.jpg",
+          "summary": "SpaceX sent 27 more of its Starlink broadband satellites to orbit today (Oct. 23), in its first Starlink launch in 11 days."
+        },
+        {
+          "title": "NASA lays out plan for Artemis 3 moon-lander test flight —but when will it launch?",
+          "link": "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
+          "date": "2026-10-23T22:55:43+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zzFKFcYcVSiK2DUPwdgbHJ-1920-80.jpg",
+          "summary": "NASA just gave us our best look yet at its Artemis III moon-lander test flight, which is scheduled to launch to Earth orbit next year. But a firm liftoff date has not yet been…"
+        },
+        {
           "title": "On this day in space! Oct. 23, 2007: NASA launches Harmony module to ISS on STS-120 space shuttle mission",
           "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026",
           "date": "2026-10-23T20:47:13+00:00",
@@ -1010,20 +1024,6 @@
           "date": "2026-10-22T22:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/BR2gyzRjmFiFh82R7FFpLT-1920-80.jpg",
           "summary": "The full-scale prototype of Europe's Space Rider orbiter failed to deploy its parachute during a drop test earlier this month, but ESA officials hope the setback won't delay…"
-        },
-        {
-          "title": "On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026",
-          "date": "2026-10-22T21:08:26+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/JDnT5gidkxtFmwCnuxnt5Z-1920-80.jpg",
-          "summary": "On Oct. 22, 1992, the space shuttle Columbia launched into space with the ashes of Gene Roddenberry, the creator of \"Star Trek.\" Here's why it mattered."
-        },
-        {
-          "title": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
-          "link": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia",
-          "date": "2026-10-22T20:28:04+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/iDJPMWFjKosNxmMX5pramC-1920-80.jpg",
-          "summary": "Ukraine's military just signed a letter of intent with Nokia and the Finnish satellite maker ICEYE to look into developing a sovereign satellite-communication system for the…"
         }
       ],
       "ok": true,
@@ -1112,11 +1112,11 @@
       "cat": "space",
       "items": [
         {
-          "title": "Another try for Falcon 9 launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+          "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
           "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
           "date": "2026-10-20T21:18:11+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
-          "summary": "SpaceX will make a fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff is scheduled for 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct.…"
+          "summary": "SpaceX succeeded in its fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff happened at 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct.…"
         },
         {
           "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
@@ -1268,6 +1268,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
+          "link": "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope",
+          "date": "2026-10-23T22:33:37+00:00",
+          "image": "https://www.universetoday.com/article_images/gasgiant-7_20261023_204718.jpg",
+          "summary": "Get ready for the age of private space telescopes. The Lazuli Space Telescope will launch in a few years and part of its mission is to observe exoplanets. New research presents a…"
+        },
+        {
           "title": "The Largest Canyon in the Solar System is Still Tectonically Active",
           "link": "https://www.universetoday.com/articles/the-largest-canyon-in-the-solar-system-is-still-tectonically-active",
           "date": "2026-10-23T21:09:09+00:00",
@@ -1329,13 +1336,6 @@
           "date": "2026-10-22T15:30:00+00:00",
           "image": "https://www.universetoday.com/article_images/44619460185_3c3ed1e20f_c_20261022_141854.jpg",
           "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of…"
-        },
-        {
-          "title": "Autonomous Triangular Modules Could Build Tomorrow’s Mega-Observatories",
-          "link": "https://www.universetoday.com/articles/autonomous-triangular-modules-could-build-tomorrows-mega-observatories",
-          "date": "2026-10-22T15:18:23+00:00",
-          "image": "https://www.universetoday.com/article_images/Low-Res_33_20261022_151815.png",
-          "summary": "Private companies are getting better and better at launching more and more mass into space with larger and larger rockets. But, there is still a major constraint on the size of…"
         }
       ],
       "ok": true,
@@ -1630,6 +1630,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+          "link": "https://www.polygon.com/darkwing-duck-reboot-disney-plus/",
+          "date": "2026-10-23T23:33:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/darkwingduck_2026_release_image_hd_updated_20260918-logo.jpg",
+          "summary": "Disney Plus is getting a new Darkwing Duck series, featuring the return of crime fighter Drake Mallard."
+        },
+        {
+          "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
+          "link": "https://www.polygon.com/best-classic-jrpgs-no-remake/",
+          "date": "2026-10-23T22:19:03+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/suikoden-2.png",
+          "summary": "These JRPGs may have been ported to newer platforms or lightly remastered, but they look and play nearly identical to when they were first released"
+        },
+        {
+          "title": "Every Marvel Post-Credits Scene That Went Nowhere (So Far)",
+          "link": "https://www.polygon.com/marvel-movies-tv-shows-post-credits-scenes-teases/",
+          "date": "2026-10-23T22:16:19+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25275429/mcu_dangling_threads.jpg",
+          "summary": "Marvel Studios has promised a lot in the Multiverse Saga. Here's every post-credits scene from the MCU we still need answers for."
+        },
+        {
           "title": "An '80s Cult Horror-Comedy Becomes a Global Streaming Hit on HBO Max",
           "link": "https://www.polygon.com/gremlins-hbo-max-streaming-success-october-2026/",
           "date": "2026-10-23T21:00:49+00:00",
@@ -1677,27 +1698,6 @@
           "date": "2026-10-23T18:07:16+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fire-emblem-fortune-s-weave-anatolia.jpg",
           "summary": "What are the best Nintendo Switch 2 games? From Fire Emblem: Fortune's Weave to Nintendo Switch Sports Resort, here are our favorites"
-        },
-        {
-          "title": "All 23 BioWare Games, Ranked",
-          "link": "https://www.polygon.com/bioware-games-ranked/",
-          "date": "2026-10-23T18:00:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-age-origins-party.jpg",
-          "summary": "From Shattered Steel to Mass Effect 2, we ranked all 23 BioWare games, remasters and mobile spin-offs included, as EA closes the studio."
-        },
-        {
-          "title": "4 Years Ago, 'Doctor Who’s Biggest Failure Was Just the Beginning of the End",
-          "link": "https://www.polygon.com/doctor-who-the-power-of-the-doctor-failed-jodie-whittaker-4th-anniversary/",
-          "date": "2026-10-23T18:00:20+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jodie-whittaker-potd.jpg",
-          "summary": "Doctor Who has faced problems for years, and it all traces back to one specific finale."
-        },
-        {
-          "title": "Taylor Sheridan's Call of Duty Adaptation Will Have 'Soul,' Director Says",
-          "link": "https://www.polygon.com/call-of-duty-taylor-sheridan-movie-peter-berg/",
-          "date": "2026-10-23T17:59:57+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/call-of-duty.jpg",
-          "summary": "2028's Call of Duty movie adaptation from Peter Berg and Taylor Sheridan won't be a \"popcorn\" action thriller — it will have \"soul\" director says."
         }
       ],
       "ok": true,
@@ -1942,6 +1942,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+          "link": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+          "date": "2026-10-23T22:46:50+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/VcinT8UXinhzfqDjA8Wi2F-1920-80.png",
+          "summary": "BioWare is just the latest casualty in a long history of private equity carnage."
+        },
+        {
+          "title": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
+          "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+          "date": "2026-10-23T21:58:50+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Crt9MrXnRKTkx7PBjmUocT-1920-80.jpg",
+          "summary": "The more I hear about what BioWare had cooking, the more pissed off I am that we're never going to get it."
+        },
+        {
           "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
           "link": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
           "date": "2026-10-23T21:43:44+00:00",
@@ -1996,20 +2010,6 @@
           "date": "2026-10-23T16:27:52+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/qdwbNhnYukyfzRi4GZNyGD-1920-80.jpg",
           "summary": "He's been looksmaxxing. He got the Chad surgery."
-        },
-        {
-          "title": "Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it",
-          "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly-with-activisions-recommended-rtx-3060-ti-graphics-card-and-here-are-the-settings-i-use-to-get-the-best-performance-from-it/",
-          "date": "2026-10-23T16:13:25+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/K87Z9XfsywJDw2EBwveyme-1920-80.jpg",
-          "summary": "Though upscaling is somewhat of a requirement if you're at 1440p."
-        },
-        {
-          "title": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea",
-          "link": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
-          "date": "2026-10-23T16:11:07+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/94RkNNoBUmy3PmPVpQQR2d-1920-80.jpg",
-          "summary": "It timed itself rather nicely with the deepening memory crisis, too."
         }
       ],
       "ok": true,
@@ -2410,9 +2410,23 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "OpenAI moves frontier training offline after agents punch through security barriers",
+          "link": "https://interestingengineering.com/ai-robotics/openai-frontier-model-offline-training",
+          "date": "2026-10-23T23:57:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-22.jpg",
+          "summary": "OpenAI is keeping its most advanced AI training runs away from the live internet after..."
+        },
+        {
+          "title": "US’ uncrewed fighter jet that offers human-machine teaming in combat scenarios to enter production",
+          "link": "https://interestingengineering.com/military/us-uncrewed-fighter-jet-production",
+          "date": "2026-10-23T23:45:15+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/combat-drone-new.jpg",
+          "summary": "The United States is soon to begin airframe production of its new uncrewed fighter jet...."
+        },
+        {
           "title": "US top lab turns to AI to modernize America’s decades-old paper and pulp industry",
           "link": "https://interestingengineering.com/ai-robotics/us-top-lab-ai-modernize-paper-mills",
-          "date": "2026-10-23T21:53:23+00:00",
+          "date": "2026-10-23T21:53:24+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-design-14.jpg",
           "summary": "The U.S. Department of Energy (DOE) is turning to artificial intelligence, digital manufacturing, and advanced..."
         },
@@ -2464,20 +2478,6 @@
           "date": "2026-10-23T16:27:53+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Hydrogen.jpg",
           "summary": "A team of scientists has found a way to double the production of clean hydrogen..."
-        },
-        {
-          "title": "Parts of world’s most powerful jet engine that offers 40,000-lb thrust to be built at new site",
-          "link": "https://interestingengineering.com/military/world-most-powerful-jet-engine-manufacturing-facility",
-          "date": "2026-10-23T16:10:08+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/jet-engine.jpg",
-          "summary": "A Connecticut-based company is expanding one of its plants to boost the production of the..."
-        },
-        {
-          "title": "Massive 310,000-ton LNG supertanker stretches 1,114 feet, targets 85% less NOx",
-          "link": "https://interestingengineering.com/energy/massive-oil-supertanker-stretches-targets-less-nox",
-          "date": "2026-10-23T16:05:33+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/2-fj3wvsfqg_031369.jpg",
-          "summary": "Japan has just delivered a giant liquefied natural gas (LNG) tanker that could cut nitrogen..."
         }
       ],
       "ok": true,
@@ -2658,6 +2658,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "date": "2026-10-23T22:48:25+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-500x500.jpg",
+          "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+        },
+        {
           "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
           "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
           "date": "2026-10-23T20:28:43+00:00",
@@ -2719,13 +2726,6 @@
           "date": "2026-10-23T16:35:00+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-500x500-1740609177.jpg",
           "summary": "Sound designer lets Half Life-related codename slip at a conference."
-        },
-        {
-          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-          "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-          "date": "2026-10-23T13:43:21+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-500x500.jpg",
-          "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over."
         }
       ],
       "ok": true,
