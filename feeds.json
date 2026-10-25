@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:54:51.886606+00:00",
+  "updated": "2026-10-25T10:55:19.382134+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -160,83 +160,154 @@
     {
       "name": "Automotive World",
       "cat": "automotive",
-      "items": [],
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.automotiveworld.com/feed/"
+      "items": [
+        {
+          "title": "Is the Volkswagen brand on course for reduced global status?",
+          "link": "https://www.automotiveworld.com/analysis/is-the-volkswagen-brand-on-course-for-reduced-global-status/",
+          "date": "2026-10-23T12:57:22+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Volkswagen's challenges are many and varied, with a much leaner core brand expected to emerge in the near future. By Ian Henry The post Is the Volkswagen brand on course for…"
+        },
+        {
+          "title": "General Motors: performance and production forecast to 2030",
+          "link": "https://www.automotiveworld.com/data/general-motors-performance-and-production-forecast-to-2030/",
+          "date": "2026-10-23T07:29:11+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Automotive World forecasts production output for General Motors during the period to 2030. By Jonathan Storey The post General Motors: performance and production forecast to 2030…"
+        },
+        {
+          "title": "Are current in-vehicle networks ready for SDVs?",
+          "link": "https://www.automotiveworld.com/partner-content/are-current-in-vehicle-networks-ready-for-sdvs/",
+          "date": "2026-10-23T07:28:13+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Carlos Pardo explains how a confluence of industry developments could mark a turning point in how future in-vehicle networks are designed The post Are current in-vehicle networks…"
+        },
+        {
+          "title": "inDrive, Pony.ai and Nvidia plan robotaxis in Kazakhstan",
+          "link": "https://www.automotiveworld.com/news/indrive-pony-ai-and-nvidia-plan-robotaxis-in-kazakhstan/",
+          "date": "2026-10-23T06:00:56+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Starting in Kazakhstan lets inDrive test robotaxis where regulation is ready, before taking the model to its other markets The post inDrive, Pony.ai and Nvidia plan robotaxis in…"
+        },
+        {
+          "title": "Greater Paris bids for EU autonomous driving scheme",
+          "link": "https://www.automotiveworld.com/news/greater-paris-bids-for-eu-autonomous-driving-scheme/",
+          "date": "2026-10-23T05:55:34+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Targeting gaps left by the Grand Paris Express, the Greater Paris pilot frames autonomy as a complement to public transport The post Greater Paris bids for EU autonomous driving…"
+        },
+        {
+          "title": "Wayve, Stellantis and Nvidia partner on autonomy in France",
+          "link": "https://www.automotiveworld.com/news/wayve-stellantis-and-nvidia-partner-on-autonomy-in-france/",
+          "date": "2026-10-23T05:50:29+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Launching with ministerial support gives Wayve, Stellantis and Nvidia a regulatory partner from the outset of their French programme The post Wayve, Stellantis and Nvidia partner…"
+        },
+        {
+          "title": "Audi Q9 debuts first curved digital OLED rear lights",
+          "link": "https://www.automotiveworld.com/news/audi-q9-debuts-first-curved-digital-oled-rear-lights/",
+          "date": "2026-10-23T05:45:21+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Curved digital OLED lets Audi turn rear lights into signalling displays, giving lighting a growing role in vehicle safety The post Audi Q9 debuts first curved digital OLED rear…"
+        },
+        {
+          "title": "Chery to build Omoda C4 at former Nissan Rosslyn plant",
+          "link": "https://www.automotiveworld.com/news/chery-to-build-omoda-c4-at-former-nissan-rosslyn-plant/",
+          "date": "2026-10-23T05:40:47+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Local Omoda C4 production lets Chery present itself as a South African manufacturer as its Omoda and Jaecoo brands grow The post Chery to build Omoda C4 at former Nissan Rosslyn…"
+        },
+        {
+          "title": "Hyundai delivers 11 County EV e-buses for Bali transit",
+          "link": "https://www.automotiveworld.com/news/hyundai-delivers-11-county-ev-e-buses-for-bali-transit/",
+          "date": "2026-10-23T05:35:52+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Winning Bali’s tender on after-sales support shows Hyundai’s County EV competing on service as much as on the vehicle itself The post Hyundai delivers 11 County EV e-buses for…"
+        },
+        {
+          "title": "MG targets value buyers with seven-seat plug-in hybrid",
+          "link": "https://www.automotiveworld.com/news/mg-targets-value-buyers-with-seven-seat-plug-in-hybrid/",
+          "date": "2026-10-23T05:30:25+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "With 41% of drivers open to switching brands, MG sees its seven-seat SUV as a way to win buyers from established makes The post MG targets value buyers with seven-seat plug-in…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
         {
-          "title": "Lancia expects boost for new Gamma crossover under Fiat umbrella",
-          "link": "https://www.autonews.com/stellantis/lancia/ane-lancia-fiat-dealerships-1025/",
-          "date": "2026-10-25T05:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/B2Rpo348XIRELB5pJlZqCvu0upM=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/TBW33JNFAJEHFGEXNLU3ZC2OHQ.jpg",
-          "summary": "Under Stellantis' Fastlane 2030 plan, Lancia is shifting from standalone premium brand to Fiat-run national marque, using small in-dealer Studio spaces to widen the Gamma's…"
+          "title": "Toyota, Honda trial humanoid robots on factory floors in Japan",
+          "link": "https://www.autonews.com/podcasts/shift/an-shift-podcast-lucien-matieu-tande-1025/",
+          "date": "2026-10-25T10:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/IztOAMq-9wxbeoSyVykUM2LXO14=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/77B32ZGF25DPPGYUKPXOSRZEDA.jpeg",
+          "summary": "\"Shift\" host Molly Boigon chats with Lucien Mathieu of Transport & Environment about how PHEVs emit more CO2 than advertised."
         },
         {
-          "title": "Audi to invest $4 billion for Georgia assembly plant to build SUVs",
-          "link": "https://www.autonews.com/volkswagen/audi/an-audi-us-plant-1024/",
-          "date": "2026-10-25T02:00:27+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/5Wy5hcXFO9cabgRp73fRvLe1zZE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/ASVGEHWBBRB6PB7GCTI5JCYIWE.jpg",
-          "summary": "The Volkswagen Group brand, subject to punishing U.S. tariffs, has considered local assembly in the U.S. but hadn’t committed to such plans."
+          "title": "2026 40 Under 40 honoree: Matt Adovic",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-matt-adovic-1025/",
+          "date": "2026-10-25T09:48:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/7_9gonyLyPguQlkT4z9Oe_-OJio=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/XJ4GP26Q6VAQNI3M2N3XZNRRQI.jpg",
+          "summary": "Matt Adovic, a 2026 Automotive News 40 Under 40 honoree, oversaw a hefty jump in profit per vehicle at his Connecticut Hyundai store."
         },
         {
-          "title": "Weekend Drive: Canada’s $8.7 billion auto and steel plan; UAW warns GM over buyback",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-wd-canada-spending-uaw-warns-gm-1024/",
-          "date": "2026-10-24T10:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/zhE3rN-EJ1LZuf040S88QbCTYnE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/BNB7AGOCUJFKJI3F43Q23DTPEU.jpg",
-          "summary": "Michael Martinez and Greg Layson unpack Canada’s $8.7 billion auto and steel plan, the UAW’s warning on General Motors’ buyback plan and Chinese automakers’ ambitions in North…"
+          "title": "2026 40 Under 40 honoree: Amir Alahwal",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-amir-alahwal-1025/",
+          "date": "2026-10-25T09:46:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3wqM_naCTXxfWx4a3cT4ZLxMdRI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/P7VC4G4HUFGYPFEAWMDY4JH2BQ.png",
+          "summary": "Amir Alahwal, an Automotive News 2026 40 Under 40 honoree, uses AI to identify and provide in minutes conquest leads to his group's business development center."
         },
         {
-          "title": "North America car and truck production by plant, Sept. & YTD 2026",
-          "link": "https://www.autonews.com/data-center/manufacturing-data/production-plant/an-north-america-production-plant-september-2026/",
-          "date": "2026-10-23T21:46:17+00:00",
-          "image": null,
-          "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed by plant and automaker for the current and previous year periods"
+          "title": "2026 40 Under 40 honoree: Kirk Albarian",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-kirk-albarian-1025/",
+          "date": "2026-10-25T09:44:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/en8j57OUnIeiDvDgrgE4W9uBVt8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/DZ2BBNA4WVHTDJUFO3QDSCLULQ.png",
+          "summary": "Kirk Albarian, a 2026 Automotive News 40 Under 40 honoree, increased new-vehicle sales by a double digit percentage at Confidence Ford in Oklahoma."
         },
         {
-          "title": "North America car and truck production by model, Sept. & YTD 2026",
-          "link": "https://www.autonews.com/data-center/manufacturing-data/production-model/an-north-america-production-model-september-2026/",
-          "date": "2026-10-23T21:44:21+00:00",
-          "image": null,
-          "summary": "Unit production of cars and trucks by model in North America (Canada, Mexico & the U.S.) listed alphabetically by brand and automaker for the current and previous year periods"
+          "title": "2026 40 Under 40 honoree: Felicia Barr",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-felicia-barr-1025/",
+          "date": "2026-10-25T09:42:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/33ryzc1jBbgtHKPV5ZVP-_IChJg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SDGIEFEK5ZB4HGTKFHLIJKWI2E.png",
+          "summary": "Felicia Barr, an Automotive News 2026 40 Under 40 honoree, created a technician pipeline for her dealerships via partnerships with local high schools."
         },
         {
-          "title": "First Shift: Tesla targets 5 million annual sales by 2030",
-          "link": "https://www.autonews.com/video/first-shift-tesla-targets-5-million-annual-sales-by-2030/",
-          "date": "2026-10-23T19:32:47+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/N05zoi_FYKTguewRIL_9cEhvGgo=/0x800/d3qtc8km8dvw1x.cloudfront.net/10-23-2026/t_7ec8098f2ae748aa90f24497c150eeb2_name_file_960x540_1600_v4_.jpg",
-          "summary": "Honda to sell rebadged Mitsubishi pickup | Bosch auto-parts unit to be separate company | Dodge Charger Hellcat V-8 poised for return"
+          "title": "2026 40 Under 40 honoree: Taylor Bentley Conner",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-taylor-bentley-conner-1025/",
+          "date": "2026-10-25T09:40:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/3fC9_CsT_nOQPNTE82nOZTbj2eY=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/JDQEBCB32JECRCXI4IUN7X7OLM.jpg",
+          "summary": "Taylor Bentley Conner, a 2026 Automotive News 40 Under 40, modernized her family's dealership with a customer-focused digital sales strategy while preserving its community culture."
         },
         {
-          "title": "Daily 5 report for Oct. 23: Here’s one area where the EV market is maturing: Used batteries",
-          "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-ev-battery-after-market-ev-1023/",
-          "date": "2026-10-23T19:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/K6ea1YP8UdO8ExTtCHf0ug3pjOg=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/LKZ4QEO5PNA65CEOHMDOIAUN6I.jpg",
-          "summary": "Aging EVs are creating a growing supply of used batteries for energy storage and recycling, a sign the electric vehicle market is maturing."
+          "title": "2026 40 Under 40 honoree: Jason Bickford",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-jason-bickford-1025/",
+          "date": "2026-10-25T09:38:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Va4axjC4laFs4sKG3UePJPpldSU=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/WBNK4OTTVBBYPMNSAC6D72AFUE.jpeg",
+          "summary": "Jason Bickford, an Automotive News 2026 40 Under 40 honoree, expanded service bays and increased employment to ease a bottleneck at his Washington-based dealership."
         },
         {
-          "title": "What Chinese brands would mean for service and parts; Volvo cuts 2,500 jobs",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-quin-garcia-volvo-cuts-1023/",
-          "date": "2026-10-23T18:33:36+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Y8hSTPn49Hv5cAPEBCtiKW_aqx0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/ZAMKQXNGNJB3LA5IETCFA7Q5YA.jpg",
-          "summary": "Quin Garcia of Autotech Ventures explains what Chinese automakers would mean for dealership service and parts. Plus, Volvo’s job cuts, Bosch’s restructuring and the UAW’s warning…"
+          "title": "2026 40 Under 40 honoree: Kamrie Day",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-kamrie-day-1025/",
+          "date": "2026-10-25T09:36:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/VH9Pe9Dm_Mg1Tgy49io6_1PXIWE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/DQCQE7R6KZCLPIISNTU4YPGNKM.png",
+          "summary": "Kamrie Day, an Automotive News 2026 40 Under 40 honoree, oversaw an uptick in sales after customizing her group's communication template for following up with customers."
         },
         {
-          "title": "Automotive News Video | Where it all started for 40 Under 40",
-          "link": "https://www.autonews.com/video/automotive-news-video-where-it-all-started-for-40-under-40/",
-          "date": "2026-10-23T18:18:16+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/bY-KI4ohGvkEJ-iUc0fcG1xafiE=/0x800/d3qtc8km8dvw1x.cloudfront.net/10-23-2026/t_c567008906044d7cabe1f1c623f9855e_name_file_960x540_1600_v4_.jpg",
-          "summary": "Honorees describe their first job in the industry, and most started near the bottom: car washer, porter, cashier, receptionist."
+          "title": "2026 40 Under 40 honoree: Tom Duenkel Jr.",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-tom-duenkel-1025/",
+          "date": "2026-10-25T09:34:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/lhLX3Pqk4StY7xKd1vYAJSzNf60=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/EIIMMAT3H5GRPBBPLGLNSISSQY.jpg",
+          "summary": "Tom Duenkel Jr., a 2026 Automotive News 40 Under 40 honoree, saw sales for two parts operations at his Arizona Ford store rise from $3 million to $6 million."
         },
         {
-          "title": "Automotive News Video | The road ahead for 40 Under 40",
-          "link": "https://www.autonews.com/video/automotive-news-video-the-road-ahead-for-40-under-40/",
-          "date": "2026-10-23T18:18:10+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/QLiSZKRKtJDBzWtMmht8I-RX8Hs=/0x800/d3qtc8km8dvw1x.cloudfront.net/10-23-2026/t_9647bad20df940b2a4059fff6ec79ad6_name_file_960x540_1600_v4_.jpg",
-          "summary": "Three challenges come up again and again: finding and keeping people, customers who can't afford cars, and working out what AI means for the business."
+          "title": "2026 40 Under 40 honoree: Mary Dufour",
+          "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-mary-dufour-1025/",
+          "date": "2026-10-25T09:32:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/9U77WbyZbu0Sx1A7X_E1qpvdeYE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/B4QZPQWSZNFIPN7FLVYQQ5A5XE.png",
+          "summary": "Mary Dufour, an Automotive News 2026 40 Under 40 honoree, initiated segmenting technician work, helping increase gross profit per repair order by nearly $100, at her Louisiana…"
         }
       ],
       "ok": true,
@@ -580,6 +651,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+          "date": "2026-10-25T08:19:48+00:00",
+          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&#038;h=900&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
           "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
           "date": "2026-10-24T04:05:00+00:00",
@@ -641,13 +719,6 @@
           "date": "2026-10-22T21:39:58+00:00",
           "image": null,
           "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in…"
-        },
-        {
-          "title": "Spiral’s Edge",
-          "link": "https://www.nasa.gov/image-article/spirals-edge/",
-          "date": "2026-10-22T21:35:38+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048",
-          "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the…"
         }
       ],
       "ok": true,
@@ -885,6 +956,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+          "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+          "date": "2026-10-25T10:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/PMKUo2LQYCS5236iUvhYWn-1920-80.jpg",
+          "summary": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone."
+        },
+        {
           "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
           "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
           "date": "2026-10-24T15:53:21+00:00",
@@ -946,13 +1024,6 @@
           "date": "2026-10-23T16:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/WZyHqvXzdZYsVNqGxBqQCQ-1920-80.jpg",
           "summary": "After a failed soft reboot and a remake of the original, the Halo universe is facing yet another major creative shift. But has Xbox learned any lessons this time?"
-        },
-        {
-          "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
-          "link": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
-          "date": "2026-10-23T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
-          "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year."
         }
       ],
       "ok": true,
@@ -1197,6 +1268,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Rare Lunar Meteorites Could Fill Gaps In Moon’s Evolution",
+          "link": "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution",
+          "date": "2026-10-25T08:18:40+00:00",
+          "image": "https://www.universetoday.com/article_images/AntaracticMeteorites_20261025_080708.jpg",
+          "summary": "Almost all meteorites come from asteroids, not the Moon or Mars. But after decades of analysis of the Apollo samples, researchers still rely on lunar meteorites to better…"
+        },
+        {
           "title": "White Dwarfs Are Actually…Yellow, Green, Pink, and Purple?",
           "link": "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple",
           "date": "2026-10-24T01:32:55+00:00",
@@ -1258,13 +1336,6 @@
           "date": "2026-10-22T19:25:24+00:00",
           "image": "https://www.universetoday.com/article_images/227_supermassiveblackholes_t_20261022_184134.jpg",
           "summary": "SMBH jets are driven by thick, hot accretion disks with powerful magnetic fields. But there's a bit of a paradox. Some SMBH produce jets, even though they appear to have thin,…"
-        },
-        {
-          "title": "New Evidence for an Old Prediction: Recoiling Supermassive Black Holes",
-          "link": "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes",
-          "date": "2026-10-22T17:52:01+00:00",
-          "image": "https://www.universetoday.com/article_images/eso1122a_20261022_173136.jpg",
-          "summary": "Theory says that during some SMBH mergers, the merger remnant receives a recoil kick from gravitational waves. Instead of sitting placidly in the galactic center, these recoiled…"
         }
       ],
       "ok": true,
@@ -1559,6 +1630,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
+          "link": "https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/",
+          "date": "2026-10-25T10:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdabdr_ec010_h.JPG",
+          "summary": "The Abominable Dr. Phibes is a campy horror movie about an organist who murders surgeons"
+        },
+        {
+          "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+          "link": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
+          "date": "2026-10-25T08:54:46+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdamps_ec010.jpg",
+          "summary": "These tense genre picks are well worth your time."
+        },
+        {
+          "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+          "link": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
+          "date": "2026-10-25T08:08:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spike.jpeg",
+          "summary": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer."
+        },
+        {
+          "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+          "link": "https://www.polygon.com/paul-atreides-best-dune-quote/",
+          "date": "2026-10-25T08:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/l-intro-1739976137.jpg",
+          "summary": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth."
+        },
+        {
           "title": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
           "link": "https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/",
           "date": "2026-10-25T04:01:20+00:00",
@@ -1599,34 +1698,6 @@
           "date": "2026-10-25T00:30:15+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ar4sz-1.jpg",
           "summary": "Nintendo's The Legend of Zelda live-action movie hits theaters in 2027. Here's who's confirmed to appear in the film to date."
-        },
-        {
-          "title": "Johnny Depp's 96-Minute Stephen King Thriller Is an Underrated Gem on Streaming",
-          "link": "https://www.polygon.com/johnny-depp-secret-window-stephen-king-streaming-hbo-max-october-2026/",
-          "date": "2026-10-24T22:18:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/secret-window-johnny-depp.jpg",
-          "summary": "Johnny Depp’s Secret Window, a 2004 Stephen King adaptation about plagiarism and paranoia, is finding a new audience on HBO Max."
-        },
-        {
-          "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
-          "link": "https://www.polygon.com/best-books-cozy-horror-fall-season/",
-          "date": "2026-10-24T21:00:19+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/my-best-friends-exorcism.jpg",
-          "summary": "Spooky season is always better with horror stories that feel cozy."
-        },
-        {
-          "title": "Lord of the Rings Officially Returns in November with 3 Releases",
-          "link": "https://www.polygon.com/lotr-rings-of-power-s1-s2-physical-release-4k-blu-ray/",
-          "date": "2026-10-24T20:33:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/image-2.png",
-          "summary": "Rings of Power season 3 returns to Prime Video in November alongside the first two season on 4K Blu-ray and DVD for the first time."
-        },
-        {
-          "title": "The 5 least-scary scary games for people who are scared of scary games",
-          "link": "https://www.polygon.com/best-not-scary-horror-games/",
-          "date": "2026-10-24T20:00:18+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7808383/Night_in_the_Woods_art.jpg",
-          "summary": "If you love Halloween, but could do without any nightmares, these non-scary scary games are for you."
         }
       ],
       "ok": true,
@@ -1636,6 +1707,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+          "link": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+          "date": "2026-10-25T10:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/ER2_D_1.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Last night, I sat down with a greasy pizza and a few bottles of beer and braced myself for 10 episodes of heartbreak. Cyberpunk: Edgerunners' second season is out, and it follows…"
+        },
         {
           "title": "Stalker 2's next update has already leaked",
           "link": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
@@ -1698,13 +1776,6 @@
           "date": "2026-10-23T18:09:03+00:00",
           "image": "https://assetsio.gnwcdn.com/marvels-blade-header.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "After getting caught up in Xbox CEO Asha Sharma's devastating layoffs and cuts earlier this year, Arkane Lyon - the beloved immersive sim studio behind the likes of Dishonored and…"
-        },
-        {
-          "title": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
-          "link": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
-          "date": "2026-10-23T17:19:50+00:00",
-          "image": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "After EA's sudden shutdown of developer BioWare , upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6 . Read more"
         }
       ],
       "ok": true,
@@ -1793,6 +1864,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The Sunday Papers",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+          "date": "2026-10-25T10:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sundays are, again , for running taxi duty for relatives visiting from overseas. If I had a nickel for every time I had an early morning Gatwick run in tandem with a Sunday Papers…"
+        },
+        {
           "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
           "link": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
           "date": "2026-10-24T21:52:00+00:00",
@@ -1854,13 +1932,6 @@
           "date": "2026-10-23T17:26:32+00:00",
           "image": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Open world ecosatire Future? No Thanks! has been updated to remove some AI-generated voices, after lead developer Paolo \"Molleindustria\" Pedercini belatedly disclosed his usage of…"
-        },
-        {
-          "title": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader",
-          "link": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
-          "date": "2026-10-23T16:30:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/bioware-staff-canadian-gov-support-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Hope. It's in short supply at the moment. Regardless, I hope that something a Canadian politician's proposed in a post scoring easy likeability points at the expense of EA's…"
         }
       ],
       "ok": true,
