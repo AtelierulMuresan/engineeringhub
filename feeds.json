@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:26:15.530391+00:00",
+  "updated": "2026-10-27T01:14:47.110999+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -91,18 +91,18 @@
           "summary": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche…"
         },
         {
-          "title": "Halfway Round the World in 78 Days",
-          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-tahiti-stuttgart-911-carrera-gts-43546.html",
-          "date": "2026-10-19T07:00:00+00:00",
-          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=340145&w=1080&h=609&crop=1&public=1&cs=f8d291be0acf47e9",
-          "summary": "Le Mans, Gulfblue, Steve McQueen. Even in Tahiti, these names evoke dreams. That’s reason enough to send a specially configured 911 on a roughly 23,000-kilometer journey – quite…"
-        },
-        {
           "title": "“The Right Steps at the Right Moment”",
           "link": "https://newsroom.porsche.com/en/2026/company/porsche-consulting-from-merck-healthcare-to-dlrg-water-rescue-43479.html",
           "date": "2026-10-19T07:00:00+00:00",
           "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=341053&w=1080&h=609&crop=1&public=1&cs=274864c40cb950ce",
           "summary": "Finding a balance for his demanding role as a senior executive in the pharmaceutical industry does not take long for Dr. Dirk Bissinger. Volunteer service fills his free time and…"
+        },
+        {
+          "title": "Halfway Round the World in 78 Days",
+          "link": "https://newsroom.porsche.com/en/2026/scene-passion/porsche-tahiti-stuttgart-911-carrera-gts-43546.html",
+          "date": "2026-10-19T07:00:00+00:00",
+          "image": "https://newsroom.porsche.comhttps://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=340145&w=1080&h=609&crop=1&public=1&cs=f8d291be0acf47e9",
+          "summary": "Le Mans, Gulfblue, Steve McQueen. Even in Tahiti, these names evoke dreams. That’s reason enough to send a specially configured 911 on a roughly 23,000-kilometer journey – quite…"
         },
         {
           "title": "Porsche Mission S: the essence of the sports car reinterpreted",
@@ -240,6 +240,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Judge rules California lawsuit against Scout, VW to continue",
+          "link": "https://www.autonews.com/volkswagen/scout/an-california-dealer-association-scout-lawsuit-1026/",
+          "date": "2026-10-26T21:21:10+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/DBSqe0XCWGPVpE-X-Ky-2C--QGA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/IQEEBAT3LBAIVO6NVHQRYSTFQI.jpg",
+          "summary": "The California lawsuit claims Scout’s direct-to-consumer model violates a state law that was amended and took effect Jan. 1, 2024."
+        },
+        {
           "title": "Daily 5 report for Oct. 26: Why Georgia won Audi’s $4 billion plant — and the hurdles ahead",
           "link": "https://www.autonews.com/newsletters/daily-5/an-daily-5-why-audi-chose-georgia-factory-1026/",
           "date": "2026-10-26T19:01:09+00:00",
@@ -301,13 +308,6 @@
           "date": "2026-10-26T13:44:02+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Lxdf0pNAFVOiF3wd4awf-K3bZr0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/FVN5RD4GLZGY3NDUCV5C6GHR7U.jpg",
           "summary": "New XC60 delivers up to 126 km of electric range as automaker doubles down on plug-ins and mild hybrids"
-        },
-        {
-          "title": "AI is changing how consumers shop for cars. Dealer marketing has to change with it.",
-          "link": "https://www.autonews.com/sponsored/publishing-partners/an-ai-changing-how-consumers-shop-cars-dealer-marketing-change-with-it/",
-          "date": "2026-10-26T13:00:00+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/cDhHjz2XveJEuSPGIVY0h8crwtA=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/67IJDTBPCJA65OCXZYOXRDSAIM.png",
-          "summary": "As AI reshapes how consumers research and purchase vehicles, dealerships must rethink their digital marketing strategies to stay visible, build trust, and reach shoppers in an…"
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
+          "link": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
+          "date": "2026-10-27T00:13:08+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/ko8oyn/s3/tesla-cybercab-unboxed-production-line.jpg",
+          "summary": "Tesla purposely built the Cybercab's battery pack with future LFP chemistry in mind."
+        },
+        {
+          "title": "Is The Hyundai Ioniq 6 A Good Used Buy? An Owner's Thoughts After 30 Months",
+          "link": "https://insideevs.com/news/813304/hyundai-ioniq-6-used-buy/",
+          "date": "2026-10-26T22:26:25+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/eoBBPA/s3/hyundai-ioniq-6.jpg",
+          "summary": "It may be dead for the U.S. market, but there are plenty of used ones for sale. Does it make sense to buy a canceled car, though?"
+        },
         {
           "title": "The EV Tax Credit Could Come Back. Here's What Stands In The Way",
           "link": "https://insideevs.com/news/813308/ev-tax-credit-could-return-but-hurdles-remain/",
@@ -372,20 +386,6 @@
           "date": "2026-10-24T13:00:00+00:00",
           "image": "https://cdn.motor1.com/images/mgl/nAgP0G/s3/vw-id.-unyx-08.jpg",
           "summary": "The ID. Unyx 08 was supposed to help turn around Volkswagen in China. Instead, it struggles to move more than 250 units per month."
-        },
-        {
-          "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
-          "link": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
-          "date": "2026-10-24T12:00:00+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/mMg00P/s3/2026-cadillac-escalade-iq.jpg",
-          "summary": "Here's everything you need to know about General Motors' big tech event this week, from LMR batteries to a new AI assistant."
-        },
-        {
-          "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-          "link": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
-          "date": "2026-10-23T17:13:54+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/Oo2OER/s3/tesla-cybertruck.jpg",
-          "summary": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed."
         }
       ],
       "ok": true,
@@ -651,11 +651,32 @@
       "cat": "space",
       "items": [
         {
+          "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+          "date": "2026-10-26T22:48:12+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg?w=1536&#038;h=405&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th…"
+        },
+        {
           "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
           "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
           "date": "2026-10-26T21:07:28+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048",
           "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried…"
+        },
+        {
+          "title": "NEO Surveyor’s Sunshade Gets Inspected",
+          "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+          "date": "2026-10-26T20:53:13+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space &#038; Mission…"
+        },
+        {
+          "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+          "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+          "date": "2026-10-26T20:52:24+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in…"
         },
         {
           "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
@@ -698,27 +719,6 @@
           "date": "2026-10-26T04:01:00+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
           "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way."
-        },
-        {
-          "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-          "date": "2026-10-25T08:19:48+00:00",
-          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&#038;h=900&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
-        },
-        {
-          "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-          "date": "2026-10-24T04:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
-        },
-        {
-          "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-          "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-          "date": "2026-10-23T22:39:39+00:00",
-          "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue…"
         }
       ],
       "ok": true,
@@ -805,9 +805,80 @@
     {
       "name": "NASA Aeronautics",
       "cat": "space",
-      "items": [],
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://www.nasa.gov/aeronautics/feed/"
+      "items": [
+        {
+          "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+          "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+          "date": "2026-10-21T16:31:11+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+          "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24.…"
+        },
+        {
+          "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+          "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+          "date": "2026-10-20T20:21:36+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960",
+          "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will…"
+        },
+        {
+          "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+          "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+          "date": "2026-10-20T16:02:35+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
+          "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red…"
+        },
+        {
+          "title": "Software",
+          "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+          "date": "2026-10-19T18:11:40+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg?w=300",
+          "summary": "Research teams at NASA&#8217;s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to…"
+        },
+        {
+          "title": "Experimental Facilities",
+          "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+          "date": "2026-10-19T18:08:52+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg?w=2048",
+          "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic…"
+        },
+        {
+          "title": "Instrumentation",
+          "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+          "date": "2026-10-19T16:37:45+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330",
+          "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman…"
+        },
+        {
+          "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+          "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+          "date": "2026-10-10T14:18:59+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+          "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns…"
+        },
+        {
+          "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+          "link": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/",
+          "date": "2026-10-05T15:27:23+00:00",
+          "image": "https://images-assets.nasa.gov/image/GRC-2026-C-02774/GRC-2026-C-02774~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+          "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually…"
+        },
+        {
+          "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
+          "date": "2026-10-02T16:10:55+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/bscw-side-by-side-image.jpg?w=1280",
+          "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the…"
+        },
+        {
+          "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+          "link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+          "date": "2026-09-28T19:20:01+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2023/03/340558main_EC72-3431_full.jpg",
+          "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the…"
+        }
+      ],
+      "ok": true,
+      "from_cache": false
     },
     {
       "name": "ESA Top News",
@@ -1041,6 +1112,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+          "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+          "date": "2026-10-27T00:50:37+00:00",
+          "image": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
+          "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E is currently scheduled for 10:46 p.m. PDT (1:46 a.m. EDT / 0546 UTC)."
+        },
+        {
           "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
           "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
           "date": "2026-10-20T21:18:11+00:00",
@@ -1102,13 +1180,6 @@
           "date": "2026-10-04T20:33:26+00:00",
           "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261005_T1TL-A_scrub.jpg",
           "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch…"
-        },
-        {
-          "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
-          "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
-          "date": "2026-10-01T22:37:30+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001_NROL-97_launch_MC-1.jpeg",
-          "summary": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:54 p.m. EDT (0354 UTC)."
         }
       ],
       "ok": true,
@@ -1118,6 +1189,13 @@
       "name": "Sky & Telescope",
       "cat": "space",
       "items": [
+        {
+          "title": "A Satellite Company Tested “Sunlight As A Service” — Without Astronomers’ Knowledge",
+          "link": "https://skyandtelescope.org/astronomy-news/astronomy-and-society/a-satellite-company-tested-sunlight-as-a-service-without-astronomers-knowledge/",
+          "date": "2026-10-26T21:55:36+00:00",
+          "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
+          "summary": "The California demonstration by Reflect Orbital used spotlights to imitate sunlight-reflecting satellites. The post A Satellite Company Tested “Sunlight As A Service” — Without…"
+        },
         {
           "title": "Did Venus and the Hyades Star Cluster Inspire Van Gogh’s ‘The Starry Night’?",
           "link": "https://skyandtelescope.org/astronomy-news/did-venus-and-the-hyades-star-cluster-inspire-van-goghs-the-starry-night/",
@@ -1180,13 +1258,6 @@
           "date": "2026-10-14T15:42:53+00:00",
           "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
           "summary": "The Moon bugs out just in time to enjoy the peak of the Orionids, which trace their origin to Halley's Comet. The post Rise Early on October 22nd for the Orionid Meteor Shower…"
-        },
-        {
-          "title": "NASA Initiative to Study the Moon's Environment",
-          "link": "https://skyandtelescope.org/astronomy-news/nasa-initiative-to-study-the-moons-environment/",
-          "date": "2026-10-13T14:58:41+00:00",
-          "image": "http://skyandtelescope.org/wp-content/uploads/powerpress/SkyTourPodcastCover.png",
-          "summary": "NASA announced three new scientific payloads that will head to the Moon to better understand lunar hazards and resources. The post NASA Initiative to Study the Moon&#039;s…"
         }
       ],
       "ok": true,
@@ -1196,6 +1267,13 @@
       "name": "Universe Today",
       "cat": "space",
       "items": [
+        {
+          "title": "A Brief-ish History of METI. Part I: Early Ideas and Experiments",
+          "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments",
+          "date": "2026-10-26T22:02:54+00:00",
+          "image": "https://www.universetoday.com/article_images/ann13016a_20261026_215212.jpg",
+          "summary": "For as long as scientists have conducted SETI (Search for Extraterrestrial Intelligence) experiments, parallel efforts in Messaging Extraterrestrial Intelligence (METI) have also…"
+        },
         {
           "title": "A Huge and Powerful New Simulation Helps Explain the Universe's Reionization",
           "link": "https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization",
@@ -1258,13 +1336,6 @@
           "date": "2026-10-23T18:17:49+00:00",
           "image": "https://www.universetoday.com/article_images/laserseti-royal-commission-for-alula-1_1200_20261023_163849.jpg",
           "summary": "Saudi Arabia is joining the search for alien signals coming from the cosmos. They're collaborating with SETI in the endeavour. SETI has announced that two LaserSETI instruments…"
-        },
-        {
-          "title": "Magnetic Field Reversals and Extinctions: The Correlation Won't Go Away.",
-          "link": "https://www.universetoday.com/articles/magnetic-field-reversals-and-extinctions-the-correlation-wont-go-away",
-          "date": "2026-10-23T16:11:14+00:00",
-          "image": "https://www.universetoday.com/article_images/Stereoscopic-visualization-of-Earths-magnetic-field-1-1_20261023_152809.jpg",
-          "summary": "Scientists have wondered about a connection between Earth's geomagnetic reversals, or pole flips, and mass extinctions. They've found correlations, but nothing convincing enough…"
         }
       ],
       "ok": true,
@@ -1396,6 +1467,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "27 exoplanet targets for the world's first private space telescope",
+          "link": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
+          "date": "2026-10-27T00:00:06+00:00",
+          "image": null,
+          "summary": "The Lazuli Space Telescope will be the first private space telescope. It's the brainchild of Eric Schmidt, Google's former CEO. It will have a 3-meter mirror (9.8 feet), larger…"
+        },
+        {
           "title": "Clouds on a lava planet challenge what astronomers expected",
           "link": "https://phys.org/news/2026-10-clouds-lava-planet-astronomers.html",
           "date": "2026-10-26T17:20:01+00:00",
@@ -1457,13 +1535,6 @@
           "date": "2026-10-24T09:28:00+00:00",
           "image": null,
           "summary": "NASA is moving fast on its plans to build a moon base and return astronauts to the lunar surface in as little as two years."
-        },
-        {
-          "title": "Everyday Mylar turned into a promising insulator for lunar habitats",
-          "link": "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html",
-          "date": "2026-10-23T19:20:01+00:00",
-          "image": null,
-          "summary": "Establishing a long-term presence on the moon will require solving challenges that are easy to overlook on Earth. Lunar temperatures, for instance, can vary from hundreds of…"
         }
       ],
       "ok": true,
@@ -1480,6 +1551,20 @@
       "name": "GameSpot",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Here’s Another Mass Effect 5 Leak To Break Your Heart",
+          "link": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/",
+          "date": "2026-10-26T23:31:44+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5-protagonist-1.png?w=300",
+          "summary": "If last week's mysterious Mass Effect: Universe trailer leak wasn't painful enough for you in the wake of BioWare's sudden closure , we've gotten yet another taste of The Game…"
+        },
+        {
+          "title": "WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch",
+          "link": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
+          "date": "2026-10-26T22:48:46+00:00",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Changes-One-Last-Time.jpg?w=300",
+          "summary": "World of Warcraft: Forever's release is just around the corner, but developer Blizzard is making one final pass at the game's racial abilities before launch in response to beta…"
+        },
         {
           "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
           "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
@@ -1535,20 +1620,6 @@
           "date": "2026-10-26T12:57:25+00:00",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Elden-Ring.jpg?w=300",
           "summary": "Bringing From Software's Elden Ring to life on the big screen is no small feat, and it won't be cheap. A new report claims the upcoming Alex Garland-directed film has a whopping…"
-        },
-        {
-          "title": "Xbox Veteran Who Just Got Promoted Under Asha Sharma Promptly Leaves Amid Mysterious Circumstances",
-          "link": "https://www.gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances/",
-          "date": "2026-10-26T12:47:48+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox.png?w=300",
-          "summary": "Xbox's first-ever chief operating officer, Helen Chiang, has left the company after being promoted to that role just a few months ago under CEO Asha Sharma. In this job, Chiang…"
-        },
-        {
-          "title": "Call Of Duty: Modern Warfare 4’s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries",
-          "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/",
-          "date": "2026-10-23T19:37:03+00:00",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/kyle.png?w=300",
-          "summary": "Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of…"
         }
       ],
       "ok": true,
@@ -1558,6 +1629,27 @@
       "name": "Polygon",
       "cat": "gaming",
       "items": [
+        {
+          "title": "24 Years Later, Nintendo's Most Divisive Mario Game Is a Miracle on Switch 2",
+          "link": "https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/",
+          "date": "2026-10-27T01:06:52+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg",
+          "summary": "Super Mario Sunshine was beloved at launch but grew to become one of the most divisive Mario games ever. Here's why it's worth playing in 2026."
+        },
+        {
+          "title": "10 Years Later, Nintendo's Switch Reveal Is a Fascinating Time Capsule",
+          "link": "https://www.polygon.com/nintendo-switch-nx-reveal-october-2016/",
+          "date": "2026-10-27T01:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7312765/NintendoSwitch_hardware.0.jpg",
+          "summary": "Nintendo’s hybrid console was not a sure thing back in 2016"
+        },
+        {
+          "title": "Marvel's Forgotten Mass Effect Clone Couldn't Escape the Avengers' Failure",
+          "link": "https://www.polygon.com/marvel-guardians-galaxy-underrated-superhero-game/",
+          "date": "2026-10-27T00:01:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/guardians-of-the-galaxy-team-lineup.jpg",
+          "summary": "Marvel's Guardians of the Galaxy was released five years ago and is still one of the best superhero games around, no matter what Square Enix thinks."
+        },
         {
           "title": "Mass Effect's Longshot #SaveMassEffect Campaign Actually Has a Chance",
           "link": "https://www.polygon.com/save-mass-effect-campaign-the-expanse-amazon/",
@@ -1606,27 +1698,6 @@
           "date": "2026-10-26T19:12:19+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/ghost-of-yotei.jpg",
           "summary": "Ghost of Yotei developer Sucker Punch Productions has been hit with layoffs despite the PlayStation 5 exclusive's high sales and critical acclaim."
-        },
-        {
-          "title": "Anne Hathaway’s A24 Box Office Flop Finds Redemption on Streaming",
-          "link": "https://www.polygon.com/anne-hathaway-mother-mary-streaming-success-hbo-max-october-2026/",
-          "date": "2026-10-26T18:51:55+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mother-mary-a24-2026.jpg",
-          "summary": "Anne Hathaway’s Mother Mary struggled theatrically, but the A24 film is finding a new audience on streaming after its 2026 release."
-        },
-        {
-          "title": "How to open the sealed stone in Final Fantasy Resonance",
-          "link": "https://www.polygon.com/final-fantasy-resonance-how-to-open-sealed-stone/",
-          "date": "2026-10-26T18:03:13+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-sealed-stone.jpg",
-          "summary": "Final Fantasy Resonance's sealed stone houses a powerful ally, but the game tells you nothing about how to open it"
-        },
-        {
-          "title": "Genius Free Steam Game Only Lets One Single Person At A Time Play It",
-          "link": "https://www.polygon.com/free-steam-game-jono-massive-single-player/",
-          "date": "2026-10-26T17:51:14+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg",
-          "summary": "Jono might be the world's first 'massively single-player' Steam game, and fans are willing to wait ages just to play it"
         }
       ],
       "ok": true,
@@ -1715,6 +1786,34 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger",
+          "link": "https://kotaku.com/skydance-institutes-company-wide-mandatory-return-to-office-so-it-can-avoid-saying-layoffs-so-soon-after-merger-2000749847",
+          "date": "2026-10-26T23:00:49+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/10/skydance-1280x746.jpg",
+          "summary": "In addition to a five-days-a-week in-office mandate, the company is also offering employee buyouts"
+        },
+        {
+          "title": "Here’s How The Way Activision Talks About Call Of Duty Launch Weekend Sales Has Changed Over Nearly 20 Years",
+          "link": "https://kotaku.com/heres-how-the-way-activision-talks-about-call-of-duty-launch-weekend-sales-has-changed-over-nearly-20-years-2000749843",
+          "date": "2026-10-26T22:30:49+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/10/call-of-duty-mw4.jpg",
+          "summary": "It hasn't been bragging about Modern Warfare 4 sales despite rave reviews"
+        },
+        {
+          "title": "I’m Having A Blast Waiting In Line For An Hour To Play One Minute Of A Platformer With One Million Levels",
+          "link": "https://kotaku.com/i-waited-in-line-one-minute-jono-2000749830",
+          "date": "2026-10-26T22:00:45+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/10/jono3-1280x720.jpg",
+          "summary": "I'm doing my part!"
+        },
+        {
+          "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
+          "link": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
+          "date": "2026-10-26T21:30:32+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg",
+          "summary": "One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massive hypervisor exploit to Sony"
+        },
+        {
           "title": "What Does It Even Mean To ‘Save’ Mass Effect?",
           "link": "https://kotaku.com/mass-effect-5-universe-save-petition-bioware-signatures-shutdown-cancelled-2000749836",
           "date": "2026-10-26T21:10:43+00:00",
@@ -1755,34 +1854,6 @@
           "date": "2026-10-26T19:45:40+00:00",
           "image": "https://kotaku.com/app/uploads/2026/10/street-fighter-movie.jpg",
           "summary": "Round Two (and maybe Three), Fight!"
-        },
-        {
-          "title": "Fans Feel Tricked By Official Pokemon EDM Concert: ‘What Do You Mean I Spent 300 Dollars For A Pokemon Rave For A Total Of 2 Pokemon Songs’",
-          "link": "https://kotaku.com/official-pokemon-rave-missing-pokemon-music-2000749796",
-          "date": "2026-10-26T19:00:45+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/pokemon-night-out-1280x720.jpg",
-          "summary": "There was a pretty sick Lavender Town remix though"
-        },
-        {
-          "title": "20 Exceptional Cosplay Outfits From New York Comic Con 2026",
-          "link": "https://kotaku.com/new-york-comic-con-2026-best-cosplay-gallery-mineralblu-2000749704",
-          "date": "2026-10-26T18:30:26+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/nycc-main-1280x720.jpg",
-          "summary": "The standards for Comic Con events keep getting higher and higher"
-        },
-        {
-          "title": "Hellraiser: Revival Is Gross Enough To Save Games As Art",
-          "link": "https://kotaku.com/hellraiser-revival-is-gross-enough-to-save-games-as-art-2000749764",
-          "date": "2026-10-26T18:00:22+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/hellraiser-1-1280x720.jpg",
-          "summary": "Saber Interactive makes me want to puke, and I'm glad"
-        },
-        {
-          "title": "Walter Koenig, Star Of Star Trek And Babylon 5, Dies Aged 90",
-          "link": "https://kotaku.com/walter-koenig-star-of-star-trek-and-babylon-5-dies-aged-90-2000749786",
-          "date": "2026-10-26T16:51:42+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/koenig-1280x720.jpg",
-          "summary": "The actor is survived by his daughter, comedian Danielle"
         }
       ],
       "ok": true,
@@ -1871,6 +1942,41 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
+          "link": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
+          "date": "2026-10-27T00:18:15+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/go39hWDEGCotfQFaMgkWDo-1920-80.png",
+          "summary": "Ten years ago, this list would have shocked most PC gamers."
+        },
+        {
+          "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
+          "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/",
+          "date": "2026-10-26T23:00:36+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/FHqxQ8rib2Fhszy67pWmWY-1920-80.jpg",
+          "summary": "Blizzard dropped a final balance pass for each playable race's unique abilities."
+        },
+        {
+          "title": "One day before launch, ARPG Emberville gets delayed until 2027",
+          "link": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
+          "date": "2026-10-26T21:57:24+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/pTzbm5TpEs7f42EdUJydh8-1920-80.webp",
+          "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected."
+        },
+        {
+          "title": "A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order",
+          "link": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/",
+          "date": "2026-10-26T21:47:58+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/L7EVq6mjUPmcV4suhmwmkA-1920-80.jpg",
+          "summary": "Playable Archive is free, and it's very good."
+        },
+        {
+          "title": "The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'",
+          "link": "https://www.pcgamer.com/games/baldurs-gate/the-developer-of-one-of-my-favorite-2020s-rpgs-does-it-because-of-bioware-baldurs-gate-1-is-the-first-game-i-truly-loved/",
+          "date": "2026-10-26T21:31:55+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/74PjA5z7S5E8NdhnP33QsN-1920-80.jpg",
+          "summary": "It's a hard one to beat."
+        },
+        {
           "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
           "link": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
           "date": "2026-10-26T21:19:51+00:00",
@@ -1904,41 +2010,6 @@
           "date": "2026-10-26T19:53:51+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/Crt9MrXnRKTkx7PBjmUocT-1920-80.jpg",
           "summary": "If you can make it in New York, well, baby you can make it anywhere."
-        },
-        {
-          "title": "CD Projekt marks the 19th anniversary of its first Witcher RPG with a tribute to BioWare: 'Their support helped turn our vision into Geralt’s first interactive adventure'",
-          "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-marks-the-19th-anniversary-of-its-first-witcher-rpg-with-a-tribute-to-bioware-their-support-helped-turn-our-vision-into-geralts-first-interactive-adventure/",
-          "date": "2026-10-26T19:05:30+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/cp3Ex6s6XWZnBmDsXWAKQm-1920-80.jpg",
-          "summary": "The Witcher was developed on BioWare's Aurora engine, but the Dragon Age studio did more than just share its tech."
-        },
-        {
-          "title": "What to play this Halloween, plus last-minute costume ideas and spooky movie recommendations",
-          "link": "https://www.pcgamer.com/games/horror/2026-halloween-horror-gaming-hub-recommendations/",
-          "date": "2026-10-26T18:59:37+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/HrFo5cgxqzD8RXXBWBSgrW-1920-80.jpg",
-          "summary": "Welcome to PC Gamer's hub of Halloween horror."
-        },
-        {
-          "title": "A long-overdue conversation with Jordan Mechner",
-          "link": "https://www.pcgamer.com/gaming-industry/an-overdue-conversation-with-jordan-mechner/",
-          "date": "2026-10-26T18:52:49+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/dHuFYmhuTdXHiDbSSPrJwY-1920-80.jpg",
-          "summary": "The creator of Prince of Persia on why every generation has its defining prince."
-        },
-        {
-          "title": "Microsoft is looking to cut more than 25% of its workforce",
-          "link": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
-          "date": "2026-10-26T17:49:25+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wtsNvAj4Aybgmx5z4NWr9L-1920-80.jpg",
-          "summary": "An employee buyout offer is reportedly being extended to roughly 60,000 Microsoft employees in the US, UK, India, and Canada."
-        },
-        {
-          "title": "New Windows 11 Insider Experimental build adds the ability to check your internet speed without a browser",
-          "link": "https://www.pcgamer.com/software/windows/new-windows-11-insider-experimental-build-adds-the-ability-to-check-your-internet-speed-without-a-browser/",
-          "date": "2026-10-26T17:29:05+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/XPNunYuTzxJd3VH9mGq7tR-1920-80.jpg",
-          "summary": "A small change, but a handy one."
         }
       ],
       "ok": true,
@@ -2105,6 +2176,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
+          "link": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+          "date": "2026-10-26T21:34:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/gamescom-2026-xbox.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Microsoft is offering voluntary exit to employees. Read more"
+        },
+        {
           "title": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\"",
           "link": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
           "date": "2026-10-26T19:54:19+00:00",
@@ -2166,13 +2244,6 @@
           "date": "2026-10-26T08:40:16+00:00",
           "image": "https://assetsio.gnwcdn.com/Total-War-Shogun-2-Complete-Edition_KL4qx2j.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Creative Assembly has issued a statement regarding the use of generative AI in Total War: Shogun 2 &ndash; Complete Edition, which led to the game's removal from sale last week .…"
-        },
-        {
-          "title": "BioWare's end is a tragically familiar tale | Opinion",
-          "link": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
-          "date": "2026-10-23T15:04:13+00:00",
-          "image": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-illusive-man_6jWdA0p.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "After the past five years of seemingly endless closures, cancellations, and restructures, after the tens of thousands of layoffs that the industry has endured like a relentless…"
         }
       ],
       "ok": true,
@@ -2339,6 +2410,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Apple’s new iPad mini packs 1,200-nit OLED brightness into its compact form factor",
+          "link": "https://interestingengineering.com/innovation/new-apple-ipad-mini-oled-a20-pro",
+          "date": "2026-10-26T23:47:05+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-27.jpg",
+          "summary": "Apple has given the iPad mini a major hardware overhaul, bringing OLED technology, a faster..."
+        },
+        {
+          "title": "World’s largest 8-foot Razor-style scooter emerges after 7 years of development",
+          "link": "https://interestingengineering.com/innovation/worlds-largest-8-foot-razor-style-scooter",
+          "date": "2026-10-26T21:29:36+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/igyund7ax0y.jpg",
+          "summary": "Measuring about 8 feet (2.4 meters) long, riding on oversized fat tires, and standing tall..."
+        },
+        {
           "title": "OpenAI’s GPT-6.1 Terra delivers GPT-6 Astra-level results at 10% of the token price",
           "link": "https://interestingengineering.com/ai-robotics/openai-gpt-6-1-terra-50-percent-cheaper",
           "date": "2026-10-26T20:16:13+00:00",
@@ -2386,20 +2471,6 @@
           "date": "2026-10-26T15:49:12+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-63.jpg",
           "summary": "An ocean liner is about to take its final, most improbable voyage: straight to the..."
-        },
-        {
-          "title": "Engineer builds massive scroller that can write text endlessly with marbles",
-          "link": "https://interestingengineering.com/innovation/engineer-builds-massive-scroller",
-          "date": "2026-10-26T14:09:03+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/wkqomw56aua.jpg",
-          "summary": "Engineer Ivan Miranda has done it once again. A 3D-printing buff, he&#8217;s brought us some..."
-        },
-        {
-          "title": "Humanoid robot tackles ladders and obstacles with 92.5% simulation success",
-          "link": "https://interestingengineering.com/ai-robotics/new-robot-control-system",
-          "date": "2026-10-26T13:55:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/d9br0hd6juw_3c0a66.jpg",
-          "summary": "Researchers at ETH Zurich and collaborators developed a control approach that lets a humanoid robot..."
         }
       ],
       "ok": true,
@@ -2580,7 +2651,42 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+          "title": "Microsoft offers to buy out a quarter of its workforce",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+          "date": "2026-10-26T22:36:06+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-500x500.jpg",
+          "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
+        },
+        {
+          "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+          "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+          "date": "2026-10-26T20:27:00+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-500x500.jpg",
+          "summary": "Case study gives a whole new meaning to \"bedroom eyes.\""
+        },
+        {
+          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+          "date": "2026-10-26T20:15:07+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-500x500.jpg",
+          "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes ."
+        },
+        {
+          "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+          "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+          "date": "2026-10-26T20:04:16+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-500x500.png",
+          "summary": "Included is the ability to limit which applications Siri can directly access."
+        },
+        {
+          "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+          "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+          "date": "2026-10-26T19:04:40+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-500x500.jpg",
+          "summary": "Apple claims this is the most significant update ever for the iPad mini line."
+        },
+        {
+          "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
           "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
           "date": "2026-10-26T18:50:41+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-500x500.jpg",
@@ -2613,41 +2719,6 @@
           "date": "2026-10-26T14:48:24+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-500x500.jpg",
           "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas."
-        },
-        {
-          "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-          "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-          "date": "2026-10-26T14:30:27+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-500x500.jpg",
-          "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot."
-        },
-        {
-          "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-          "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-          "date": "2026-10-26T11:00:15+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT-500x500.jpg",
-          "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground."
-        },
-        {
-          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-          "date": "2026-10-24T11:50:28+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg",
-          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
-        },
-        {
-          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-          "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-          "date": "2026-10-24T11:00:09+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-500x500.jpg",
-          "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
-        },
-        {
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-          "date": "2026-10-23T22:48:25+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-500x500.jpg",
-          "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
         }
       ],
       "ok": true,
@@ -2672,6 +2743,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "$10B Makeover of Manhattan Bus Terminal Advances With Concrete Deck Installation",
+          "link": "https://www.enr.com/articles/64082-10b-makeover-of-manhattan-bus-terminal-advances-with-concrete-deck-installation",
+          "date": "2026-10-26T23:45:43+00:00",
+          "image": "https://www.enr.com/ext/resources/2026/10/24/PAKathrynGarcia.webp?t=1792899724",
+          "summary": "The first phase of the rebuild entails construction of a new structure to the west of the existing bus terminal, to be completed by 2030."
+        },
+        {
           "title": "German Car Maker Audi Will Build First US Plant—$4B Project in Georgia",
           "link": "https://www.enr.com/articles/64087-german-car-maker-audi-will-build-first-us-plant4b-project-in-georgia",
           "date": "2026-10-26T21:17:00+00:00",
@@ -2679,11 +2757,11 @@
           "summary": "Macon facility could produce up to 200,000 premium SUVs per year at full production in the early 2030s, carmaker claims, but names of plant designer and builder were not…"
         },
         {
-          "title": "University of Maine Facility Will Serve as Large-Scale Test Bed for 3D Homes and Materials Developers",
-          "link": "https://www.enr.com/articles/64086-university-of-maine-factory-of-the-future-will-serve-as-large-scale-test-bed-for-3d-homes-and-materials-developers",
+          "title": "U. of Maine Facility Will Be Large-Scale Test Bed to Make 3D Homes and Materials",
+          "link": "https://www.enr.com/articles/64086-u-of-maine-facility-will-be-large-scale-test-bed-to-make-3d-homes-and-materials",
           "date": "2026-10-26T20:54:14+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/10/26/webFactoryofFuture.webp?t=1793044914",
-          "summary": "An advanced 3D manufacturing system that will use automated technology to design, build, test and validate a variety of products – including bio-homes, boats and bridges – is…"
+          "image": "https://www.enr.com/ext/resources/2026/10/26/webFactoryofFuture.webp?t=1793051409",
+          "summary": "Advanced 3D manufacturing system that will use automated technology to design, build, test and validate products–including bio-homes, boats and bridges–is gearing up to fully…"
         },
         {
           "title": "Court Setback Puts Williams' $1B Northeast Gas Pipeline Schedule at Risk",
@@ -2733,13 +2811,6 @@
           "date": "2026-10-26T09:00:00+00:00",
           "image": "https://www.enr.com/ext/resources/Issues/West/2026/October/BP/1-Malibu-High-School.webp?t=1792763322",
           "summary": "Largo Concrete’s scope on the new Malibu High School included placing thirty 14-in.-thick exposed concrete walls, the tallest at around 40 ft."
-        },
-        {
-          "title": "Specialty Construction - P-224 Causeway, Boat Channel and Turning Basin & P-226 Ammunition Pier",
-          "link": "https://www.enr.com/articles/64070-specialty-construction-p-224-causeway-boat-channel-and-turning-basin-and-p-226-ammunition-pier",
-          "date": "2026-10-26T09:00:00+00:00",
-          "image": "https://www.enr.com/ext/resources/Issues/West/2026/October/BP/P224-Causeway-002.webp?t=1792763322",
-          "summary": "Navy ammunition ships and weekend boat traffic had always shared the same water at Anaheim Bay."
         }
       ],
       "ok": true,
