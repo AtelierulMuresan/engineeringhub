@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-29T02:11:53.646796+00:00",
+  "updated": "2026-10-29T09:31:36.045940+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Platform Switch: PressClub to Newsroom",
+          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461500EN?language=en",
+          "date": "2026-10-29T09:00:00+00:00",
+          "image": null,
+          "summary": "The BMW Group Newsroom will replace the BMW Group PressClub on October 29th 2026."
+        },
         {
           "title": "BMW Group and Partners’ HVO Test- and Demo Fleet reports successful Interim-Results",
           "link": "https://www.press.bmwgroup.com/global/article/detail/T0462315EN?language=en",
@@ -67,13 +74,6 @@
           "date": "2026-10-18T19:30:08+00:00",
           "image": null,
           "summary": "+++ Magnussen, Vanthoor and Marciello fight their way from 16th on the grid to seventh place in Catalonia +++ BMW M Motorsport retains second place in the Hypercar manufacturers'…"
-        },
-        {
-          "title": "WorldSBK season finale with emotional farewell to “Petrux”.",
-          "link": "https://www.press.bmwgroup.com/global/article/detail/T0461934EN?language=en",
-          "date": "2026-10-18T18:31:28+00:00",
-          "image": null,
-          "summary": "+++ Danilo Petrucci contests his final WorldSBK races for BMW Motorrad in Jerez de la Frontera. +++ Team and fans bid farewell to “Petrux” at the WorldSBK Paddock Show. +++ Miguel…"
         }
       ],
       "ok": true,
@@ -162,6 +162,55 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Volkswagen, Telekom and Unikie wrap up Emden AutoLog trial",
+          "link": "https://www.automotiveworld.com/news/volkswagen-telekom-and-unikie-wrap-up-emden-autolog-trial/",
+          "date": "2026-10-29T06:00:36+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Volkswagen is treating finished-vehicle logistics as a proving ground for automation, from Emden’s port to Audi’s rail loading The post Volkswagen, Telekom and Unikie wrap up…"
+        },
+        {
+          "title": "Aurora to fit 20 driverless trucks a week from December",
+          "link": "https://www.automotiveworld.com/topics/commercial-vehicle/aurora-to-fit-20-driverless-trucks-a-week-from-december/",
+          "date": "2026-10-29T05:50:44+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Aurora’s beacon exemption removes one of the practical tasks that still assumed a human would be aboard every commercial truck The post Aurora to fit 20 driverless trucks a week…"
+        },
+        {
+          "title": "Volvo Buses wins 350 Volvo 9600 coach orders in India",
+          "link": "https://www.automotiveworld.com/news/volvo-buses-wins-350-volvo-9600-coach-orders-in-india/",
+          "date": "2026-10-29T05:45:48+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Sleepers make up more than half of Volvo Buses’ latest Indian orders, pointing to overnight routes as a core market for premium coaches The post Volvo Buses wins 350 Volvo 9600…"
+        },
+        {
+          "title": "DTL Transport to run 75 driverless trucks with Kodiak AI",
+          "link": "https://www.automotiveworld.com/news/dtl-transport-to-run-75-driverless-trucks-with-kodiak-ai/",
+          "date": "2026-10-29T05:35:24+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "A per-mile fee and carrier-owned trucks give Kodiak AI a template for long-haul deals that DTL Transport is the first to sign The post DTL Transport to run 75 driverless trucks…"
+        },
+        {
+          "title": "Wolfspeed silicon carbide deal backs BorgWarner inverter",
+          "link": "https://www.automotiveworld.com/news/wolfspeed-silicon-carbide-deal-backs-borgwarner-inverter/",
+          "date": "2026-10-29T05:30:31+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Wolfspeed’s full shift to US 200mm wafer production lets it offer BorgWarner the supply depth that scaling 800V EV platforms demand The post Wolfspeed silicon carbide deal backs…"
+        },
+        {
+          "title": "Stoneridge cameras join Kodiak AI autonomous truck fleet",
+          "link": "https://www.automotiveworld.com/news/stoneridge-cameras-join-kodiak-ai-autonomous-truck-fleet/",
+          "date": "2026-10-29T05:15:20+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Kodiak AI’s autonomous trucks still had to carry mirrors meant for people; Stoneridge’s federal exemption offers a way to drop them The post Stoneridge cameras join Kodiak AI…"
+        },
+        {
+          "title": "Dana lifts sales and buybacks as Eaton Mobility deal nears",
+          "link": "https://www.automotiveworld.com/news/dana-lifts-sales-and-buybacks-as-eaton-mobility-deal-nears/",
+          "date": "2026-10-29T05:10:40+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Dana is returning cash to shareholders even as it prepares to absorb Eaton Mobility, signalling confidence in its post-sale finances The post Dana lifts sales and buybacks as…"
+        },
+        {
           "title": "GM turns to hybrid SUVs after years of betting on EVs",
           "link": "https://www.automotiveworld.com/news/gm-turns-to-hybrid-suvs-after-years-of-betting-on-evs/",
           "date": "2026-10-28T12:33:10+00:00",
@@ -181,55 +230,6 @@
           "date": "2026-10-28T09:40:10+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Mercedes lowered its EBIT guidance and margin expectations for 2026 as the situation in China shows no sign of improvement. By Will Girling The post China decline continues to sap…"
-        },
-        {
-          "title": "Stellantis generates big industrial savings in Q3",
-          "link": "https://www.automotiveworld.com/analysis/stellantis-generates-big-industrial-savings-in-q3/",
-          "date": "2026-10-28T09:39:58+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Stellantis' cost saving strategy is apparently already bearing fruit, enabling it to claw back profit despite shipment and sales challenges. By Will Girling The post Stellantis…"
-        },
-        {
-          "title": "Chinese supplier BICV shows 20-plus products at IZB",
-          "link": "https://www.automotiveworld.com/news/chinese-supplier-bicv-shows-20-plus-products-at-izb/",
-          "date": "2026-10-28T07:00:06+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "BICV’s European push rides the shift toward consolidating driving and cabin computing onto shared hardware in new vehicles The post Chinese supplier BICV shows 20-plus products at…"
-        },
-        {
-          "title": "Kenda to supply factory tyres for Slate Auto pickup",
-          "link": "https://www.automotiveworld.com/news/kenda-to-supply-factory-tyres-for-slate-auto-pickup/",
-          "date": "2026-10-28T06:55:01+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Supplying accessory tyres as well as factory fit ties Kenda to the personalisation that Slate Auto has made central to its pitch The post Kenda to supply factory tyres for Slate…"
-        },
-        {
-          "title": "Cooper launches US-built Discoverer HT truck and SUV tyre",
-          "link": "https://www.automotiveworld.com/news/cooper-launches-us-built-discoverer-ht-truck-and-suv-tyre/",
-          "date": "2026-10-28T06:50:56+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Cooper is selling the Discoverer HT on its US-made credentials as much as its specification, leaning on three domestic plants The post Cooper launches US-built Discoverer HT truck…"
-        },
-        {
-          "title": "VicOne signs BlueBinaries for automotive cybersecurity",
-          "link": "https://www.automotiveworld.com/news/vicone-signs-bluebinaries-for-automotive-cybersecurity/",
-          "date": "2026-10-28T06:45:50+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Automotive cybersecurity rules now bind every new EU car, and VicOne is adding engineering help to turn compliance into deployment The post VicOne signs BlueBinaries for…"
-        },
-        {
-          "title": "Samsara telematics to cover 500 HelloFresh electric vans",
-          "link": "https://www.automotiveworld.com/news/samsara-telematics-to-cover-500-hellofresh-electric-vans/",
-          "date": "2026-10-28T06:40:44+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "An all-electric fleet of more than 500 vans gives HelloFresh reason to want one platform watching vehicle condition across every hub The post Samsara telematics to cover 500…"
-        },
-        {
-          "title": "Edge Case completes May Mobility safety case assessment",
-          "link": "https://www.automotiveworld.com/news/edge-case-completes-may-mobility-safety-case-assessment/",
-          "date": "2026-10-28T06:35:11+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Making outside review a formal release step shows May Mobility treating its safety case as a gate for scaling driverless service The post Edge Case completes May Mobility safety…"
         }
       ],
       "ok": true,
@@ -239,6 +239,20 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "China forecasts record 22% plunge in 2026 vehicles sales, meager recovery in 2027",
+          "link": "https://www.autonews.com/retail/sales/an-china-2026-2027-auto-sales-forecast-1029/",
+          "date": "2026-10-29T09:07:22+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Zmr3VSa2BGAnoWNdjYOXU172bwo=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/3PHH3PTVYZDYLMASSWUL66KMW4.jpg",
+          "summary": "The China Passenger Car Association expects the market to shrink sharply this year as subsidies tighten and costs rise, with only a weak rebound forecast for 2027"
+        },
+        {
+          "title": "VW loss widens more than expected in Q3, raising restructuring stakes",
+          "link": "https://www.autonews.com/volkswagen/ane-vw-losses-widen-q3-1029/",
+          "date": "2026-10-29T07:50:06+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/OWOR-6sOYTHCmxuquc8DXPhR5YI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NURXU6FECBDYZKCCZBQWG24ZBY.jpg",
+          "summary": "VW Group's operating loss widened to €5.9 billion ($6.59 billion) in the third quarter, as write-downs and weak sales deepen the pressure on CEO Oliver Blume's restructuring."
+        },
         {
           "title": "Carvana Q3 net income surges 84% to $483 million, sets quarterly retail sales record",
           "link": "https://www.autonews.com/retail/an-carvana-q3-earnings-1028/",
@@ -294,20 +308,6 @@
           "date": "2026-10-28T18:21:28+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ZunK5SzTGCWPeOtuNfMz2BMZVE4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/QEAO2HRILVA4NEKZHHSGWT6TCY.jpg",
           "summary": "The Federal Reserve didn't change its benchmark rate Oct. 28, leaving its target range at 3.75 to 4 percent, but a December increase remains possible."
-        },
-        {
-          "title": "Johan de Nysschen: Why Audi chose to build a U.S. plant and not partner with VW siblings",
-          "link": "https://www.autonews.com/volkswagen/audi/an-audi-plant-de-nysschen-1028/",
-          "date": "2026-10-28T18:14:28+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/llHDPKwi6-jcZUxjjsj5OJZsd-A=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NT7DMQ23HNAYNP65R2HCHXRTEE.jpg",
-          "summary": "A former Audi of America president explains why the brand waited nearly two decades to commit to U.S. production and why it bypassed existing Volkswagen Group plants in the U.S.…"
-        },
-        {
-          "title": "Mate Rimac: Competing with China won’t work; GM plans hybrid production in Michigan",
-          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-mate-rimac-part-two-gm-hybrids-1028/",
-          "date": "2026-10-28T17:39:08+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/v_qhY_iabymvMgnra8MfN1Z4DGE=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4VRGZSIJONAQZLYSW6PGPB6BYU.png",
-          "summary": "Bugatti Rimac CEO Mate Rimac says Europe can’t beat China at its own game. Plus, General Motors plans $750 million for hybrid SUVs and Stellantis’ profits rise as cash drains."
         }
       ],
       "ok": true,
@@ -317,6 +317,20 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "The 2027 Kia EV9 Gets Some Standard Features That Used To Be Optional",
+          "link": "https://insideevs.com/news/813665/2027-kia-ev9-price-torque-increase/",
+          "date": "2026-10-29T08:52:48+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/VzbQoG/s3/2027-kia-ev9.jpg",
+          "summary": "The base price goes up by $90, with the biggest changes coming on the mid-spec Land trim."
+        },
+        {
+          "title": "Toyota’s New Hybrids And Plug-In Hybrids Will Be 15% More Efficient",
+          "link": "https://insideevs.com/news/813645/new-toyota-hybrid-engine-more-efficient-smaller/",
+          "date": "2026-10-29T07:15:51+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/qk8GWz/s3/toyota-s-new-1.5-liter-gas-engine-for-hybrids-and-plug-in-hybrids.jpg",
+          "summary": "An all-new engine was developed specifically for electrified powertrains, promising higher efficiency than its predecessors."
+        },
         {
           "title": "This New Bio-Inspired Membrane Could Make Lithium Extraction Much Cleaner",
           "link": "https://insideevs.com/news/813622/new-bio-lithium-extraction-tech/",
@@ -372,20 +386,6 @@
           "date": "2026-10-28T08:20:39+00:00",
           "image": "https://cdn.motor1.com/images/mgl/6Zoyk7/s3/rivian-edv-now-available.jpg",
           "summary": "The lovable electric van was the fourth-best-selling EV in America in the third quarter, beating all of its competitors hands down."
-        },
-        {
-          "title": "How Cheap Chinese EVs Are Sneaking Around Europe's Tariffs",
-          "link": "https://insideevs.com/news/813426/chinese-evs-western-markets-used/",
-          "date": "2026-10-27T22:51:51+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/OoJrqX/s3/xiaomi-su7-china.jpg",
-          "summary": "One Chinese online car marketplace found a loophole to bring cheap, used Chinese EVs to Europeans."
-        },
-        {
-          "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
-          "link": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
-          "date": "2026-10-27T22:08:26+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/QebMnB/s3/cadillac-eyes-off-super-cruise.jpg",
-          "summary": "Tesla is famous for its camera-only approach to autonomous driving. GM's chief product officer thinks deleting radar \"ignores physics.\""
         }
       ],
       "ok": true,
@@ -486,7 +486,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "Sandia Cuts Lead Time from 6 Months to 1 Week With 3D Printing",
+          "link": "https://3dprintingindustry.com/news/sandia-cuts-lead-time-from-6-months-to-1-week-with-3d-printing-256015/?utm_source=rss&utm_medium=rss&utm_campaign=sandia-cuts-lead-time-from-6-months-to-1-week-with-3d-printing",
+          "date": "2026-10-29T09:22:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Sandia National Laboratories has shared early results from its Center for Advanced Manufacturing and Innovation (CAMINO), the facility that opened earlier this year to help the…"
+        },
+        {
+          "title": "Inside the Innovative CFIP Process That Makes HP 3D Printed Parts Ready for Flight",
+          "link": "https://3dprintingindustry.com/news/inside-the-innovative-cfip-process-that-makes-hp-3d-printed-parts-ready-for-flight-256027/?utm_source=rss&utm_medium=rss&utm_campaign=inside-the-innovative-cfip-process-that-makes-hp-3d-printed-parts-ready-for-flight",
+          "date": "2026-10-29T05:03:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Most additive manufacturing engineers working on structural drone airframes have hit a familiar constraint. HP’s Multi Jet Fusion can produce complex PA12 geometries with good…"
+        },
+        {
+          "title": "University of Turku Can Now 3D Print Different Metals in a Single Layer for Fusion and Aerospace Research",
+          "link": "https://3dprintingindustry.com/news/university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research-256002/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research",
+          "date": "2026-10-28T11:29:39+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The University of Turku in Finland has added a multi-material recoater to its metal 3D printing system, allowing researchers to deposit different powders from three separate drums…"
+        },
+        {
+          "title": "BigRep Goes Private and Launches ALTRA 670 Large-Format 3D Printer",
+          "link": "https://3dprintingindustry.com/news/bigrep-goes-private-and-launches-altra-670-large-format-3d-printer-256007/?utm_source=rss&utm_medium=rss&utm_campaign=bigrep-goes-private-and-launches-altra-670-large-format-3d-printer",
+          "date": "2026-10-28T11:29:17+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Berlin-based BigRep GmbH, a manufacturer of large-format industrial 3D printers, is returning to private ownership roughly two years after becoming a publicly traded company.…"
+        },
+        {
+          "title": "Reshoring is creating options. Who gets paid for them?",
+          "link": "https://3dprintingindustry.com/news/reshoring-is-creating-options-who-gets-paid-for-them-255999/?utm_source=rss&utm_medium=rss&utm_campaign=reshoring-is-creating-options-who-gets-paid-for-them",
+          "date": "2026-10-27T12:22:37+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "US manufacturing reshoring announcements remain strong, private equity is consolidating production capacity, and digital manufacturing platforms are expanding. But the latest…"
+        },
+        {
+          "title": "Switching Lattice Shape Quadruples Load Capacity of 3D Printed Resin Auxetic Structures",
+          "link": "https://3dprintingindustry.com/news/switching-lattice-shape-quadruples-load-capacity-of-3d-printed-resin-auxetic-structures-255966/?utm_source=rss&utm_medium=rss&utm_campaign=switching-lattice-shape-quadruples-load-capacity-of-3d-printed-resin-auxetic-structures",
+          "date": "2026-10-27T11:49:36+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Researchers at Vellore Institute of Technology (VIT) in Tamil Nadu, India, found that changing the cell shape of a resin 3D printed auxetic lattice raised its peak load roughly…"
+        },
+        {
+          "title": "Siemens and NVIDIA Want to Train Inspection Before the First Build. Could 3D Printing Benefit?",
+          "link": "https://3dprintingindustry.com/news/siemens-and-nvidia-want-to-train-inspection-before-the-first-build-could-3d-printing-benefit-255981/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-and-nvidia-want-to-train-inspection-before-the-first-build-could-3d-printing-benefit",
+          "date": "2026-10-27T11:46:52+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/siemens-nvidia-pcba-digital-twin-factory-02-150x100.avif",
+          "summary": "Siemens and NVIDIA announced on October 21, 2026, a collaboration that lets electronics makers prepare optical inspection of circuit boards in a virtual 3D environment, before the…"
+        },
+        {
+          "title": "Print Your Own Car Parts: Škoda Opens a Free 3D Parts Library on Printables",
+          "link": "https://3dprintingindustry.com/news/print-your-own-car-parts-skoda-opens-a-free-3d-parts-library-on-printables-255977/?utm_source=rss&utm_medium=rss&utm_campaign=print-your-own-car-parts-skoda-opens-a-free-3d-parts-library-on-printables",
+          "date": "2026-10-27T11:45:45+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The Czech brand Škoda Auto has put a library of free 3D printable car accessories on Printables.com, becoming the first carmaker to offer such parts through a dedicated platform.…"
+        },
+        {
+          "title": "Meshy Takes Hermes Agent From Chat to Slicer With New 3D Generation and Printing Plugin",
+          "link": "https://3dprintingindustry.com/news/meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin-255973/?utm_source=rss&utm_medium=rss&utm_campaign=meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin",
+          "date": "2026-10-27T11:44:57+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "AI 3D multimodal model company Meshy has released an official plugin for Hermes Agent, the open-source AI assistant developed by Nous Research. With the plugin, users can generate…"
+        },
+        {
+          "title": "3D printing news SLICED: AI-assisted CAD, soluble tooling and new production partnerships",
+          "link": "https://3dprintingindustry.com/news/3d-printing-news-sliced-ai-assisted-cad-soluble-tooling-and-new-production-partnerships-255986/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-news-sliced-ai-assisted-cad-soluble-tooling-and-new-production-partnerships",
+          "date": "2026-10-27T11:44:16+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "This edition of the 3D Printing Industry news digest Sliced examines software intended to simplify engineering workflows, partnerships extending access to industrial additive…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -580,6 +651,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 29 October 2026 – The Horns of Venus",
+          "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+          "date": "2026-10-29T04:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg?w=744&#038;h=744&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
+          "title": "Arnab Strikes India",
+          "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+          "date": "2026-10-29T04:01:00+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+          "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh."
+        },
+        {
+          "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+          "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+          "date": "2026-10-29T02:49:59+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
+          "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus…"
+        },
+        {
           "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
           "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
           "date": "2026-10-28T21:50:01+00:00",
@@ -627,27 +719,6 @@
           "date": "2026-10-28T04:05:00+00:00",
           "image": null,
           "summary": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each…"
-        },
-        {
-          "title": "The Land of the Standing-Up Rocks",
-          "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-          "date": "2026-10-28T04:01:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park."
-        },
-        {
-          "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-          "date": "2026-10-27T19:27:22+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048",
-          "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a…"
-        },
-        {
-          "title": "NASA’s Neo Surveyor Sunshade",
-          "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-          "date": "2026-10-27T17:58:57+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=2048",
-          "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet…"
         }
       ],
       "ok": true,
@@ -657,6 +728,13 @@
       "name": "NASA JPL",
       "cat": "space",
       "items": [
+        {
+          "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+          "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+          "date": "2026-10-29T02:49:59+00:00",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
+          "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus…"
+        },
         {
           "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
           "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
@@ -719,13 +797,6 @@
           "date": "2026-09-16T16:08:00+00:00",
           "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-earth-illustration-cropped.jpeg",
           "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA…"
-        },
-        {
-          "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-          "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-          "date": "2026-09-09T16:00:00+00:00",
-          "image": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-          "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries,…"
         }
       ],
       "ok": true,
@@ -1042,72 +1113,72 @@
       "items": [
         {
           "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
-          "link": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+          "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
           "date": "2026-10-28T22:46:41+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
           "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to…"
         },
         {
           "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
           "link": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
           "date": "2026-10-28T21:03:33+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
           "summary": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning…"
         },
         {
           "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
           "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
           "date": "2026-10-27T00:50:37+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261027_Starlink_15-16_liftoff.jpeg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261027_Starlink_15-16_liftoff.jpeg",
           "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E happened Tuesday, October 27, 2026, at 12:25 a.m. PDT (3:25 a.m. EDT / 0825 UTC)."
         },
         {
           "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
           "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
           "date": "2026-10-20T21:18:11+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
           "summary": "SpaceX succeeded in its fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff happened at 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct.…"
         },
         {
           "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
           "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
           "date": "2026-10-18T16:32:02+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261020_Bandwagon-5_MC-1.jpeg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261020_Bandwagon-5_MC-1.jpeg",
           "summary": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 7:04 a.m. EDT (1104 UTC)…"
         },
         {
           "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
           "link": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
           "date": "2026-10-16T13:17:28+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
           "summary": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges."
         },
         {
           "title": "SpaceX launches a classified payload for U.S. Space Force",
           "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
           "date": "2026-10-15T19:11:45+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261015_USSF-481.jpg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015_USSF-481.jpg",
           "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California happened on Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC)."
         },
         {
           "title": "SpaceX launches NASA science and cargo to the International Space Station",
           "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
           "date": "2026-10-13T14:07:50+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
           "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA."
         },
         {
           "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
           "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
           "date": "2026-10-13T01:19:30+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
           "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will…"
         },
         {
           "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California",
           "link": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
           "date": "2026-10-12T22:21:40+00:00",
-          "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261015-F9-Starlink-15-25-Launch-Quick.jpg",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015-F9-Starlink-15-25-Launch-Quick.jpg",
           "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East came at 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC)."
         }
       ],
@@ -1197,6 +1268,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Moon Habitats May Use Layered Mylar to Block Extreme Heat",
+          "link": "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat",
+          "date": "2026-10-29T02:24:08+00:00",
+          "image": "https://www.universetoday.com/article_images/Fig1b.png_750_20261029_022022.png",
+          "summary": "Living on the Moon, with either trained astronauts or regular civilians, could become a regular occurrence in the near future. However, it’s easier said than done, as scientists…"
+        },
+        {
+          "title": "Virgin Galactic Flies Next-Gen Space Plane to New Home With New Name",
+          "link": "https://www.universetoday.com/articles/virgin-galactic-flies-next-gen-space-plane-to-new-home-with-new-name",
+          "date": "2026-10-28T23:22:00+00:00",
+          "image": "https://www.universetoday.com/article_images/261028-apeiron_20261028_232225.jpg",
+          "summary": "Virgin Galactic is back in the spaceflight spotlight with the unveiling of a shiny new object: an updated Delta-class suborbital space plane with an exotic name."
+        },
+        {
           "title": "NASA's New UV Space Telescope Will Launch in 2031",
           "link": "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031",
           "date": "2026-10-28T22:06:39+00:00",
@@ -1251,20 +1336,6 @@
           "date": "2026-10-28T01:22:30+00:00",
           "image": "https://www.universetoday.com/article_images/Taurus_molecular_cloud_20261028_002429.jpg",
           "summary": "In 1985, the physicist Heinz R. Pagels wrote, \"Stars are like animals in the wild. We may see the youung, but never the actual birth, which is a veiled and secret event.\" In the…"
-        },
-        {
-          "title": "Dead Planets Orbiting a Dead Star",
-          "link": "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star",
-          "date": "2026-10-27T22:04:16+00:00",
-          "image": "https://www.universetoday.com/article_images/eso2613a_20261027_185205.jpg",
-          "summary": "When a star like our Sun reaches its end, it becomes a kind of zombie star called a white dwarf. These bodies have left fusion behind and will radiate only remnant heat for a…"
-        },
-        {
-          "title": "Massive Stellar Collisions Could Explain Early Supermassive Black Holes",
-          "link": "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes",
-          "date": "2026-10-27T18:49:29+00:00",
-          "image": "https://www.universetoday.com/article_images/hubble_terzan4_potw2237a-jpg_20261027_183858.jpg",
-          "summary": "Dense stellar environments were common in the early Universe. These environments fostered more numerous stellar collisions, and some of those would've been mergers that formed…"
         }
       ],
       "ok": true,
@@ -1559,6 +1630,48 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "7 Fire Emblem: Three Houses Replay Ideas to Make Garreg Mach Feel Brand New",
+          "link": "https://www.polygon.com/fire-emblem-three-houses-replay-ideas/",
+          "date": "2026-10-29T09:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/fire-emblem-three-houses-anniversary.jpg",
+          "summary": "Fire Emblem: Three Houses boasts several unique story paths — and countless more challenges to make the experience even more memorable"
+        },
+        {
+          "title": "5 Forgotten 'Peanuts' Characters That Charles Schulz Abandoned in the Comic Strip",
+          "link": "https://www.polygon.com/forgotten-peanuts-characters/",
+          "date": "2026-10-29T08:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg",
+          "summary": "Better a has-been than a never-was, right?"
+        },
+        {
+          "title": "This Underrated 5-Season Fantasy Series Is Basically Harry Potter for Adults",
+          "link": "https://www.polygon.com/the-magicians-fairy-tale-tv-shows/",
+          "date": "2026-10-29T08:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7878357/the_magicians_201_eliot_alice_quentin_1000.jpg",
+          "summary": "The Magicians turns its magic-school fantasy into an adult fairy tale about escapism, friendship, and the things magic can’t fix."
+        },
+        {
+          "title": "15 Years Later, the Most Near-Perfect Fast and Furious Movie Is Getting From Netflix",
+          "link": "https://www.polygon.com/fast-furious-five-leaving-netflix-november-2026/",
+          "date": "2026-10-29T04:24:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdfafi_ec040.jpg",
+          "summary": "Even after 11 movies, Fast Five is still the best by a mile. Watch it now, while you still can."
+        },
+        {
+          "title": "9 Years Ago, Netflix Released a Rare Sci-Fi Sequel Even Better Than the Original",
+          "link": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+          "date": "2026-10-29T04:00:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/aaaaqybuvbspm0usrnmzelpdizqminuzokjmqivtluzb0b6p0nbo5smgxrtpzzkfruwrrfgpbhksnqelnt_jhf-e7kiynhqpdgrk7yefvzr9mqzde_z9xy37x-gx8nlk2teftzsyf3ya0j5q6n8xedpcofap.jpg",
+          "summary": "Season 2 of Stranger Things premiered nine years ago, which proved to be nearly as good as season 1 thanks to some great new characters"
+        },
+        {
+          "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+          "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+          "date": "2026-10-29T03:40:06+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg",
+          "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6"
+        },
+        {
           "title": "'Slow Horses' Season 7 Confirmed? Release Date, Plot, and Everything You Need to Know",
           "link": "https://www.polygon.com/slow-horses-season-7-release-date-plot/",
           "date": "2026-10-29T02:09:17+00:00",
@@ -1585,48 +1698,6 @@
           "date": "2026-10-29T02:01:21+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guide_outpostkey_lead.jpg",
           "summary": "Here's where to find the cell key in Phantom Blade Zero to open the locked door in the Outpost Courtyard, and the reward from opening it."
-        },
-        {
-          "title": "'A Healer's Mercy' quest walkthrough in Phantom Blade Zero",
-          "link": "https://www.polygon.com/phantom-blade-zero-a-healers-mercy-quest-walkthrough-wounded-thieves/",
-          "date": "2026-10-29T02:01:21+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-a-healers-mercy-1.jpg",
-          "summary": "Here's where to find the wounded thieves' locations needed to complete 'A Healer's Mercy' in Phantom Blade Zero"
-        },
-        {
-          "title": "All medicine locations for 'Apprentice Healer' in Phantom Blade Zero",
-          "link": "https://www.polygon.com/phantom-blade-zero-medicine-herb-locations-apprentice-healer/",
-          "date": "2026-10-29T02:01:21+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-apprentice-healer-1.jpg",
-          "summary": "Here's where to find the medicinal herb locations needed to complete the \"Apprentice Healer\" quest in Phantom Blade Zero"
-        },
-        {
-          "title": "Where to find the primal stone for 'A Severed Mindseal' in Phantom Blade Zero",
-          "link": "https://www.polygon.com/phantom-blade-zero-primal-stone-location-severed-mindseal/",
-          "date": "2026-10-29T02:01:21+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-primal-stone-location-1.jpg",
-          "summary": "Here's the primal stone location needed to complete 'A Severed Mindseal' in Phantom Blade Zero."
-        },
-        {
-          "title": "10 Games That Are Way Too Long for Their Own Good",
-          "link": "https://www.polygon.com/10-video-games-too-long/",
-          "date": "2026-10-29T02:00:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25163550/polygon_god_of_war_valhalla_yank.jpg",
-          "summary": "Even the most exciting adventures can get old after a while"
-        },
-        {
-          "title": "Shrek 5 Might Be the Disney Fairy Tale It Swore to Destroy",
-          "link": "https://www.polygon.com/shrek-disney-fairy-tale-parody/",
-          "date": "2026-10-29T01:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/shrek-dreamworks.jpeg",
-          "summary": "Few things are like Shrek's humor, but 16 years later, Shrek's ability to reflect pop culture and subvert fairy tales might be a thing of the past."
-        },
-        {
-          "title": "Scarlett Johansson’s Most Unsettling Sci-Fi Movie Is Officially Getting Cut From Netflix",
-          "link": "https://www.polygon.com/scarlett-johansson-under-the-skin-sci-fi-movie-leaving-netflix-november-2026/",
-          "date": "2026-10-29T00:45:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/under-the-skin-1.jpg",
-          "summary": "Scarlett Johansson’s strangest sci-fi movie is a haunting experience worth catching before it leaves Netflix."
         }
       ],
       "ok": true,
@@ -1636,6 +1707,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
+          "link": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+          "date": "2026-10-29T09:26:46+00:00",
+          "image": "https://assetsio.gnwcdn.com/phantom-blade-zero-hammer-attack-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Phantom Blade Zero has been officially released, and just as everyone expected, it's popular. The wuxia action game from S-Game debuted to a massive 431,541 concurrent players on…"
+        },
         {
           "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
           "link": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
@@ -1698,13 +1776,6 @@
           "date": "2026-10-28T14:03:01+00:00",
           "image": "https://assetsio.gnwcdn.com/palworld-grizzbolt-wielding-machine-gun-minigun.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pok&eacute;mon, has been embroiled in a legal battle with Nintendo over what the company…"
-        },
-        {
-          "title": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
-          "link": "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
-          "date": "2026-10-28T14:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/no-mans-sky-forsaken-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Today's the day iPhone and iPad owners finally get to boldly go into No Man's Sky's procedurally generated universe , adding two more devices to the game's already long list of…"
         }
       ],
       "ok": true,
@@ -1871,6 +1942,55 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "How to complete Whence the Weeping in Phantom Blade Zero",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/mQhWzkGDcwYPgBFAaGomZW-1920-80.jpg",
+          "summary": "Find the source of the weeping and discover its mysteries."
+        },
+        {
+          "title": "Where to find The Banyan's Heart in Phantom Blade Zero",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-banyans-heart-location/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/N2mf2bj7nLarUx9Xx2vSwj-1920-80.jpg",
+          "summary": "Acquire this special material to unlock new skills."
+        },
+        {
+          "title": "How to beat Hua, Deadly Betrothed in Phantom Blade Zero",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-hua-boss-guide/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/uE8cerkqwJf6xpcFFQw73B-1920-80.jpg",
+          "summary": "Defeat this phantom bride below the Valley Sha-Chi tower."
+        },
+        {
+          "title": "How to beat The Gold-Masked One in Phantom Blade Zero",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-gold-masked-one-boss-guide/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/CG76CztHFLMWgYfgyHVBEP-1920-80.jpg",
+          "summary": "Complete the Long Pillar challenge."
+        },
+        {
+          "title": "Phantom Blade Zero's best weapon might just be the first one you get",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/7rVNNg3tqanb9juZ9aueEQ-1920-80.jpg",
+          "summary": "Bleed's back on the menu, boys."
+        },
+        {
+          "title": "Where to find the Backstreet Courtyard Key in Phantom Blade Zero",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-backstreet-courtyard-key-location/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/f3tcWcvMjhYcSi5iYTCwqV-1920-80.jpg",
+          "summary": "Open the locked door in the backstreets of Pangzhen."
+        },
+        {
+          "title": "Where to find the Flesh Lily in Phantom Blade Zero",
+          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-flesh-lily-location/",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Fh9kdG3PrEvkL7ym66t4UX-1920-80.jpg",
+          "summary": "Track down this rare flower to help Yu'er's father."
+        },
+        {
           "title": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
           "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
           "date": "2026-10-29T02:00:00+00:00",
@@ -1890,55 +2010,6 @@
           "date": "2026-10-29T02:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/RyvXsvh6fYW3iFBENnyWpm-1920-80.jpg",
           "summary": "Buff your healing items with healer's memories."
-        },
-        {
-          "title": "How to enter the Order's underground tavern in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-enter-orders-underground-tavern/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/cwmg7gKguGg4aaq8sH6bRV-1920-80.jpg",
-          "summary": "Find the secret entrance during the Town of Death quest."
-        },
-        {
-          "title": "How to fix the Illusory Pipa in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-illusory-pipa-walkthrough/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/tyTyHj8JqhYo2MJHvUPcyb-1920-80.jpg",
-          "summary": "Repair The Chord's instrument to dispel the barrier."
-        },
-        {
-          "title": "All Quickhand's Request treasure locations in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/m6iEeygEB28Tgbu3BzNo8J-1920-80.jpg",
-          "summary": "Plus where to find Zhang's hideouts for The Wily Hare's Three Dens quest."
-        },
-        {
-          "title": "How to complete Four Fierce Axes in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthrough/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/55ZrkDzWkYPmUK5ghtQZh-1920-80.jpg",
-          "summary": "Gather evidence of the conspiracy against the Four Axes."
-        },
-        {
-          "title": "How to beat the Aberrant Three-Faced Puppet in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/UrqQhh73ADzwnUW9GdzXj6-1920-80.jpg",
-          "summary": "Defeat this tricky boss in the Triple-Threat quest."
-        },
-        {
-          "title": "How to enter the Crimson Manor in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-crimson-manor-enter/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/CgpRDoZvX8oeqonXSjQUNb-1920-80.jpg",
-          "summary": "Find a way into this mysterious red house below the Sha-Chi tower."
-        },
-        {
-          "title": "All Honor Among Thieves answers in Phantom Blade Zero",
-          "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-honor-among-thieves-answers-gentle-thief-questions/",
-          "date": "2026-10-29T02:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/rNgzBpsp66EgNgxdQbG75o-1920-80.jpg",
-          "summary": "Describe the brother's letter to The Gentle Thief."
         }
       ],
       "ok": true,
@@ -2105,6 +2176,13 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The five golden rules of external development",
+          "link": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
+          "date": "2026-10-29T09:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/jingming-pan-iYsrkq5qq0Q-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "We created Code Wizards 24 years ago, and as an external development partner, we work with a mix of small and large companies on backend engineering, live operations, IT and more.…"
+        },
+        {
           "title": "PressEngine announces The Pre-Show, an in-person London showcase for upcoming games",
           "link": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
           "date": "2026-10-28T19:13:51+00:00",
@@ -2166,13 +2244,6 @@
           "date": "2026-10-27T14:20:32+00:00",
           "image": "https://assetsio.gnwcdn.com/kingdom-come_6Zkf0Gj.webp?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Warhorse Studios has experienced a cyberattack resulting in unauthorised access to both company systems and data. Read more"
-        },
-        {
-          "title": "\"Developers need to treat Early Access like a real launch, because players do\" – Early Access games are on the rise, but so are player expectations",
-          "link": "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
-          "date": "2026-10-27T13:30:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/Early-Access-on-Steam.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "The number of games released through Steam's Early Access program has risen significantly in recent years. According to SteamDB , 2,924 Early Access games launched on Valve's…"
         }
       ],
       "ok": true,
@@ -2339,6 +2410,48 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Air Force tests XQ-67A drone to scout enemy air defenses before crewed fighters do",
+          "link": "https://interestingengineering.com/military/xq-67a-drone-demon-ape-test-beyond-line-of-sight-air-force",
+          "date": "2026-10-29T08:45:07+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/fymdky8k5zk.jpg",
+          "summary": "The U.S. Air Force has flown its experimental XQ-67A drone in a new test over..."
+        },
+        {
+          "title": "Snowshoe-inspired foot pad lets one-legged hopping robot cross sand and slippery ice",
+          "link": "https://interestingengineering.com/ai-robotics/hopcopter-flexible-foot-pad-hopping-robot",
+          "date": "2026-10-29T06:57:57+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/fvk2n5exr_u.jpg",
+          "summary": "University of Toronto engineers have given a one-legged hopping robot a flexible foot pad that..."
+        },
+        {
+          "title": "Ultrafast imaging reveals graphene electrons crossing energy gaps with 100% probability",
+          "link": "https://interestingengineering.com/science/graphene-electron-camera-quantum-transitions",
+          "date": "2026-10-29T03:41:00+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design249.jpg",
+          "summary": "Scientists in Germany have observed electrons crossing an energy gap in graphene with a probability..."
+        },
+        {
+          "title": "Shape-shifting space tiles to assemble, split and rebuild spacecraft autonomously",
+          "link": "https://interestingengineering.com/space/self-assembling-spacecraft-orbital-test",
+          "date": "2026-10-29T03:37:36+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-54-1.jpg",
+          "summary": "Spacecraft could one day change their shape after reaching orbit, allowing operators to add capabilities..."
+        },
+        {
+          "title": "24,000-ton nuclear-powered submarine fires 5,160-mile-range missile while submerged",
+          "link": "https://interestingengineering.com/military/russia-nuclear-submarine-bulava-missile-launch",
+          "date": "2026-10-29T03:33:33+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-51-1.jpg",
+          "summary": "Russia has test-fired a Bulava intercontinental ballistic missile from a submerged nuclear-powered submarine in the..."
+        },
+        {
+          "title": "6,000-ton frigate that can launch missiles, change face of naval warfare offered to US Navy",
+          "link": "https://interestingengineering.com/military/6000-ton-frigate-launch-missiles-war",
+          "date": "2026-10-29T03:07:58+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/frigate-new.jpg",
+          "summary": "A London-based defense manufacturer has offered its powerful Arrowhead 140 frigates to the U.S. Navy...."
+        },
+        {
           "title": "Fire at US nuclear site triggers ‘radiological release’ alert, FAA restricts flights",
           "link": "https://interestingengineering.com/energy/savannah-river-site-fire-radiological-release-emergency",
           "date": "2026-10-29T02:03:42+00:00",
@@ -2365,48 +2478,6 @@
           "date": "2026-10-28T22:42:57+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-49.jpg",
           "summary": "China&#8217;s largest battery maker, CATL, is likely to expand Its Sodium energy storage system network..."
-        },
-        {
-          "title": "US researchers uncover how 1.5 GPa spider silk forms its remarkable strength",
-          "link": "https://interestingengineering.com/science/us-spider-silk-forms-remarkable-strength",
-          "date": "2026-10-28T22:31:23+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/A-spider-web-woven-in-the-forest.jpg",
-          "summary": "Spider silk can withstand a pulling force equivalent to 150 newtons per square millimeter of..."
-        },
-        {
-          "title": "US firm unveils Lego-like modular kits to build tailored AI, robotics, and drone hubs",
-          "link": "https://interestingengineering.com/innovation/lego-like-modular-kits-drone-hubs",
-          "date": "2026-10-28T21:10:15+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/lego-new.jpg",
-          "summary": "What if you could build an office, security checkpoint, or robotics facility using Lego-like blocks?..."
-        },
-        {
-          "title": "Spy drone integrated with mortar rounds, grenades can conduct long-range strikes",
-          "link": "https://interestingengineering.com/military/spy-drone-integrated-with-grenades-mortar",
-          "date": "2026-10-28T20:55:47+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/German-drone-new.jpg",
-          "summary": "A German company has made upgradation to its long range drone. Called Reliant, the drone&#8217;s..."
-        },
-        {
-          "title": "Google’s Gemini 4 Carbon AI detects 88.2% of software flaws, works on tasks for days",
-          "link": "https://interestingengineering.com/ai-robotics/google-gemini-4-carbon-ai-cybersecurity-vulnerability-detection",
-          "date": "2026-10-28T20:12:15+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-48.jpg",
-          "summary": "Google has introduced Gemini 4 Carbon, a new artificial intelligence model designed to identify software..."
-        },
-        {
-          "title": "US scientists squeeze exotic crystals, find way to control magnetism in electronics",
-          "link": "https://interestingengineering.com/science/us-scientists-squeeze-exotic-crystals",
-          "date": "2026-10-28T18:56:33+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/pgsrasgrkmg.jpg",
-          "summary": "Scientists in the U.S. have found a new way to alter the magnetic behavior of..."
-        },
-        {
-          "title": "Snake-inspired soft robot capable of performing medical procedures in small intestine",
-          "link": "https://interestingengineering.com/ai-robotics/mit-soft-robot-small-intestine-enteroscope",
-          "date": "2026-10-28T18:02:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/enteroscopic-robot.jpg",
-          "summary": "MIT engineers have built a soft robotic enteroscope designed to crawl through the small intestine..."
         }
       ],
       "ok": true,
