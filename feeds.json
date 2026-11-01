@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T15:55:32.116895+00:00",
+  "updated": "2026-11-01T20:19:09.286577+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -169,6 +169,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "VW mulls assembly of China-developed models in Turkey to reduce excess capacity",
+          "link": "https://www.autonews.com/volkswagen/ane-vw-building-chinese-cars-in-turkey-1101/",
+          "date": "2026-11-01T19:59:42+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/d6qD4taCzdYfj6c5jZe9MCx-88g=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/AJL6VCE7GZASJODPVSFGDD7VLI.jpg",
+          "summary": "VW is preparing to assemble Chinese-developed vehicles in Turkey with distributor Dogus Otomotiv. The project would help VW leverage excess capacity in China while expanding…"
+        },
+        {
           "title": "Global EV report: The world electrifying at different speeds",
           "link": "https://www.autonews.com/retail/marketing/an-intersection-global-ev-report-1101/",
           "date": "2026-11-01T12:00:00+00:00",
@@ -230,13 +237,6 @@
           "date": "2026-10-30T15:07:39+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/AGtGRa0u0iUj8YjvxtkIrzqg14c=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/HO7XHVKT4JDQ5FWM3KYURBY24A.jpg",
           "summary": "Rivian's deliveries rose 46 percent to a record 19,248, revenue climbed 38 percent to $2.2 billion and its net loss narrowed 22 percent to $907 million."
-        },
-        {
-          "title": "With Audi plant in Georgia, VW Group will lean on U.S. more than ever",
-          "link": "https://www.autonews.com/volkswagen/audi/an-vw-group-future-footprint-1030/",
-          "date": "2026-10-30T15:02:48+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Sfg7l8AjAevStKNSuGQ0x0cGvts=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MCXKR6ZDXRBVLEGAHVUSVRJQKQ.jpg",
-          "summary": "Audi’s move to invest $4 billion in a Georgia assembly plant signals VW Group is determined to reverse its U.S. fortunes to counter a slump in China and growing competition across…"
         }
       ],
       "ok": true,
@@ -885,6 +885,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
+          "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
+          "date": "2026-11-01T17:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/FvcvGPhkRB6yaLphJfaVgA-1920-80.jpg",
+          "summary": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems."
+        },
+        {
           "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
           "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
           "date": "2026-11-01T15:00:00+00:00",
@@ -946,13 +953,6 @@
           "date": "2026-10-31T12:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/ti44BXu7RTPBs2VejfL6kV-1920-80.png",
           "summary": "Radio images show the supergiant's atmosphere recovering from its dramatic dimming, while a companion plows through its outer layers."
-        },
-        {
-          "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
-          "link": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
-          "date": "2026-10-31T10:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/iEMpFdYHmALoqHDGQ4V63H-1920-80.jpg",
-          "summary": "From Saturn's spectacular rings to Halloween fireballs and a space station flyover, there are plenty of celestial treats in store this Halloween. Here's when and where to look."
         }
       ],
       "ok": true,
@@ -1055,18 +1055,18 @@
           "summary": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander."
         },
         {
-          "title": "As it happened: spacewalkers install new solar array",
-          "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
-          "date": "2026-10-29T23:45:33+00:00",
-          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
-          "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the…"
-        },
-        {
           "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
           "link": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
           "date": "2026-10-29T21:57:22+00:00",
           "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
           "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost…"
+        },
+        {
+          "title": "As it happened: spacewalkers install new solar array",
+          "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
+          "date": "2026-10-29T18:45:33+00:00",
+          "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
+          "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the…"
         },
         {
           "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
@@ -1396,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest",
+          "link": "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html",
+          "date": "2026-11-01T20:00:01+00:00",
+          "image": null,
+          "summary": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but…"
+        },
+        {
           "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
           "link": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
           "date": "2026-11-01T15:20:02+00:00",
@@ -1457,13 +1464,6 @@
           "date": "2026-10-30T13:40:05+00:00",
           "image": null,
           "summary": "NASA's TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space weather affects Earth's magnetic field.…"
-        },
-        {
-          "title": "Extraterrestrial detection inspired by firefly communications could distinguish alien signals from pulsars",
-          "link": "https://phys.org/news/2026-10-extraterrestrial-firefly-communications-distinguish-alien.html",
-          "date": "2026-10-30T12:50:02+00:00",
-          "image": null,
-          "summary": "When we think of extraterrestrial intelligence that might be out there among the stars, we tend to think of creatures not too unlike us, though maybe with gray skin, probably bald…"
         }
       ],
       "ok": true,
@@ -1559,74 +1559,74 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
-          "link": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-          "date": "2026-11-01T15:36:02+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png",
-          "summary": "The number of new game pages being created daily has doubled in the past two months, itch.io confirmed"
+          "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+          "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
+          "date": "2026-11-01T20:18:04+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg",
+          "summary": "The Pirate Shop Access Token lets you get anything for free in Fortnite Chapter 7 mini season. Here's how to get it and what you can buy."
         },
         {
-          "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
-          "link": "https://www.polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get/",
-          "date": "2026-11-01T15:14:23+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fortnite-one-piece-collab.jpg",
-          "summary": "There's a rare item in Fortnite that grants free Item Shop cosmetics for two weeks, as part of the new One Piece season."
+          "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+          "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+          "date": "2026-11-01T20:11:49+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg",
+          "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season."
         },
         {
-          "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
-          "link": "https://www.polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor/",
-          "date": "2026-11-01T14:27:56+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg",
-          "summary": "Nintendo Switch 2 is the first console Petit Planet, an Animal Crossing clone from Genshin Impact's HoYoverse, will be ported to"
+          "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
+          "link": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
+          "date": "2026-11-01T19:09:33+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed.png",
+          "summary": "Here's all the bonuses and perks for Pokémon Go's \"Halloween 2026 Part 2\" event, which includes the debut of shiny Greavard."
         },
         {
-          "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
-          "link": "https://www.polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026/",
-          "date": "2026-11-01T14:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/monsters-of-ohio-by-john-scalzi.jpg",
-          "summary": "Get cozy with sky pirates, faerie princesses, and political schemes"
+          "title": "All map and weapon loot pool changes in the Fortnite Chapter 7 mini season",
+          "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi/",
+          "date": "2026-11-01T18:55:45+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fortnite-treasure-hunters-key-art_en.jpg",
+          "summary": "The Fortnite Chapter 7 mini season, \"Treasure Hunters,\" completely changes the map. Here's everything different in the new season."
         },
         {
-          "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
-          "link": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
-          "date": "2026-11-01T13:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22695444/Switch_ZeldaSSHD_ND_Feb_SCRN07.jpg",
-          "summary": "Zelda’s most memorable story still shines, but the motion controls, Fi, and repeat fights often make it a tough replay"
+          "title": "All sprites in the Fortnite Chapter 7 mini season",
+          "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
+          "date": "2026-11-01T18:51:48+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg",
+          "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do."
         },
         {
-          "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
-          "link": "https://www.polygon.com/dragon-delves-hansel-gretel/",
-          "date": "2026-11-01T12:31:50+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-delves-gingerbread-people.png",
-          "summary": "A delicious one-shot sends players to a candy cottage"
+          "title": "All battle pass skins in the Fortnite Chapter 7 mini season",
+          "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits/",
+          "date": "2026-11-01T18:47:50+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/hvuc5u1amaatzos.jpg",
+          "summary": "Here's a look at all of the Fortnite Chapter 7 mini season's battle pass skins, and the various styles they come in."
         },
         {
-          "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
-          "link": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
-          "date": "2026-11-01T12:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/wp2398092.jpg",
-          "summary": "Two eccentric teenagers cross paths and embark on a road trip to remember."
+          "title": "Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic",
+          "link": "https://www.polygon.com/fable-reboot-no-co-op/",
+          "date": "2026-11-01T18:00:02+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png",
+          "summary": "Playground Games' Fable reboot will be a purely single-player game, ditching an important part of what made the originals so great."
         },
         {
-          "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
-          "link": "https://www.polygon.com/prime-video-sci-fi-near-perfect-first-scene/",
-          "date": "2026-11-01T12:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-end-of-the-world-is-going-to-be-weird-on-prime-videos-quirky-clever-adaptation-of-fallout-1.jpg",
-          "summary": "Sci-fi comes in all flavors, including ones that are addictive."
+          "title": "The best local co-op games to play in 2026",
+          "link": "https://www.polygon.com/best-local-coop-games/",
+          "date": "2026-11-01T17:13:08+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/best-local-coop-games-split-fiction.jpg",
+          "summary": "Two-player co-op games like Split Fiction and Lego Voyagers are the perfect fit for a cozy fall weekend."
         },
         {
-          "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
-          "link": "https://www.polygon.com/best-peanuts-comics-1960s/",
-          "date": "2026-11-01T11:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown.jpg",
-          "summary": "The best decade for Charles Schulz's Peanuts comic strip was the 1960s — here are six perfect comics which prove it."
+          "title": "6 Perfect Star Trek Episodes to Watch to Say Goodbye to Patrick Stewart",
+          "link": "https://www.polygon.com/best-patrick-stewart-picard-star-trek-episodes/",
+          "date": "2026-11-01T17:00:19+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-trek-capatain-picard.jpg",
+          "summary": "“Live now. Make now always the most precious time.”"
         },
         {
-          "title": "Welcome to the New Era of Video Game Adaptations",
-          "link": "https://www.polygon.com/patch-notes-video-game-adaptations/",
-          "date": "2026-11-01T10:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/16-street-fighter.jpg",
-          "summary": "A week filled with updates on upcoming video game adaptations proves that Hollywood's latest trend is here to stay."
+          "title": "Doom Creator John Romero Revives Xbox-Canceled Game At New Publisher",
+          "link": "https://www.polygon.com/john-romero-game-new-publisher/",
+          "date": "2026-11-01T16:58:37+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/doom-1.jpg",
+          "summary": "Romero Games' next shooter has found a new publisher, although the scope of the project has drastically changed since Xbox dropped it"
         }
       ],
       "ok": true,
@@ -1636,6 +1636,27 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
+          "link": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
+          "date": "2026-11-01T18:16:20+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-18.12.02.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is \"coming (very) soon\". Read more"
+        },
+        {
+          "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+          "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+          "date": "2026-11-01T17:27:29+00:00",
+          "image": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more"
+        },
+        {
+          "title": "Footage of a Persona 1 remake has seemingly leaked online",
+          "link": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+          "date": "2026-11-01T16:35:17+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online. Read more"
+        },
         {
           "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
           "link": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
@@ -1684,27 +1705,6 @@
           "date": "2026-10-31T13:53:19+00:00",
           "image": "https://assetsio.gnwcdn.com/Silent-Hill-Townfall-Door-Dial-Date-Puzzle---Header.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more"
-        },
-        {
-          "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
-          "link": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-          "date": "2026-10-31T13:21:03+00:00",
-          "image": "https://assetsio.gnwcdn.com/cover_-_--scaled.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project.…"
-        },
-        {
-          "title": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
-          "link": "https://www.eurogamer.net/silver-pines-now-playing",
-          "date": "2026-10-31T10:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/silver-pines-header_pnoviPY.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "It's those bloody typewriters all over again. Developer Wych Elm Games' Silver Pines is fantastic in a whole bunch of ways, from its woozy small-town ambience to its mix of taut…"
-        },
-        {
-          "title": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\"",
-          "link": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
-          "date": "2026-10-31T08:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/tenebris-somnia-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Happy Halloween! Are you scared? I am: I'm in a theatre play that opens next week and we're not ready yet. I'm also off to a ghost stories evening at the theatre tonight; I've had…"
         }
       ],
       "ok": true,
@@ -1714,6 +1714,20 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3",
+          "link": "https://kotaku.com/tony-hawk-kicked-out-of-park-while-trying-to-recreate-pro-skater-3-2000752094",
+          "date": "2026-11-01T19:29:35+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/11/ss_8b6b1072bd6d96bd37949e4bfb8c3a229f3ef337.1920x1080-1280x720.jpg",
+          "summary": "The legendary Birdman wanted to celebrate 25 years of the iconic third entry in his video game series, only to be escorted out by security"
+        },
+        {
+          "title": "Mario-Dressed Speedrunner Breaks World Super Mario Bros. Record On Halloween Stream: ‘Can I Please Break Character’",
+          "link": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087",
+          "date": "2026-11-01T16:28:46+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/11/halloweenmariospeedrun.jpg",
+          "summary": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing him two frames away from a perfect run"
+        },
         {
           "title": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
           "link": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
@@ -1769,20 +1783,6 @@
           "date": "2026-10-31T13:47:14+00:00",
           "image": "https://kotaku.com/app/uploads/2025/08/DOOM-MAIN-1280x720.jpg",
           "summary": "The studio is collaborating more closely than ever with MachineGames"
-        },
-        {
-          "title": "Final Fantasy 14 Evercold Gets A Month Long Delay But An Awesome New Trailer",
-          "link": "https://kotaku.com/final-fantasy-14-evercold-gets-a-month-long-delay-but-an-awesome-new-trailer-2000751936",
-          "date": "2026-10-31T13:17:31+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/FFXIV_FANFESTIVAL_2026_in_TOKYO_02-e1793450915848-1280x703.jpg",
-          "summary": "This looks awesome"
-        },
-        {
-          "title": "If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One",
-          "link": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739",
-          "date": "2026-10-31T01:54:53+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/09/NS2_TheLegendofZeldaOcarina12-1280x720.jpg",
-          "summary": "The retailer started canceling pre-orders a day before they were supposed to arrive"
         }
       ],
       "ok": true,
@@ -1792,6 +1792,27 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks",
+          "link": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks",
+          "date": "2026-11-01T19:08:44+00:00",
+          "image": "https://assetsio.gnwcdn.com/fstop_3YhkRv1.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "If you're something of a Portal or Half-Life head, you'll probably already be familiar with F-Stop, an unreleased Portal prequel that remained quite mysterious for many years.…"
+        },
+        {
+          "title": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
+          "link": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
+          "date": "2026-11-01T18:07:48+00:00",
+          "image": "https://assetsio.gnwcdn.com/final-fantasy-14-evercold-zephyr.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Let's start with the bad news: Final Fantasy 14: Evercold has been delayed. The good news, that doesn't matter all that much, as it's only a delay of roughly a month, and a…"
+        },
+        {
+          "title": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
+          "link": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
+          "date": "2026-11-01T17:17:15+00:00",
+          "image": "https://assetsio.gnwcdn.com/persona-1-remake.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "In this genAI world, every single leak that makes its way out into the world should be seen as more of a \"leak\" until proven otherwise. With that said, it does kind of seem like a…"
+        },
         {
           "title": "The Sunday Papers",
           "link": "https://www.rockpapershotgun.com/the-sunday-papers-834",
@@ -1840,27 +1861,6 @@
           "date": "2026-10-30T15:29:54+00:00",
           "image": "https://assetsio.gnwcdn.com/world-of-horror-as-below-so-above.png?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Excellent apocalypse RPG World of Horror has just received a sizeable free update, As Below So Above, adding no less than two Old Godly invasions for you to identify and thwart.…"
-        },
-        {
-          "title": "All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler",
-          "link": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler",
-          "date": "2026-10-30T14:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/rps_welcomepost_2_JcYD937.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Thanks once again to everyone keeping our lights on, and our pantries full of Mini Cheddars, by being an RPS Supporter . The latest batch of subscription stats came in the other…"
-        },
-        {
-          "title": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
-          "link": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
-          "date": "2026-10-30T13:30:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/rockstar-developer-union-potential-size-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "As we've previously covered, a vote on recognition of a union made up of UK-based Rockstar Games devs is set to take place around GTA 6 's console launch on November 19th. The…"
-        },
-        {
-          "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
-          "link": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-          "date": "2026-10-30T12:58:41+00:00",
-          "image": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. The…"
         }
       ],
       "ok": true,
@@ -1871,74 +1871,74 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
+          "link": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
+          "date": "2026-11-01T18:41:29+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/zwesSkcLZ5MbbfzKLKK7xP-1920-80.jpg",
+          "summary": "Melvor Idle 2 has gained a subtitle: A RuneScape Adventure."
+        },
+        {
+          "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
+          "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
+          "date": "2026-11-01T18:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/D6VRZi8SW9eRmoHuQY2Nfe-1920-80.jpg",
+          "summary": "I can already picture my late-night Leonida drives to these bangers."
+        },
+        {
+          "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
+          "link": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
+          "date": "2026-11-01T17:45:12+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/pbMYsNHxiFa2RoRirv3edd-1920-80.jpg",
+          "summary": "\"You click on the game that you would like to receive a physical copy of, you order it, and it gets to you. That would be a perfect scenario.\""
+        },
+        {
+          "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
+          "link": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
+          "date": "2026-11-01T17:44:47+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/nCJfziz7aTjfkS37SmwqTc-1920-80.jpg",
+          "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam."
+        },
+        {
+          "title": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
+          "link": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
+          "date": "2026-11-01T17:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/YsSgua57s2iYxBemzqeS77-1920-80.png",
+          "summary": "The composer for Celeste and Minecraft guides us through the games on her PC."
+        },
+        {
+          "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
+          "link": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+          "date": "2026-11-01T16:46:26+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/WfcDGag9nWxtKu3VSB8pFV-1920-80.jpg",
+          "summary": "Selaco: The Machines of War arrives later this month."
+        },
+        {
+          "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
+          "link": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
+          "date": "2026-11-01T16:42:09+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/CKWPEHEse9cxfCAd3Kyw5Q-1920-80.png",
+          "summary": "But the studio says it is \"not going down without a fight\"."
+        },
+        {
+          "title": "It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit",
+          "link": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/",
+          "date": "2026-11-01T16:25:23+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/uhCgoU847LsYr8VPuoSiRb-1920-80.jpg",
+          "summary": "\"The number of downloads and purchases has *not* doubled.\""
+        },
+        {
+          "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
+          "link": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
+          "date": "2026-11-01T16:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/tKRsxThWn74sJzkUVaGVy5-1920-80.jpg",
+          "summary": "I tire of seasons."
+        },
+        {
           "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
           "link": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
           "date": "2026-11-01T04:05:48+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/xEZVAEzY4NHUyqy7YXb35S-1920-80.png",
           "summary": "Another nail in Motorsport's coffin."
-        },
-        {
-          "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-          "link": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
-          "date": "2026-11-01T01:30:27+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/LxcS4vFnPo4sKYRXgXRKZM-1920-80.jpg",
-          "summary": "Structural perfection."
-        },
-        {
-          "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-          "link": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
-          "date": "2026-10-31T21:40:23+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/M6zM5WU9WHi2vy6AB7ptFc-1920-80.jpg",
-          "summary": "The reason and timeline for restoration were not disclosed."
-        },
-        {
-          "title": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
-          "link": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
-          "date": "2026-10-31T21:11:46+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/XKCfWTAL3exAS4RH8dg8pX-1920-80.jpg",
-          "summary": "Just uncalled-for."
-        },
-        {
-          "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-          "link": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-          "date": "2026-10-31T20:29:22+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg",
-          "summary": "The volunteer team is seeking pro bono legal aid."
-        },
-        {
-          "title": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
-          "link": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-          "date": "2026-10-31T18:57:47+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/PUEtmTeJPKib37LmemrwyA-1920-80.jpeg",
-          "summary": "Director of both games, Maddy Thorson, confirmed the intent on BlueSky."
-        },
-        {
-          "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
-          "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
-          "date": "2026-10-31T18:57:19+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/mZCpwjMoH624NpBRgk9CL4-1920-80.jpg",
-          "summary": "Surely, one of these is the actual, no joke, FINAL fantasy?"
-        },
-        {
-          "title": "Yacht Club confirms Mina the Hollower was the shot in the arm it needed stay alive—'for now'",
-          "link": "https://www.pcgamer.com/games/adventure/yacht-club-confirms-mina-the-hollower-was-the-shot-in-the-arm-it-needed-stay-alive-for-now/",
-          "date": "2026-10-31T17:41:22+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/ToYgKgwPt4nDWYw88XYRwT-1920-80.png",
-          "summary": "Randomizer and speedrunner settings are up next for the spooky Zelda-like."
-        },
-        {
-          "title": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
-          "link": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
-          "date": "2026-10-31T17:26:20+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/PQ5Chom3DjoKr3sRganVh6-1920-80.jpg",
-          "summary": "Number 6 will SPOOK you (for 1d6 psychic damage)."
-        },
-        {
-          "title": "The votes are in, and PC Gamer readers have picked the scariest game on PC",
-          "link": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
-          "date": "2026-10-31T17:25:20+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/tacFgjKKgbufeB8YqDE4Kb-1920-80.jpg",
-          "summary": "The final battle came down to Amnesia: The Dark Descent and Alien: Isolation."
         }
       ],
       "ok": true,
@@ -2261,6 +2261,13 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Guarding the Gates of Knowledge",
+          "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+          "date": "2026-11-01T14:00:01+00:00",
+          "image": "https://spectrum.ieee.org/media-library/stacked-orange-documents-over-abstract-black-circuit-board-pattern.jpg?id=68537695&width=980",
+          "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to…"
+        },
+        {
           "title": "When Electric Cars Were for Women",
           "link": "https://spectrum.ieee.org/early-electric-vehicles",
           "date": "2026-10-31T13:00:02+00:00",
@@ -2322,13 +2329,6 @@
           "date": "2026-10-25T12:00:02+00:00",
           "image": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=980",
           "summary": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my…"
-        },
-        {
-          "title": "From Chip Lab to Center Stage",
-          "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-          "date": "2026-10-23T18:00:03+00:00",
-          "image": "https://spectrum.ieee.org/media-library/smiling-portrait-of-a-young-south-asian-woman-seated-in-front-of-her-work-computer.jpg?id=68453070&width=980",
-          "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center…"
         }
       ],
       "ok": true,
@@ -2339,9 +2339,51 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "China’s DeepSeek plans super agent to coordinate multiple AI assistants, reduce human supervision",
+          "link": "https://interestingengineering.com/ai-robotics/china-deepseek-architecture-multi-agent-ai",
+          "date": "2026-11-01T18:40:05+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/xbbyvfrqmwu.jpg",
+          "summary": "Chinese AI company DeepSeek has unveiled an experimental architecture for a more autonomous AI agent..."
+        },
+        {
+          "title": "17-million-year-old fossil found in Egypt challenges a long-held view of ape origins",
+          "link": "https://interestingengineering.com/culture/masripithecus-moghraensis-first-fossil-ape-north-africa",
+          "date": "2026-11-01T18:37:06+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Miocene-ape.jpg",
+          "summary": "A lower jaw dug out of the Egyptian desert is reshaping the story of where..."
+        },
+        {
+          "title": "Quantum computers are coming: Here are the problems they could tackle",
+          "link": "https://interestingengineering.com/innovation/what-problems-will-quantum-computers-solve",
+          "date": "2026-11-01T17:25:54+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Quantum-Computers.jpg",
+          "summary": "Imagine designing a better battery, discovering a new medicine, or developing a material that can..."
+        },
+        {
+          "title": "This Chinese warship could operate without a crew, launch missile salvos",
+          "link": "https://interestingengineering.com/military/chinese-warship-could-operate-without-crew",
+          "date": "2026-11-01T16:36:59+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Chinese-submarine.jpg",
+          "summary": "China is testing a warship that could hide its hull underwater before surfacing to raise..."
+        },
+        {
+          "title": "China’s Hina takes sodium-ion batteries from production plans to electric truck fleets",
+          "link": "https://interestingengineering.com/transportation/china-hina-sodium-ion-battery-expansion",
+          "date": "2026-11-01T16:35:11+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/he7clzc-nym.jpg",
+          "summary": "China is giving sodium-ion batteries a temporary tax advantage over conventional lithium-ion technology as manufacturers..."
+        },
+        {
+          "title": "Scientists turn to fireflies to rethink how we search for intelligent aliens",
+          "link": "https://interestingengineering.com/science/secret-to-finding-aliens-firefly-flashing",
+          "date": "2026-11-01T16:20:53+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/extraterrestrial-intelligence-and-fireflies.jpg",
+          "summary": "For decades, the search for extraterrestrial intelligence (SETI) has largely operated on the assumption that..."
+        },
+        {
           "title": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
           "link": "https://interestingengineering.com/military/air-defense-systems-trump-estate",
-          "date": "2026-11-01T15:51:08+00:00",
+          "date": "2026-11-01T15:51:12+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Two-Avengers-staying-afloat-on-the-shoreline-of-Mar-a-Lago-club-in-Palm-Beach-Florida-where-President-Donald-Trump-is-staying.jpg",
           "summary": "Amid the heightened concerns about President Donald J. Trump&#8217;s safety, the U.S. Secret Service has..."
         },
@@ -2365,48 +2407,6 @@
           "date": "2026-11-01T14:33:05+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/pvkwoklqpog.jpg",
           "summary": "A Chinese study warns that introducing artificial intelligence (AI) into the nation&#8217;s existing social credit..."
-        },
-        {
-          "title": "Watch: YouTuber makes 3D-printed propane afterburner for electric fan, boosts thrust by 50%",
-          "link": "https://interestingengineering.com/innovation/youtuber-make-3d-printed-propane-afterburner",
-          "date": "2026-11-01T13:46:38+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/e1ukmoi9sqa.jpg",
-          "summary": "A YouTuber has created a functional homemade afterburner using mostly 3D-printed parts. He essentially took..."
-        },
-        {
-          "title": "China is planning to send AI and deep-sea robots on a hunt for its ancient past",
-          "link": "https://interestingengineering.com/culture/china-plan-ai-deep-sea-robots-archaeology",
-          "date": "2026-11-01T13:19:35+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/9_1muh_zzxq.jpg",
-          "summary": "Archaeology is usually about recovering pieces of the past. China, however, wants to do something..."
-        },
-        {
-          "title": "Harop-like loitering munition offers clues about North Korea’s future unmanned-aerial warfare",
-          "link": "https://interestingengineering.com/military/harop-like-loitering-munition-north-korea",
-          "date": "2026-11-01T13:03:06+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/A-representative-image-of-Kamikaze-drone.jpg",
-          "summary": "Harop-like kamikaze suicide drones capable of precision military strikes could soon become one of North..."
-        },
-        {
-          "title": "Nearly half of 10 million ton food waste generated annually could help save environment",
-          "link": "https://interestingengineering.com/health/food-waste-could-help-save-environment",
-          "date": "2026-10-31T23:19:30+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/m2d4lhddpwg_60ce9e.jpg",
-          "summary": "The fruit and vegetable skins and cores typically thrown away are packed with dietary fiber,..."
-        },
-        {
-          "title": "Military airspace surveillance to get major boost, reveal aircraft’s accurate position with new radar",
-          "link": "https://interestingengineering.com/military/military-airspace-surveillance-aircraft-accurate-position",
-          "date": "2026-10-31T21:35:37+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/aircraft-location.jpg",
-          "summary": "Military airspace surveillance is expected to become more streamlined in Romania with Thales&#8217; deployable primary..."
-        },
-        {
-          "title": "China makes early progress in using sound waves to stimulate damaged brains",
-          "link": "https://interestingengineering.com/science/china-sound-waves-stimulate-damaged-brains",
-          "date": "2026-10-31T18:44:26+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/5sd3jlljn9q.jpg",
-          "summary": "Chinese researchers are testing whether focused ultrasound can help restore consciousness in patients with severe..."
         }
       ],
       "ok": true,
