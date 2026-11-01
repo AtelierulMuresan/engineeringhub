@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:57:19.269183+00:00",
+  "updated": "2026-11-01T15:55:32.116895+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -169,6 +169,20 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Global EV report: The world electrifying at different speeds",
+          "link": "https://www.autonews.com/retail/marketing/an-intersection-global-ev-report-1101/",
+          "date": "2026-11-01T12:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Q9fXv6bK5psCNiPooOAsc9IvcxI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/HSWPVOWFGVHE5POVXHWJLFMGYA.jpg",
+          "summary": "Automotive markets across the world are electrifying at their own speeds and prioritizing different powertrains. The Automotive News Global EV Report shows where electrification…"
+        },
+        {
+          "title": "What Election Day could mean for EVs and trade policy",
+          "link": "https://www.autonews.com/podcasts/shift/an-shift-podcast-mike-murphy-evs-for-all-america-1101/",
+          "date": "2026-11-01T11:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/m4fEfvTSh_Iv-14JOxsJqdCZ8r8=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/CNEUBPSCX5B4BB2CDV5MAS2GNE.jpg",
+          "summary": "\"Shift\" host Molly Boigon chats with Mike Murphy of EVs for All America about the global EV market and how the U.S. stacks up against competitors."
+        },
+        {
           "title": "Weekend Drive: Audi tariff relief; what the midterms mean for autos",
           "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-wd-audi-tariffs-midterms-preview-1031/",
           "date": "2026-10-31T10:00:00+00:00",
@@ -223,20 +237,6 @@
           "date": "2026-10-30T15:02:48+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Sfg7l8AjAevStKNSuGQ0x0cGvts=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/MCXKR6ZDXRBVLEGAHVUSVRJQKQ.jpg",
           "summary": "Audi’s move to invest $4 billion in a Georgia assembly plant signals VW Group is determined to reverse its U.S. fortunes to counter a slump in China and growing competition across…"
-        },
-        {
-          "title": "SEMA Show is test bed for concepts that inspire new products",
-          "link": "https://www.autonews.com/retail/marketing/an-sema-show-value-1030/",
-          "date": "2026-10-30T13:48:09+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/ml1Jdn8RTiAAHoZ3G84YEVThMFI=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/WZH42UJXNBERNGQTJCMMI3QTYY.jpg",
-          "summary": "Automakers use the massive expo, running Nov. 3-6, to stretch their legs with bold designs, engage with enthusiasts, and highlight lucrative parts and accessories that can pad the…"
-        },
-        {
-          "title": "5 stories shaping Canadian auto this week: Chery’s possible production, Oakville starts shipping, more",
-          "link": "https://www.autonews.com/manufacturing/anc-canadian-auto-news-week-oct-26-2026/",
-          "date": "2026-10-30T13:38:14+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/6RsMahivQ3rzxSXNdSlkSPxYxUs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/J2HKEQWC6FDK7O354GG7SDYH74.jpg",
-          "summary": "Here are the most-read Automotive News Canada stories for the week of Oct. 26."
         }
       ],
       "ok": true,
@@ -246,6 +246,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "VW’s EV Factory Is Now Taking Cars Apart. There’s Money In It",
+          "link": "https://insideevs.com/news/813972/vw-zwickau-dismantling-ev-line/",
+          "date": "2026-11-01T09:39:01+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/pb8QEo/s3/vw-zwickau-dismantling-line.jpg",
+          "summary": "It plans to dismantle 4,100 vehicles a year at Zwickau, turning reusable components into a factory-backed used-parts business."
+        },
         {
           "title": "Rivian's Charging Network Grew 39% In A Year",
           "link": "https://insideevs.com/news/813896/rivian-adventure-networks-dc-fast-chargers-growth-q3-2026/",
@@ -308,13 +315,6 @@
           "date": "2026-10-29T23:25:19+00:00",
           "image": "https://cdn.motor1.com/images/mgl/BX1Wpm/s3/2027-fiat-topolino-1.jpg",
           "summary": "Get ready for your taste of la dolce vita, because the Fiat Topolino is street legal now."
-        },
-        {
-          "title": "Rivian's R2 Is Already Its Best-Selling EV. Now The Company Expects Even Bigger Sales",
-          "link": "https://insideevs.com/news/813785/rivian-r2-best-seller-revised-delivery-guidance/",
-          "date": "2026-10-29T20:39:56+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/KbgzqN/s3/2027-rivian-r2-first-drive-on--and-off-road.jpg",
-          "summary": "Rivian's Tesla Model Y rival is a hit among buyers, with Rivian increasing its annual delivery guidance again."
         }
       ],
       "ok": true,
@@ -885,6 +885,34 @@
       "cat": "space",
       "items": [
         {
+          "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+          "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+          "date": "2026-11-01T15:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/drwYrYiYJJqmLo4dZ34YaM-1920-80.jpg",
+          "summary": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts."
+        },
+        {
+          "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+          "date": "2026-11-01T14:50:15+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
+          "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered."
+        },
+        {
+          "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+          "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+          "date": "2026-11-01T13:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+          "summary": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled."
+        },
+        {
+          "title": "5 bright planets to spot in November — when and where to see them",
+          "link": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
+          "date": "2026-11-01T11:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/CaLcuNHjtvqog4vsZwxdB6-1920-80.jpg",
+          "summary": "From a close encounter between Mars and Jupiter to dazzling Venus and elusive Mercury, November offers plenty of planetary highlights. Here's when and where to look."
+        },
+        {
           "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
           "link": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
           "date": "2026-10-31T15:00:00+00:00",
@@ -925,34 +953,6 @@
           "date": "2026-10-31T10:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/iEMpFdYHmALoqHDGQ4V63H-1920-80.jpg",
           "summary": "From Saturn's spectacular rings to Halloween fireballs and a space station flyover, there are plenty of celestial treats in store this Halloween. Here's when and where to look."
-        },
-        {
-          "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
-          "date": "2026-10-31T05:24:11+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/Bv6cX3eJVG9R8i6gxerymQ-1920-80.jpg",
-          "summary": "SpaceX sent another batch of its Starlink broadband satellites to orbit from California just after midnight on Halloween (Oct. 31)."
-        },
-        {
-          "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
-          "link": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
-          "date": "2026-10-30T23:26:14+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/95DGgxycx5HJysdhc2yEv9-1920-80.png",
-          "summary": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\""
-        },
-        {
-          "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station'",
-          "link": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
-          "date": "2026-10-30T21:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/eoqmuGhaVVmqHTghp2kjjV-1920-80.jpg",
-          "summary": "After five days of living underwater, Analog Astronaut Commander Dr. Musilova and her crew return to terra firma, affected by higher pressures and the team's disconnection from…"
-        },
-        {
-          "title": "India launches next-gen navigation satellite to orbit (video)",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
-          "date": "2026-10-30T20:29:58+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-1920-80.jpg",
-          "summary": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year."
         }
       ],
       "ok": true,
@@ -1396,6 +1396,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+          "link": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+          "date": "2026-11-01T15:20:02+00:00",
+          "image": null,
+          "summary": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is…"
+        },
+        {
           "title": "This oddball reflective lava world is challenging to understand",
           "link": "https://phys.org/news/2026-10-oddball-lava-world.html",
           "date": "2026-11-01T00:30:01+00:00",
@@ -1457,13 +1464,6 @@
           "date": "2026-10-30T12:50:02+00:00",
           "image": null,
           "summary": "When we think of extraterrestrial intelligence that might be out there among the stars, we tend to think of creatures not too unlike us, though maybe with gray skin, probably bald…"
-        },
-        {
-          "title": "Space station experiment to probe plant disease risks for future moon and Mars missions",
-          "link": "https://phys.org/news/2026-10-space-station-probe-disease-future.html",
-          "date": "2026-10-30T03:00:01+00:00",
-          "image": null,
-          "summary": "As NASA and its partners prepare for longer human missions beyond Earth, University of Florida researchers are investigating a challenge that could affect astronauts' ability to…"
         }
       ],
       "ok": true,
@@ -1559,74 +1559,74 @@
       "cat": "gaming",
       "items": [
         {
-          "title": "9 Years Later, Jon Bernthal’s Action Series Is a Masterpiece From Start to Finish",
-          "link": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/",
-          "date": "2026-11-01T05:30:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jon-bernthal-punisher-born-again.jpg",
-          "summary": "One batch, two batch, penny and dime"
+          "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
+          "link": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+          "date": "2026-11-01T15:36:02+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png",
+          "summary": "The number of new game pages being created daily has doubled in the past two months, itch.io confirmed"
         },
         {
-          "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Waiting to Be Rediscovered on Streaming",
-          "link": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026/",
-          "date": "2026-11-01T04:26:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/blade-runner-3.jpg",
-          "summary": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon"
+          "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
+          "link": "https://www.polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get/",
+          "date": "2026-11-01T15:14:23+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fortnite-one-piece-collab.jpg",
+          "summary": "There's a rare item in Fortnite that grants free Item Shop cosmetics for two weeks, as part of the new One Piece season."
         },
         {
-          "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
-          "link": "https://www.polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score/",
-          "date": "2026-11-01T04:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeon-crawler-carl.jpg",
-          "summary": "Matt Dinniman's hit LitRPG series keeps raising the stakes, but which Dungeon Crawler Carl book ranks highest?"
+          "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
+          "link": "https://www.polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor/",
+          "date": "2026-11-01T14:27:56+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg",
+          "summary": "Nintendo Switch 2 is the first console Petit Planet, an Animal Crossing clone from Genshin Impact's HoYoverse, will be ported to"
         },
         {
-          "title": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon",
-          "link": "https://www.polygon.com/patrick-stewart-the-simpsons-guest-star/",
-          "date": "2026-11-01T03:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_pa117.jpg",
-          "summary": "Sir Patrick Stewart is being remembered for Star Trek and X-Men, but he was also the perfect guest star on The Simpsons"
+          "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
+          "link": "https://www.polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026/",
+          "date": "2026-11-01T14:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/monsters-of-ohio-by-john-scalzi.jpg",
+          "summary": "Get cozy with sky pirates, faerie princesses, and political schemes"
         },
         {
-          "title": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
-          "link": "https://www.polygon.com/best-video-game-twist-endings/",
-          "date": "2026-11-01T01:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19231262/Link_s_Awakening_Wind_Fish_s_Egg_cover.jpg",
-          "summary": "From Spec Ops: The Line to Link’s Awakening, these 10 video games have the best twist endings, with reveals that recast everything before them."
+          "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
+          "link": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
+          "date": "2026-11-01T13:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22695444/Switch_ZeldaSSHD_ND_Feb_SCRN07.jpg",
+          "summary": "Zelda’s most memorable story still shines, but the motion controls, Fi, and repeat fights often make it a tough replay"
         },
         {
-          "title": "Andy Weir's New Time-Travel Sci-fi Thriller Officially Arrives Nov. 5",
-          "link": "https://www.polygon.com/andy-weir-benjamin-percy-exoplanet-sci-fi-audiobook/",
-          "date": "2026-10-31T23:09:24+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/project-hail-mary.jpg",
-          "summary": "The Andy Weir-produced Audible Original story Exoplanet stars Anthony Mackie, Ariana DeBose, and John Leguizamo."
+          "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
+          "link": "https://www.polygon.com/dragon-delves-hansel-gretel/",
+          "date": "2026-11-01T12:31:50+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-delves-gingerbread-people.png",
+          "summary": "A delicious one-shot sends players to a candy cottage"
         },
         {
-          "title": "5 Must-Play Nintendo Switch 2 Games Coming in November 2026",
-          "link": "https://www.polygon.com/new-nintendo-switch-games-november-2026/",
-          "date": "2026-10-31T23:01:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
-          "summary": "The Legend of Zelda: Ocarina of Time remake and Metaphor: ReFantazio lead a strong month for Nintendo Switch 2 game releases"
+          "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
+          "link": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
+          "date": "2026-11-01T12:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/wp2398092.jpg",
+          "summary": "Two eccentric teenagers cross paths and embark on a road trip to remember."
         },
         {
-          "title": "5 Best Nintendo Switch Games That Desperately Need Switch 2 Upgrades, Ranked",
-          "link": "https://www.polygon.com/nintendo-switch-games-no-switch-2-edition/",
-          "date": "2026-10-31T22:14:33+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9958985/Switch_SMO_ND0913_SCRN07.jpg",
-          "summary": "Many Nintendo Switch games received upgrades for Switch 2, but here are five classic Nintendo Switch games that did not."
+          "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
+          "link": "https://www.polygon.com/prime-video-sci-fi-near-perfect-first-scene/",
+          "date": "2026-11-01T12:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-end-of-the-world-is-going-to-be-weird-on-prime-videos-quirky-clever-adaptation-of-fallout-1.jpg",
+          "summary": "Sci-fi comes in all flavors, including ones that are addictive."
         },
         {
-          "title": "10 Classic '90s RPGs That Have Aged Like Fine Wine, Ranked",
-          "link": "https://www.polygon.com/best-classic-90s-rpgs/",
-          "date": "2026-10-31T22:05:29+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-genealogy-artwork.jpg",
-          "summary": "RPGs from the 1990s were some of the most pivotal games in history. Here are 10 classic 1990s RPGs that are so good they don't need a remake."
+          "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
+          "link": "https://www.polygon.com/best-peanuts-comics-1960s/",
+          "date": "2026-11-01T11:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown.jpg",
+          "summary": "The best decade for Charles Schulz's Peanuts comic strip was the 1960s — here are six perfect comics which prove it."
         },
         {
-          "title": "Every Resident Evil Game, Ranked From Worst to Best",
-          "link": "https://www.polygon.com/resident-evil-games-ranked-worst-best/",
-          "date": "2026-10-31T21:54:25+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13690297/capcom_resident_evil_2_more_remakes_leon_claire.jpg.optimal.jpg",
-          "summary": "We've ranked every mainline Resident Evil game, from the original all the way through 2026's Resident Evil Requiem."
+          "title": "Welcome to the New Era of Video Game Adaptations",
+          "link": "https://www.polygon.com/patch-notes-video-game-adaptations/",
+          "date": "2026-11-01T10:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/16-street-fighter.jpg",
+          "summary": "A week filled with updates on upcoming video game adaptations proves that Hollywood's latest trend is here to stay."
         }
       ],
       "ok": true,
@@ -1636,6 +1636,20 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
+          "link": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
+          "date": "2026-11-01T13:44:34+00:00",
+          "image": "https://assetsio.gnwcdn.com/dune-awakening_eBRRA9O.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Funcom's survival MMO Dune: Awakening is heading north with a free expansion that trades the deserts of Arrakis for a frozen new map. Read more"
+        },
+        {
+          "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+          "link": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+          "date": "2026-11-01T10:04:13+00:00",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more"
+        },
         {
           "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
           "link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
@@ -1691,20 +1705,6 @@
           "date": "2026-10-31T08:00:00+00:00",
           "image": "https://assetsio.gnwcdn.com/tenebris-somnia-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Happy Halloween! Are you scared? I am: I'm in a theatre play that opens next week and we're not ready yet. I'm also off to a ghost stories evening at the theatre tonight; I've had…"
-        },
-        {
-          "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-          "link": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-          "date": "2026-10-30T19:55:21+00:00",
-          "image": "https://assetsio.gnwcdn.com/mina-treated.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower…"
-        },
-        {
-          "title": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
-          "link": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
-          "date": "2026-10-30T19:06:18+00:00",
-          "image": "https://assetsio.gnwcdn.com/wow-forever.png?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "After more than two decades dominating the PC MMO battlefield, it sounds like Blizzard Entertainment 's taking the idea of a World of Warcraft console port more seriously than…"
         }
       ],
       "ok": true,
@@ -1714,6 +1714,13 @@
       "name": "Kotaku",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
+          "link": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
+          "date": "2026-11-01T15:00:43+00:00",
+          "image": "https://kotaku.com/app/uploads/2026/11/F-Stop-Image-from-ToothpasteVixens-video-Valve-1280x720.jpg",
+          "summary": "Three separate Valve leaks have been combined a fully playable version of the cancelled 2007 game F-Stop"
+        },
         {
           "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
           "link": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
@@ -1776,13 +1783,6 @@
           "date": "2026-10-31T01:54:53+00:00",
           "image": "https://kotaku.com/app/uploads/2026/09/NS2_TheLegendofZeldaOcarina12-1280x720.jpg",
           "summary": "The retailer started canceling pre-orders a day before they were supposed to arrive"
-        },
-        {
-          "title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
-          "link": "https://kotaku.com/sam-altman-thinks-its-good-if-you-cant-afford-ram-for-your-pc-2000751732",
-          "date": "2026-10-30T22:30:03+00:00",
-          "image": "https://kotaku.com/app/uploads/2026/10/sam-alt-1280x717.jpg",
-          "summary": "The OpenAI boss wants all the RAM for himself, seriously"
         }
       ],
       "ok": true,
@@ -1792,6 +1792,13 @@
       "name": "Rock Paper Shotgun",
       "cat": "gaming",
       "items": [
+        {
+          "title": "The Sunday Papers",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-834",
+          "date": "2026-11-01T10:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sundays are for looking upon my DIY works and despairing. Strewn sawdust, spilled paint, and hunks of broken MDF litter my living room kingdom. When will it be over? When will I…"
+        },
         {
           "title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
           "link": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
@@ -1854,13 +1861,6 @@
           "date": "2026-10-30T12:58:41+00:00",
           "image": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. The…"
-        },
-        {
-          "title": "There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and \"projects you haven't heard about yet\"",
-          "link": "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
-          "date": "2026-10-30T11:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/assassins-creed-black-flag-resynced-update-disappearing-ships-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Ubisoft have announced that they aren't working on any more Assassin's Creed remakes for the moment, despite learning a \"tremendous amount\" from Assassin's Creed Black Flag…"
         }
       ],
       "ok": true,
@@ -2339,6 +2339,55 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
+          "link": "https://interestingengineering.com/military/air-defense-systems-trump-estate",
+          "date": "2026-11-01T15:51:08+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Two-Avengers-staying-afloat-on-the-shoreline-of-Mar-a-Lago-club-in-Palm-Beach-Florida-where-President-Donald-Trump-is-staying.jpg",
+          "summary": "Amid the heightened concerns about President Donald J. Trump&#8217;s safety, the U.S. Secret Service has..."
+        },
+        {
+          "title": "Sodium vs. lithium: Which battery technology will power the next decade",
+          "link": "https://interestingengineering.com/energy/sodium-ion-vs-lithium-ion-batteries-2026",
+          "date": "2026-11-01T15:50:32+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Lithium-ion-vs-Sodium-ion.jpg",
+          "summary": "Lithium-ion batteries have become the backbone of electric vehicles and energy storage. But a rival..."
+        },
+        {
+          "title": "66-million-year-old first fruit-eating dinosaur identified from 25-pound fossilized skull",
+          "link": "https://interestingengineering.com/science/66-million-year-old-first-fruit-eating-dinosaur",
+          "date": "2026-11-01T15:35:35+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/q-hr-qc4dz0.jpg",
+          "summary": "Paleontologists have discovered first fruit-eating dinosaurs, and they were &#8220;weirder&#8221; than they could have predicted...."
+        },
+        {
+          "title": "AI could turn China’s social credit system into a surveillance tool, study warns",
+          "link": "https://interestingengineering.com/ai-robotics/ai-china-social-credit-system-surveillance-tool",
+          "date": "2026-11-01T14:33:05+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/pvkwoklqpog.jpg",
+          "summary": "A Chinese study warns that introducing artificial intelligence (AI) into the nation&#8217;s existing social credit..."
+        },
+        {
+          "title": "Watch: YouTuber makes 3D-printed propane afterburner for electric fan, boosts thrust by 50%",
+          "link": "https://interestingengineering.com/innovation/youtuber-make-3d-printed-propane-afterburner",
+          "date": "2026-11-01T13:46:38+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/e1ukmoi9sqa.jpg",
+          "summary": "A YouTuber has created a functional homemade afterburner using mostly 3D-printed parts. He essentially took..."
+        },
+        {
+          "title": "China is planning to send AI and deep-sea robots on a hunt for its ancient past",
+          "link": "https://interestingengineering.com/culture/china-plan-ai-deep-sea-robots-archaeology",
+          "date": "2026-11-01T13:19:35+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/9_1muh_zzxq.jpg",
+          "summary": "Archaeology is usually about recovering pieces of the past. China, however, wants to do something..."
+        },
+        {
+          "title": "Harop-like loitering munition offers clues about North Korea’s future unmanned-aerial warfare",
+          "link": "https://interestingengineering.com/military/harop-like-loitering-munition-north-korea",
+          "date": "2026-11-01T13:03:06+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/A-representative-image-of-Kamikaze-drone.jpg",
+          "summary": "Harop-like kamikaze suicide drones capable of precision military strikes could soon become one of North..."
+        },
+        {
           "title": "Nearly half of 10 million ton food waste generated annually could help save environment",
           "link": "https://interestingengineering.com/health/food-waste-could-help-save-environment",
           "date": "2026-10-31T23:19:30+00:00",
@@ -2358,55 +2407,6 @@
           "date": "2026-10-31T18:44:26+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/5sd3jlljn9q.jpg",
           "summary": "Chinese researchers are testing whether focused ultrasound can help restore consciousness in patients with severe..."
-        },
-        {
-          "title": "A mathematical property gives quantum skyrmions an unexpected survival advantage",
-          "link": "https://interestingengineering.com/science/pattern-in-light-survives-broken-quantum-bond",
-          "date": "2026-10-31T16:50:03+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/pojcdply3wm.jpg",
-          "summary": "Quantum computers could become far more powerful if scientists could connect them through networks, allowing..."
-        },
-        {
-          "title": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
-          "link": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives",
-          "date": "2026-10-31T16:20:43+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Space-X-launch-1.jpg",
-          "summary": "SpaceX is targeting November 2026 for the 15th integrated flight test of its Starship rocket,..."
-        },
-        {
-          "title": "Farthest human-made object in space loses contact, goes nearly one light-day away from Earth",
-          "link": "https://interestingengineering.com/space/nasas-voyager-1-briefly-went-silent",
-          "date": "2026-10-31T15:56:36+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Voyager.jpg",
-          "summary": "NASA briefly lost contact with Voyager 1 in mid-October after the nearly 50-year-old spacecraft stopped..."
-        },
-        {
-          "title": "Aging warships to get Western eyes to improve naval gun targeting with modern tech",
-          "link": "https://interestingengineering.com/military/aging-warships-modern-targeting-tech-4million-upgrade",
-          "date": "2026-10-31T15:09:46+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/zxvgl3zf52k.jpg",
-          "summary": "The UK&#8217;s Chess Dynamics has landed a £3 million ($4 million) contract to supply its..."
-        },
-        {
-          "title": "Why can’t data centers simply move to the Arctic or beneath the ocean?",
-          "link": "https://interestingengineering.com/culture/why-arent-data-centers-built-in-arctic-underwater",
-          "date": "2026-10-31T15:04:39+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Underwater-Datacenter.jpg",
-          "summary": "Data centers have a rather inconvenient habit of getting hot. Thousands of processors crunching through..."
-        },
-        {
-          "title": "Kongsberg lands contract boost to expand underwater drone capabilities",
-          "link": "https://interestingengineering.com/military/kongsberg-us-navy-diu-underwater-drone-contract",
-          "date": "2026-10-31T14:38:31+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Kongsberg-1.jpg",
-          "summary": "Kongsberg Gruppen ASA will supply autonomous underwater vehicles and associated components under a $54 million..."
-        },
-        {
-          "title": "Fish switch leaders 2.8 times a second to stay in sync, reveals a virtual reality study",
-          "link": "https://interestingengineering.com/science/fish-switch-leaders-2-8-times-second-stay-sync",
-          "date": "2026-10-31T14:30:42+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/q-hr-qc4dz0_5cb187.jpg",
-          "summary": "Schooling fish switched the neighbor guiding their movements about 2.8 times a second in a..."
         }
       ],
       "ok": true,
@@ -2697,7 +2697,7 @@
           "link": "https://www.enr.com/articles/64114-developer-eni-awards-18b-in-gas-project-contracts-as-focus-shifts-to-mediterranean",
           "date": "2026-10-30T19:21:00+00:00",
           "image": "https://www.enr.com/ext/resources/2026/10/30/Cronos.webp?t=1793387478",
-          "summary": "McDermott, Baker Hughes, Halliburton are among firms set to gain work on the estimated $3B Cronos gas project getting underway off Cyprus, set to become a supplier to Egypt and…"
+          "summary": "US-based McDermott, Baker Hughes and Halliburton are among firms set to gain work on the estimated $3B Cronos gas project getting underway off Cyprus as a supplier to Egypt and…"
         },
         {
           "title": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout",
@@ -2707,11 +2707,11 @@
           "summary": "American Electric Power expects contracted electricity demand to reach 84 GW by 2031, with 92% tied to data centers, as major 765-kV projects move toward 2027 construction."
         },
         {
-          "title": "California High-Speed Rail CEO Resigns",
-          "link": "https://www.enr.com/articles/64123-california-high-speed-rail-ceo-resigns",
+          "title": "California High-Speed Rail Authority CEO Ian Choudri Resigns",
+          "link": "https://www.enr.com/articles/64123-california-high-speed-rail-authority-ceo-ian-choudri-resigns",
           "date": "2026-10-30T18:17:16+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/10/30/CAHSR.webp?t=1793390720",
-          "summary": "Choudri cites personal reasons amid a report alleging misuse of travel expenses."
+          "image": "https://www.enr.com/ext/resources/2026/10/30/CAHSR.webp?t=1793547531",
+          "summary": "Megaproject chief, who has led the agency since 2024, cites \"personal\" reasons amid a state report alleging misuse of consultants' travel expenses."
         },
         {
           "title": "Tools & Resources for Planning Your Safety Week",
