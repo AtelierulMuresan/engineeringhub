@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:28:20.097334+00:00",
+  "updated": "2026-11-07T15:30:02.342139+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -169,6 +169,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Weekend Drive: Blue tsunami sweeps across U.S. Will the industry need to recalibrate?",
+          "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-wd-blue-tsunami-election-1107/",
+          "date": "2026-11-07T11:00:00+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/eXLx3XPd9PdvPM0pTPQ3HOFWm-Q=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5TKX5VAEW5GSFN4LIQ3OGFD2XQ.jpg",
+          "summary": "Michael Martinez and Larry P. Vellequette break down Democrats’ midterm wins and what they mean for autos, Mercedes’ Alabama delay and Toyota’s leadership shake-up."
+        },
+        {
           "title": "First Shift: Audi Millburn named Best Dealership To Work For",
           "link": "https://www.autonews.com/video/first-shift-audi-millburn-named-best-dealership-to-work-for/",
           "date": "2026-11-06T21:01:56+00:00",
@@ -230,13 +237,6 @@
           "date": "2026-11-06T14:26:43+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/eFB8ziFOpCCfGfJVPwNqnnP7Whs=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/SV7F72OXPFGPRO4ERLX3CVFYUE.webp",
           "summary": "Democrats' midterm victory may give them new power to block President Donald Trump's nominees, investigate tariff orders and potentially revive the $7,500 EV tax credit."
-        },
-        {
-          "title": "Customer Incentives - 11/09/26",
-          "link": "https://www.autonews.com/data-center/sales-data/incentives/an-us-customer-incentives-110926/",
-          "date": "2026-11-06T14:20:28+00:00",
-          "image": null,
-          "summary": "National customer cash back and finance rate programs listed by automaker, brand and model; updated weekly"
         }
       ],
       "ok": true,
@@ -246,6 +246,13 @@
       "name": "InsideEVs",
       "cat": "automotive",
       "items": [
+        {
+          "title": "EV Buyers Could Foot The Bill For Saving Europe’s Carmakers",
+          "link": "https://insideevs.com/news/814749/europeans-pay-more-save-carmakers/",
+          "date": "2026-11-07T13:09:25+00:00",
+          "image": "https://cdn.motor1.com/images/mgl/4046pK/s3/gm-prismatic-lmr-battery-cell-2.jpg",
+          "summary": "A new report warns that Europe’s push for homegrown batteries could add €2,100 to an EV’s cost."
+        },
         {
           "title": "Toyota Quietly Gave The 2027 Toyota RAV4 PHEV A Big Upgrade",
           "link": "https://insideevs.com/news/814708/2027-toyota-rav4-nacs-port-fast-charging/",
@@ -308,13 +315,6 @@
           "date": "2026-11-05T18:37:21+00:00",
           "image": "https://cdn.motor1.com/images/mgl/9mWkkp/s3/tesla-roadster-barrel-roll.jpg",
           "summary": "Watch a POV video of the Roadster doing what it does best."
-        },
-        {
-          "title": "This Chinese EV Maker Wants To Put A Foot Bath In The Back Seat Of Your Car. Really",
-          "link": "https://insideevs.com/news/814572/deepal-ev-foot-bath-patent/",
-          "date": "2026-11-05T17:48:16+00:00",
-          "image": "https://cdn.motor1.com/images/mgl/YAbNkw/s3/deepal-foot-bath-patent.jpg",
-          "summary": "Move over Rolls-Royce, your Lambswool carpets aren't the ultimate in foot comfort anymore."
         }
       ],
       "ok": true,
@@ -415,7 +415,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "3D Printed Microneedles Meet Hanji in Breathable Patch for Drug Delivery and Uric Acid Sensing",
+          "link": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing",
+          "date": "2026-11-06T09:02:15+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A team at Jeonbuk National University (JBNU) has built a wearable patch on traditional Korean mulberry paper (hanji). It carries 3D printed microneedles for drug delivery and…"
+        },
+        {
+          "title": "Pulsed Arc 3D Printing Produces Meter-Tall Titanium Single Crystals",
+          "link": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/?utm_source=rss&utm_medium=rss&utm_campaign=pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals",
+          "date": "2026-11-06T09:01:25+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "A group of researchers from institutions in China and the United States has 3D printed titanium alloy single crystals that reach a meter in height. Large single crystals have…"
+        },
+        {
+          "title": "restor3d Moves Velora Hip Cup to Full Commercial Release and Completes First Identity KA Knee Cases",
+          "link": "https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256/?utm_source=rss&utm_medium=rss&utm_campaign=restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases",
+          "date": "2026-11-06T09:00:55+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "US orthopedic company restor3d is putting its Velora Acetabular System into full commercial release this month. Velora is a 3D printed titanium hip cup that has finished its…"
+        },
+        {
+          "title": "From Foot Scan to Sandal: Arkema and Carbon Expand Collaboration on 3D Printed Elastomers",
+          "link": "https://3dprintingindustry.com/news/from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers-256259/?utm_source=rss&utm_medium=rss&utm_campaign=from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers",
+          "date": "2026-11-06T09:00:26+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Chemical company Arkema and 3D printer manufacturer Carbon have strengthened a collaboration that now spans more than 13 years. They are pitching their combined materials and…"
+        },
+        {
+          "title": "HP and Hyperion Partner on 3D Printed Tungsten Carbide Production with Metal Jet",
+          "link": "https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246/?utm_source=rss&utm_medium=rss&utm_campaign=hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet",
+          "date": "2026-11-06T08:58:09+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "HP Additive Manufacturing and Hyperion Materials &#38; Technologies have signed a Strategic Preferred Partner Agreement to bring tungsten carbide (WC) additive manufacturing (AM)…"
+        },
+        {
+          "title": "Machine Learning Predicts Wire Arc 3D Printed Aluminum Strength",
+          "link": "https://3dprintingindustry.com/news/machine-learning-predicts-wire-arc-3d-printed-aluminum-strength-256249/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-predicts-wire-arc-3d-printed-aluminum-strength",
+          "date": "2026-11-06T08:57:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Wire arc additive manufacturing (WAAM) has become an important metal additive manufacturing (metal AM) method for large structural parts, offering fast deposition, efficient…"
+        },
+        {
+          "title": "Phase3D introduces next-generation Fringe Inspection hardware for LPBF 3D printing",
+          "link": "https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing",
+          "date": "2026-11-05T11:16:32+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Chicago-based additive manufacturing inspection technology developer Phase3D has introduced a new generation of its Fringe Inspection platform, featuring purpose-built hardware…"
+        },
+        {
+          "title": "Tripo AI Launches Agentic Canvas, an AI Agent That Builds Reusable 3D Model Workflows for 3D Printing and Games",
+          "link": "https://3dprintingindustry.com/news/tripo-ai-launches-agentic-canvas-an-ai-agent-that-builds-reusable-3d-model-workflows-for-3d-printing-and-games-256234/?utm_source=rss&utm_medium=rss&utm_campaign=tripo-ai-launches-agentic-canvas-an-ai-agent-that-builds-reusable-3d-model-workflows-for-3d-printing-and-games",
+          "date": "2026-11-05T11:15:24+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Tripo AI has released Tripo Agentic Canvas, an AI agent that assembles 3D production steps into node-based workflows users can view, modify, and apply to multiple assets. The…"
+        },
+        {
+          "title": "What to see at Formnext 2026: a guide to featured exhibitors",
+          "link": "https://3dprintingindustry.com/news/what-to-see-at-formnext-2026-a-guide-to-featured-exhibitors-2-256226/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-see-at-formnext-2026-a-guide-to-featured-exhibitors-2",
+          "date": "2026-11-04T17:55:29+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Formnext 2026 takes place at Messe Frankfurt, Germany, from 17–20 November. This guide brings together featured exhibitors covering industrial polymer and metal 3D printing,…"
+        },
+        {
+          "title": "Voting opens for the 2026 3D Printing Industry Awards: Meet this year’s nominees",
+          "link": "https://3dprintingindustry.com/news/voting-opens-for-the-2026-3d-printing-industry-awards-meet-this-years-nominees-256219/?utm_source=rss&utm_medium=rss&utm_campaign=voting-opens-for-the-2026-3d-printing-industry-awards-meet-this-years-nominees",
+          "date": "2026-11-04T09:41:44+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Voting opens for the 2026 3D Printing Industry Awards: Meet this year’s nominees The finalists for the 2026 3D Printing Industry Awards have been announced, and voting is now…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -821,7 +892,28 @@
       "cat": "space",
       "items": [
         {
-          "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+          "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+          "date": "2026-11-07T15:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/4TsvmNPsG8o4nXmHcQLzbX-1920-80.jpg",
+          "summary": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan."
+        },
+        {
+          "title": "Star Wars is experiencing a golden age of video games",
+          "link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+          "date": "2026-11-07T13:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/2mBxyAdP8FEoQwDfPuQ728-1920-80.jpg",
+          "summary": "The movies might be struggling to recapture the magic, but Star Wars video games are strong with the Force."
+        },
+        {
+          "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
+          "link": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+          "date": "2026-11-07T11:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
+          "summary": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency."
+        },
+        {
+          "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
           "date": "2026-11-07T01:41:58+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
@@ -868,27 +960,6 @@
           "date": "2026-11-06T18:00:00+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/duoP5jTBba4quRcKTuY2Yd-1920-80.jpg",
           "summary": "The Andromeda galaxy is one of the most distant things you can see with the naked eye. The difficult part isn't finding it. It's believing that faint smudge really is another…"
-        },
-        {
-          "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
-          "link": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
-          "date": "2026-11-06T17:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-1920-80.png",
-          "summary": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness."
-        },
-        {
-          "title": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
-          "link": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
-          "date": "2026-11-06T15:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/XzwAXoLgWNRFQYjCaDCG9A-1920-80.jpg",
-          "summary": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity."
-        },
-        {
-          "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
-          "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
-          "date": "2026-11-06T14:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/QsQGiFTdPubnsXBZpoambP-1920-80.jpg",
-          "summary": "How to watch \"Musk\", the new documentary about the World's richest man and CEO of X, SpaceX and Tesla. Cheapest options, where to watch in US, UK, Canada, Australia and beyond."
         }
       ],
       "ok": true,
@@ -1133,6 +1204,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+          "link": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+          "date": "2026-11-07T08:47:00+00:00",
+          "image": "https://www.universetoday.com/article_images/Comet_2021_A1_Leonard_20261107_091553.jpg",
+          "summary": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities…"
+        },
+        {
           "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
           "link": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
           "date": "2026-11-06T20:34:10+00:00",
@@ -1194,13 +1272,6 @@
           "date": "2026-11-04T21:29:00+00:00",
           "image": "https://www.universetoday.com/article_images/Screenshot_2026-11-04_at_12-14-25_Development_work_for_Chinas_lunar_landing_advances_steadily_-_YouTube_20261104_191536.png",
           "summary": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official…"
-        },
-        {
-          "title": "Game Theory Helps SETI Search for Alien Civilizations",
-          "link": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations",
-          "date": "2026-11-04T20:50:16+00:00",
-          "image": "https://www.universetoday.com/article_images/mg_1479_1024_20261104_164638.jpg",
-          "summary": "SETI can be more effective the more the targets in the search are refined. SETI's newest survey effort uses game theory to inform its search. It's based on the idea that other…"
         }
       ],
       "ok": true,
@@ -1332,6 +1403,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+          "link": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+          "date": "2026-11-07T14:00:02+00:00",
+          "image": null,
+          "summary": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to…"
+        },
+        {
+          "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
+          "link": "https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html",
+          "date": "2026-11-07T11:20:01+00:00",
+          "image": null,
+          "summary": "A Pakistani astronaut will join the crew of China's Shenzhou 24 spacecraft on a mission that would make him the first foreign national to board Beijing's space station, state…"
+        },
+        {
           "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
           "link": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
           "date": "2026-11-07T00:20:01+00:00",
@@ -1386,20 +1471,6 @@
           "date": "2026-11-05T20:00:09+00:00",
           "image": null,
           "summary": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer Charles…"
-        },
-        {
-          "title": "NASA's Swift telescope has burned up, months after a robot sent to save it failed",
-          "link": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
-          "date": "2026-11-05T15:40:14+00:00",
-          "image": null,
-          "summary": "NASA's Neil Gehrels Swift Observatory took its last look at the sky on Oct. 20, 2026, while orbiting about 171 miles (275 kilometers) above Earth. NASA ended the telescope's…"
-        },
-        {
-          "title": "Earth's slowing spin may have shaped its primordial crust",
-          "link": "https://phys.org/news/2026-11-earth-primordial-crust.html",
-          "date": "2026-11-05T15:20:06+00:00",
-          "image": null,
-          "summary": "Around 4.5 billion years ago, a planet-sized object collided with the newly formed Earth, throwing out the debris that would later form the moon. The collision left Earth spinning…"
         }
       ],
       "ok": true,
@@ -1495,74 +1566,74 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
+          "link": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
+          "date": "2026-11-07T15:25:08+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_scenic_announce_race_class_newcombos_054.png",
+          "summary": "World of Warcraft got a whole lot of people to come back and play the MMO together"
+        },
+        {
+          "title": "One Of Hollywood's Biggest Stars Just Auditioned For James Bond",
+          "link": "https://www.polygon.com/james-bond-robert-pattinson/",
+          "date": "2026-11-07T14:51:43+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/007-first-light-ending-header.jpg",
+          "summary": "Robert Pattinson might be our next James Bond, according to new reports about the next James Bond film"
+        },
+        {
+          "title": "Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix",
+          "link": "https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/",
+          "date": "2026-11-07T13:16:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/msdalie_ec009_h.jpg",
+          "summary": "Alien and Aliens are leaving Netflix on Dec. 1, giving subscribers limited time to stream Ridley Scott’s sci-fi classics."
+        },
+        {
+          "title": "10 Funniest 'Far Side' Comics About Cows",
+          "link": "https://www.polygon.com/funniest-far-side-comics-cows/",
+          "date": "2026-11-07T12:14:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-19-at-2-17-15-pm.jpg",
+          "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples"
+        },
+        {
+          "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+          "link": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
+          "date": "2026-11-07T12:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mass-effect-geth.jpg",
+          "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better"
+        },
+        {
+          "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+          "link": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+          "date": "2026-11-07T11:30:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/sydney_sweeney.jpg",
+          "summary": "Robots (not) in disguise."
+        },
+        {
+          "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke",
+          "link": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
+          "date": "2026-11-07T11:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/he-s-dead-jim-art-star-trek-114-2c309b0d-94b4-405e-be6c-18b407323e51-art.jpg",
+          "summary": "Lots of Redshirts are going to die"
+        },
+        {
+          "title": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
+          "link": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
+          "date": "2026-11-07T09:04:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/john-stewart-aaron-pierre-looks-down-at-the-green-lantern-ring-he-is-wearing-in-lanterns.jpg",
+          "summary": "In brightest day, in blackest night, find your next binge watch tonight"
+        },
+        {
+          "title": "38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure",
+          "link": "https://www.polygon.com/uncle-max-calvin-hobbes/",
+          "date": "2026-11-07T09:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/calvin-and-hobbes-yukon-ho.jpg",
+          "summary": "Uncle Max died on his way back to his home planet"
+        },
+        {
           "title": "The 8 Best Castlevania Games Of All Time, Ranked",
           "link": "https://www.polygon.com/best-castlevania-games/",
           "date": "2026-11-07T03:52:17+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/castlevania-dracula-adaptations-bram-stoker.jpg",
           "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever."
-        },
-        {
-          "title": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
-          "link": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
-          "date": "2026-11-07T03:29:33+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13148759/jbareham_180924_ply0802_0029.jpg",
-          "summary": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service."
-        },
-        {
-          "title": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
-          "link": "https://www.polygon.com/game-cancellations/",
-          "date": "2026-11-07T03:03:27+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4339737/star_wars_1313.0.jpg",
-          "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise."
-        },
-        {
-          "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
-          "link": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
-          "date": "2026-11-07T02:43:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/ananta-1.jpg",
-          "summary": "Ananta, the \"anime GTA\" game from NetEase, has an early 2027 release date, steering clear of Rockstar Games' Grand Theft Auto 6."
-        },
-        {
-          "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
-          "link": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
-          "date": "2026-11-07T01:30:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24783115/rev_1_BAR_TT3_0104_High_Res_JPEG.jpeg",
-          "summary": "Ryan Gosling and Warner Bros are developing live-action Flintstones reboot about Bamm-Bamm"
-        },
-        {
-          "title": "Every GTA Game, Ranked by Metacritic Score",
-          "link": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
-          "date": "2026-11-07T00:30:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-5-gta-key-art.jpg",
-          "summary": "With plenty of Grand Theft Auto games earning Metacritic scores in the high 90s, GTA 6 has an exceptionally high bar to meet."
-        },
-        {
-          "title": "All Happy Mask Shop buyer locations in Zelda Ocarina of Time",
-          "link": "https://www.polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood/",
-          "date": "2026-11-06T22:38:46+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-happy-mask-shop-quest.jpg",
-          "summary": "This guide walks you through each step of Ocarina of Time's Happy Mask Shop quest, including who gets the Spooky Mask, Skull Mask, and Bunny Hood"
-        },
-        {
-          "title": "Where to get Epona in Ocarina of Time",
-          "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-epona-horse-how-to-get/",
-          "date": "2026-11-06T22:13:04+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/epona-2_oot.jpg",
-          "summary": "Epona is your horse in Ocarina of Time, but they're only available after you get a bit older. Here's where you can find Epona, and how to unlock her."
-        },
-        {
-          "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and Peacock (November 6 - 8)",
-          "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-6-8/",
-          "date": "2026-11-06T22:00:17+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdcaca_gi011.jpg",
-          "summary": "On this weekend's movie column, there's a Bonnie and Clyde-like action thriller, a documentary, and much more."
-        },
-        {
-          "title": "All Big Poe locations in Zelda Ocarina of Time",
-          "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-big-poe-locations-rewards/",
-          "date": "2026-11-06T21:46:08+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/big-poe_oot.jpg",
-          "summary": "Big Poes are ghosts that you can collect and sell in Ocarina of Time. Here's where to find them and every reward you'll receive for turning them in."
         }
       ],
       "ok": true,
@@ -1572,6 +1643,13 @@
       "name": "Eurogamer",
       "cat": "gaming",
       "items": [
+        {
+          "title": "Xbox is testing a way to use your phone as a controller on smart TVs",
+          "link": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+          "date": "2026-11-07T12:30:10+00:00",
+          "image": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more"
+        },
         {
           "title": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
           "link": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
@@ -1634,13 +1712,6 @@
           "date": "2026-11-06T12:02:40+00:00",
           "image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC…"
-        },
-        {
-          "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
-          "link": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-          "date": "2026-11-06T10:15:20+00:00",
-          "image": "https://assetsio.gnwcdn.com/Thane-SHODAN.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "It's only been two weeks since we last heard Warren Spector sound off about EA's sudden decision to close BioWare , following the publisher's acquisition by Saudi Arabia's PIF and…"
         }
       ],
       "ok": true,
@@ -1807,6 +1878,41 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+          "link": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+          "date": "2026-11-07T15:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/eyYchBd274FJCGzgDdyxyT-1920-80.jpg",
+          "summary": "I recommend openSUSE Tumbleweed, personally."
+        },
+        {
+          "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
+          "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
+          "date": "2026-11-07T15:00:00+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/VuYAMFPN58skETzPcrxBkY-1920-80.jpg",
+          "summary": "Hulick also revealed that he was asked by BioWare to score an internal demo for Mass Effect: Universe—but work was cut short by the studio's closure."
+        },
+        {
+          "title": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
+          "link": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
+          "date": "2026-11-07T14:16:28+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/LydYnCg8ohLE9dfDQjRkYm-1920-80.jpg",
+          "summary": "Howard is \"very good at putting himself in the seat of your typical player\" says Bruce Nesmith."
+        },
+        {
+          "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+          "link": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+          "date": "2026-11-07T12:18:55+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/QzGk2ZJyUzdTRQXxUM2RhW-1920-80.png",
+          "summary": "\"While it stings, I'm really proud of what we built together.\""
+        },
+        {
+          "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+          "link": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+          "date": "2026-11-07T11:15:54+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/k598NBBJiCSKJrL33QJRvC-1920-80.jpg",
+          "summary": "Square Enix is 'working to resolve the issue'."
+        },
+        {
           "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
           "link": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
           "date": "2026-11-06T23:36:21+00:00",
@@ -1840,41 +1946,6 @@
           "date": "2026-11-06T21:14:51+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/t6zfrRCc3rr5uWAxv7RJLg-1920-80.jpg",
           "summary": "Queen's Domain might be the trendy game of the moment but for my money, the classic grid-based action of Underkeep is where it's at. (And yes, there's a demo.)"
-        },
-        {
-          "title": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
-          "link": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
-          "date": "2026-11-06T21:06:01+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/guRENWiogEnRFh78VTeCuG-1920-80.jpg",
-          "summary": "Bence \"Beedyboy\" Hamos reflects on 8 years at Crytek helping build Hunt: Showdown's community."
-        },
-        {
-          "title": "It's hard to meet women when I keep teleporting all the time",
-          "link": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
-          "date": "2026-11-06T18:00:00+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/5ofbJXFyWF5y96rwN7g8RM-1920-80.jpg",
-          "summary": "This is why there's a male loneliness epidemic."
-        },
-        {
-          "title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
-          "link": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
-          "date": "2026-11-06T17:31:29+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/FzqWo3fsvLDFRpTumixHaY-1920-80.jpg",
-          "summary": "Eeeeeeeeeeeeeep. Thankfully there's already a fix out."
-        },
-        {
-          "title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
-          "link": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-          "date": "2026-11-06T16:14:55+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/r4shVaCZRmckKRV5h4T9dc-1920-80.jpg",
-          "summary": "I wouldn't be ordering food for the resurrection party just yet, but the petition has enough signatures to at least oblige a response."
-        },
-        {
-          "title": "Epomaker HE75 V2 TMR review",
-          "link": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-          "date": "2026-11-06T15:58:29+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/DZmhCPFJWSinTGsEejYTQK-1920-80.jpg",
-          "summary": "Mid-range, mighty, and mini."
         }
       ],
       "ok": true,
@@ -2275,74 +2346,74 @@
       "cat": "engineering",
       "items": [
         {
-          "title": "Fluoride-ion battery cells pass 50-plus cycles with new non-flammable membrane",
-          "link": "https://interestingengineering.com/energy/polymer-membrane-room-temperature-fluoride-ion-batteries",
-          "date": "2026-11-07T03:27:37+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/battery.jpg",
-          "summary": "Researchers in Italy have developed a polymer membrane that allows fluoride ions to move through..."
+          "title": "30,000-foot-high supersonic rocket flight captures parachute opening with selfie camera",
+          "link": "https://interestingengineering.com/innovation/supersonic-rocket-captures-parachute-deployment",
+          "date": "2026-11-07T14:39:14+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/BPS-rocket-launch-with-parachutes.-Representational-Image.jpg",
+          "summary": "A self-taught rocketry enthusiast and YouTuber, Joe Barnard, posted a video on his YouTube channel..."
         },
         {
-          "title": "Can Claude dream now? Anthropic’s latest experiment gets eerily close to human thinking",
-          "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-dreaming-memory-research",
-          "date": "2026-11-07T03:21:36+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-25T000909.910.jpg",
-          "summary": "Science fiction has long imagined machines that think, learn, and perhaps even dream. Anthropic is..."
+          "title": "A ‘one-off fluke’ at best: Why comets are unlikely source of life’s origin on Earth",
+          "link": "https://interestingengineering.com/space/comets-unlikely-seeded-life",
+          "date": "2026-11-07T14:34:36+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/cometary-impact.jpg",
+          "summary": "A new Cambridge-led study challenges a century-old idea that comets seeded Earth with the molecular..."
         },
         {
-          "title": "IBM brings its most advanced quantum computer to Chicago as Illinois hub takes shape",
-          "link": "https://interestingengineering.com/science/ibm-quantum-system-two-chicago-illinois-research-hub",
-          "date": "2026-11-07T02:13:43+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/quantum-computers.jpg",
-          "summary": "IBM has brought its most advanced quantum computer to Chicago, giving researchers and businesses in..."
+          "title": "Scientists discover hidden barrier that protects fruit flies from rising heat",
+          "link": "https://interestingengineering.com/science/scientists-uncover-fruit-flies-survive-dehydration",
+          "date": "2026-11-07T14:27:56+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/natureinfocus-fruit-fly-9009828_1920-1.png",
+          "summary": "As temperatures rise across the globe, scientists have identified a specialized lipid barrier that protects..."
         },
         {
-          "title": "Major quantum computing conjecture solved in three days after 18 years of uncertainty",
-          "link": "https://interestingengineering.com/culture/psi-research-system-aaronson-ambainis-quantum-conjecture",
-          "date": "2026-11-07T02:09:08+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/GettyImages-1063746216.jpg",
-          "summary": "An 18-year-old mathematical problem concerning the limits of quantum computing may finally have been solved..."
+          "title": "China’s S4000 airborne wind system reaches 2.5 miles in high-altitude tests",
+          "link": "https://interestingengineering.com/energy/chinas-s4000-airborne-system-reaches-2-5-miles",
+          "date": "2026-11-07T13:16:38+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/vrfqtoshntq.jpg",
+          "summary": "A Chinese energy technology company has demonstrated an airborne wind power system designed to generate..."
         },
         {
-          "title": "SpaceX launches classified US military mission, Falcon 9 booster nails eighth landing",
-          "link": "https://interestingengineering.com/space/spacex-launches-classified-ussf-432-mission",
-          "date": "2026-11-07T01:36:02+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design.png",
-          "summary": "SpaceX has completed another national security launch for the U.S. military, sending its Falcon 9..."
+          "title": "China space station sets new record, cools atoms to 9.7 picokelvin, could help new experiments",
+          "link": "https://interestingengineering.com/space/china-sets-9-7-picokelvin-record-ultracold-atoms-orbit",
+          "date": "2026-11-07T12:48:30+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Tiangong-space-station.jpg",
+          "summary": "A cloud of rubidium atoms was tracked for seven seconds after researchers released it from..."
         },
         {
-          "title": "Elon Musk teases SpaceX’s orbital supercomputers, says it will ‘blow people’s minds’",
-          "link": "https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers",
-          "date": "2026-11-07T01:24:46+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design-2026-11-07T061941.578.jpg",
-          "summary": "Elon Musk is preparing to take high-performance computing beyond Earth&#8217;s atmosphere. SpaceX plans to begin..."
+          "title": "US ally’s newest submarine sinks a patrol ship with one torpedo strike in Atlantic drill",
+          "link": "https://interestingengineering.com/military/us-ally-submarine-sink-ship-torpedo-strike",
+          "date": "2026-11-07T12:39:35+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Spanish-Navy.jpg",
+          "summary": "A submarine can deliver a devastating strike without ever revealing its position. Spain&#8217;s newest submarine,..."
         },
         {
-          "title": "New hybrid amphibious aircraft unveiled, could carry 2,000-pound payload over 1,000 nautical miles",
-          "link": "https://interestingengineering.com/transportation/hybrid-amphibious-aircraft-unveiled",
-          "date": "2026-11-07T01:16:53+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/hybrid-aircraft.jpg",
-          "summary": "A Florida-based company has unveiled a hybrid amphibious aircraft. Developed by Maxwell Aircraft, the patent-pending..."
+          "title": "US scientists find domains under 1 nm² that could help shrink chip memory",
+          "link": "https://interestingengineering.com/innovation/us-researchers-map-domains-under-1-nm-for-denser-memory",
+          "date": "2026-11-07T12:19:15+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/chip-memory.jpg",
+          "summary": "An electrical domain with an area smaller than 1 nm² could offer a clue to..."
         },
         {
-          "title": "US starts production of key material used in nuclear weapons, set to modernize stockpile",
-          "link": "https://interestingengineering.com/military/us-starts-nuclear-material-production",
-          "date": "2026-11-06T23:45:58+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/nuclear-attack.jpg",
-          "summary": "The United States has restored its significant nuclear weapons manufacturing capability. The country has recently..."
+          "title": "22-year run ends: NASA’s 3,200-pound Swift telescope crashes back to Earth after failed rescue",
+          "link": "https://interestingengineering.com/space/nasas-swift-tracked-over-2000-gamma-ray-bursts-before-it-fell-to-earth",
+          "date": "2026-11-07T12:16:20+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/NASAs-Neil-Gehrels-Swift-Observatory.jpg",
+          "summary": "NASA’s Swift space telescope has fallen back to Earth, ending a 22-year mission that was..."
         },
         {
-          "title": "1,600x faster: Google DeepMind agents expose weaknesses in older encryption methods",
-          "link": "https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws",
-          "date": "2026-11-06T22:21:50+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Logo-onf-Google-DeepMind-on-a-tablet.jpg",
-          "summary": "Google DeepMind researchers have used AI agents to discover cryptographic techniques that expose weaknesses in..."
+          "title": "World’s first 200 mm single-crystal diamond grown in US, can boost next-gen chips",
+          "link": "https://interestingengineering.com/innovation/diamond-foundry-grows-200mm-diamond-chips",
+          "date": "2026-11-07T12:02:59+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Diamond-lolol.jpg",
+          "summary": "Diamond Foundry says it has produced the world&#8217;s first 200-millimeter (7.9-inch) single-crystal diamond, a development..."
         },
         {
-          "title": "Cybertruck final countdown: Tesla plans to wind down pickup production in 2027",
-          "link": "https://interestingengineering.com/transportation/tesla-cybertruck-production-wind-down-cybercab",
-          "date": "2026-11-06T20:54:44+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/cybertruck.jpg",
-          "summary": "Tesla will wind down Cybertruck production at its Texas Gigafactory around mid-2027 to make room..."
+          "title": "How nuclear rockets offer NASA a high-speed pathway into deep space",
+          "link": "https://interestingengineering.com/space/nuclear-rockets-offer-nasa-high-speed",
+          "date": "2026-11-07T11:52:56+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/IE-94.jpg",
+          "summary": "Someone has to dream big and take that bold step to reach for the stars..."
         }
       ],
       "ok": true,
@@ -2523,6 +2594,20 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "date": "2026-11-07T12:15:55+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-500x500.jpg",
+          "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
+        },
+        {
+          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+          "date": "2026-11-07T11:00:34+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-500x500.jpg",
+          "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
+        },
+        {
           "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
           "date": "2026-11-06T23:09:45+00:00",
@@ -2577,20 +2662,6 @@
           "date": "2026-11-06T19:12:28+00:00",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sean-duffy-faa-tech-500x500-1793989945.jpg",
           "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028."
-        },
-        {
-          "title": "The folks behind John Wick are back with Karōshi trailer",
-          "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-          "date": "2026-11-06T18:30:19+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-500x500.png",
-          "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller."
-        },
-        {
-          "title": "You know the launch market is tough when satellite companies start building rockets",
-          "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-          "date": "2026-11-06T18:20:47+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-500x500.jpg",
-          "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\""
         }
       ],
       "ok": true,
@@ -2646,7 +2717,7 @@
           "title": "Data Centers Look to Aluminum-Air Batteries as Potential Backup Power Source",
           "link": "https://www.enr.com/articles/64218-data-centers-look-to-aluminum-air-batteries-as-potential-back-up-power-source",
           "date": "2026-11-06T19:59:56+00:00",
-          "image": "https://www.enr.com/ext/resources/2026/11/06/PhinergAluminumAir.webp?t=1793999743",
+          "image": "https://www.enr.com/ext/resources/2026/11/06/PhinergAluminumAir.webp?t=1794062710",
           "summary": "Data center hyperscale builders are investing in alternative power sources for data center power, and are testing them out at a new innovation hub in Wisconsin."
         },
         {
