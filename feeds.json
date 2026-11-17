@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T00:01:36.671181+00:00",
+  "updated": "2026-11-17T08:52:33.744179+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -91,6 +91,13 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Ford offers Rangers and F-Series to Japanese defence fleets",
+          "link": "https://www.automotiveworld.com/news/ford-offers-rangers-and-f-series-to-japanese-defence-fleets/",
+          "date": "2026-11-17T08:40:33+00:00",
+          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
+          "summary": "Ford's export arm has appointed Space Factory to supply Rangers, F-Series and Transits to Japanese government and aid fleets The post Ford offers Rangers and F-Series to Japanese…"
+        },
+        {
           "title": "Citroën ë-C3 rises from eighth to first in German EV sales",
           "link": "https://www.automotiveworld.com/news/citroen-e-c3-rises-from-eighth-to-first-in-german-ev-sales/",
           "date": "2026-11-16T21:17:20+00:00",
@@ -152,13 +159,6 @@
           "date": "2026-11-16T15:07:06+00:00",
           "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
           "summary": "Your weekly roundup of the key developments shaping automotive software, electronics, and software-defined vehicles. The post Software-Defined Vehicle Newsletter – November 16,…"
-        },
-        {
-          "title": "China Automotive Newsletter – November 16, 2026",
-          "link": "https://www.automotiveworld.com/newsletters/china-automotive-newsletter-november-16-2026/",
-          "date": "2026-11-16T14:51:33+00:00",
-          "image": "https://www.automotiveworld.com/app/uploads/2024/04/cropped-cropped-aw-favicon-18-32x32.png",
-          "summary": "Your weekly roundup of the key developments shaping China’s automotive industry. Part of the Automotive World Intelligence Feed. The post China Automotive Newsletter – November…"
         }
       ],
       "ok": true,
@@ -168,6 +168,20 @@
       "name": "Automotive News Europe",
       "cat": "automotive",
       "items": [
+        {
+          "title": "Renault to add 2,000 roles for EV production, cut up to 1,000 white-collar jobs",
+          "link": "https://www.autonews.com/renault/ane-renault-ev-jobs-cuts-office-jobs-1117/",
+          "date": "2026-11-17T08:09:57+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/G1gmSJpMBB2_SiXyyp2nG37R6R4=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/4TZWAE6SQVDHXHZ2OTXOMCLICY.png",
+          "summary": "Renault will hire 2,000 workers at French plants by 2028 to meet rising EV demand while cutting up to 1,000 white-collar jobs through voluntary departures, pending union agreement."
+        },
+        {
+          "title": "Retail on the Record: Chuck Kramer, owner of Kramer Automotive",
+          "link": "https://www.autonews.com/video/retail-on-the-record-chuck-kramer-owner-of-kramer-automotive/",
+          "date": "2026-11-17T05:26:15+00:00",
+          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/42JhLO6cehZE-mNTm5V5Q0JofL8=/0x800/d3qtc8km8dvw1x.cloudfront.net/11-17-2026/t_37de30c53ca2458594ede940313baf30_name_ROTR_Kramer_widescreen.png",
+          "summary": "Chuck Kramer is owner of Kramer Automotive in Livingston, Texas."
+        },
         {
           "title": "First Shift: BYD sets production-car speed record",
           "link": "https://www.autonews.com/video/first-shift-byd-sets-production-car-speed-record/",
@@ -222,21 +236,7 @@
           "link": "https://www.autonews.com/tesla/ane-tesla-to-build-cybercab-in-germany-116/",
           "date": "2026-11-16T17:09:56+00:00",
           "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/WgrqLnBXgNLhXQQXCFUuU69ez7o=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/WY6SRY7GIRG73JUXFCG4UH5TFE.jpg",
-          "summary": "Tesla's planned expansion would add a new production facility for its driverless Cybercab, even as other German automakers weigh closing factories amid high costs."
-        },
-        {
-          "title": "Toyota reshapes next-generation midengine sports car as sleek coupe while Celica mystery deepens",
-          "link": "https://www.autonews.com/toyota/an-toyota-celica-yaris-midship-sports-car-1116/",
-          "date": "2026-11-16T16:34:47+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/oczUxaKfpWyjUlLzfs9b3Pj9EH0=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/5ATXYRT255G3LBAYO2TNJGRAZM.jpeg",
-          "summary": "Toyota’s next-generation midengine sports car takes shape at Fuji Speedway as the GR Yaris M Concept sheds its hatchback shape for a coupe body."
-        },
-        {
-          "title": "2027 Munich auto show will feature 18 Chinese brands, as well as BMW, Mercedes and VW",
-          "link": "https://www.autonews.com/manufacturing/automakers/ane-munich-iaa-2027-1116/",
-          "date": "2026-11-16T15:34:29+00:00",
-          "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/kdy1r2v8yxz1uhz3FQBXIZux324=/0x800/cloudfront-us-east-1.images.arcpublishing.com/crain/NW32ZY5MY5E33ESORGXWSE3PJY.jpg",
-          "summary": "Geely, Xiaomi and Zeekr are among Chinese brands signed up for the event, underscoring Europe's growing importance in their expansion plans."
+          "summary": "Tesla's planned expansion would add a new production facility for its driverless Cybercab, even as other VW and Mercedes weigh closing factories amid high costs."
         }
       ],
       "ok": true,
@@ -417,6 +417,27 @@
       "cat": "automotive",
       "items": [
         {
+          "title": "Continuum Launches Argos Atomizer at Formnext: Half a Megawatt, Four Tons of Powder a Day",
+          "link": "https://3dprintingindustry.com/news/continuum-launches-argos-atomizer-at-formnext-half-a-megawatt-four-tons-of-powder-a-day-256430/?utm_source=rss&utm_medium=rss&utm_campaign=continuum-launches-argos-atomizer-at-formnext-half-a-megawatt-four-tons-of-powder-a-day",
+          "date": "2026-11-17T08:00:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Continuum Powders has unveiled Argos at Formnext 2026 in Frankfurt, where it is on show at booth A55 in Hall 11.0. The new melt-to-powder (M2P) atomization platform is designed to…"
+        },
+        {
+          "title": "Axtra3D Secures UL Blue Card for Flame-Retardant Resin on Lumia X1, Expands Production Ecosystem at Formnext 2026",
+          "link": "https://3dprintingindustry.com/news/axtra3d-secures-ul-blue-card-for-flame-retardant-resin-on-lumia-x1-expands-production-ecosystem-at-formnext-2026-256516/?utm_source=rss&utm_medium=rss&utm_campaign=axtra3d-secures-ul-blue-card-for-flame-retardant-resin-on-lumia-x1-expands-production-ecosystem-at-formnext-2026",
+          "date": "2026-11-17T07:17:23+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Hi-Speed SLA specialist Axtra3D is heading to Formnext 2026 with three announcements that extend its Axtra Workflow production environment around the Lumia X1. The first two are…"
+        },
+        {
+          "title": "DyeMansion launches €14K Powershot Go post-processing system at Formnext",
+          "link": "https://3dprintingindustry.com/news/dyemansion-launches-e14k-powershot-go-post-processing-system-at-formnext-256772/?utm_source=rss&utm_medium=rss&utm_campaign=dyemansion-launches-e14k-powershot-go-post-processing-system-at-formnext",
+          "date": "2026-11-17T06:26:18+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Polymer post-processing specialist DyeMansion has launched the Powershot Go, a compact system combining depowdering and mechanical surface finishing in a single machine. Developed…"
+        },
+        {
           "title": "Formnext 2026: UK Additive Manufacturing:  Britain invented the future of manufacturing. Why does it struggle to manufacture it?",
           "link": "https://3dprintingindustry.com/news/formnext-2026-uk-additive-manufacturing-britain-invented-the-future-of-manufacturing-why-does-it-struggle-to-manufacture-it-256787/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-2026-uk-additive-manufacturing-britain-invented-the-future-of-manufacturing-why-does-it-struggle-to-manufacture-it",
           "date": "2026-11-16T17:39:10+00:00",
@@ -464,27 +485,6 @@
           "date": "2026-11-16T09:13:24+00:00",
           "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
           "summary": "Ahead of Formnext 2026, John Robinson explains why the University of Wolverhampton is investing in laser beam shaping, how silver jewellery led him into electronics cooling, and…"
-        },
-        {
-          "title": "UK Additive Manufacturing: Hydra Manufacturing teaches a ceramic 3D printer to repair its own mistakes",
-          "link": "https://3dprintingindustry.com/news/uk-additive-manufacturing-hydra-manufacturing-teaches-a-ceramic-3d-printer-to-repair-its-own-mistakes-256744/?utm_source=rss&utm_medium=rss&utm_campaign=uk-additive-manufacturing-hydra-manufacturing-teaches-a-ceramic-3d-printer-to-repair-its-own-mistakes",
-          "date": "2026-11-16T09:04:52+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "The University of Leeds spin-out sold its first machine a week after incorporation. Ahead of Formnext 2026, chief executive Louis Masters explains why the route to its next sale…"
-        },
-        {
-          "title": "UK Additive Manufacturing: Cambridge Sensotec on ensuring consistent component quality through measurement",
-          "link": "https://3dprintingindustry.com/news/uk-additive-manufacturing-cambridge-sensotec-on-ensuring-consistent-component-quality-through-measurement-256739/?utm_source=rss&utm_medium=rss&utm_campaign=uk-additive-manufacturing-cambridge-sensotec-on-ensuring-consistent-component-quality-through-measurement",
-          "date": "2026-11-16T08:53:38+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "As the UK takes its place as Partner Nation at Formnext 2026, Cambridge Sensotec’s Mike Parish explains how a British gas analyser earns its place inside a metal 3D printer, why…"
-        },
-        {
-          "title": "UK Additive Manufacturing: Inside the channel: how Holdson polishes metal 3D printed parts",
-          "link": "https://3dprintingindustry.com/news/uk-additive-manufacturing-inside-the-channel-how-holdson-polishes-metal-3d-printed-parts-256736/?utm_source=rss&utm_medium=rss&utm_campaign=uk-additive-manufacturing-inside-the-channel-how-holdson-polishes-metal-3d-printed-parts",
-          "date": "2026-11-16T08:44:31+00:00",
-          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
-          "summary": "UK additive manufacturing series. Ahead of Formnext 2026, Paul Tickle explains how a Cummins turbocharger project gave a West Yorkshire machine builder a business in finishing the…"
         }
       ],
       "ok": true,
@@ -580,6 +580,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+          "date": "2026-11-17T05:05:00+00:00",
+          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
+        },
+        {
+          "title": "Tossing Fireworks from Cloud to Cloud",
+          "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+          "date": "2026-11-17T05:01:00+00:00",
+          "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station."
+        },
+        {
+          "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+          "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+          "date": "2026-11-16T23:12:45+00:00",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg?w=1588&#038;h=1200&#038;fit=clip",
+          "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust…"
+        },
+        {
           "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
           "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
           "date": "2026-11-16T22:05:23+00:00",
@@ -627,27 +648,6 @@
           "date": "2026-11-16T05:00:00+00:00",
           "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
           "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers."
-        },
-        {
-          "title": "Outbursts from a Massive Star",
-          "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-          "date": "2026-11-13T16:39:33+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048",
-          "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image…"
-        },
-        {
-          "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-          "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-          "date": "2026-11-13T16:05:54+00:00",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006",
-          "summary": "Astronauts James A. Lovell Jr. and Edwin E. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini…"
-        },
-        {
-          "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-          "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-          "date": "2026-11-13T05:05:00+00:00",
-          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&#038;h=1451&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-          "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the…"
         }
       ],
       "ok": true,
@@ -970,6 +970,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+          "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+          "date": "2026-11-17T08:00:00+00:00",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&amp;ssl=1",
+          "summary": "Daejeon, Republic of Korea &#8211; October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee…"
+        },
+        {
           "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
           "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
           "date": "2026-11-16T20:00:00+00:00",
@@ -1031,13 +1038,6 @@
           "date": "2026-11-10T08:01:39+00:00",
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&amp;ssl=1",
           "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch. The post ESCAPADE on its way to Mars after Earth flybys appeared first…"
-        },
-        {
-          "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-          "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
-          "date": "2026-11-09T14:00:00+00:00",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ccia-logo-square.png?fit=929%2C927&amp;ssl=1",
-          "summary": "Washington — The Computer &#38; Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining…"
         }
       ],
       "ok": true,
@@ -1204,6 +1204,13 @@
       "cat": "space",
       "items": [
         {
+          "title": "Ringing Black Holes Offer Precision Tests of Relativity",
+          "link": "https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity",
+          "date": "2026-11-17T04:40:38+00:00",
+          "image": "https://www.universetoday.com/article_images/Low-Res_ArtGw250114_Simonnet_960_20261117_043355.jpg",
+          "summary": "Black holes remain some of the most mysterious and awe-inspiring celestial objects ever studied. This primarily comes from the fact that they literally can’t be observed unless…"
+        },
+        {
           "title": "This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers",
           "link": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
           "date": "2026-11-16T21:11:30+00:00",
@@ -1265,13 +1272,6 @@
           "date": "2026-11-13T21:30:58+00:00",
           "image": "https://www.universetoday.com/article_images/image_9980e-LOFAR-Galaxies_20261113_212839.jpg",
           "summary": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio…"
-        },
-        {
-          "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
-          "link": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
-          "date": "2026-11-13T17:51:07+00:00",
-          "image": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
-          "summary": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl,…"
         }
       ],
       "ok": true,
@@ -1403,6 +1403,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "The sun, Earth, Jupiter and white dwarfs: Potential traps for dark matter",
+          "link": "https://phys.org/news/2026-11-sun-earth-jupiter-white-dwarfs.html",
+          "date": "2026-11-17T05:00:01+00:00",
+          "image": null,
+          "summary": "Dark matter continues to evade direct detection. Its slower-moving particles might leave signals too faint for detectors to register, yet be more easily captured by planets and…"
+        },
+        {
+          "title": "Baby, she's back: SpaceX catches a Starship from orbit for first time",
+          "link": "https://phys.org/news/2026-11-baby-spacex-starship-orbit.html",
+          "date": "2026-11-17T01:40:01+00:00",
+          "image": null,
+          "summary": "SpaceX brought back its Starship rocket's second stage today for a first-ever midair capture at its launch pad, capping a record-setting orbital flight test."
+        },
+        {
+          "title": "Early black holes may have grown through productive chaos",
+          "link": "https://phys.org/news/2026-11-early-black-holes-grown-productive.html",
+          "date": "2026-11-17T01:00:05+00:00",
+          "image": null,
+          "summary": "When the universe was less than 700 million years old, the supermassive black hole powering a quasar called J0313-1806 had already grown to about 3 billion times the mass of the…"
+        },
+        {
           "title": "Euclid's H-alpha observations map where stars form in distant galaxies",
           "link": "https://phys.org/news/2026-11-euclid-alpha-stars-distant-galaxies.html",
           "date": "2026-11-16T23:40:07+00:00",
@@ -1450,27 +1471,6 @@
           "date": "2026-11-16T01:30:01+00:00",
           "image": null,
           "summary": "From a naked-eye perspective, stars are stable and predictable. Not much goes on but shining. The sun itself is fairly plain and nondescript and will shine relatively steadily for…"
-        },
-        {
-          "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
-          "link": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
-          "date": "2026-11-15T20:00:01+00:00",
-          "image": null,
-          "summary": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter."
-        },
-        {
-          "title": "New observations challenge evidence for an 'outsize' black hole in the early universe",
-          "link": "https://phys.org/news/2026-11-evidence-outsize-black-hole-early.html",
-          "date": "2026-11-15T14:00:04+00:00",
-          "image": null,
-          "summary": "A recent reanalysis of the outsize black hole galaxy UHZ1 using existing X-ray data and new infrared observations challenges a previous groundbreaking claim. Three years ago, this…"
-        },
-        {
-          "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-          "link": "https://phys.org/news/2026-11-spacex-starship-orbit-captured-pad.html",
-          "date": "2026-11-15T13:06:43+00:00",
-          "image": null,
-          "summary": "SpaceX's Starship made a triumphant return to Earth on Saturday, caught in midair by giant mechanical arms where its journey began 22 hours earlier."
         }
       ],
       "ok": true,
@@ -1566,6 +1566,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "30 Years Later, One of the Greatest ‘X-Files’ Episodes is Still a Misunderstood Masterpiece",
+          "link": "https://www.polygon.com/x-files-musings-of-a-cigarette-smoking-man/",
+          "date": "2026-11-17T05:01:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/tsdxfil_fe029.jpg",
+          "summary": "“Musings of a Cigarette Smoking Man” is a classic X-Files epsiode that many fans misunderstand"
+        },
+        {
+          "title": "GTA 6 release time in your time zone",
+          "link": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/",
+          "date": "2026-11-17T05:01:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
+          "summary": "This guide explains exactly when Grand Theft Auto 6 will be released in different time zones, along with details on how to preload."
+        },
+        {
+          "title": "How to play GTA 6 early using the 'New Zealand trick'",
+          "link": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-how-to-play-early/",
+          "date": "2026-11-17T05:01:18+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-new-zealand-trick-header.jpg",
+          "summary": "This guide explains how to play Grand Theft Auto 6 as early as possible, by changing the time and date on your console to the New Zealand timezone."
+        },
+        {
           "title": "'Avengers: Doomsday' Star Says He Was Lied to About His Next Big Role",
           "link": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12/",
           "date": "2026-11-17T00:00:17+00:00",
@@ -1613,27 +1634,6 @@
           "date": "2026-11-16T20:00:24+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-matt-damon.jpg",
           "summary": "The Odyssey's effects team reveals how silicone, magnets, and Samantha Morton's performance brought a disturbing transformation to life."
-        },
-        {
-          "title": "Marvel’s Newest Superhero Was Created to Solve a Major Magic: The Gathering Problem",
-          "link": "https://www.polygon.com/mtg-marvel-darkhold-destiny-fraxi-scion-of-yggdrasil-spoilers/",
-          "date": "2026-11-16T19:27:44+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tribute-to-the-world-tree-art.webp",
-          "summary": "Magic: The Gathering designer Aaron Forsythe explains why Marvel’s new hero was created to fix an ongoing problem with Universes Beyond."
-        },
-        {
-          "title": "Nintendo Fans Blast New Switch 2 Release as ‘Paid Downgrade’",
-          "link": "https://www.polygon.com/pikmin-4-nintendo-switch-2-release-controversy/",
-          "date": "2026-11-16T19:17:39+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikmin-4-screenshot-16-9.jpg",
-          "summary": "Pikmin 4 fans are not impressed with the game’s Switch 2 upgrade, Dandori Academy."
-        },
-        {
-          "title": "Obsession Director Officially Casts Horror Icon in Next Film",
-          "link": "https://www.polygon.com/obsession-director-curry-barker-anything-but-ghosts-matthew-lillard/",
-          "date": "2026-11-16T19:08:35+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/xi56blqs_o-1.jpg",
-          "summary": "Obsession director Curry Barker has cast horror icon and Scream star Matthew Lillard in his next film, Anything but Ghosts."
         }
       ],
       "ok": true,
@@ -2038,7 +2038,7 @@
           "link": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
           "date": "2026-11-16T23:57:43+00:00",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Black-Friday-Sale_MSOX_Spotlight_A_1136x639_01-1-bf7d714987d24723f754-1024x576.jpg",
-          "summary": "The best time to grab a gift for gamers is launching on November 19. During our Black Friday sale, save up to 80% on select XBOX and PC games, and check out discounts on select…"
+          "summary": "The best time to grab a gift for gamers is launching on November 19 at 9 PM PST. During our Black Friday sale, save up to 80% on select XBOX and PC games, and check out discounts…"
         },
         {
           "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX",
@@ -2112,6 +2112,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+          "link": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
+          "date": "2026-11-17T07:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/Jason_and_Lucia_20.0cd~.c7jr~5g9_ZsIyOIo.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "GTA 6 preorders are from archetypal, high-spending console gamers, overwhelmingly male, and most have a history of spending on the franchise, according to data from Newzoo shared…"
+        },
+        {
+          "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+          "link": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+          "date": "2026-11-17T01:00:00+00:00",
+          "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "summary": "Sensor Tower estimates Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue , with 87% of orders for the Ultimate Edition. Read more"
+        },
+        {
           "title": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks",
           "link": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
           "date": "2026-11-16T20:05:40+00:00",
@@ -2166,20 +2180,6 @@
           "date": "2026-11-13T13:42:30+00:00",
           "image": "https://assetsio.gnwcdn.com/towfiqu-barbhuiya-xkArbdUcUeE-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
           "summary": "When a draft of the European Commission's Digital Fairness Act leaked earlier this week, some industry reactions had a distinctly end-of-days flavour. The official responses now…"
-        },
-        {
-          "title": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-          "link": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
-          "date": "2026-11-13T12:04:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/IMG_8131-(1).jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "GamesIndustry.biz attended the AI and Games Conference in London this week, where a publisher and investor panel discussed the problems and opportunities of AI when it comes to…"
-        },
-        {
-          "title": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
-          "link": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-          "date": "2026-11-13T12:00:00+00:00",
-          "image": "https://assetsio.gnwcdn.com/adi_screenshotnew_05_pc.jpg.webp?width=690&quality=85&format=jpg&auto=webp",
-          "summary": "Several indie developers have had to postpone their game launches due to delays in Steam's game submission and approval process. Read more"
         }
       ],
       "ok": true,
@@ -2346,6 +2346,41 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "NVIDIA speeds up cell analysis 900x, cuts black-hole data correlation to 8 minutes",
+          "link": "https://interestingengineering.com/ai-robotics/nvidia-scientific-agents-research-tools",
+          "date": "2026-11-17T03:42:24+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/nvidia-nemotron-for-science.jpg",
+          "summary": "NVIDIA is combining open models designed for scientific research with expanded GPU-accelerated computing libraries to..."
+        },
+        {
+          "title": "Runway-free autonomous cargo aircraft carries 550 pounds without a pilot onboard",
+          "link": "https://interestingengineering.com/military/autonomous-cargo-evtol-550-pound-payload",
+          "date": "2026-11-17T03:38:06+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-17T081417.155.jpg",
+          "summary": "An autonomous electric aircraft designed to move heavy cargo is heading to the United States..."
+        },
+        {
+          "title": "NVIDIA claims 13,000x faster decoding for practical quantum computing research",
+          "link": "https://interestingengineering.com/science/nvidia-quantum-error-correction-decoding-breakthrough",
+          "date": "2026-11-17T03:00:28+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/ibm-nvidia-fermilab.jpeg",
+          "summary": "NVIDIA has introduced a new quantum error-correction decoding algorithm that it says can accelerate research..."
+        },
+        {
+          "title": "Oak Ridge’s Lux supercomputer breaks into world’s top 15 to advance US Genesis Mission",
+          "link": "https://interestingengineering.com/science/lux-supercomputer-genesis-mission-research",
+          "date": "2026-11-17T02:10:49+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/lux-supercomputer.jpg",
+          "summary": "A new supercomputer at Oak Ridge National Laboratory (ORNL) has entered the world&#8217;s top 15,..."
+        },
+        {
+          "title": "US’ uncrewed warfare capabilities to get boost with robotic vehicle that offers 5,000-lb payload capacity",
+          "link": "https://interestingengineering.com/military/us-uncrewed-warfare-robotic-vehicle",
+          "date": "2026-11-17T00:35:13+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/battle-vehicle.jpg",
+          "summary": "The U.S. Marine Corps is set to get increased uncrewed warfare capabilities. The U.S. Marine..."
+        },
+        {
           "title": "United Airlines system outage disrupts departures, leaving 418 flights delayed",
           "link": "https://interestingengineering.com/transportation/united-airlines-system-outage-flight-delays",
           "date": "2026-11-16T23:28:08+00:00",
@@ -2379,41 +2414,6 @@
           "date": "2026-11-16T20:13:08+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/GettyImages-2273365086.jpg",
           "summary": "Thousands of customers across U.S. reported difficulty accessing online accounts at JPMorgan Chase, Bank of..."
-        },
-        {
-          "title": "Massive 262.5 MWh battery with 42 containers could power 21,000 homes for hours",
-          "link": "https://interestingengineering.com/energy/massive-battery-power-grid-hours",
-          "date": "2026-11-16T19:41:09+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/lfojkozke30.jpg",
-          "summary": "German energy giant RWE has just broken ground on a colossal 262.5-megawatt-hour (MWh) battery that..."
-        },
-        {
-          "title": "Researchers develop AI that gives virtual characters human-like gestures as they speak",
-          "link": "https://interestingengineering.com/ai-robotics/ai-animation-speech-facial-expressions",
-          "date": "2026-11-16T19:33:58+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/IE-ABxKK-19.jpg",
-          "summary": "Characters may be able to pronounce each word correctly but may appear to lack realism..."
-        },
-        {
-          "title": "Samsung to supply 16 GWh of LFP batteries to US energy giant for grid storage",
-          "link": "https://interestingengineering.com/energy/samsung-lfp-batteries-grid-storage",
-          "date": "2026-11-16T19:09:27+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/goiecsxovqe_e60622.jpg",
-          "summary": "South Korean battery manufacturer Samsung SDI has secured a massive order to supply 16 gigawatt-hours..."
-        },
-        {
-          "title": "US FAA plans network maintenance review following nationwide flight disruption",
-          "link": "https://interestingengineering.com/transportation/faa-router-copper-fiber-upgrade",
-          "date": "2026-11-16T19:02:27+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/2020_Dulles_International_Airport_03.jpg",
-          "summary": "The Transportation Department said Nov. 14 that a router swap during a copper-to-fiber upgrade may..."
-        },
-        {
-          "title": "Cobalt-free battery reaches 278.6 Wh/kg at -4°F with a four-element cathode design",
-          "link": "https://interestingengineering.com/science/china-cobalt-nickel-cathode-dopant-descriptors",
-          "date": "2026-11-16T19:00:09+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Lithium_Iron_Phosphate_LiFePO4_Cells_700_Ah_Amp_Hours_3.25_Volts_-_2.jpg",
-          "summary": "Researchers at the Institute of Metal Research, part of the Chinese Academy of Sciences, picked..."
         }
       ],
       "ok": true,
