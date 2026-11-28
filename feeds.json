@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T22:31:44.345182+00:00",
+  "updated": "2026-11-28T04:35:28.815361+00:00",
   "feeds": [
     {
       "name": "BMW Group PressClub",
@@ -415,7 +415,78 @@
     {
       "name": "3D Printing Industry",
       "cat": "automotive",
-      "items": [],
+      "items": [
+        {
+          "title": "SINTX Completes 3D Printing Facility for Patient-Specific Silicon Nitride-PEEK Implants",
+          "link": "https://3dprintingindustry.com/news/sintx-completes-3d-printing-facility-for-patient-specific-silicon-nitride-peek-implants-257435/?utm_source=rss&utm_medium=rss&utm_campaign=sintx-completes-3d-printing-facility-for-patient-specific-silicon-nitride-peek-implants",
+          "date": "2026-11-27T08:13:22+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "SINTX Technologies, a silicon nitride biomaterials developer based in Salt Lake City, Utah, has finished building its additive manufacturing (AM) facility and received its EXT-220…"
+        },
+        {
+          "title": "Eplus3D Launches 16-Laser EP-M550L Metal 3D Printer: Technical Specifications and Pricing",
+          "link": "https://3dprintingindustry.com/news/eplus3d-launches-16-laser-ep-m550l-metal-3d-printer-technical-specifications-and-pricing-257445/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-launches-16-laser-ep-m550l-metal-3d-printer-technical-specifications-and-pricing",
+          "date": "2026-11-27T07:16:19+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Hangzhou-based Eplus3D has introduced the EP-M550L Production-Ready Automation Line, a metal additive manufacturing (metal AM) system based on powder bed fusion (PBF) that can…"
+        },
+        {
+          "title": "Horizon Microtechnologies Seeks Satellite Parts for Metallized 3D Printing",
+          "link": "https://3dprintingindustry.com/news/horizon-microtechnologies-seeks-satellite-parts-for-metallized-3d-printing-257453/?utm_source=rss&utm_medium=rss&utm_campaign=horizon-microtechnologies-seeks-satellite-parts-for-metallized-3d-printing",
+          "date": "2026-11-27T07:10:52+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Horizon Microtechnologies is inviting companies across the space sector to propose new applications for its high-volume polymer 3D printing and metallization technology. The call…"
+        },
+        {
+          "title": "Sturdy Cycles Moves Titanium Frame Junctions from 3D Printing to In-House CNC Machining",
+          "link": "https://3dprintingindustry.com/news/sturdy-cycles-moves-titanium-frame-junctions-from-3d-printing-to-in-house-cnc-machining-257466/?utm_source=rss&utm_medium=rss&utm_campaign=sturdy-cycles-moves-titanium-frame-junctions-from-3d-printing-to-in-house-cnc-machining",
+          "date": "2026-11-27T06:53:34+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "UK titanium bicycle manufacturer Sturdy Cycles has replaced the 3D printed titanium junctions and components of its earlier frames with CNC-machined parts made in-house at its…"
+        },
+        {
+          "title": "Snapmaker U1 Brings Purge-Free, Four-Toolhead Printing to the Desktop for Under $900",
+          "link": "https://3dprintingindustry.com/news/snapmaker-u1-brings-purge-free-four-toolhead-printing-to-the-desktop-for-under-900-257284/?utm_source=rss&utm_medium=rss&utm_campaign=snapmaker-u1-brings-purge-free-four-toolhead-printing-to-the-desktop-for-under-900",
+          "date": "2026-11-26T14:11:34+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "In this article, we review the Snapmaker U1, a CoreXY FFF four-toolhead changer which swaps entire hotends rather than purging filament through a single nozzle. Shenzhen-based…"
+        },
+        {
+          "title": "WAAM3D upgrades MiniWAAM with dual-wire feeding as standard for multi-material metal parts",
+          "link": "https://3dprintingindustry.com/news/waam3d-upgrades-miniwaam-with-dual-wire-feeding-as-standard-for-multi-material-metal-parts-257404/?utm_source=rss&utm_medium=rss&utm_campaign=waam3d-upgrades-miniwaam-with-dual-wire-feeding-as-standard-for-multi-material-metal-parts",
+          "date": "2026-11-26T13:52:11+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "WAAM3D, the Milton Keynes-based supplier of wire arc additive manufacturing (WAAM) systems, has upgraded its MiniWAAM platform, making dual-wire feeding a standard feature.…"
+        },
+        {
+          "title": "OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections",
+          "link": "https://3dprintingindustry.com/news/octoprint-2-0-0-adds-plugin-route-to-bambu-lab-printers-after-years-of-serial-only-connections-257408/?utm_source=rss&utm_medium=rss&utm_campaign=octoprint-2-0-0-adds-plugin-route-to-bambu-lab-printers-after-years-of-serial-only-connections",
+          "date": "2026-11-26T11:43:21+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "OctoPrint, the free and open software for controlling 3D printers, has released version 2.0.0. Until now, OctoPrint connected to printers through a serial connection. With the new…"
+        },
+        {
+          "title": "JATEC Project Targets 3D Printing for Drone Repair and Component Supply",
+          "link": "https://3dprintingindustry.com/news/jatec-project-targets-3d-printing-for-drone-repair-and-component-supply-257213/?utm_source=rss&utm_medium=rss&utm_campaign=jatec-project-targets-3d-printing-for-drone-repair-and-component-supply",
+          "date": "2026-11-25T20:00:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "The NATO-Ukraine Joint Analysis, Training and Education Centre (JATEC) is running a project to develop additive manufacturing (AM) systems for unmanned aerial vehicles (UAVs),…"
+        },
+        {
+          "title": "Rapid Fusion and LEAM Co-Design Heated Nozzle to Print Certified PEEK and PEI at Large Scale",
+          "link": "https://3dprintingindustry.com/news/rapid-fusion-and-leam-co-design-heated-nozzle-to-print-certified-peek-and-pei-at-large-scale-257219/?utm_source=rss&utm_medium=rss&utm_campaign=rapid-fusion-and-leam-co-design-heated-nozzle-to-print-certified-peek-and-pei-at-large-scale",
+          "date": "2026-11-25T19:00:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Rapid Fusion, based in Exeter in the UK, and German company LEAM announced Prometheus at Formnext. It is a robotic cell for large-format additive manufacturing (LFAM) designed to…"
+        },
+        {
+          "title": "After Demonstrator Flights, AFRL Exercises $10.9M Option on Ursa Major’s Draper Hypersonic Engine",
+          "link": "https://3dprintingindustry.com/news/after-demonstrator-flights-afrl-exercises-10-9m-option-on-ursa-majors-draper-hypersonic-engine-257224/?utm_source=rss&utm_medium=rss&utm_campaign=after-demonstrator-flights-afrl-exercises-10-9m-option-on-ursa-majors-draper-hypersonic-engine",
+          "date": "2026-11-25T18:00:00+00:00",
+          "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/favicon.ico",
+          "summary": "Ursa Major, a weapons and space systems company based in Berthoud, Colorado, will keep developing its Draper engine after the Air Force Research Laboratory (AFRL) exercised a…"
+        }
+      ],
       "ok": true,
       "from_cache": false
     },
@@ -1133,6 +1204,27 @@
       "cat": "space",
       "items": [
         {
+          "title": "Nuclear Pathfinder Mission To Ceres Would Usher In Era Of Interplanetary Transport",
+          "link": "https://www.universetoday.com/articles/nuclear-pathfinder-mission-to-ceres-would-usher-in-era-of-interplanetary-transport",
+          "date": "2026-11-28T04:12:20+00:00",
+          "image": "https://www.universetoday.com/article_images/Ceres_wp201704.jpg",
+          "summary": "The dwarf planet Ceres, the first object discovered in the Main Asteroid Belt, could play a revolutionary role in opening the outer solar system to a faster, cheaper means of…"
+        },
+        {
+          "title": "All the Gaps We See in Protoplanetary Disks Aren't From Planets",
+          "link": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+          "date": "2026-11-27T22:54:51+00:00",
+          "image": "https://www.universetoday.com/article_images/20261124_Yamaguchi_Fig.1_20261126_235908.jpg",
+          "summary": "Astronomers have observed dozens of protoplanetary disks around young stars. ALMA has proven to be especially effective at this task. It's found rings and gaps, and they signify…"
+        },
+        {
+          "title": "The ESO is Deeply Concerned About Space Data Centers, and the Rest of Us Should Be Too",
+          "link": "https://www.universetoday.com/articles/the-eso-is-deeply-concerned-about-space-data-centers-and-the-rest-of-us-should-be-too",
+          "date": "2026-11-27T22:51:28+00:00",
+          "image": "https://www.universetoday.com/article_images/eso2607a_20261127_194910.jpg",
+          "summary": "The European Southern Observatory has expressed its dismay at the approval of SpaceX's satellite AI system. The system, called Starmind, calls for another 1 million satellites in…"
+        },
+        {
           "title": "Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?",
           "link": "https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both",
           "date": "2026-11-27T12:41:18+00:00",
@@ -1180,27 +1272,6 @@
           "date": "2026-11-26T13:31:00+00:00",
           "image": "https://www.universetoday.com/article_images/lola_sp.0570_print_20261126_133034.jpg",
           "summary": "One of the most prominent features on the Moon is one we can’t regularly see, at least not completely. The South Pole-Aitken (SPA) basin is one of the largest, oldest, and deepest…"
-        },
-        {
-          "title": "Universe Today's AI Policy",
-          "link": "https://www.universetoday.com/articles/universe-todays-ai-policy",
-          "date": "2026-11-26T09:45:00+00:00",
-          "image": "https://www.universetoday.com/article_images/made-by-humans_20261126_094532.png",
-          "summary": "AI is everywhere. But is it here, inside Universe Today right now? Here's a rant, loosely disguised as a policy, that's really just a pity party."
-        },
-        {
-          "title": "Euclid's Record-Setting Quasar Probes Black Hole Formation",
-          "link": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
-          "date": "2026-11-25T23:04:11+00:00",
-          "image": "https://www.universetoday.com/article_images/quasar_illustration_20261125_174042.jpg",
-          "summary": "The ESA's Euclid Space Telescope has found a record-setting quasar. Euclid found it at redshift z=8.13, corresponding to about 630 million years after the Big Bang. It beats the…"
-        },
-        {
-          "title": "Study Finds Artemis Astronauts Will Enjoy Moon-Grown Potatoes",
-          "link": "https://www.universetoday.com/articles/study-finds-artemis-astronauts-will-enjoy-moon-grown-potatoes",
-          "date": "2026-11-25T22:53:09+00:00",
-          "image": "https://www.universetoday.com/article_images/lunartaters_20261125_224441.jpg",
-          "summary": "Researchers have shown that potatoes grown in simulated lunar soil fortified with organic matter are safe to eat and can achieve growth and yields comparable to those produced on…"
         }
       ],
       "ok": true,
@@ -1332,6 +1403,20 @@
       "cat": "space",
       "items": [
         {
+          "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+          "link": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+          "date": "2026-11-28T02:40:01+00:00",
+          "image": null,
+          "summary": "The Event Horizon Telescope (EHT), a massive international collaboration of scientists and radio observatories, is like the gift that keeps on giving. In 2019, the EHT…"
+        },
+        {
+          "title": "Should space data centers run on solar panels, nuclear reactors or both?",
+          "link": "https://phys.org/news/2026-11-space-centers-solar-panels-nuclear.html",
+          "date": "2026-11-28T01:40:01+00:00",
+          "image": null,
+          "summary": "The last few days we've been covering a series of papers by Dr. Slava Turyshev of NASA's Jet Propulsion Laboratory about the constraints surrounding the use of orbital data…"
+        },
+        {
           "title": "Strawberries, cucumbers and lemon basil show promise for future moon and Mars menus",
           "link": "https://phys.org/news/2026-11-strawberries-cucumbers-lemon-basil-future.html",
           "date": "2026-11-27T21:00:01+00:00",
@@ -1386,20 +1471,6 @@
           "date": "2026-11-27T15:10:32+00:00",
           "image": null,
           "summary": "In the cold, dark Kuiper belt region beyond Neptune, some icy bodies travel on steeply tilted paths, while others stay far from the giant planets even at their closest approach to…"
-        },
-        {
-          "title": "The first flash of a dying star can reveal its hidden surroundings",
-          "link": "https://phys.org/news/2026-11-dying-star-reveal-hidden.html",
-          "date": "2026-11-27T14:20:01+00:00",
-          "image": null,
-          "summary": "When a massive star dies, the universe does not always announce it with the familiar, slowly expanding glow of a supernova. Its very first signal can be a dazzling, short-lived…"
-        },
-        {
-          "title": "A small galaxy's giant dark matter core challenges the standard cosmological model",
-          "link": "https://phys.org/news/2026-11-small-galaxy-giant-dark-core.html",
-          "date": "2026-11-27T13:40:10+00:00",
-          "image": null,
-          "summary": "New findings show that a nearby dwarf galaxy, UGCA 320, may challenge some predictions of the widely accepted cosmological model of the universe. By combining observations from…"
         }
       ],
       "ok": true,
@@ -1495,6 +1566,27 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "8 Classic PlayStation Games That Are Barely Playable Today",
+          "link": "https://www.polygon.com/classic-playstation-games-unplayable-today/",
+          "date": "2026-11-28T03:31:15+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/alexander-tsang-0mh975pyn9c-unsplash.jpg",
+          "summary": "From Tomb Raider to Silent Hill, eight classic PlayStation games whose tank controls, cameras, or lost code make them hard to play today"
+        },
+        {
+          "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+          "link": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-27-dec-3/",
+          "date": "2026-11-28T03:14:12+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tony-hawk-pro-skater-3-4.jpg",
+          "summary": "Check out the free games you can try out this week across all digital platforms."
+        },
+        {
+          "title": "63 Years Later, CBS's Legendary 70-Episode Series Still Has the Only Vampire Worth Watching",
+          "link": "https://www.polygon.com/the-only-vampire-i-care-about-is-grandpa-munster/",
+          "date": "2026-11-28T02:00:17+00:00",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-25-at-3-48-02-pm.jpg",
+          "summary": "The 1964 sitcom The Munsters is still a comey classic, with Grandpa Munster as its funniest character. Here are the five best epsiodes."
+        },
+        {
           "title": "It’s Officially the End of an Era for HBO’s The Last of Us",
           "link": "https://www.polygon.com/the-last-of-us-season-3-end-finale-hbo-2027/",
           "date": "2026-11-27T22:31:19+00:00",
@@ -1542,27 +1634,6 @@
           "date": "2026-11-27T20:04:19+00:00",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/thor-steve-rogers-doomsday.jpeg",
           "summary": "Two new Avengers: Doomsday TV spots were released this week, offering fans brief new glimpses at the upcoming Marvel movie."
-        },
-        {
-          "title": "Brainwashing Easter egg walkthrough in GTA 6",
-          "link": "https://www.polygon.com/gta-6-brainwashing-president-easter-egg-walkthrough/",
-          "date": "2026-11-27T20:02:54+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_killthepresident_lead1.jpg",
-          "summary": "Here's how to start the brainwashing Easter egg mission in GTA 6 and learn the secrets behind President Russo."
-        },
-        {
-          "title": "Black Friday 2026's 10 Best Magic: The Gathering Deals",
-          "link": "https://www.polygon.com/mtg-best-black-friday-2026-magic-the-gathering-deals/",
-          "date": "2026-11-27T19:43:24+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/lessons-from-life-mtg-tmnt.png",
-          "summary": "Whether you're looking for a Commander deck or just some packs to rip, these are the best deals out there."
-        },
-        {
-          "title": "GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In",
-          "link": "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/",
-          "date": "2026-11-27T18:56:45+00:00",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-dancing.jpg",
-          "summary": "Grand Theft Auto 6's week-one sales estimated at 53 million copies, with PS5 taking the lion’s share thanks to marketing deal with Rockstar"
         }
       ],
       "ok": true,
@@ -1807,6 +1878,20 @@
       "cat": "gaming",
       "items": [
         {
+          "title": "The better version of the wireless headset I love is $40 off right now",
+          "link": "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now/",
+          "date": "2026-11-28T00:01:20+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/Sgr68m5qxQMQJ9B7MEpmff-1920-80.jpg",
+          "summary": "I don't see much talk about Sony's new-ish gaming cans, but they're quite good."
+        },
+        {
+          "title": "The canonical USB microphone is still great, and now a total steal for $70",
+          "link": "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70/",
+          "date": "2026-11-27T23:00:01+00:00",
+          "image": "https://cdn.mos.cms.futurecdn.net/waZN5RLNs9mBjFKj4XjXce-1920-80.jpg",
+          "summary": "The Blue Yeti is a household name in microphones for a reason."
+        },
+        {
           "title": "All I want for Christmas is plastic crap based on Armored Core",
           "link": "https://www.pcgamer.com/games/action/all-i-want-for-christmas-is-plastic-crap-based-on-armored-core/",
           "date": "2026-11-27T22:24:20+00:00",
@@ -1861,20 +1946,6 @@
           "date": "2026-11-27T12:56:27+00:00",
           "image": "https://cdn.mos.cms.futurecdn.net/MXQhx7R8ygv6fnupdoTrFe-1920-80.jpg",
           "summary": "Music you can hold in your hands!"
-        },
-        {
-          "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
-          "link": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
-          "date": "2026-11-27T04:27:55+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/zACfHkjTkMyzJgkgp74vDA-1920-80.png",
-          "summary": "Turns out they weren't meant to be that hard to kill after all."
-        },
-        {
-          "title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
-          "link": "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/",
-          "date": "2026-11-27T01:39:07+00:00",
-          "image": "https://cdn.mos.cms.futurecdn.net/JGWhX4ciZicn3CD8dUR8g-1920-80.jpg",
-          "summary": "Just think what you'll be able to do with those extra 156 KB they're freeing up."
         }
       ],
       "ok": true,
@@ -2275,6 +2346,55 @@
       "cat": "engineering",
       "items": [
         {
+          "title": "Russia puts 13,800-ton nuclear submarine with hypersonic Zircon missiles into service",
+          "link": "https://interestingengineering.com/military/russia-perm-nuclear-submarine-zircon-hypersonic-missiles",
+          "date": "2026-11-28T04:01:23+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/russian-submarine.jpg",
+          "summary": "Russia has formally commissioned its Perm nuclear-powered submarine, which Moscow says is the first multipurpose..."
+        },
+        {
+          "title": "Idle gas compressor stations to transform into 400 MW power plants for data centers",
+          "link": "https://interestingengineering.com/energy/gazprom-idle-gas-facilities-power-plants-data-center",
+          "date": "2026-11-28T03:56:27+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-43.jpg",
+          "summary": "Russia could turn underused natural gas infrastructure into a new source of electricity. Gazprom plans..."
+        },
+        {
+          "title": "China debuts world’s largest 300-ton electric crawler crane with 400-kWh battery",
+          "link": "https://interestingengineering.com/innovation/zoomlion-electric-crawler-crane-400-kwh-battery",
+          "date": "2026-11-28T03:54:27+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-42.jpg",
+          "summary": "Zoomlion has introduced what it calls the world&#8217;s largest 300-ton distributed electric-drive crawler crane, bringing..."
+        },
+        {
+          "title": "Salt-lake water powers zinc battery through 900 cycles at -58°F with 80% capacity",
+          "link": "https://interestingengineering.com/energy/zinc-battery-salt-lake-water-minus-58-degrees",
+          "date": "2026-11-28T03:48:32+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-44.jpg",
+          "summary": "Water-based batteries offer a potentially simpler approach to energy storage, but freezing temperatures can limit..."
+        },
+        {
+          "title": "ITER completes tightest tokamak lift yet, lows 1,400-tonne load with 5 cm to spare",
+          "link": "https://interestingengineering.com/energy/iter-seventh-tokamak-module-installation-5cm-clearance",
+          "date": "2026-11-28T02:29:15+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/07.-descent-begins.jpg",
+          "summary": "The International Thermonuclear Experimental Reactor (ITER) project in France has installed its seventh tokamak sector..."
+        },
+        {
+          "title": "400-plus CV90 infantry fighting vehicles pack upgraded digital combat technology",
+          "link": "https://interestingengineering.com/military/cv90-fighting-vehicle-digital-protection-upgrades",
+          "date": "2026-11-27T23:51:10+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-41.jpg",
+          "summary": "Five European nations are joining forces to acquire more than 400 infantry fighting vehicles (IFVs)..."
+        },
+        {
+          "title": "79% efficient solar panel stays 28°F cooler under intense sunlight with microchannel pipe",
+          "link": "https://interestingengineering.com/energy/79-efficient-solar-panel-stays-28f-cooler",
+          "date": "2026-11-27T23:07:57+00:00",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Solar-panels-mounted-on-a-roof-top.-Representational.jpg",
+          "summary": "​Researchers from the University of Nottingham in the UK and Shandong Jianzhu University in China..."
+        },
+        {
           "title": "One man, traffic cones and 30 egg attacks expose unusual weakness in Waymo’s robotaxis",
           "link": "https://interestingengineering.com/transportation/waymo-robotaxis-traffic-cone-egg-attacks",
           "date": "2026-11-27T22:16:48+00:00",
@@ -2294,55 +2414,6 @@
           "date": "2026-11-27T19:32:36+00:00",
           "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-39.jpg",
           "summary": "A cyberattack targeting the US Air Force&#8217;s cloud infrastructure has raised concerns about potential exposure..."
-        },
-        {
-          "title": "DragonFire laser eyes Army role after Royal Navy trials against 404 mph drones",
-          "link": "https://interestingengineering.com/military/uk-army-land-dragonfire-naval-trial",
-          "date": "2026-11-27T19:10:46+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/dragonfire-laser-system.jpg",
-          "summary": "As well as at sea, Britain is looking into whether DragonFire can be deployed on..."
-        },
-        {
-          "title": "Electric motorcoach combines 450 kW motors with 459 kWh of Volvo battery power",
-          "link": "https://interestingengineering.com/transportation/electric-prevost-entry-zero-emission-motorcoach",
-          "date": "2026-11-27T18:26:54+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/IE-ABxKK-35.jpg",
-          "summary": "Prevost has introduced the H3-45 Electric in North America, marking the company&#8217;s first fully electric..."
-        },
-        {
-          "title": "9-billion-kWh reactor: China begins building new unit at Taishan nuclear plant",
-          "link": "https://interestingengineering.com/energy/9-billion-kwh-reactor-china",
-          "date": "2026-11-27T17:44:14+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Ongoing-Phase-2-construction-at-Chinese-Tiashen-nuclear-power-plant.jpg",
-          "summary": "Chinese state-owned clean energy company China General Nuclear Power Corporation (CGN) has kick-started the second..."
-        },
-        {
-          "title": "US readies Cold War-era nuclear plant to unlock 22.8 tons of advanced reactor fuel",
-          "link": "https://interestingengineering.com/energy/us-readies-cold-war-era-nuclear-plant",
-          "date": "2026-11-27T17:37:01+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/ORNL_75593d.jpg",
-          "summary": "The US Department of Energy’s Savannah River Site (SRS) is ready to begin chemical and..."
-        },
-        {
-          "title": "Rafael showcases high-energy laser in action during joint US-Israel drone trials",
-          "link": "https://interestingengineering.com/military/rafael-showcases-high-energy-laser-action",
-          "date": "2026-11-27T17:13:35+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/qah2aj74uq.jpg",
-          "summary": "Israeli defense contractor Rafael Advanced Defense Systems has released new footage showing its high-energy laser..."
-        },
-        {
-          "title": "New 720-kWh batteries give electric buses 62 miles of extra range, longer lifespan",
-          "link": "https://interestingengineering.com/energy/80-kwh-electric-bus-batteries",
-          "date": "2026-11-27T16:26:33+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/he7clzc-nym_ac3de8.jpg",
-          "summary": "An Italian company has recently launched a new generation of nickel manganese cobalt (NMC) batteries..."
-        },
-        {
-          "title": "650 GW of power: Underwater tidal kite could unlock energy just 82 feet deep in sea",
-          "link": "https://interestingengineering.com/energy/underwater-tidal-kite-clean-power",
-          "date": "2026-11-27T16:02:00+00:00",
-          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/elqzlfox-ei.jpg",
-          "summary": "An underwater tidal energy kite has just received an upgrade that lets it generate electricity..."
         }
       ],
       "ok": true,
